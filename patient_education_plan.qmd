@@ -1,0 +1,32 @@
+---
+title: "Patient Education Plan"
+---
+
+```{mermaid}
+
+flowchart LR
+A[LCI Introduction] -->B(Esophageal Dx Staging)
+A-->C(Nutrition)
+C-->F(Gastric Dx Staging)
+B[Esophageal Dx Staging] -->D(Early Stage Eso)
+D-->G(Surgery)
+B--> E(Advanced Stage Eso)
+E--> H(Locally Advanced)
+E--> J(Metastatic)
+J--> K(CV Port)
+H --> G
+H--> K
+
+
+click B "https://www.github.com" "This is a tooltip for a link"
+click A "lci_intro_script.qmd"
+click C "docs/lci_intro_script.html"
+click D "lci_intro_script.html"
+click E "lci_intro_script.html/#title-slide"
+click F "docs/lci_intro_script.html/#title-slide"
+click G "eso_dx_staging.html/#title-slide"
+click G "eso_dx_staging.html/#title-slide"
+click G "eso_dx_staging.html/#title-slide"
+click G "eso_dx_staging.html/#title-slide"
+
+```

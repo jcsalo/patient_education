@@ -1,0 +1,16 @@
+---
+title: "Eso Adenocarcinoma Rx"
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1280
+    height: 720
+    logo: "atriumlogo.jpg"
+    footer: "[Patient Education](https://jcsalo.github.io/patient_education/)"
+    css: ["lci_styles.css"]
+    theme: default
+
+    echo: false
+editor: visual
+bibliography: zotero.bib
+---
