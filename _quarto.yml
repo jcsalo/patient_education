@@ -8,7 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: scripts.qmd
+        text: Scripts
       - href: slides.qmd
         text: Slides
       - href: https://www.youtube.com/channel/UC5Deez8jUMnLhcf72-cHA7Q

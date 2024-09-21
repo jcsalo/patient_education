@@ -1,0 +1,8 @@
+---
+title: "Scripts"
+output: html_document
+---
+
+[Introduction to LCI](lci_intro_script.qmd)
+
+[Eso Dx and Staging](eso_dx_staging_script.qmd)

@@ -2,8 +2,9 @@
 title: "slides"
 ---
 
-
 Videos are available on YouTube from Jonathan SaloMD: https://www.youtube.com/channel/UC5Deez8jUMnLhcf72-c
+
+Slides (to be used as )
 
 [LCI Introduction](lci_intro.qmd)
 
