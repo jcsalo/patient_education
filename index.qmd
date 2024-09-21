@@ -1,5 +1,5 @@
 ---
-title: "patient_education"
+title: "Patient Education"
 ---
 
 <br/>
@@ -8,10 +8,11 @@ title: "patient_education"
 
 ## Patient education resources for GI cancer patients
 
-### Esophageal Cancer
+### Gastroesophageal Cancer
 
 | Topic     | Slides | Handout | Video|
-| :----------- | :--------: |:------:| :------:|
+| :------ | :--------: |:------:| :------:|
+|LCI Introduction    |[Slides](slides/02-Eso_Dx_Staging.html)|[Handout](slides/02-Eso_Dx_Staging.pdf)|[Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
 |Diagnosis & Staging    |[Slides](slides/02-Eso_Dx_Staging.html)|[Handout](slides/02-Eso_Dx_Staging.pdf)|[Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
 |Your Cancer Care Team|  [Slides](slides/03-Eso_Care_Team.html)     |[Handout](slides/03-Eso_Care_Team.pdf)|[Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
 |Treatment Options|[Slides](slides/04-Eso_Rx_Options.html)|[Handout](slides/04-Eso_Rx_Options.pdf)|[Video](https://www.youtube.com/watch?v=Tk8cp3uL-lU)|

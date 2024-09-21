@@ -22,6 +22,8 @@ format:
     theme: default
     css: styles.css
     toc: true
+  pdf:
+    documentclass: scrartcl
 
 editor: visual
 
