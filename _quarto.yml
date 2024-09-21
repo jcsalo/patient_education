@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - slides.qmd
+      - href: slides.qmd
         text: Slides
       - href: https://www.youtube.com/channel/UC5Deez8jUMnLhcf72-cHA7Q
         text: YouTube
