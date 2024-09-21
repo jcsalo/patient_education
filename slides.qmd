@@ -6,5 +6,5 @@ Videos are available on YouTube from Jonathan SaloMD: https://www.youtube.com/ch
 
 Slides (to be used as )
 
-[LCI Introduction](lci_intro.qmd)
+[LCI Introduction](lci_intro_slides.qmd)
 
