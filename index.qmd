@@ -2,10 +2,29 @@
 title: "patient_education"
 ---
 
-This is a Quarto website.
+<br/>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<hr/>
 
-```{r}
-1 + 1
-```
+## Patient education resources for GI cancer patients
+
+### Esophageal Cancer
+
+| Topic     | Slides | Handout | Video|
+| :----------- | :--------: |:------:| :------:|
+|Diagnosis & Staging    |[Slides](slides/02-Eso_Dx_Staging.html)|[Handout](slides/02-Eso_Dx_Staging.pdf)|[Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
+|Your Cancer Care Team|  [Slides](slides/03-Eso_Care_Team.html)     |[Handout](slides/03-Eso_Care_Team.pdf)|[Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
+|Treatment Options|[Slides](slides/04-Eso_Rx_Options.html)|[Handout](slides/04-Eso_Rx_Options.pdf)|[Video](https://www.youtube.com/watch?v=Tk8cp3uL-lU)|
+|Early Stage Disease|[Slides](slides/06-Eso_Early.html) | [Handout](slides/06-Eso_Early.pdf)||
+|Advanced Disease | [Slides](slides/08-Eso_Advanced.html) | [Handout](slides/08-Eso_Advanced.pdf)||
+|Locally-Advanced|[Slides](slides/14-Eso_Locally_Advanced.html) | [Handout](slides/14-Eso_Locally_Advanced.pdf)  | |
+|Surgery|[Slides](slides/12-Eso_Surgery.html) | [Handout](slides/12-Eso_Surgery.pdf)  | |
+|Your Surgery Team|[Slides](slides/32-Surgeon.html) |[Handout](slides/32-Surgeon.pdf)||
+|Nutrition |[Slides](slides/22-Nutrition.html) |[Handout](slides/22-Nutrition.pdf)||
+|Nutritional Support |[Slides](slides/23-Feeding_Tubes.html) |[Handout](slides/23-Feeding_Tubes.pdf)||
+|Gastrostomy |[Slides](slides/24-Gastrostomy.html) |[Handout](slides/24-Gastrostomy.pdf)||
+|Jejunostomy Feeding Tube |[Slides](slides/26-Jejunostomy.html) |[Handout](slides/26-Jejunostomy.pdf)||
+|Building Muscle |[Slides](slides/34-Exercise.html) |[Handout](slides/34-Exercise.pdf)||
+|Metastatic Disease|[Slides](slides/16-Eso_Metastatic.html) |[Handout](slides/16-Eso_Metastatic.pdf)||
+|Central Venous Port |[Slides](slides/38-Port.html) |[Handout](slides/38-Port.pdf)||
+
