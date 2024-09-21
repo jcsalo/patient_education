@@ -5,4 +5,14 @@ output: html_document
 
 [Introduction to LCI](lci_intro_script.qmd)
 
+[Gastroesophageal Dx and Staging](ge_dx_staging_script.qmd)
+
+[Gastroesophageal Treatment Options]
+
+
+
+
+## Deprecated
+
+
 [Eso Dx and Staging](eso_dx_staging_script.qmd)

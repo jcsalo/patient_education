@@ -12,6 +12,8 @@ website:
         text: Scripts
       - href: slides.qmd
         text: Slides
+      - href: patient_education_plan.qmd
+        text: Plan
       - href: https://www.youtube.com/channel/UC5Deez8jUMnLhcf72-cHA7Q
         text: YouTube
 
