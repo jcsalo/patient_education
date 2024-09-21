@@ -11,6 +11,8 @@ website:
       - about.qmd
       - slides.qmd
         text: Slides
+      - href: https://www.youtube.com/channel/UC5Deez8jUMnLhcf72-cHA7Q
+        text: YouTube
 
 format:
   html:
