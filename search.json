@@ -18,14 +18,21 @@
     "href": "patient_education_plan.html",
     "title": "Patient Education Plan",
     "section": "",
-    "text": "flowchart LR\nA[LCI Introduction] --&gt;B(Esophageal Dx Staging)\nA--&gt;C(Nutrition)\nC--&gt;F(Gastric Dx Staging)\nB[Esophageal Dx Staging] --&gt;D(Early Stage Eso)\nD--&gt;G(Surgery)\nB--&gt; E(Advanced Stage Eso)\nE--&gt; H(Locally Advanced)\nE--&gt; J(Metastatic)\nJ--&gt; K(CV Port)\nH --&gt; G\nH--&gt; K\n\n\nclick K \"https://www.github.com\" \"This is a tooltip for a link\"\nclick C \"docs/lci_intro_script.html\"\nclick D \"lci_intro_script.html\"\nclick E \"lci_intro_script.html/#title-slide\"\nclick F \"docs/lci_intro_script.html#/title-slide\"\nclick G \"eso_dx_staging.html/#title-slide\"\nclick A \"lci_intro_script.html#/title-slide\"\nclick B \"eso_dx_staging_script.html#/title-slide\"\nclick C \"education_plan.html\""
+    "text": "flowchart LR\nA[LCI Introduction] --&gt;B(Esophageal Dx Staging)\nA--&gt;C(Nutrition)\nC--&gt;F(Gastric Dx Staging)\nB[Esophageal Dx Staging] --&gt;D(Early Stage Eso)\nD--&gt;G(Surgery)\nB--&gt; E(Advanced Stage Eso)\nE--&gt; H(Locally Advanced)\nE--&gt; J(Metastatic)\nJ--&gt; K(CV Port)\nH --&gt; G\nH--&gt; K\n\nclick A \"lci_intro_script.html\"\nclick B \"eso_dx_staging_script.html\""
   },
   {
     "objectID": "scripts.html",
     "href": "scripts.html",
     "title": "Scripts",
     "section": "",
-    "text": "Introduction to LCI\nEso Dx and Staging"
+    "text": "Introduction to LCI\nGastroesophageal Dx and Staging\n[Gastroesophageal Treatment Options]"
+  },
+  {
+    "objectID": "scripts.html#deprecated",
+    "href": "scripts.html#deprecated",
+    "title": "Scripts",
+    "section": "Deprecated",
+    "text": "Deprecated\nEso Dx and Staging"
   },
   {
     "objectID": "index.html#patient-education-resources-for-gi-cancer-patients",
@@ -33,6 +40,76 @@
     "title": "patient_education",
     "section": "Patient education resources for GI cancer patients",
     "text": "Patient education resources for GI cancer patients\n\nEsophageal Cancer\n\n\n\nTopic\nSlides\nHandout\nVideo\n\n\n\n\nDiagnosis & Staging\nSlides\nHandout\nVideo\n\n\nYour Cancer Care Team\nSlides\nHandout\nVideo\n\n\nTreatment Options\nSlides\nHandout\nVideo\n\n\nEarly Stage Disease\nSlides\nHandout\n\n\n\nAdvanced Disease\nSlides\nHandout\n\n\n\nLocally-Advanced\nSlides\nHandout\n\n\n\nSurgery\nSlides\nHandout\n\n\n\nYour Surgery Team\nSlides\nHandout\n\n\n\nNutrition\nSlides\nHandout\n\n\n\nNutritional Support\nSlides\nHandout\n\n\n\nGastrostomy\nSlides\nHandout\n\n\n\nJejunostomy Feeding Tube\nSlides\nHandout\n\n\n\nBuilding Muscle\nSlides\nHandout\n\n\n\nMetastatic Disease\nSlides\nHandout\n\n\n\nCentral Venous Port\nSlides\nHandout"
+  },
+  {
+    "objectID": "ge_dx_staging_script.html#introduction",
+    "href": "ge_dx_staging_script.html#introduction",
+    "title": "Gastroesophageal Dx and Staging",
+    "section": "Introduction",
+    "text": "Introduction\nIf you or someone close to you has recently been diagnosed with esophageal cancer, this video is intended for you. I’m Dr Jonathan Salo and I’m a GI Cancer Surgeon :hocho:\n\nOn the left side, you have … and, on the right side, the first image is ….\nThe second image has been …"
+  },
+  {
+    "objectID": "ge_dx_staging_script.html#in-this-video-youll-learn-about",
+    "href": "ge_dx_staging_script.html#in-this-video-youll-learn-about",
+    "title": "Gastroesophageal Dx and Staging",
+    "section": "In this video you’ll learn about:",
+    "text": "In this video you’ll learn about:\n\nDefinitions of cancer Terms\nStaging of gastric and esophageal cancer\nDiagnostic Tests"
+  },
+  {
+    "objectID": "ge_dx_staging_script.html#anatomy",
+    "href": "ge_dx_staging_script.html#anatomy",
+    "title": "Gastroesophageal Dx and Staging",
+    "section": "Anatomy",
+    "text": "Anatomy\nThe esophagus is a hollow muscular tube which connects the throat to the stomach.\nFood passes from the esophagus into the stomach, and then into the small bowel."
+  },
+  {
+    "objectID": "ge_dx_staging_script.html#symptoms",
+    "href": "ge_dx_staging_script.html#symptoms",
+    "title": "Gastroesophageal Dx and Staging",
+    "section": "Symptoms",
+    "text": "Symptoms\nFor many patients, the first symptom they have is difficulty swallowing or pain in swallowing. The difficulty swallowing can be due to a lump, also known as a tumor. For other patients, the symptoms may be chronic heartburn or signs of bleeding."
+  },
+  {
+    "objectID": "ge_dx_staging_script.html#cancer-terms",
+    "href": "ge_dx_staging_script.html#cancer-terms",
+    "title": "Gastroesophageal Dx and Staging",
+    "section": "Cancer Terms",
+    "text": "Cancer Terms\nLet‘s start with some definitions. A tumor is an abnormal growth. Tumors can be either benign or malignant\nA benign tumor of the esophagus may grow over time and cause obstruction and make it difficult to swallow, but it won’t ever spread anywhere else"
+  },
+  {
+    "objectID": "ge_dx_staging_script.html#egd",
+    "href": "ge_dx_staging_script.html#egd",
+    "title": "Gastroesophageal Dx and Staging",
+    "section": "EGD",
+    "text": "EGD\nIn most cases, the diagnosis of esophageal cancer is made by endoscopy, also called and EGD for esophago-gastroduodenoscopy\nUnder sedation, a flexible scope is passed through the mouth into the esophagus, which allows viewing the inside of the esophagus."
+  },
+  {
+    "objectID": "ge_dx_staging_script.html#staging",
+    "href": "ge_dx_staging_script.html#staging",
+    "title": "Gastroesophageal Dx and Staging",
+    "section": "Staging",
+    "text": "Staging\nIf the biopsy shows cancer, the next step is staging. Staging is the process of finding out the size of the tumor and whether or not there has been spread to the lymph nodes or other places in the body.\nOnce the stage has been determined, it will be possible to determine the best therapy"
+  },
+  {
+    "objectID": "ge_dx_staging_script.html#tumor",
+    "href": "ge_dx_staging_script.html#tumor",
+    "title": "Gastroesophageal Dx and Staging",
+    "section": "Tumor",
+    "text": "Tumor\n\nT1 tumor involves the top layers of the esophagus\nT2 tumor invades into the muscular layer\nT3 tumor invades all the way through the muscular layer\nT4 tumor invades into nearby structures such as the aorta or the airway"
+  },
+  {
+    "objectID": "ge_dx_staging_script.html#nodes",
+    "href": "ge_dx_staging_script.html#nodes",
+    "title": "Gastroesophageal Dx and Staging",
+    "section": "Nodes",
+    "text": "Nodes\n\nN0 – No lymph nodes involved\nN+ - Lymph nodes involved with cancer"
+  },
+  {
+    "objectID": "ge_dx_staging_script.html#laparoscopy",
+    "href": "ge_dx_staging_script.html#laparoscopy",
+    "title": "Gastroesophageal Dx and Staging",
+    "section": "Laparoscopy",
+    "text": "Laparoscopy\nLaparoscopy is a surgical procedure done under a general anesthetic. Several incisions ¼” long are made, and a telescope is inserted into the abdominal cavity. This allows an examination of the abdominal cavity to look for signs of spread.\nThe procedure is usually done as an outpatient, so you can go home the same day."
   },
   {
     "objectID": "eso_rx_options.html#early-stage",
