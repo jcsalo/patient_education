@@ -14,6 +14,13 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "patient_education_plan.html",
+    "href": "patient_education_plan.html",
+    "title": "Patient Education Plan",
+    "section": "",
+    "text": "flowchart LR\nA[LCI Introduction] --&gt;B(Esophageal Dx Staging)\nA--&gt;C(Nutrition)\nC--&gt;F(Gastric Dx Staging)\nB[Esophageal Dx Staging] --&gt;D(Early Stage Eso)\nD--&gt;G(Surgery)\nB--&gt; E(Advanced Stage Eso)\nE--&gt; H(Locally Advanced)\nE--&gt; J(Metastatic)\nJ--&gt; K(CV Port)\nH --&gt; G\nH--&gt; K\n\n\nclick B \"https://www.github.com\" \"This is a tooltip for a link\"\nclick A \"lci_intro_script.qmd\"\nclick C \"docs/lci_intro_script.html\"\nclick D \"lci_intro_script.html\"\nclick E \"lci_intro_script.html/#title-slide\"\nclick F \"docs/lci_intro_script.html/#title-slide\"\nclick G \"eso_dx_staging.html/#title-slide\"\nclick G \"eso_dx_staging.html/#title-slide\"\nclick G \"eso_dx_staging.html/#title-slide\"\nclick G \"eso_dx_staging.html/#title-slide\""
+  },
+  {
     "objectID": "scripts.html",
     "href": "scripts.html",
     "title": "Scripts",
@@ -26,6 +33,34 @@
     "title": "patient_education",
     "section": "Patient education resources for GI cancer patients",
     "text": "Patient education resources for GI cancer patients\n\nEsophageal Cancer\n\n\n\nTopic\nSlides\nHandout\nVideo\n\n\n\n\nDiagnosis & Staging\nSlides\nHandout\nVideo\n\n\nYour Cancer Care Team\nSlides\nHandout\nVideo\n\n\nTreatment Options\nSlides\nHandout\nVideo\n\n\nEarly Stage Disease\nSlides\nHandout\n\n\n\nAdvanced Disease\nSlides\nHandout\n\n\n\nLocally-Advanced\nSlides\nHandout\n\n\n\nSurgery\nSlides\nHandout\n\n\n\nYour Surgery Team\nSlides\nHandout\n\n\n\nNutrition\nSlides\nHandout\n\n\n\nNutritional Support\nSlides\nHandout\n\n\n\nGastrostomy\nSlides\nHandout\n\n\n\nJejunostomy Feeding Tube\nSlides\nHandout\n\n\n\nBuilding Muscle\nSlides\nHandout\n\n\n\nMetastatic Disease\nSlides\nHandout\n\n\n\nCentral Venous Port\nSlides\nHandout"
+  },
+  {
+    "objectID": "eso_rx_options.html#early-stage",
+    "href": "eso_rx_options.html#early-stage",
+    "title": "Eso Adenocarcinoma Rx",
+    "section": "Early Stage",
+    "text": "Early Stage\n\nT1 or T2 Tumors\nNo Difficulty Eating\nBleeding or reflux\n\n]\n.pull-right["
+  },
+  {
+    "objectID": "eso_rx_options.html#advanced-stage",
+    "href": "eso_rx_options.html#advanced-stage",
+    "title": "Eso Adenocarcinoma Rx",
+    "section": "Advanced Stage",
+    "text": "Advanced Stage\n\nDifficulty eating, especially solids\nWeight loss frequent\n\n]"
+  },
+  {
+    "objectID": "eso_rx_options.html#early-stage-1",
+    "href": "eso_rx_options.html#early-stage-1",
+    "title": "Eso Adenocarcinoma Rx",
+    "section": "Early Stage",
+    "text": "Early Stage\n\nT1 or T2 Tumors\nNo Difficulty Eating\nBleeding or reflux\n\n]\n.pull-right["
+  },
+  {
+    "objectID": "eso_rx_options.html#advanced-stage-1",
+    "href": "eso_rx_options.html#advanced-stage-1",
+    "title": "Eso Adenocarcinoma Rx",
+    "section": "Advanced Stage",
+    "text": "Advanced Stage\n\nDifficulty eating, especially solids\nWeight loss frequent\n\n]"
   },
   {
     "objectID": "lci_intro_script.html#lci-welcome-2024",
