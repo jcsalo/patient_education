@@ -18,7 +18,7 @@
     "href": "patient_education_plan.html",
     "title": "Patient Education Plan",
     "section": "",
-    "text": "flowchart LR\nA[LCI Introduction] --&gt;B(Esophageal Dx Staging)\nA--&gt;C(Nutrition)\nC--&gt;F(Gastric Dx Staging)\nB[Esophageal Dx Staging] --&gt;D(Early Stage Eso)\nD--&gt;G(Surgery)\nB--&gt; E(Advanced Stage Eso)\nE--&gt; H(Locally Advanced)\nE--&gt; J(Metastatic)\nJ--&gt; K(CV Port)\nH --&gt; G\nH--&gt; K\n\n\nclick B \"https://www.github.com\" \"This is a tooltip for a link\"\nclick A \"lci_intro_script.qmd\"\nclick C \"docs/lci_intro_script.html\"\nclick D \"lci_intro_script.html\"\nclick E \"lci_intro_script.html/#title-slide\"\nclick F \"docs/lci_intro_script.html/#title-slide\"\nclick G \"eso_dx_staging.html/#title-slide\"\nclick G \"eso_dx_staging.html/#title-slide\"\nclick G \"eso_dx_staging.html/#title-slide\"\nclick G \"eso_dx_staging.html/#title-slide\""
+    "text": "flowchart LR\nA[LCI Introduction] --&gt;B(Esophageal Dx Staging)\nA--&gt;C(Nutrition)\nC--&gt;F(Gastric Dx Staging)\nB[Esophageal Dx Staging] --&gt;D(Early Stage Eso)\nD--&gt;G(Surgery)\nB--&gt; E(Advanced Stage Eso)\nE--&gt; H(Locally Advanced)\nE--&gt; J(Metastatic)\nJ--&gt; K(CV Port)\nH --&gt; G\nH--&gt; K\n\n\nclick K \"https://www.github.com\" \"This is a tooltip for a link\"\nclick C \"docs/lci_intro_script.html\"\nclick D \"lci_intro_script.html\"\nclick E \"lci_intro_script.html/#title-slide\"\nclick F \"docs/lci_intro_script.html#/title-slide\"\nclick G \"eso_dx_staging.html/#title-slide\"\nclick A \"lci_intro_script.html#/title-slide\"\nclick B \"eso_dx_staging_script.html#/title-slide\"\nclick C \"education_plan.html\""
   },
   {
     "objectID": "scripts.html",
