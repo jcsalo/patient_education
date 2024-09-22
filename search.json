@@ -4,7 +4,7 @@
     "href": "eso_barretts.html#introduction",
     "title": "Barrett’s Esophagus",
     "section": "Introduction",
-    "text": "Introduction\nIf you or someone close to you has recently been diagnosed with esophageal cancer, this video is intended for you. I’m Dr Jonathan Salo and I’m a GI Cancer Surgeon :hocho:\n\nOn the left side, you have … and, on the right side, the first image is ….\nThe second image has been …"
+    "text": "Introduction\nIf you or someone close to you has recently been diagnosed with esophageal cancer, this video is intended for you. I’m Dr Jonathan Salo and I’m a GI Cancer Surgeon 🔪\n\nOn the left side, you have … and, on the right side, the first image is ….\nThe second image has been …"
   },
   {
     "objectID": "eso_barretts.html#in-this-video-youll-learn-about",
@@ -70,25 +70,88 @@
     "text": "Laparoscopy\nLaparoscopy is a surgical procedure done under a general anesthetic. Several incisions ¼” long are made, and a telescope is inserted into the abdominal cavity. This allows an examination of the abdominal cavity to look for signs of spread.\nThe procedure is usually done as an outpatient, so you can go home the same day."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "exercise.html#section",
+    "href": "exercise.html#section",
+    "title": "Exercise",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Imagine for a moment a log cabin in the mountains. Before winter sets in, you would want to have enough firewood available for fuel during the cold weather"
   },
   {
-    "objectID": "patient_education_plan.html",
-    "href": "patient_education_plan.html",
-    "title": "Patient Education Plan",
+    "objectID": "exercise.html#section-1",
+    "href": "exercise.html#section-1",
+    "title": "Exercise",
     "section": "",
-    "text": "flowchart LR\nA[LCI Introduction] --&gt;B(GastroEsophageal Dx Staging)\nA--&gt;C(Nutrition)\nC--&gt;F(Gastric Dx Staging)\nB[Esophageal Dx Staging] --&gt;D(Early Stage)\nD--&gt;F(Barretts)\nD--&gt;G(Surgery)\nB--&gt; E(Advanced Stage Eso)\nE--&gt; H(Locally Advanced)\nE--&gt; J(Metastatic)\nJ--&gt; K(CV Port)\nH --&gt; G\nH--&gt; K\n\nclick A \"lci_intro.html\"\nclick B \"eso_dx_staging.html\"\nclick F \"barretts.html\""
+    "text": "Once winter comes, you would use that firewood as fuel to stay warm"
+  },
+  {
+    "objectID": "exercise.html#section-2",
+    "href": "exercise.html#section-2",
+    "title": "Exercise",
+    "section": "",
+    "text": "If you get snowed in, you might start running out of fuel."
+  },
+  {
+    "objectID": "exercise.html#muscle-strength-and-esophagectomy",
+    "href": "exercise.html#muscle-strength-and-esophagectomy",
+    "title": "Exercise",
+    "section": "Muscle Strength and Esophagectomy",
+    "text": "Muscle Strength and Esophagectomy\n\n\nThe results of our research suggest a simple answer: The risk of pneumonia after surgery is related to a patient’s muscle strength"
+  },
+  {
+    "objectID": "exercise.html#section-3",
+    "href": "exercise.html#section-3",
+    "title": "Exercise",
+    "section": "",
+    "text": "Now this doesn’t mean that you need to look like this to be able to get through your esophagectomy\n\n\n\nThe good news is that you can increase your muscle mass before surgery in two very simple ways:\n\nGood nutrition with lots of protein\nExercise"
+  },
+  {
+    "objectID": "exercise.html#exercise-bike",
+    "href": "exercise.html#exercise-bike",
+    "title": "Exercise",
+    "section": "Exercise Bike",
+    "text": "Exercise Bike\n\n\nA stationary exercise bike is a great option. If allows you to exercise consistently despite the weather, and it’s more convenient than going to the gym."
+  },
+  {
+    "objectID": "exercise.html#exercise-bike-1",
+    "href": "exercise.html#exercise-bike-1",
+    "title": "Exercise",
+    "section": "Exercise Bike",
+    "text": "Exercise Bike\n\n\nAn exercise bike doesn’t need to be expensive. Here are some examples of bikes offered on Craigslist.\n\n   \n\nKeep in mind that a lot of people buy exercise equipment as part of a New Year’s resolution, but then by February 1st they are collecting dust.\nDon’t be afraid to ask friends, family, and neighbors if anyone has a bike you can borrow as part of your cancer treatment."
+  },
+  {
+    "objectID": "exercise.html#walking",
+    "href": "exercise.html#walking",
+    "title": "Exercise",
+    "section": "Walking",
+    "text": "Walking\n\n\nAnother option if you can’t get access to a gym or exercise equipment is walking. Bear in mind that if you want to get the most benefit from walking, it will need to be a brisk."
+  },
+  {
+    "objectID": "exercise.html#section-4",
+    "href": "exercise.html#section-4",
+    "title": "Exercise",
+    "section": "",
+    "text": "If you choose to walk for exercise, it will be important to use a heart rate monitor to make sure you can push yourself to walk at a brisk pace. Remember: the goal is to work hard enough that you have difficulty talking while you’re exercising."
+  },
+  {
+    "objectID": "exercise.html#section-5",
+    "href": "exercise.html#section-5",
+    "title": "Exercise",
+    "section": "",
+    "text": "If you have heart disease, or high blood pressure, I have one simple message before starting to exercise. Stop, and ask your primary care doctor or cardiologist before starting to exercise. They can help you design an exercise program that will be safe for you."
+  },
+  {
+    "objectID": "exercise.html#good-news",
+    "href": "exercise.html#good-news",
+    "title": "Exercise",
+    "section": "Good News",
+    "text": "Good News\nThe good news is that with proper nutrition and exercise, you can increase your muscle strength, and we have good reason to believe this will reduce your risk of complications after surgery."
   },
   {
     "objectID": "eso_dx_staging.html#introduction",
     "href": "eso_dx_staging.html#introduction",
     "title": "Esophageal Cancer Dx and Staging",
     "section": "Introduction",
-    "text": "Introduction\nIf you or someone close to you has recently been diagnosed with esophageal cancer, this video is intended for you. I’m Dr Jonathan Salo and I’m a GI Cancer Surgeon :hocho:\n\nOn the left side, you have … and, on the right side, the first image is ….\nThe second image has been …"
+    "text": "Introduction\nIf you or someone close to you has recently been diagnosed with esophageal cancer, this video is intended for you. I’m Dr Jonathan Salo and I’m a GI Cancer Surgeon 🔪\n\nOn the left side, you have … and, on the right side, the first image is ….\nThe second image has been …"
   },
   {
     "objectID": "eso_dx_staging.html#in-this-video-youll-learn-about",
@@ -151,7 +214,7 @@
     "href": "ge_dx_staging.html#introduction",
     "title": "Gastroesophageal Dx and Staging",
     "section": "Introduction",
-    "text": "Introduction\nIf you or someone close to you has recently been diagnosed with esophageal cancer, this video is intended for you. I’m Dr Jonathan Salo and I’m a GI Cancer Surgeon :hocho:\n\nOn the left side, you have … and, on the right side, the first image is ….\nThe second image has been …"
+    "text": "Introduction\nIf you or someone close to you has recently been diagnosed with esophageal cancer, this video is intended for you. I’m Dr Jonathan Salo and I’m a GI Cancer Surgeon 🔪\n\nOn the left side, you have … and, on the right side, the first image is ….\nThe second image has been …"
   },
   {
     "objectID": "ge_dx_staging.html#in-this-video-youll-learn-about",
@@ -326,7 +389,21 @@
     "href": "index.html#patient-education-resources-for-gi-cancer-patients",
     "title": "Patient Education",
     "section": "Patient education resources for GI cancer patients",
-    "text": "Patient education resources for GI cancer patients\n\nGastroesophageal Cancer\n\n\n\nTopic\nScript\nHandout\nVideo\n\n\n\n\nLCI Introduction\nscript\nHandout\nVideo\n\n\nGE Diagnosis & Staging\nScript\nHandout\nVideo\n\n\nBarretts Esophagus\nScript\nHandout\nVideo\n\n\nTreatment Options\nScript\nHandout\nVideo\n\n\nEarly Stage Disease\nSlides\nHandout\n\n\n\nAdvanced Disease\nSlides\nHandout\n\n\n\nLocally-Advanced\nSlides\nHandout\n\n\n\nSurgery\nSlides\nHandout\n\n\n\nYour Surgery Team\nSlides\nHandout\n\n\n\nNutrition\nSlides\nHandout\n\n\n\nNutritional Support\nSlides\nHandout\n\n\n\nGastrostomy\nSlides\nHandout\n\n\n\nJejunostomy Feeding Tube\nSlides\nHandout\n\n\n\nBuilding Muscle\nSlides\nHandout\n\n\n\nMetastatic Disease\nSlides\nHandout\n\n\n\nCentral Venous Port\nSlides\nHandout"
+    "text": "Patient education resources for GI cancer patients\n\nGastroesophageal Cancer\n\n\n\nTopic\nScript\nHandout\nVideo\n\n\n\n\nLCI Introduction\nscript\nHandout\nVideo\n\n\nGE Diagnosis & Staging\nScript\nHandout\nVideo\n\n\nBarretts Esophagus\nScript\nHandout\nVideo\n\n\nTreatment Options\nScript\nHandout\nVideo\n\n\nEarly Stage Disease\nSlides\nHandout\n\n\n\nAdvanced Disease\nSlides\nHandout\n\n\n\nLocally-Advanced ACA\nScript\nHandout\n\n\n\nSurgery\nSlides\nHandout\n\n\n\nYour Surgery Team\nSlides\nHandout\n\n\n\nNutrition\nSlides\nHandout\n\n\n\nNutritional Support\nSlides\nHandout\n\n\n\nGastrostomy\nSlides\nHandout\n\n\n\nJejunostomy Feeding Tube\nSlides\nHandout\n\n\n\nBuilding Muscle\nSlides\nHandout\n\n\n\nMetastatic Disease\nSlides\nHandout\n\n\n\nCentral Venous Port\nSlides\nHandout"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.html#esophageal-cancer-treatment-options",
+    "href": "eso_aca_locally_advanced.html#esophageal-cancer-treatment-options",
+    "title": "Locally-Advanced Eso Adenocarcinoma",
+    "section": "Esophageal Cancer Treatment Options",
+    "text": "Esophageal Cancer Treatment Options\nFor a refresher, we have four major categories of esophageal cancers:\n\nSuperficial -&gt; Treated without surgery\nLocalized -&gt; Treated with surgery alone\nLocally Advanced -&gt; Chemotherapy + Radiation -&gt; Surgery\nMetastatic -&gt; Chemotherapy"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.html#section",
+    "href": "eso_aca_locally_advanced.html#section",
+    "title": "Locally-Advanced Eso Adenocarcinoma",
+    "section": "",
+    "text": "In many cases, surgery is used to treat locally-advanced esophageal cancer. Esophagectomy surgery removes the tumor and the surrounding lymph nodes. In some cases, however, there is a risk of microscopic disease that can’t be seen and can’t be removed by surgery alone."
   },
   {
     "objectID": "scripts.html",
@@ -341,6 +418,34 @@
     "title": "Scripts",
     "section": "Deprecated",
     "text": "Deprecated\nEso Dx and Staging"
+  },
+  {
+    "objectID": "patient_education_plan.html",
+    "href": "patient_education_plan.html",
+    "title": "Patient Education Plan",
+    "section": "",
+    "text": "flowchart LR\nA[LCI Introduction] --&gt;B(GastroEsophageal Dx Staging)\nA--&gt;C(Nutrition)\nC--&gt;F(Gastric Dx Staging)\nB[Esophageal Dx Staging] --&gt;D(Early Stage)\nD--&gt;F(Barretts)\nD--&gt;G(Surgery)\nB--&gt; E(Advanced Stage Eso)\nE--&gt; H(Locally Advanced)\nE--&gt; J(Metastatic)\nJ--&gt; K(CV Port)\nH --&gt; G\nH--&gt; K\n\nclick A \"lci_intro.html\"\nclick B \"eso_dx_staging.html\"\nclick F \"barretts.html\""
+  },
+  {
+    "objectID": "eso_symptoms.html#anatomy",
+    "href": "eso_symptoms.html#anatomy",
+    "title": "LCI Introduction",
+    "section": "Anatomy",
+    "text": "Anatomy\nThe esophagus is a hollow muscular tube which connects the throat to the stomach. Normally, the esophagus pushes food from the throat to the stomach. The food passes through a one-way valve called a sphincter between the esophagus and the stomach. The sphincter is a valve which prevents food and acid from going back up into the esophagus. Once food is in the stomach, acid is added to start digestion. The stomach then pumps food out through another one-way valve called the pylorus, to enter the duodenum and eventually the small intestines for digestion. The pylorus controls how much food enters the small intestines at one time, so that the small intestines don’t become overwhelmed by too much food at one time."
+  },
+  {
+    "objectID": "eso_symptoms.html#cancer-terms",
+    "href": "eso_symptoms.html#cancer-terms",
+    "title": "LCI Introduction",
+    "section": "Cancer Terms",
+    "text": "Cancer Terms\nLet‘s start with some definitions. A tumor is an abnormal growth. Tumors can be either benign or malignant\nA benign tumor of the esophagus may grow over time and cause obstruction and make it difficult to swallow, but it won’t ever spread anywhere else"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "slides.html",
