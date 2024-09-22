@@ -10,7 +10,6 @@ format:
     #css: ["theme/theme.css"]
     css: ["lci_styles.css"]
     theme: default
-      
     echo: false
   pdf:
     documentclass: scrartcl

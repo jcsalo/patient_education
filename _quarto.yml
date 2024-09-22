@@ -19,10 +19,13 @@ website:
 
 format:
   html:
-    theme: default
-    css: styles.css
+    theme: 
+      - simplex
+      - custom.scss
+    #css: styles.css
     toc: true
 
+from: markdown+emoji
 
 editor: visual
 

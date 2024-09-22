@@ -1,0 +1,133 @@
+---
+title: "Locally-Advanced Eso Squamous Cell Carcinoma"
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1280
+    height: 720
+    logo: "atriumlogo.jpg"
+    footer: "[Patient Education](https://jcsalo.github.io/patient_education/)"
+    css: "lci_styles.css"
+    theme: default
+    echo: false
+  pdf:
+    documentclass: scrartcl
+editor: visual
+bibliography: zotero.bib
+from: markdown+emoji
+---
+# Introduction
+
+I’m Dr Jonathan Salo,  a GI Cancer Surgeon in Charlotte, North Carolina.
+
+If you're viewing this video, chances are that you or someone close to you has encountered esophageal cancer and is contemplating treatment.
+
+---
+
+This video focuses on patients with locally advanced esophageal cancer. This is defined as T3 or Node-positive esophageal cancer.  
+
+If that terminology is unfamiliar or you haven't seen our video on Esophageal Cancer Treatment Options video, a link is provided in the description.
+
+[Esophageal Cancer Treatment Options](04-Eso_Rx_Options.html)
+---
+
+For a refresher, we have four major categories of esophageal cancers:
+
+- Superficial -> Treated without surgery
+- Localized -> Treated with surgery alone
+- Locally Advanced -> Chemotherapy + Radiation -> Surgery
+- Metastatic -> Chemotherapy
+
+---
+
+We will divide these into two groups: Early and Advanced
+
+Advanced  esophageal cancer, which consists of two categories: Locally Advanced and Metastatic.
+
+- Locally Advanced -> T3M0
+- Metastatic -> M1
+
+This video focuses on *Locally Advanced* esophageal cancer
+
+---
+
+In many cases, surgery is used to treat locally-advanced esophageal cancer. Esophagectomy surgery removes the tumor and the surrounding lymph nodes.  In some cases, however, there is a risk of microscopic disease that can't be seen and can't be removed by surgery alone.
+
+```{r, echo=F, warning =F, message=F, out.width="50%"}
+include_graphics("images/Eso_Resection2Artboard 2@4x.png")
+```
+
+
+---
+
+For patients with esophageal cancer that is either T3 or Node-positive, research has shown that *initial* treatment with chemotherapy and radiation therapy makes the surgery more effective by killing microscopic tumor cells that can't be detected at the time of surgery. 
+
+Research has shown that a combination of chemotherapy plus radiation, followed by surgery, is the more effective than surgery alone for T3 or node-positive tumors.
+
+---
+
+# Trimodality Therapy
+
+Over 10 years ago, researchers in the Netherlands took a group of 363 patients with esophageal cancer and divided them into two groups. They they treated the two groups with two different treatment strategies.
+
+The first group was treated with surgery alone.
+
+The second group was treated with chemotherapy and radiation together for six weeks, followed by surgery.
+
+---
+
+The results were quite dramatic: The group that was treated with all three therapies, chemotherapy and radiation and surgery, lived on average twice a long as patients who had surgery alone.
+
+---
+
+This scientific study was called the CROSS trial.  The therapy is called tri-modality therapy, because three therapies are administered: chemotherapy, radiation, and surgery.
+
+---
+
+A typical schedule for trimodality therapy is six weeks of chemotherapy and radiation together.  Chemotherapy is given once a week, and radiation five days per week.
+
+---
+
+Several weeks after the end of radiation therapy, a PET or CT scan is done to look at the response. Surgery is typically done 8 weeks after the end of radiation.
+
+---
+
+For most people, the chemotherapy and radiation are well tolerated.  In some cases, side effects do occur. 
+
+
+---
+
+# Radiation Esophagitis
+
+The radiation attacks the cancer cells in the esophagus and nearby lymph nodes, but it can also cause irritation of the lining of the esophagitis.  You could think if it as a sunburn on the inside of the esophagus. What this means is that for patients who have some trouble eating before starting therapy, swallowing can get worse before it gets better.  The most challenging time will be the last week of treatment.  By two weeks after the end of treatment, the tumor is beginning to shrink and the inflammation is getting better, and most patients find that their swallowing gets easier.  But during the treatment, it's important to get enough nutrition and stay hydrated. Protein shakes and nutritional supplements can help here. In some cases, a feeding tube can help provide nutritional support to get through treatment.
+
+---
+
+# Blood counts
+
+In a small number of patients, the chemotherapy can lower the blood counts, so your chemotherapy team will periodically check blood test to be certain you have enough white blood cells to fight infection.  About 7% of patients will need some additonal medications to keep their blood counts up.  But in 93% of patients, the white blood cell counts remain normal.
+
+---
+
+If you or a family member have had an encounter with esophageal cancer surgery, I would love to hear about your experience, so please take a minute to leave a comment below. We're constantly creating new videos, so please subscribe to be notified of new videos when we post them.
+
+---
+
+I hope you have found this video helpful. This videos and others like it are designed to 
+
+educate patients and families about esophageal cancer 
+
+and equip them for their discussions with their esophageal cancer care team. 
+
+As always, these videos are no substitute for expert medical advice. 
+
+---
+
+Feel free to leave a comment or a question, or if you have suggestions for future videos.
+
+Here are some additional videos you may find helpful:
+
+[Preparation for Cancer Therapy](xx-Cancer_Tx_Prep.pdf)
+
+[Surgery for Esophageal Cancer](12-Eso_surgery.pdf)
+

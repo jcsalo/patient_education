@@ -7,13 +7,14 @@ format:
     height: 720
     logo: "atriumlogo.jpg"
     footer: "[Patient Education](https://jcsalo.github.io/patient_education/)"
-    css: ["lci_styles.css"]
+    css: "lci_styles.css"
     theme: default
     echo: false
   pdf:
     documentclass: scrartcl
 editor: visual
 bibliography: zotero.bib
+from: markdown+emoji
 ---
 
 ## LCI welcome 2024 {style="font-size: 1.5em; text-align: left"}
