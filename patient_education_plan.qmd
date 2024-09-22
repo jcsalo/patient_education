@@ -8,7 +8,7 @@ flowchart LR
 A[LCI Introduction] -->B(Esophageal Dx Staging)
 A-->C(Nutrition)
 C-->F(Gastric Dx Staging)
-B[Esophageal Dx Staging] -->D(Early Stage Eso)
+B[Esophageal Dx Staging] -->D(Barretts)
 D-->G(Surgery)
 B--> E(Advanced Stage Eso)
 E--> H(Locally Advanced)
@@ -17,8 +17,9 @@ J--> K(CV Port)
 H --> G
 H--> K
 
-click A "lci_intro_script.html"
-click B "eso_dx_staging_script.html"
+click A "lci_intro.html"
+click B "eso_dx_staging.html"
+click C "barretts.html"
 
 
 ```

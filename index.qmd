@@ -12,10 +12,10 @@ title: "Patient Education"
 
 | Topic     | Script | Handout | Video|
 | :------ | :--------: |:------:| :------:|
-|LCI Introduction    |[script](lci_intro_script.qmd)|[Handout](lci_intro_script.pdf)|[Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
-|GE Diagnosis & Staging    |[Script](ge_dx_staging_script.qmd)|[Handout](ge_dx_staging_script.pdf)|[Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
+|LCI Introduction    |[script](lci_intro.qmd)|[Handout](lci_intro.pdf)|[Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
+|GE Diagnosis & Staging    |[Script](ge_dx_staging.qmd)|[Handout](ge_dx_staging.pdf)|[Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
 |Barretts Esophagus|  [Script](slides/03-Eso_Care_Team.html)     |[Handout](slides/03-Eso_Care_Team.pdf)|[Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
-|Treatment Options|[Slides](slides/04-Eso_Rx_Options.html)|[Handout](slides/04-Eso_Rx_Options.pdf)|[Video](https://www.youtube.com/watch?v=Tk8cp3uL-lU)|
+|Treatment Options|[Script](slides/04-Eso_Rx_Options.html)|[Handout](slides/04-Eso_Rx_Options.pdf)|[Video](https://www.youtube.com/watch?v=Tk8cp3uL-lU)|
 |Early Stage Disease|[Slides](slides/06-Eso_Early.html) | [Handout](slides/06-Eso_Early.pdf)||
 |Advanced Disease | [Slides](slides/08-Eso_Advanced.html) | [Handout](slides/08-Eso_Advanced.pdf)||
 |Locally-Advanced|[Slides](slides/14-Eso_Locally_Advanced.html) | [Handout](slides/14-Eso_Locally_Advanced.pdf)  | |

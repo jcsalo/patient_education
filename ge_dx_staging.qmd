@@ -12,6 +12,8 @@ format:
     theme: default
       
     echo: false
+  pdf:
+    documentclass: scrartcl
 editor: visual
 bibliography: zotero.bib
 ---
