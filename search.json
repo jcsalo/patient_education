@@ -81,7 +81,7 @@
     "href": "patient_education_plan.html",
     "title": "Patient Education Plan",
     "section": "",
-    "text": "flowchart LR\nA[LCI Introduction] --&gt;B(Esophageal Dx Staging)\nA--&gt;C(Nutrition)\nC--&gt;F(Gastric Dx Staging)\nB[Esophageal Dx Staging] --&gt;D(Barretts)\nD--&gt;G(Surgery)\nB--&gt; E(Advanced Stage Eso)\nE--&gt; H(Locally Advanced)\nE--&gt; J(Metastatic)\nJ--&gt; K(CV Port)\nH --&gt; G\nH--&gt; K\n\nclick A \"lci_intro.html\"\nclick B \"eso_dx_staging.html\"\nclick C \"barretts.html\""
+    "text": "flowchart LR\nA[LCI Introduction] --&gt;B(GastroEsophageal Dx Staging)\nA--&gt;C(Nutrition)\nC--&gt;F(Gastric Dx Staging)\nB[Esophageal Dx Staging] --&gt;D(Early Stage)\nD--&gt;F(Barretts)\nD--&gt;G(Surgery)\nB--&gt; E(Advanced Stage Eso)\nE--&gt; H(Locally Advanced)\nE--&gt; J(Metastatic)\nJ--&gt; K(CV Port)\nH --&gt; G\nH--&gt; K\n\nclick A \"lci_intro.html\"\nclick B \"eso_dx_staging.html\"\nclick F \"barretts.html\""
   },
   {
     "objectID": "eso_dx_staging.html#introduction",

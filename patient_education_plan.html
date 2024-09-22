@@ -153,10 +153,11 @@ ul.task-list li input[type="checkbox"] {
 <p></p><figure class="figure"><p></p>
 <div>
 <pre class="mermaid mermaid-js">flowchart LR
-A[LCI Introduction] --&gt;B(Esophageal Dx Staging)
+A[LCI Introduction] --&gt;B(GastroEsophageal Dx Staging)
 A--&gt;C(Nutrition)
 C--&gt;F(Gastric Dx Staging)
-B[Esophageal Dx Staging] --&gt;D(Barretts)
+B[Esophageal Dx Staging] --&gt;D(Early Stage)
+D--&gt;F(Barretts)
 D--&gt;G(Surgery)
 B--&gt; E(Advanced Stage Eso)
 E--&gt; H(Locally Advanced)
@@ -167,7 +168,7 @@ H--&gt; K
 
 click A "lci_intro.html"
 click B "eso_dx_staging.html"
-click C "barretts.html"
+click F "barretts.html"
 
 
 </pre>
