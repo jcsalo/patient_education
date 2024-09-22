@@ -293,7 +293,7 @@ If you have access to a gym, that would be an excellent option. You'll be surrou
 ::::
 
 
-# Exercise Bike
+## Exercise Bike
 
 
 :::: {.columns}  
@@ -309,7 +309,8 @@ A stationary exercise bike is a great option. If allows you to exercise consiste
 
 ::::
 
-# Exercise Bike
+## Exercise Bike
+
 :::: {.columns}  
 
 ::: {.column width="50%" .fragment} 
@@ -333,29 +334,55 @@ Don't be afraid to ask friends, family, and neighbors if anyone has a bike you c
 
 ------------------------------------------------------------------------
 
-# Walking
+## Walking
 
-.pull-left\[Another option if you can't get access to a gym or exercise equipment is walking. Bear in mind that if you want to get the most benefit from walking, it will need to be a brisk. \]
 
-.pull-right\[<img src="images/nature-2587309_1920.jpg" width="100%" height="100%"/>\]
+:::: {.columns}  
 
-------------------------------------------------------------------------
+::: {.column width="50%" .fragment} 
+Another option if you can't get access to a gym or exercise equipment is walking. Bear in mind that if you want to get the most benefit from walking, it will need to be a brisk.
+:::  
 
-.pull-left\[ If you choose to walk for exercise, it will be important to use a heart rate monitor to make sure you can push yourself to walk at a brisk pace. Remember: the goal is to work hard enough that you have difficulty talking while you're exercising. \]
+::: {.column width="50%" .fragment} 
+![]src="images/nature-2587309_1920.jpg")
 
-.pull-right\[<img src="images/heart-rate-monitoring-device-1903997_1280.jpg" width="100%" height="100%"/>\]
+:::  
 
-------------------------------------------------------------------------
+::::
 
-# Heart Disease
+##
 
-.pull-left\[If you have heart disease, or high blood pressure, I have one simple message before starting to exercise. Stop, and ask your primary care doctor or cardiologist before starting to exercise. They can help you design an exercise program that will be safe for you.\]
+:::: {.columns}  
 
-.pull-right\[<img src="images/stop-1374937_1920.jpg" width="100%" height="100%"/>\]
+::: {.column width="50%" .fragment} 
+If you choose to walk for exercise, it will be important to use a heart rate monitor to make sure you can push yourself to walk at a brisk pace. Remember: the goal is to work hard enough that you have difficulty talking while you're exercising.
+:::  
 
-------------------------------------------------------------------------
+::: {.column width="50%" .fragment} 
+![]src="images/heart-rate-monitoring-device-1903997_1280.jpg")
 
-# Good News
+:::  
+
+::::
+
+
+##
+
+:::: {.columns}  
+
+::: {.column width="50%" .fragment} 
+If you have heart disease, or high blood pressure, I have one simple message before starting to exercise. Stop, and ask your primary care doctor or cardiologist before starting to exercise. They can help you design an exercise program that will be safe for you.
+:::  
+
+::: {.column width="50%" .fragment} 
+![]src="images/stop-1374937_1920.jpg")
+
+:::  
+
+::::
+
+
+## Good News
 
 The good news is that with proper nutrition and exercise, you can increase your muscle strength, and we have good reason to believe this will reduce your risk of complications after surgery.
 

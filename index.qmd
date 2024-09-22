@@ -18,7 +18,7 @@ title: "Patient Education"
 |Treatment Options|[Script](slides/04-Eso_Rx_Options.html)|[Handout](slides/04-Eso_Rx_Options.pdf)|[Video](https://www.youtube.com/watch?v=Tk8cp3uL-lU)|
 |Early Stage Disease|[Slides](slides/06-Eso_Early.html) | [Handout](slides/06-Eso_Early.pdf)||
 |Advanced Disease | [Slides](slides/08-Eso_Advanced.html) | [Handout](slides/08-Eso_Advanced.pdf)||
-|Locally-Advanced|[Slides](slides/14-Eso_Locally_Advanced.html) | [Handout](slides/14-Eso_Locally_Advanced.pdf)  | |
+|Locally-Advanced ACA|[Script](eso_aca_locally_advanced.html) | [Handout](eso_aca_locally_advanced.pdf)  | |
 |Surgery|[Slides](slides/12-Eso_Surgery.html) | [Handout](slides/12-Eso_Surgery.pdf)  | |
 |Your Surgery Team|[Slides](slides/32-Surgeon.html) |[Handout](slides/32-Surgeon.pdf)||
 |Nutrition |[Slides](slides/22-Nutrition.html) |[Handout](slides/22-Nutrition.pdf)||
