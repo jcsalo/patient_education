@@ -1,43 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jcsalo.github.io/patient_education/slides.html</loc>
-    <lastmod>2024-09-22T01:17:36.202Z</lastmod>
+    <loc>https://jcsalo.github.io/patient_education/eso_barretts.html</loc>
+    <lastmod>2024-09-22T01:39:56.066Z</lastmod>
   </url>
   <url>
     <loc>https://jcsalo.github.io/patient_education/about.html</loc>
-    <lastmod>2024-09-22T01:17:36.032Z</lastmod>
+    <lastmod>2024-09-22T01:39:56.065Z</lastmod>
   </url>
   <url>
     <loc>https://jcsalo.github.io/patient_education/patient_education_plan.html</loc>
-    <lastmod>2024-09-22T01:17:36.202Z</lastmod>
+    <lastmod>2024-09-22T01:39:56.236Z</lastmod>
   </url>
   <url>
-    <loc>https://jcsalo.github.io/patient_education/scripts.html</loc>
-    <lastmod>2024-09-22T01:17:36.202Z</lastmod>
+    <loc>https://jcsalo.github.io/patient_education/eso_dx_staging.html</loc>
+    <lastmod>2024-09-22T01:39:56.066Z</lastmod>
   </url>
   <url>
-    <loc>https://jcsalo.github.io/patient_education/index.html</loc>
-    <lastmod>2024-09-22T01:17:36.202Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jcsalo.github.io/patient_education/ge_dx_staging_script.html</loc>
-    <lastmod>2024-09-22T01:17:36.032Z</lastmod>
+    <loc>https://jcsalo.github.io/patient_education/ge_dx_staging.html</loc>
+    <lastmod>2024-09-22T01:39:56.066Z</lastmod>
   </url>
   <url>
     <loc>https://jcsalo.github.io/patient_education/eso_rx_options.html</loc>
-    <lastmod>2024-09-22T01:17:36.032Z</lastmod>
+    <lastmod>2024-09-22T01:39:56.066Z</lastmod>
   </url>
   <url>
-    <loc>https://jcsalo.github.io/patient_education/lci_intro_script.html</loc>
-    <lastmod>2024-09-22T01:17:36.202Z</lastmod>
+    <loc>https://jcsalo.github.io/patient_education/lci_intro.html</loc>
+    <lastmod>2024-09-22T01:39:56.236Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jcsalo.github.io/patient_education/index.html</loc>
+    <lastmod>2024-09-22T01:39:56.236Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jcsalo.github.io/patient_education/scripts.html</loc>
+    <lastmod>2024-09-22T01:39:56.236Z</lastmod>
   </url>
   <url>
     <loc>https://jcsalo.github.io/patient_education/eso_aca_rx.html</loc>
-    <lastmod>2024-09-22T01:17:36.032Z</lastmod>
+    <lastmod>2024-09-22T01:39:56.066Z</lastmod>
   </url>
   <url>
-    <loc>https://jcsalo.github.io/patient_education/eso_dx_staging_script.html</loc>
-    <lastmod>2024-09-22T01:17:36.032Z</lastmod>
+    <loc>https://jcsalo.github.io/patient_education/slides.html</loc>
+    <lastmod>2024-09-22T01:39:56.236Z</lastmod>
   </url>
 </urlset>
