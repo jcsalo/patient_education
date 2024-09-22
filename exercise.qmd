@@ -188,17 +188,36 @@ p
 
 ## Muscle Strength and Esophagectomy
 
-.pull-left\[The results of our research suggest a simple answer: The risk of pneumonia after surgery is related to a patient's muscle strength.\]
 
-.pull-right\[<img src="images/emancipation-156066_1280.png" width="100%" height="100%"/>\]
+:::: {.columns}  
 
-------------------------------------------------------------------------
+::: {.column width="50%" .fragment} 
+The results of our research suggest a simple answer: The risk of pneumonia after surgery is related to a patient's muscle strength
+:::  
 
-.pull-left\[Now this doesn't mean that you need to look like this to be able to get through your esophagectomy\]
+::: {.column width="50%" .fragment} 
+![]("images/emancipation-156066_1280.png")
+:::  
 
-.pull-right\[<img src="images/man-461195_1920.jpg" width="100%" height="100%"/>\]
+::::
 
-------------------------------------------------------------------------
+
+
+
+##
+
+
+:::: {.columns}  
+
+::: {.column width="50%" .fragment} 
+Now this doesn't mean that you need to look like this to be able to get through your esophagectomy
+:::  
+
+::: {.column width="50%" .fragment} 
+![](src="images/man-461195_1920.jpg")
+:::  
+
+::::
 
 The good news is that you can increase your muscle mass before surgery in two very simple ways:
 
@@ -239,45 +258,74 @@ Another way to judge your heart rate is to use a heart rate monitor. The followi
 
 # Heart Rate Monitors
 
+
+:::: {.columns}  
+
+::: {.column width="50%" .fragment} 
 A heart rate monitor doesn't need to be expensive.
 
 Here are some monitors from either WalMart or Amazon for less than \$25:
+:::  
 
-------------------------------------------------------------------------
+::: {.column width="50%" .fragment} 
+![](src="images/fm_1.jpg")
+![](src="images/fm_2.jpg")
+![](src="images/fm_3.jpg")
+:::  
 
-.pull-left\[<img src="images/fm_1.jpg" width="60%" height="60%"/><img src="images/fm_2.jpg" width="70%" height="70%"/>\]
+::::
 
-.pull-right\[<img src="images/fm_3.jpg" width="50%" height="50%"/><img src="images/fm_4.jpg" width="120%" height="120%"/>\]
-
-------------------------------------------------------------------------
 
 # Exercise Options
 
-.pull-left\[If you have access to a gym, that would be an excellent option. You'll be surrounded by other people who are exercising, and that can help you get started. \]
 
-.pull-right\[<img src="images/sports-1962574_1920.jpg" width="100%" height="100%"/>\]
+:::: {.columns}  
 
-------------------------------------------------------------------------
+::: {.column width="50%" .fragment} 
+If you have access to a gym, that would be an excellent option. You'll be surrounded by other people who are exercising, and that can help you get started.
+:::  
+
+::: {.column width="50%" .fragment} 
+![]src="images/sports-1962574_1920.jpg")
+
+:::  
+
+::::
+
 
 # Exercise Bike
 
-.pull-left\[A stationary exercise bike is a great option. If allows you to exercise consistently despite the weather, and it's more convenient than going to the gym. \]
 
-.pull-right\[<img src="images/00o0o_fZ5KwSJXSH2z_0v20t2_1200x900.jpg" width="100%" height="100%"/>\]
+:::: {.columns}  
 
-------------------------------------------------------------------------
+::: {.column width="50%" .fragment} 
+A stationary exercise bike is a great option. If allows you to exercise consistently despite the weather, and it's more convenient than going to the gym.
+:::  
+
+::: {.column width="50%" .fragment} 
+![]src="images/00o0o_fZ5KwSJXSH2z_0v20t2_1200x900.jpg")
+
+:::  
+
+::::
 
 # Exercise Bike
+:::: {.columns}  
 
+::: {.column width="50%" .fragment} 
 An exercise bike doesn't need to be expensive. Here are some examples of bikes offered on Craigslist.
+:::  
 
-------------------------------------------------------------------------
+::: {.column width="50%" .fragment} 
+![]src="images/00t0t_bUUWOrlZtvZz_0t20CI_1200x900.jpg")
+![]src="images/00U0U_7zZcZF7qli9z_0CI0t2_1200x900.jpg")
+![]src="images/00O0O_iy4b4gud4DMz_0CI0t2_1200x900.jpg")
+![]src="images/00101_hx38gIzONSPz_0lM0t2_1200x900.jpg")
+:::  
 
-.pull-left\[<img src="images/00t0t_bUUWOrlZtvZz_0t20CI_1200x900.jpg" width="80%" height="80%"/><img src="images/00U0U_7zZcZF7qli9z_0CI0t2_1200x900.jpg" width="80%" height="80%"/>\]
+::::
 
-.pull-right\[<img src="images/00O0O_iy4b4gud4DMz_0CI0t2_1200x900.jpg" width="80%" height="80%"/><img src="images/00101_hx38gIzONSPz_0lM0t2_1200x900.jpg" width="80%" height="80%"/>\]
 
-------------------------------------------------------------------------
 
 Keep in mind that a lot of people buy exercise equipment as part of a New Year's resolution, but then by February 1st they are collecting dust.
 
