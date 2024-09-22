@@ -5,10 +5,11 @@ title: "Patient Education Plan"
 ```{mermaid}
 
 flowchart LR
-A[LCI Introduction] -->B(Esophageal Dx Staging)
+A[LCI Introduction] -->B(GastroEsophageal Dx Staging)
 A-->C(Nutrition)
 C-->F(Gastric Dx Staging)
-B[Esophageal Dx Staging] -->D(Barretts)
+B[Esophageal Dx Staging] -->D(Early Stage)
+D-->F(Barretts)
 D-->G(Surgery)
 B--> E(Advanced Stage Eso)
 E--> H(Locally Advanced)
@@ -19,7 +20,7 @@ H--> K
 
 click A "lci_intro.html"
 click B "eso_dx_staging.html"
-click C "barretts.html"
+click F "barretts.html"
 
 
 ```
