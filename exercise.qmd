@@ -214,7 +214,7 @@ Now this doesn't mean that you need to look like this to be able to get through 
 :::  
 
 ::: {.column width="50%" .fragment} 
-![](src="images/man-461195_1920.jpg")
+![]("images/man-461195_1920.jpg")
 :::  
 
 ::::
@@ -268,9 +268,9 @@ Here are some monitors from either WalMart or Amazon for less than \$25:
 :::  
 
 ::: {.column width="50%" .fragment} 
-![](src="images/fm_1.jpg")
-![](src="images/fm_2.jpg")
-![](src="images/fm_3.jpg")
+![]("images/fm_1.jpg")
+![]("images/fm_2.jpg")
+![]("images/fm_3.jpg")
 :::  
 
 ::::
@@ -286,7 +286,7 @@ If you have access to a gym, that would be an excellent option. You'll be surrou
 :::  
 
 ::: {.column width="50%" .fragment} 
-![]src="images/sports-1962574_1920.jpg")
+![]("images/sports-1962574_1920.jpg")
 
 :::  
 
@@ -303,7 +303,7 @@ A stationary exercise bike is a great option. If allows you to exercise consiste
 :::  
 
 ::: {.column width="50%" .fragment} 
-![]src="images/00o0o_fZ5KwSJXSH2z_0v20t2_1200x900.jpg")
+![]("images/00o0o_fZ5KwSJXSH2z_0v20t2_1200x900.jpg")
 
 :::  
 
@@ -318,10 +318,10 @@ An exercise bike doesn't need to be expensive. Here are some examples of bikes o
 :::  
 
 ::: {.column width="50%" .fragment} 
-![]src="images/00t0t_bUUWOrlZtvZz_0t20CI_1200x900.jpg")
-![]src="images/00U0U_7zZcZF7qli9z_0CI0t2_1200x900.jpg")
-![]src="images/00O0O_iy4b4gud4DMz_0CI0t2_1200x900.jpg")
-![]src="images/00101_hx38gIzONSPz_0lM0t2_1200x900.jpg")
+![]("images/00t0t_bUUWOrlZtvZz_0t20CI_1200x900.jpg")
+![]("images/00U0U_7zZcZF7qli9z_0CI0t2_1200x900.jpg")
+![]("images/00O0O_iy4b4gud4DMz_0CI0t2_1200x900.jpg")
+![]("images/00101_hx38gIzONSPz_0lM0t2_1200x900.jpg")
 :::  
 
 ::::
@@ -344,7 +344,7 @@ Another option if you can't get access to a gym or exercise equipment is walking
 :::  
 
 ::: {.column width="50%" .fragment} 
-![]src="images/nature-2587309_1920.jpg")
+![]("images/nature-2587309_1920.jpg")
 
 :::  
 
@@ -359,7 +359,7 @@ If you choose to walk for exercise, it will be important to use a heart rate mon
 :::  
 
 ::: {.column width="50%" .fragment} 
-![]src="images/heart-rate-monitoring-device-1903997_1280.jpg")
+![]("images/heart-rate-monitoring-device-1903997_1280.jpg")
 
 :::  
 
@@ -375,7 +375,7 @@ If you have heart disease, or high blood pressure, I have one simple message bef
 :::  
 
 ::: {.column width="50%" .fragment} 
-![]src="images/stop-1374937_1920.jpg")
+![]("images/stop-1374937_1920.jpg")
 
 :::  
 
