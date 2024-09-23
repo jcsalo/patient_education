@@ -38,8 +38,8 @@ J -->nutrition
 
 exercise[Exercise]
 
-surgery-->nutrition
-surgery-->exercise
+eso_surgery-->surgeon(surgeon)
+eso_surgery-->exercise
 
 click A "lci_intro.html"
 click B "ge_dx_staging.html"
