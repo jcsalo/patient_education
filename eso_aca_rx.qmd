@@ -10,7 +10,7 @@ format:
     css: ["lci_styles.css"]
     theme: default
     echo: false
-    output-file: cv_port_slides.html
+    output-file: eso_aca_rx.html
   pdf:
     documentclass: scrartcl
   html: default
