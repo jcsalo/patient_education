@@ -14,10 +14,10 @@ title: "Patient Education"
 |:----------------|:-------------------:|:---------------:|:---------------:|:------------:|
 | LCI Introduction         |  [Script](lci_intro_slides.html)     |       [HTML](lci_intro.html) | [PDF](lci_intro.pdf)  | [OLD Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
 | GE Diagnosis & Staging   |  [Script](ge_dx_staging_slides.html) | [HTML](ge_dx_staging.html) | [PDF](ge_dx_staging.pdf) | [OLD Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
+| Early Stage Disease     | [Script](eso_early_slides.html)  |  [HTML](eso_early.html) [PDF](eso_early.pdf)    |                                                      |
 | Barretts Esophagus       | [Script](eso_barretts_slides.html)   | [HTML](eso_barretts.html) | [PDF](eso_barretts.pdf)  |  |
 | Metastatic Disease       | [Script](ge_metastatic_slides.html)  | [HTML](ge_metastatic.html) | [PDF](ge_metastatic.pdf)  |  |
 | Eso Treatment Options    | [Script](eso_rx_options_slides.html)  | [HTML](esx_tx_options.html) | [PDF](eso_rx_options.pdf) | [OLD Video](https://www.youtube.com/watch?v=Tk8cp3uL-lU) |
-| Early Stage Disease     | [Script](slides/06-Eso_Early.html)  |   [PDF](slides/06-Eso_Early.pdf)    |                                                      |
 | Eso ACA Treatment       | [Script](eso_aca_rx_slides.html)  |  [HTML](eso_aca_rx.html) | [PDF](eso_aca_rx.pdf)    |                                                      |
 | Eso Advanced Disease    |  [Script](eso_advanced_slides.html)  | [HTML](eso_advanced.html) | [PDF](eso_advanced.pdf)  |                                                      |
 | Locally-Advanced ACA   | [Script](eso_aca_locally_advanced_slides.html) | [HTML](eso_aca_locally_advanced.html) | [PDF](eso_aca_locally_advanced.pdf) |                  |

@@ -17,11 +17,12 @@ B--> D[Eso Rx Options]
 D-->E[Eso Early Stage]
 D-->F[Eso Advanced]
 
-E-->G[Endoscopic Rx]
-E-->eso_surgery[eso_surgery]
+
+E-->eso_surgery[Esophagectomy]
+E-->J[Eso ACA Locally Advanced]
 
 F-->I[GE Metastatic]
-F-->J[Eso ACA Locally Advanced]
+F-->J
 F-->K[Eso SCCA Locally Advanced]
 
 nutrition--> jejunostomy[Jejunostomy]
@@ -30,8 +31,10 @@ nutrition--> gastrostomy[Gastrostomy]
 I-->L[CV Port]
 
 K-->L
+K-->nutrition
 
-J -->surgery[Surgery]
+J -->eso_surgery[Esophagectomy]
+J -->nutrition
 
 exercise[Exercise]
 
@@ -53,6 +56,7 @@ click L "cv_port.html"
 click nutrition "nutrition.html"
 click jejunostomy "jejunostomy.html"
 click gastrostomy "gastrostomy.html"
+click exercise "exercise.html"
 
 
 ```
