@@ -154,7 +154,7 @@ ul.task-list li input[type="checkbox"] {
 <div>
 <pre class="mermaid mermaid-js">flowchart LR
 A[LCI Introduction] --&gt;B(GastroEsophageal Dx Staging)
-A--&gt;C(Nutrition)
+A--&gt;nutrition(Nutrition)
 
 B--&gt; C[Gastric Rx Options]
 B--&gt; D[Eso Rx Options]
@@ -162,18 +162,42 @@ B--&gt; D[Eso Rx Options]
 D--&gt;E[Eso Early Stage]
 D--&gt;F[Eso Advanced]
 
-E--&gt;G[Barrett's]
-E--&gt;H[Surgery]
+E--&gt;G[Endoscopic Rx]
+E--&gt;eso_surgery[eso_surgery]
 
 F--&gt;I[GE Metastatic]
 F--&gt;J[Eso ACA Locally Advanced]
 F--&gt;K[Eso SCCA Locally Advanced]
 
+nutrition--&gt; jejunostomy[Jejunostomy]
+nutrition--&gt; gastrostomy[Gastrostomy]
+
 I--&gt;L[CV Port]
 
+K--&gt;L
+
+J --&gt;surgery[Surgery]
+
+exercise[Exercise]
+
+surgery--&gt;nutrition
+surgery--&gt;exercise
+
 click A "lci_intro.html"
-click B "eso_dx_staging.html"
-click F "barretts.html"
+click B "ge_dx_staging.html"
+click C "gastric_rx_options.html"
+click D "eso_rx_options.html"
+click E "eso_advanced.html"
+click F "eso_advanced.html"
+click G "endoscopic_rx.html"
+click eso_surgery "eso_surgery.html"
+click I "ge_metastatic.html"
+click J "eso_aca_locally_advanced.html"
+click K "eso_scca_locally_advanced.html"
+click L "cv_port.html"
+click nutrition "nutrition.html"
+click jejunostomy "jejunostomy.html"
+click gastrostomy "gastrostomy.html"
 
 
 </pre>
