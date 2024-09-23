@@ -86,7 +86,7 @@ If you want to evaluate an individual baseball player, or you want to compare on
 :::
 
 ::: {.column .fragment width="50%"}
-![](images/hit-1407826_1920.jpg")
+![](images/hit-1407826_1920.jpg)
 :::
 :::
 
@@ -99,7 +99,7 @@ Micky Mantle is regarded as one of baseball's greatest players, and this basebal
 :::
 
 ::: {.column .fragment width="50%"}
-![](images/mickey.jpg")
+![](images/mickey.jpg)
 :::
 :::
 
