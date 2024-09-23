@@ -13,7 +13,7 @@ format:
     output-file: eso_scca_locally_advanced_slides.html
   pdf:
     documentclass: scrartcl
-  html:default
+  html: default
 editor: visual
 bibliography: zotero.bib
 from: markdown+emoji

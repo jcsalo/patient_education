@@ -11,16 +11,21 @@ format:
 flowchart LR
 A[LCI Introduction] -->B(GastroEsophageal Dx Staging)
 A-->C(Nutrition)
-C-->F(Gastric Dx Staging)
-B[Esophageal Dx Staging] -->D(Early Stage)
-D-->F(Barretts)
-D-->G(Surgery)
-B--> E(Advanced Stage Eso)
-E--> H(Locally Advanced)
-E--> J(Metastatic)
-J--> K(CV Port)
-H --> G
-H--> K
+
+B--> C[Gastric Rx Options]
+B--> D[Eso Rx Options]
+
+D-->E[Eso Early Stage]
+D-->F[Eso Advanced]
+
+E-->G[Barrett's]
+E-->H[Surgery]
+
+F-->I[GE Metastatic]
+F-->J[Eso ACA Locally Advanced]
+F-->K[Eso SCCA Locally Advanced]
+
+I-->L[CV Port]
 
 click A "lci_intro.html"
 click B "eso_dx_staging.html"
