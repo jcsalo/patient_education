@@ -51,20 +51,15 @@ This video focuses on *Locally Advanced* esophageal cancer
 
 ## 
 
-:::: {.columns}  
+::: columns
+::: {.column .fragment width="50%"}
+In many cases, surgery is used to treat locally-advanced esophageal cancer. Esophagectomy surgery removes the tumor and the surrounding lymph nodes. In some cases, however, there is a risk of microscopic disease that can't be seen and can't be removed by surgery alone.
+:::
 
-::: {.column width="50%" .fragment} 
-In many cases, surgery is used to treat locally-advanced esophageal cancer. Esophagectomy surgery removes the tumor and the surrounding lymph nodes.  In some cases, however, there is a risk of microscopic disease that can't be seen and can't be removed by surgery alone.
-:::  
-
-::: {.column width="50%" .fragment} 
-![]("images/Eso_Resection2Artboard 2@4x.png")
-:::  
-
-::::
-
-
-
+::: {.column .fragment width="50%"}
+![](%22images/Eso_Resection2Artboard%202@4x.png%22)
+:::
+:::
 
 ------------------------------------------------------------------------
 

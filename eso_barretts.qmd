@@ -17,202 +17,120 @@ editor: visual
 bibliography: zotero.bib
 ---
 
-## Introduction
+I’m Dr Jonathan Salo,  a GI Cancer Surgeon in Charlotte, North Carolina. If you or someone close to you has been diagnosed with esophageal cancer, this video is for you. In this video, you will learn about *Early Stage* esophageal cancer
 
-If you or someone close to you has recently been diagnosed with esophageal cancer, this video is intended for you. I’m Dr Jonathan Salo and I'm a GI Cancer Surgeon :hocho:
 
-::: notes
-On the left side, you have ... and, on the right side, the first image is ....
+---
 
-The second image has been ...
-:::
+For a refresher, esophageal cancer, as it grows, can tends to make it difficult for patients to swallow.
 
-------------------------------------------------------------------------
+So patients with esophageal cancer fit into two main groups:
 
-## In this video you’ll learn about:
+- A small group who don't have any difficulty eating that have *early* stage disease
+- Majority of patients who have some difficulty eating or may have weight loss who have *advanced* disease.
 
--   Definitions of cancer Terms
--   Staging of gastric and esophageal cancer
--   Diagnostic Tests
+--
 
-------------------------------------------------------------------------
+Among those with *Advanced* disease, there are two categories: 
 
-## Anatomy
+- Locally Advanced -> T3 or N+ -> Treated with a combination of chemotherapy + radiation, followed by surgery
+- Metastatic -> Treated with chemotherapy
 
-The esophagus is a hollow muscular tube which connects the throat to the stomach.
+For more information about *advanced* esophageal cancer, there is a link above and in the description. [Advanced](08-Eso_Advanced.html)
 
-Food passes from the esophagus into the stomach, and then into the small bowel.
 
-## Symptoms
 
-For many patients, the first symptom they have is difficulty swallowing or pain in swallowing. The difficulty swallowing can be due to a lump, also known as a tumor. For other patients, the symptoms may be chronic heartburn or signs of bleeding.
+---
 
-------------------------------------------------------------------------
+In this video, you will learn about *Early Stage* esophageal tumors.  These generally don't cause any difficulty with eating or swallowing. They may cause bleeding or symptoms of heartburn, but generally don't cause trouble eating or weight loss.
 
-## Cancer Terms
+Early Stage cancers are those that are T1 or T2 and N0M0.  
 
-Let‘s start with some definitions. A **tumor** is an abnormal growth. Tumors can be either benign or malignant
+If you haven't seen it already, please see the video about esophageal cancer diagnosis and staging to give you an overview.
 
-A **benign** tumor of the esophagus may grow over time and cause obstruction and make it difficult to swallow, but it won’t ever spread anywhere else
+[Esophageal Cancer Diagnosis and Staging](02_Eso_Dx_Staging.html)
 
-------------------------------------------------------------------------
 
-A **malignant** tumor of the esophagus has the potential to spread elsewhere in the body. This could be to the nearby lymph nodes, the lungs, or the liver.
+---
 
-**Cancer** is another term for a malignant tumor Unfortunately, the majority of tumors found in the esophagus are cancer. We will use the term cancer and tumor interchangeably.
+In short, early stage cancers consist of small tumors without involvement of the lymph nodes, and they are either T1 or T2.
 
-------------------------------------------------------------------------
+T1 tumors are treated very differently from T2 tumors, to it is important to distinguish between the two.
 
-## EGD
+---
 
-In most cases, the diagnosis of esophageal cancer is made by endoscopy, also called and EGD for esophago-gastroduodenoscopy
+**Endoscopic ultrasound** is the best test to distinguish T1 tumors from T2 tumors.
+From a patient's perspective it's very similar to an upper endoscopy.  Under sedation, the gastroenterologist places a scope through the mouth into the esophagus.  The difference is that at the end of the scope, there is located a tiny ultrasound probe, which can measure the tumor in the esophagus.
 
-Under sedation, a flexible scope is passed through the mouth into the esophagus, which allows viewing the inside of the esophagus.
+---
 
-------------------------------------------------------------------------
+The endoscopic ultrasound will give one of three answers:
 
-If a tumor is found in the esophagus, a small portion can be removed, which is called a **biopsy**
+T1 tumor -> can frequently be treated through the endoscope, without the need for surgery. We'll discuss that more later
 
-The biopsy is examined by a pathologist, who will determine whether the tumor is benign or whether it is a cancer
+T2 -> Are usually treated with surgery
 
-------------------------------------------------------------------------
+T3 -> Treated with a combination of chemotherapy
 
-## Staging
+---
 
-If the biopsy shows cancer, the next step is staging. Staging is the process of finding out the size of the tumor and whether or not there has been spread to the lymph nodes or other places in the body.
+# T1 Esophageal Cancers
 
-Once the stage has been determined, it will be possible to determine the best therapy
+T1 tumors involve only the mucosa, the layer on the inner surface of the esophagus.  Because these tumors do not invade deeply, it is often possible to remove them using a scope. In some cases, the tumor can be treated without the need for surgery.  Endoscopic removal of tumor is called _endoscopic mucosal resection_
 
-------------------------------------------------------------------------
+---
 
-In order to determine the stage, we will focus on three different areas:
+# Endoscopic Musocal Resection
 
-The first is the *tumor*. How large is the tumor? And more importantly, how deeply has it grown into the wall of the esophagus?
+For the patient's perspective, the procedure is similar to an endoscopy, which is done under sedation. Fluid is injected underneath the tumor, which raises a sort of blister.  The top layer (and the tumor) are then removed. The procedure is done as an outpatient.
 
-The second is whether there is spread to the *lymph nodes*.
+---
 
-The third is whether there is *metastasis* or spread to other parts of the body
+# Pathology
 
-------------------------------------------------------------------------
+The pathologist then examines the specimen to see whether the tumor has been removed completely
 
-Some drawings will help. The wall of the esophagus or stomach has multiple layers, shown here.
+---
 
-![Esophagus Tumors](images/tumor_full.png){fig-align="left"}
+(favorable)  In an ideal circumstance, the tumor is confined to the center of the area which has been removed, ensuring that there is no tumor left behind.
 
-------------------------------------------------------------------------
+A tumor is judged to be *favorable* for endoscopic mucosal resection if the tumor appears to be slow growing and the margins are clear, which suggests that the tumor was completely removed.
 
-Surrounding the esophagus and stomach are lymph nodes. The purpose of lymph nodes is to filter the blood and help fight infections, but in some cases cancers in the esophagus can spread to the lymph nodes
+---
 
-------------------------------------------------------------------------
+# Surveillance
 
-In its earliest stages, cancer of the esophagus or stomach starts on the inner, or most superficial layer, called with mucosa.
+When a small tumor has been completely removed by endoscopic mucosal resection, frequently no further therapy is required.  In this case, follow up endoscopy is recommended to be certain that there is no recurrence.
 
-With time, however, the cancer can continue to grow and invade deeper into the wall of the esophagus or stomach. The deeper the cancer invades into the wall, the more likely it is that cancer cells can spread elsewhere
+---
 
-------------------------------------------------------------------------
+**Unfavorable**: If a tumor is removed with endoscopic mucosal resection and it appears as though the tumor may not have been completely removed *or* is more rapidly growing, this is considered an *unfavorable* outcome.  In this care there are two options:
 
-If cancer cells spread to the lymph nodes, there is a chance that some cells will break off and spread to the liver or lungs.
+1. surgical removal with esophagectomy or 
+2. close surveillance with endoscopy.
 
-Metastasis is spread to other parts of the body such as liver, lungs, or bone.
+---
 
-------------------------------------------------------------------------
+We hope you have found this video helpful. This videos and others like it are designed to 
 
-To review, the stage consists of 3 parts:
+educate patients and families about esophageal cancer 
 
--   T for Tumor
+and equip them for their discussions with their esophageal cancer care team. 
 
--   N for Nodes
+As always, these videos are no substitute for expert medical advice. 
 
--   M for Metastasis
+---
 
-------------------------------------------------------------------------
+If you or a family member have had an encounter with esophageal cancer surgery, I would love to hear about your experience, so please take a minute to leave a comment below. We're constantly creating new videos, so please subscribe to be notified of new videos when we post them.
 
-## Tumor
+---
 
--   T1 tumor involves the top layers of the esophagus
--   T2 tumor invades into the muscular layer
--   T3 tumor invades all the way through the muscular layer
--   T4 tumor invades into nearby structures such as the aorta or the airway
+In the next video in our series you will learn about surgery for esophageal cancer.  Surgery is usually recommended for patients with T1 tumors which can't be removed by endoscopic therapy and for patients with T2 tumors.
 
-------------------------------------------------------------------------
 
-This may sound confusing, but as a general rule, if someone with esophageal cancer has difficulty swallowing, the tumor is usually a T3.
+[Surgery for Esophageal Cancer](12-Eso_surgery.pdf)
 
-There are of course exceptions, but this is a general guideline
 
-------------------------------------------------------------------------
+To learn about *advanced* esophageal cancer, which generally causes difficulty eating, we have a video with the link below:  [Advanced](08-Eso_Advanced.html)
 
-## Nodes
-
--   N0 – No lymph nodes involved
--   N+ - Lymph nodes involved with cancer
-
-------------------------------------------------------------------------
-
-# Metastasis
-
-The M classification refers to metastasis Metastasis = spread of cancer to other organs such as the lungs, liver, or bone
-
--   M0 – No signs of spread to other organs
-
--   M1 – Spread to other organs
-
-------------------------------------------------------------------------
-
-# Diagnostic Tests
-
-Next we will talk about some of the diagnostic tests that are used for staging.
-
-When you meet with your doctors, one the first things they will do is to come up with a plan for testing that is tailored to you and your particular tumor. So we will talk about these tests in general terms, but not all tests are needed for all patients
-
-------------------------------------------------------------------------
-
-# Scans
-
-A CT scan is usually the first test for staging. This will show whether there is any signs of metastasis or spread to other organs such as the lung, liver, or bone
-
-------------------------------------------------------------------------
-
-# PET Scan
-
-A PET scan is a specialized scan which combines a CT scan with an injection of a small amount of tracer which lights up areas of cancer.
-
-------------------------------------------------------------------------
-
-# EUS
-
-In cases where it is important to know about the exact size of the tumor, an endoscopic ultrasound exam can be done. This procedure is similar to an EGD, but the endoscope has an ultrasound sensor on the end of the scope which produces an image of the tumor
-
-------------------------------------------------------------------------
-
-In some cases, particularly for cancers in the stomach, it is important to look for signs of spread in the abdominal cavity. In some situations, cancers can spread in the abdominal cavity but the areas are so small they don’t show up on a CT scan. In these cases, a laparoscopy is helpful.
-
-------------------------------------------------------------------------
-
-## Laparoscopy
-
-Laparoscopy is a surgical procedure done under a general anesthetic. Several incisions ¼” long are made, and a telescope is inserted into the abdominal cavity. This allows an examination of the abdominal cavity to look for signs of spread.
-
-The procedure is usually done as an outpatient, so you can go home the same day.
-
-------------------------------------------------------------------------
-
-The next video in our series discusses treatment options
-
-[Esophageal Cancer Care Team](03-Eso_Care_Team.html)
-
-------------------------------------------------------------------------
-
-We hope you have found this video helpful. This videos and others like it are designed to
-
-educate patients and families about esophageal cancer
-
-and equip them for their discussions with their esophageal cancer care team.
-
-As always, these videos are no substitute for expert medical advice.
-
-------------------------------------------------------------------------
-
-Feel free to leave a comment or a question, or if you have suggestions for future videos.
-
-------------------------------------------------------------------------
+---

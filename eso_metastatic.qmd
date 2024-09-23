@@ -1,0 +1,57 @@
+---
+title: "Locally-Advanced Eso Adenocarcinoma"
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1280
+    height: 720
+    logo: "atriumlogo.jpg"
+    footer: "[Patient Education](https://jcsalo.github.io/patient_education/)"
+    css: "lci_styles.css"
+    theme: default
+    echo: false
+  pdf:
+    documentclass: scrartcl
+editor: visual
+bibliography: zotero.bib
+from: markdown+emoji
+---
+I'm Dr Jonathan Salo, a  Cancer Surgeon at the Levine Cancer Institute.
+
+In this video, you will learn about the treatment of metastatic esophageal cancer.
+
+---
+
+Metastatic esophageal cancer is cancer that has spread to other organs such as the liver, lungs, or bone.
+
+The primary treatment for metastatic esophageal cancer is chemotherapy, which is usually given intravenously.
+
+---
+
+The first step will be staging scans such as a CT scan or PET scan.  If you haven't done so already, please take a look at our video that talks about these scans [Advanced Esophageal Cancer](08-Eso_Advanced.html)
+
+---
+
+The next step will be meeting with a *Medical Oncologist* to develop a treatment plan.
+
+---
+
+If you have had difficulty eating or weight loss, you may need a feeding tube to help maintain your nutrition.  Please see our video on nutrition during esophageal cancer treatment [Nutrition in Esophageal Cancer](22-NutritionEsoCa.html)
+
+---
+
+Because most of the chemotherapy drugs are administered intravenously, you may need a central venous port [Central Venous Port](26-Port.html)
+
+
+---
+
+If you or a family member have had an encounter with esophagal cancer, I would love to hear about your experience, so please take a minute to leave a comment below. We're constantly creating new videos, so please subscribe to be notified of new videos when we post them.
+
+---
+
+Here are some additional videos you may find helpful:
+
+[Central Venous Port for Chemotherapy](26-Port.html)
+[Nutrition in Esophageal Cancer](22-NutritionEsoCa.html)
+
+---
