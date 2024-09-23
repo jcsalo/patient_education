@@ -99,7 +99,7 @@ Micky Mantle is regarded as one of baseball's greatest players, and this basebal
 :::
 
 ::: {.column .fragment width="50%"}
-![](images/images/mickey.jpg")
+![](images/mickey.jpg")
 :::
 :::
 
@@ -112,7 +112,7 @@ If you look at the back of his card, you'll find lots of statistics, including h
 :::
 
 ::: {.column .fragment width="50%"}
-![](images/images/mickey.jpg")
+![](images/mickey.jpg")
 :::
 :::
 
