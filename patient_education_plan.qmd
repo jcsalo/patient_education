@@ -1,5 +1,9 @@
 ---
 title: "Patient Education Plan"
+format:
+  html: 
+    mermaid: 
+      theme: forest
 ---
 
 ```{mermaid}
