@@ -45,6 +45,8 @@ The esophagus is a hollow muscular tube which connects the throat to the stomach
 
 Food passes from the esophagus into the stomach, and then into the small bowel.
 
+The gastroesophageal junction or *GE Junction* is located where the esophagus and stomach meet. Cancers in this region are usually treated similar to esophageal cancers
+
 ## Symptoms
 
 For many patients, the first symptom they have is difficulty swallowing or pain in swallowing. The difficulty swallowing can be due to a lump, also known as a tumor. For other patients, the symptoms may be chronic heartburn or signs of bleeding.
@@ -201,7 +203,7 @@ The procedure is usually done as an outpatient, so you can go home the same day.
 
 The next video in our series discusses treatment options
 
-[Esophageal Cancer Care Team](03-Eso_Care_Team.html)
+[Esophageal Cancer Treatment Options](eso_rx_options.html)
 
 ------------------------------------------------------------------------
 
