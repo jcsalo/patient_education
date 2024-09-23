@@ -7,10 +7,9 @@ format:
 ---
 
 ```{mermaid}
-
 flowchart LR
 A[LCI Introduction] -->B(GastroEsophageal Dx Staging)
-A-->C(Nutrition)
+A-->nutrition(Nutrition)
 
 B--> C[Gastric Rx Options]
 B--> D[Eso Rx Options]
@@ -18,18 +17,42 @@ B--> D[Eso Rx Options]
 D-->E[Eso Early Stage]
 D-->F[Eso Advanced]
 
-E-->G[Barrett's]
-E-->H[Surgery]
+E-->G[Endoscopic Rx]
+E-->eso_surgery[eso_surgery]
 
 F-->I[GE Metastatic]
 F-->J[Eso ACA Locally Advanced]
 F-->K[Eso SCCA Locally Advanced]
 
+nutrition--> jejunostomy[Jejunostomy]
+nutrition--> gastrostomy[Gastrostomy]
+
 I-->L[CV Port]
 
+K-->L
+
+J -->surgery[Surgery]
+
+exercise[Exercise]
+
+surgery-->nutrition
+surgery-->exercise
+
 click A "lci_intro.html"
-click B "eso_dx_staging.html"
-click F "barretts.html"
+click B "ge_dx_staging.html"
+click C "gastric_rx_options.html"
+click D "eso_rx_options.html"
+click E "eso_advanced.html"
+click F "eso_advanced.html"
+click G "endoscopic_rx.html"
+click eso_surgery "eso_surgery.html"
+click I "ge_metastatic.html"
+click J "eso_aca_locally_advanced.html"
+click K "eso_scca_locally_advanced.html"
+click L "cv_port.html"
+click nutrition "nutrition.html"
+click jejunostomy "jejunostomy.html"
+click gastrostomy "gastrostomy.html"
 
 
 ```
