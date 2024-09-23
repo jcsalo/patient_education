@@ -12,7 +12,7 @@ title: "Patient Education"
 
 | Topic                    |                 Script                  |         HTML |        PDF                 |                        Video                         |
 |:----------------|:-------------------:|:---------------:|:---------------:|:------------:|
-| LCI Introduction         |  [Script](lci_intro.qmd)     |       [HTML](lci_intro.html) | [PDF](lci_intro.pdf)  | [OLD Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
+| LCI Introduction         |  [Script](lci_intro_slides.html)     |       [HTML](lci_intro.html) | [PDF](lci_intro.pdf)  | [OLD Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
 | GE Diagnosis & Staging   |  [Script](ge_dx_staging.qmd) | [HTML](ge_dx_staging.html) | [PDF](ge_dx_staging.pdf) | [OLD Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
 | Barretts Esophagus       | [Script](eso_barretts.qmd)   | [HTML](eso_barretts.html) | [PDF](eso_barretts.pdf)  |  |
 | Metastatic Disease       | [Script](ge_metastatic.qmd)  | [HTML](ge_metastatic.html) | [PDF](ge_metastatic.pdf)  |  |
