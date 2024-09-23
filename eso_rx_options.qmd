@@ -9,8 +9,8 @@ format:
     footer: "[Patient Education](https://jcsalo.github.io/patient_education/)"
     css: ["lci_styles.css"]
     theme: default
-
     echo: false
+    output-file: exo_rx_options_slides.html
 editor: visual
 bibliography: zotero.bib
 ---

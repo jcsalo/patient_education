@@ -59,7 +59,7 @@ In many cases, surgery is used to treat locally-advanced esophageal cancer. Esop
 :::  
 
 ::: {.column width="50%" .fragment} 
-![]("images/Eso_Resection2Artboard 2@4x.png")
+![](images/Eso_Resection2Artboard 2@4x.png)
 :::  
 
 ::::
@@ -133,7 +133,7 @@ Feel free to leave a comment or a question, or if you have suggestions for futur
 
 Here are some additional videos you may find helpful:
 
-[Preparation for Cancer Therapy](xx-Cancer_Tx_Prep.pdf)
+[Central Venous Port](cv_port.qmd)
 
-[Surgery for Esophageal Cancer](12-Eso_surgery.pdf)
+[Surgery for Esophageal Cancer](eso_surgery.qmd)
 

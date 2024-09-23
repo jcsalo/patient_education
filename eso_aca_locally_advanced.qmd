@@ -10,6 +10,7 @@ format:
     css: "lci_styles.css"
     theme: default
     echo: false
+    output-file: eso_aca_locally_advanced_slides.html
   pdf:
     documentclass: scrartcl
 editor: visual
@@ -29,7 +30,7 @@ This video focuses on patients with locally advanced esophageal cancer. This is 
 
 If that terminology is unfamiliar or you haven't seen our video on Esophageal Cancer Treatment Options video, a link is provided in the description.
 
-## [Esophageal Cancer Treatment Options](04-Eso_Rx_Options.html)
+## [Esophageal Cancer Treatment Options](eso_rx_options.qmd)
 
 For a refresher, we have four major categories of esophageal cancers:
 
@@ -57,7 +58,7 @@ In many cases, surgery is used to treat locally-advanced esophageal cancer. Esop
 :::
 
 ::: {.column .fragment width="50%"}
-![](%22images/Eso_Resection2Artboard%202@4x.png%22)
+![](images/Eso_Resection2Artboard%202@4x.png)
 :::
 :::
 
@@ -68,6 +69,8 @@ For patients with esophageal cancer that is either T3 or Node-positive, research
 Research has shown that a combination of chemotherapy plus radiation, followed by surgery, is the more effective than surgery alone for T3 or node-positive tumors.
 
 ------------------------------------------------------------------------
+!!! Need to ad FLOT !!!
+
 
 # Trimodality Therapy
 
@@ -107,7 +110,7 @@ The radiation attacks the cancer cells in the esophagus and nearby lymph nodes, 
 
 # Blood counts
 
-In a small number of patients, the chemotherapy can lower the blood counts, so your chemotherapy team will periodically check blood test to be certain you have enough white blood cells to fight infection. About 7% of patients will need some additonal medications to keep their blood counts up. But in 93% of patients, the white blood cell counts remain normal.
+In a small number of patients, the chemotherapy can lower the blood counts, so your chemotherapy team will periodically check blood test to be certain you have enough white blood cells to fight infection. About 7% of patients will need some additional medications to keep their blood counts up. But in 93% of patients, the white blood cell counts remain normal.
 
 ------------------------------------------------------------------------
 
@@ -129,6 +132,4 @@ Feel free to leave a comment or a question, or if you have suggestions for futur
 
 Here are some additional videos you may find helpful:
 
-[Preparation for Cancer Therapy](xx-Cancer_Tx_Prep.pdf)
-
-[Surgery for Esophageal Cancer](12-Eso_surgery.pdf)
+[Surgery for Esophageal Cancer](eso_surgery.qmd)

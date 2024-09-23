@@ -10,8 +10,8 @@ format:
     #css: ["theme/theme.css"]
     css: ["lci_styles.css"]
     theme: default
-      
     echo: false
+    output-file: ge_dx_staging_html.qmd
   pdf:
     documentclass: scrartcl
 editor: visual

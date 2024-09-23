@@ -10,6 +10,7 @@ format:
     css: "lci_styles.css"
     theme: default
     echo: false
+    output-file: ge_care_team_slides.html
   pdf:
     documentclass: scrartcl
 editor: visual

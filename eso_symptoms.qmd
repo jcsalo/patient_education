@@ -1,5 +1,5 @@
 ---
-title: "LCI Introduction"
+title: "Esopahgeal Cancer Symptoms"
 format: 
   revealjs:
     slide-number: c/t
@@ -10,6 +10,7 @@ format:
     css: "lci_styles.css"
     theme: default
     echo: false
+    output-file: eso_symptom_slides.html
   pdf:
     documentclass: scrartcl
 editor: visual
@@ -17,25 +18,25 @@ bibliography: zotero.bib
 from: markdown+emoji
 ---
 
-I’m Dr Jonathan Salo,  a GI Cancer Surgeon in Charlotte, North Carolina. If you or someone close to you has been diagnosed with esophageal cancer, this video is for you. In this video, you will learn about
+I’m Dr Jonathan Salo, a GI Cancer Surgeon in Charlotte, North Carolina. If you or someone close to you has been diagnosed with esophageal cancer, this video is for you. In this video, you will learn about
 
-- Some of the signs and symptoms of esophageal cancer
+-   Some of the signs and symptoms of esophageal cancer
 
----
+------------------------------------------------------------------------
 
-These videos were designed to help my patients understand their cancer and its treatment. 
+These videos were designed to help my patients understand their cancer and its treatment.
 
 The internet is a great tool for learning, including learning about cancer.
 
 But when you or a family member receives a new diagnosis of cancer, it's important that you receive information that is specifically tailored to your situation.
 
----
+------------------------------------------------------------------------
 
 ## Anatomy
 
-The esophagus is a hollow muscular tube which connects the throat to the stomach. Normally, the esophagus pushes food from the throat to the stomach. The food passes through a one-way valve called a *sphincter* between the esophagus and the stomach.  The sphincter is a valve which prevents food and acid from going back up into the esophagus.  Once food is in the stomach, acid is added to start digestion.  The stomach then pumps food out through another one-way valve called the pylorus, to enter the duodenum and eventually the small intestines for digestion. The pylorus controls how much food enters the small intestines at one time, so that the small intestines don't become overwhelmed by too much food at one time.
+The esophagus is a hollow muscular tube which connects the throat to the stomach. Normally, the esophagus pushes food from the throat to the stomach. The food passes through a one-way valve called a *sphincter* between the esophagus and the stomach. The sphincter is a valve which prevents food and acid from going back up into the esophagus. Once food is in the stomach, acid is added to start digestion. The stomach then pumps food out through another one-way valve called the pylorus, to enter the duodenum and eventually the small intestines for digestion. The pylorus controls how much food enters the small intestines at one time, so that the small intestines don't become overwhelmed by too much food at one time.
 
----
+------------------------------------------------------------------------
 
 ## Cancer Terms
 
@@ -43,63 +44,61 @@ Let‘s start with some definitions. A **tumor** is an abnormal growth. Tumors c
 
 A **benign** tumor of the esophagus may grow over time and cause obstruction and make it difficult to swallow, but it won’t ever spread anywhere else
 
----
+------------------------------------------------------------------------
 
- A **malignant** tumor of the esophagus can cause obstruction but also has the potential to spread elsewhere in the body.
+A **malignant** tumor of the esophagus can cause obstruction but also has the potential to spread elsewhere in the body.
 
 **Cancer** is another term for a malignant tumor Unfortunately, the majority of tumors found in the esophagus are cancer. We will use the term cancer and tumor interchangeably. We will come back to esophageal cancer later in the video.
 
----
+------------------------------------------------------------------------
 
 # Dysphagia
 
-In many cases, if a tumor grows in the esophagus, the first symptoms are those due to obstruction of the esophagus. 
+In many cases, if a tumor grows in the esophagus, the first symptoms are those due to obstruction of the esophagus.
 
-The first symptom is difficulty swallowing, called *dysphagia*.  Typically, this starts with a sensation that food gets stuck in the esophagus. This is usually worse with meats and bread. At first, it's usually possible to resume swallowing by washing the food down with liquids or by eating more slowly. A change in the diet to avoid solid foods can be helpful.  Over time, however, if the tumor grows, it can affect the swallow of softer foods or even liquids.
+The first symptom is difficulty swallowing, called *dysphagia*. Typically, this starts with a sensation that food gets stuck in the esophagus. This is usually worse with meats and bread. At first, it's usually possible to resume swallowing by washing the food down with liquids or by eating more slowly. A change in the diet to avoid solid foods can be helpful. Over time, however, if the tumor grows, it can affect the swallow of softer foods or even liquids.
 
---- 
+------------------------------------------------------------------------
 
 # Odynophagia
 
-The esophagus works as a pump to move food from the throat to the stomach. As a result, if there is an obstruction, the esophagus will contract to try to force food through the area fo narrowing. The result can be pain with eating,particularly when eating solid food. 
+The esophagus works as a pump to move food from the throat to the stomach. As a result, if there is an obstruction, the esophagus will contract to try to force food through the area fo narrowing. The result can be pain with eating,particularly when eating solid food.
 
----
-
+------------------------------------------------------------------------
 
 # Regurgitation
 
-Occasionally, if a tumor in the esophagus continues to grow, it can cause the regurgitation of undigested food.  This can happen without warning, and can happen either immediately after eating or even several hours later.
+Occasionally, if a tumor in the esophagus continues to grow, it can cause the regurgitation of undigested food. This can happen without warning, and can happen either immediately after eating or even several hours later.
 
----
+------------------------------------------------------------------------
 
 # Bleeding
 
 Other patients with esophageal cancer will have a small tumor which is not large enough to cause obstruction.
 
-For some, the first indication of a tumor in the esophagus is bleeding.  For some patients, this means vomiting up blood, while for others this is passing dark, tarry stools, and for others, it could be anemia, caused by slow blood loss over a long period of time.
+For some, the first indication of a tumor in the esophagus is bleeding. For some patients, this means vomiting up blood, while for others this is passing dark, tarry stools, and for others, it could be anemia, caused by slow blood loss over a long period of time.
 
----
+------------------------------------------------------------------------
 
 # Reflux
 
-For some, the first symptom of esophageal cancer is gastroesophageal reflux.  This can be caused by if the one-way valve between the esophagus and the stomach doesn't work properly and allows acid to enter the esophagus. The acid *relfuxes* up from the stomach to the esophagus. This can lead to heartburn, because the esophagus is not designed to handle acid. 
+For some, the first symptom of esophageal cancer is gastroesophageal reflux. This can be caused by if the one-way valve between the esophagus and the stomach doesn't work properly and allows acid to enter the esophagus. The acid *relfuxes* up from the stomach to the esophagus. This can lead to heartburn, because the esophagus is not designed to handle acid.
 
--
-Other signs of gastroesophageal reflux include an acid taste in the back of the mouth, or a chronic cough, frequent clearing of the throat, or even wheezing and asthma.
+-   Other signs of gastroesophageal reflux include an acid taste in the back of the mouth, or a chronic cough, frequent clearing of the throat, or even wheezing and asthma.
 
--
+-   
 
 # Barrett's Esophagus
 
-If reflux persists over time, it can cause chronic irritation to the lining of the esophagus called the *mucosa*. In some cases, the mucosa of the esophagus changes in response to  the chronic irritation.  The new mucosa is more resistant to acid, and frequently the heartburn goes away. The change in the mucosa of the esophagus in response to acid reflux is called *Barrett's Esophagus*.
+If reflux persists over time, it can cause chronic irritation to the lining of the esophagus called the *mucosa*. In some cases, the mucosa of the esophagus changes in response to the chronic irritation. The new mucosa is more resistant to acid, and frequently the heartburn goes away. The change in the mucosa of the esophagus in response to acid reflux is called *Barrett's Esophagus*.
 
----
+------------------------------------------------------------------------
 
-By itself, Barrett's esophagus is not dangerous, but people with Barrett's esophagus are at elevated risk of developing esophageal cancer. 
-  
+By itself, Barrett's esophagus is not dangerous, but people with Barrett's esophagus are at elevated risk of developing esophageal cancer.
+
 The American College of Physicians recommends that patients with Barrett's esophagus undergo screening upper endoscopy every 3-5 years.
 
----
+------------------------------------------------------------------------
 
 # Do I have Barrett's esophagus?
 
@@ -107,28 +106,26 @@ Unfortunately, the only way to diagnose Barrett's esophagus is to undergo a uppe
 
 The American College of Physicians recommends upper endoscopy for anyone who continues to have reflux symptoms after a 4 to 8 week trial of acid-blocking medicines and for men over age 50 who may be at increased risk of Barrett's esophagus.
 
-
-
 # Obstructing vs Non-obstructing esophageal cancer
 
-To summarize, Esophageal cancer tends to fit into two varieties: obstructing tumors and non-obstructing tumors.  We will come back to this when we talk about treatment in another video.
+To summarize, Esophageal cancer tends to fit into two varieties: obstructing tumors and non-obstructing tumors. We will come back to this when we talk about treatment in another video.
 
 In the next video in our series, you will learn about the diagnosis and staging of esophageal cancer.
 
 [Esophageal Cancer Diagnosis and Staging](02-Eso_Dx_staging.html)
 
----
+------------------------------------------------------------------------
 
-We hope you have found this video helpful. This videos and others like it are designed to 
+We hope you have found this video helpful. This videos and others like it are designed to
 
-educate patients and families about esophageal cancer 
+educate patients and families about esophageal cancer
 
-and equip them for their discussions with their esophageal cancer care team. 
+and equip them for their discussions with their esophageal cancer care team.
 
-As always, these videos are no substitute for expert medical advice. 
+As always, these videos are no substitute for expert medical advice.
 
----
+------------------------------------------------------------------------
 
 Feel free to leave a comment or a question, or if you have suggestions for future videos.
 
----
+------------------------------------------------------------------------

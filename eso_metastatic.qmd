@@ -10,6 +10,7 @@ format:
     css: "lci_styles.css"
     theme: default
     echo: false
+    output-file: eso_metastatic_slides.html
   pdf:
     documentclass: scrartcl
 editor: visual
@@ -28,7 +29,7 @@ The primary treatment for metastatic esophageal cancer is chemotherapy, which is
 
 ---
 
-The first step will be staging scans such as a CT scan or PET scan.  If you haven't done so already, please take a look at our video that talks about these scans [Advanced Esophageal Cancer](08-Eso_Advanced.html)
+The first step will be staging scans such as a CT scan or PET scan.  If you haven't done so already, please take a look at our video that talks about these scans [Advanced Esophageal Cancer](eso_advanced.qmd)
 
 ---
 
@@ -36,11 +37,11 @@ The next step will be meeting with a *Medical Oncologist* to develop a treatment
 
 ---
 
-If you have had difficulty eating or weight loss, you may need a feeding tube to help maintain your nutrition.  Please see our video on nutrition during esophageal cancer treatment [Nutrition in Esophageal Cancer](22-NutritionEsoCa.html)
+If you have had difficulty eating or weight loss, you may need a feeding tube to help maintain your nutrition.  Please see our video on nutrition during esophageal cancer treatment [Nutrition in Esophageal Cancer](nutrition.qmd)
 
 ---
 
-Because most of the chemotherapy drugs are administered intravenously, you may need a central venous port [Central Venous Port](26-Port.html)
+Because most of the chemotherapy drugs are administered intravenously, you may need a central venous port [Central Venous Port for Chemotherapy](cv_port.qmd)
 
 
 ---
@@ -51,7 +52,7 @@ If you or a family member have had an encounter with esophagal cancer, I would l
 
 Here are some additional videos you may find helpful:
 
-[Central Venous Port for Chemotherapy](26-Port.html)
-[Nutrition in Esophageal Cancer](22-NutritionEsoCa.html)
+[Central Venous Port for Chemotherapy](cv_port.qmd)
+[Nutrition in Esophageal Cancer](nutrition.qmd)
 
 ---
