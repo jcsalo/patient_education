@@ -11,7 +11,7 @@ format:
     css: ["lci_styles.css"]
     theme: default
     echo: false
-    output-file: ge_dx_staging_html.qmd
+    output-file: ge_dx_staging_slides.html
   pdf:
     documentclass: scrartcl
   html: default
