@@ -14,6 +14,7 @@ format:
     output-file: eso_advanced_slides.html
   pdf:
     documentclass: scrartcl
+  html: default
 editor: visual
 bibliography: zotero.bib
 ---
@@ -57,20 +58,15 @@ If this terminology is not familiar to you, please refer to our video on Gastroe
 
 ------------------------------------------------------------------------
 
-
-:::: {.columns}  
-
-::: {.column width="50%" .fragment} 
-
-
+::: columns
+::: {.column .fragment width="50%"}
 Locally-advanced tumors are usually T3, meaning that the tumor has grow through the wall of the esophagus *AND* there is *no* signs of spread to other organs, so they are M0
-:::  
+:::
 
-::: {.column width="50%" .fragment} 
-![]("images/t3n01Artboard 3@4x.png")
-:::  
-
-::::
+::: {.column .fragment width="50%"}
+![](%22images/t3n01Artboard%203@4x.png%22)
+:::
+:::
 
 ------------------------------------------------------------------------
 
@@ -126,7 +122,6 @@ We're constantly creating new videos, so please subscribe to be notified of new 
 
 Here are some additional videos you may find helpful:
 
-[Locally Advanced Esophageal Cancer](14-Eso_Locally_Advanced.html) 
-[Metastatic Esophageal Cancer](16-Eso_Metastatic.html)
+[Locally Advanced Esophageal Cancer](14-Eso_Locally_Advanced.html) [Metastatic Esophageal Cancer](16-Eso_Metastatic.html)
 
 ------------------------------------------------------------------------

@@ -1,5 +1,5 @@
 ---
-title: "Esophagus Advanced"
+title: "Esophagectomy"
 format: 
   revealjs:
     slide-number: c/t
@@ -14,6 +14,7 @@ format:
     output-file: eso_surgery_slides.html
   pdf:
     documentclass: scrartcl
+  html: default
 editor: visual
 bibliography: zotero.bib
 ---

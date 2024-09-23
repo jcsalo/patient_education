@@ -13,6 +13,7 @@ format:
     output-file: eso_aca_locally_advanced_slides.html
   pdf:
     documentclass: scrartcl
+  html: default
 editor: visual
 bibliography: zotero.bib
 from: markdown+emoji
@@ -68,19 +69,13 @@ For patients with esophageal cancer that is either T3 or Node-positive, research
 
 Research has shown that a combination of chemotherapy plus radiation, followed by surgery, is the more effective than surgery alone for T3 or node-positive tumors.
 
-------------------------------------------------------------------------
-!!! Need to ad FLOT !!!
-
-
-# Trimodality Therapy
-
-Over 10 years ago, researchers in the Netherlands took a group of 363 patients with esophageal cancer and divided them into two groups. They they treated the two groups with two different treatment strategies.
-
-The first group was treated with surgery alone.
-
-The second group was treated with chemotherapy and radiation together for six weeks, followed by surgery.
-
-------------------------------------------------------------------------
+|                                                                                                                                                                                                                   |
+|:-----------------------------------------------------------------------|
+| !!! Need to ad FLOT !!!                                                                                                                                                                                           |
+| \# Trimodality Therapy                                                                                                                                                                                            |
+| Over 10 years ago, researchers in the Netherlands took a group of 363 patients with esophageal cancer and divided them into two groups. They they treated the two groups with two different treatment strategies. |
+| The first group was treated with surgery alone.                                                                                                                                                                   |
+| The second group was treated with chemotherapy and radiation together for six weeks, followed by surgery.                                                                                                         |
 
 The results were quite dramatic: The group that was treated with all three therapies, chemotherapy and radiation and surgery, lived on average twice a long as patients who had surgery alone.
 

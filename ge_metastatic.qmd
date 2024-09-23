@@ -1,5 +1,5 @@
 ---
-title: "LCI Introduction"
+title: "Metastatic Gastroesophageal"
 format: 
   revealjs:
     slide-number: c/t
@@ -13,6 +13,7 @@ format:
     output-file: ge_metastatic_slides.html
   pdf:
     documentclass: scrartcl
+  html: default
 editor: visual
 bibliography: zotero.bib
 from: markdown+emoji
@@ -20,7 +21,7 @@ from: markdown+emoji
 
 I'm Dr Jonathan Salo, a Cancer Surgeon at the Levine Cancer Institute.
 
-In this video, you will learn about the treatment of metastatic esophageal cancer.
+In this video, you will learn about the treatment of metastatic gastric or esophageal cancer.
 
 ------------------------------------------------------------------------
 
@@ -30,7 +31,7 @@ The primary treatment for metastatic esophageal cancer is chemotherapy, which is
 
 ------------------------------------------------------------------------
 
-The first step will be staging scans such as a CT scan or PET scan. If you haven't done so already, please take a look at our video that talks about these scans [Advanced Esophageal Cancer](08-Eso_Advanced.html)
+The first step will be staging scans such as a CT scan or PET scan. If you haven't done so already, please take a look at our video that talks about these scans [GE Diagnosis and Staging](ge_dx_staging.html)
 
 ------------------------------------------------------------------------
 
@@ -38,11 +39,11 @@ The next step will be meeting with a *Medical Oncologist* to develop a treatment
 
 ------------------------------------------------------------------------
 
-If you have had difficulty eating or weight loss, you may need a feeding tube to help maintain your nutrition. Please see our video on nutrition during esophageal cancer treatment [Nutrition in Esophageal Cancer](22-NutritionEsoCa.html)
+If you have had difficulty eating or weight loss, you may need a feeding tube to help maintain your nutrition. Please see our video on nutrition during esophageal cancer treatment [Nutrition](nutrition.html)
 
 ------------------------------------------------------------------------
 
-Because most of the chemotherapy drugs are administered intravenously, you may need a central venous port [Central Venous Port](26-Port.html)
+Because most of the chemotherapy drugs are administered intravenously, you may need a central venous port [Central Venous Port](cv_port.html)
 
 ------------------------------------------------------------------------
 
@@ -52,6 +53,6 @@ If you or a family member have had an encounter with esophagal cancer, I would l
 
 Here are some additional videos you may find helpful:
 
-[Central Venous Port for Chemotherapy](26-Port.html) [Nutrition in Esophageal Cancer](22-NutritionEsoCa.html)
+[Central Venous Port for Chemotherapy](cv_port.html) [Nutrition](nutrition.html)
 
 ------------------------------------------------------------------------

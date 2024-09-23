@@ -1,5 +1,5 @@
 ---
-title: "Central Venous Port"
+title: "Nutrition"
 format: 
   revealjs:
     slide-number: c/t
@@ -13,6 +13,7 @@ format:
     output-file: nutrition_slides.html
   pdf:
     documentclass: scrartcl
+  html: default
 editor: visual
 bibliography: zotero.bib
 from: markdown+emoji
@@ -138,4 +139,4 @@ If you or a family member have had an encounter with esophageal cancer, I would 
 
 Here are some additional videos which you may find helpful:
 
-[Gastrostomy Tube for Nutritional Support](24-Gastrostomy.html)
+[Gastrostomy](gastrostomy.qmd) [Jejunostomy](jejunostomy.qmd)

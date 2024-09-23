@@ -9,8 +9,11 @@ format:
     footer: "[Patient Education](https://jcsalo.github.io/patient_education/)"
     css: ["lci_styles.css"]
     theme: default
-
     echo: false
+    output-file: cv_port_slides.html
+  pdf:
+    documentclass: scrartcl
+  html: default
 editor: visual
 bibliography: zotero.bib
 ---

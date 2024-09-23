@@ -13,6 +13,7 @@ format:
     output-file: cv_port_slides.html
   pdf:
     documentclass: scrartcl
+  html: default
 editor: visual
 bibliography: zotero.bib
 from: markdown+emoji
