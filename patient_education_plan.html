@@ -155,16 +155,21 @@ ul.task-list li input[type="checkbox"] {
 <pre class="mermaid mermaid-js">flowchart LR
 A[LCI Introduction] --&gt;B(GastroEsophageal Dx Staging)
 A--&gt;C(Nutrition)
-C--&gt;F(Gastric Dx Staging)
-B[Esophageal Dx Staging] --&gt;D(Early Stage)
-D--&gt;F(Barretts)
-D--&gt;G(Surgery)
-B--&gt; E(Advanced Stage Eso)
-E--&gt; H(Locally Advanced)
-E--&gt; J(Metastatic)
-J--&gt; K(CV Port)
-H --&gt; G
-H--&gt; K
+
+B--&gt; C[Gastric Rx Options]
+B--&gt; D[Eso Rx Options]
+
+D--&gt;E[Eso Early Stage]
+D--&gt;F[Eso Advanced]
+
+E--&gt;G[Barrett's]
+E--&gt;H[Surgery]
+
+F--&gt;I[GE Metastatic]
+F--&gt;J[Eso ACA Locally Advanced]
+F--&gt;K[Eso SCCA Locally Advanced]
+
+I--&gt;L[CV Port]
 
 click A "lci_intro.html"
 click B "eso_dx_staging.html"
