@@ -368,7 +368,7 @@
     "href": "patient_education_plan.html",
     "title": "Patient Education Plan",
     "section": "",
-    "text": "flowchart LR\nA[LCI Introduction] --&gt;B(GastroEsophageal Dx Staging)\nA--&gt;nutrition(Nutrition)\n\nB--&gt; C[Gastric Rx Options]\nB--&gt; D[Eso Rx Options]\n\nD--&gt;E[Eso Early Stage]\nD--&gt;F[Eso Advanced]\n\n\nE--&gt;eso_surgery[Esophagectomy]\nE--&gt;J[Eso ACA Locally Advanced]\n\nF--&gt;I[GE Metastatic]\nF--&gt;J\nF--&gt;K[Eso SCCA Locally Advanced]\n\nnutrition--&gt; jejunostomy[Jejunostomy]\nnutrition--&gt; gastrostomy[Gastrostomy]\n\nI--&gt;L[CV Port]\n\nK--&gt;L\nK--&gt;nutrition\n\nJ --&gt;eso_surgery[Esophagectomy]\nJ --&gt;nutrition\n\nexercise[Exercise]\n\nsurgery--&gt;nutrition\nsurgery--&gt;exercise\n\nclick A \"lci_intro.html\"\nclick B \"ge_dx_staging.html\"\nclick C \"gastric_rx_options.html\"\nclick D \"eso_rx_options.html\"\nclick E \"eso_advanced.html\"\nclick F \"eso_advanced.html\"\nclick G \"endoscopic_rx.html\"\nclick eso_surgery \"eso_surgery.html\"\nclick I \"ge_metastatic.html\"\nclick J \"eso_aca_locally_advanced.html\"\nclick K \"eso_scca_locally_advanced.html\"\nclick L \"cv_port.html\"\nclick nutrition \"nutrition.html\"\nclick jejunostomy \"jejunostomy.html\"\nclick gastrostomy \"gastrostomy.html\"\nclick exercise \"exercise.html\""
+    "text": "flowchart LR\nA[LCI Introduction] --&gt;B(GastroEsophageal Dx Staging)\nA--&gt;nutrition(Nutrition)\n\nB--&gt; C[Gastric Rx Options]\nB--&gt; D[Eso Rx Options]\n\nD--&gt;E[Eso Early Stage]\nD--&gt;F[Eso Advanced]\n\n\nE--&gt;eso_surgery[Esophagectomy]\nE--&gt;J[Eso ACA Locally Advanced]\n\nF--&gt;I[GE Metastatic]\nF--&gt;J\nF--&gt;K[Eso SCCA Locally Advanced]\n\nnutrition--&gt; jejunostomy[Jejunostomy]\nnutrition--&gt; gastrostomy[Gastrostomy]\n\nI--&gt;L[CV Port]\n\nK--&gt;L\nK--&gt;nutrition\n\nJ --&gt;eso_surgery[Esophagectomy]\nJ --&gt;nutrition\n\nexercise[Exercise]\n\neso_surgery--&gt;surgeon(surgeon)\neso_surgery--&gt;exercise\n\nclick A \"lci_intro.html\"\nclick B \"ge_dx_staging.html\"\nclick C \"gastric_rx_options.html\"\nclick D \"eso_rx_options.html\"\nclick E \"eso_advanced.html\"\nclick F \"eso_advanced.html\"\nclick G \"endoscopic_rx.html\"\nclick eso_surgery \"eso_surgery.html\"\nclick I \"ge_metastatic.html\"\nclick J \"eso_aca_locally_advanced.html\"\nclick K \"eso_scca_locally_advanced.html\"\nclick L \"cv_port.html\"\nclick nutrition \"nutrition.html\"\nclick jejunostomy \"jejunostomy.html\"\nclick gastrostomy \"gastrostomy.html\"\nclick exercise \"exercise.html\""
   },
   {
     "objectID": "eso_surgery_slides.html#introduction",
@@ -693,15 +693,141 @@
     "text": "I’m Dr Jonathan Salo, I’m a GI Cancer Surgeon.\n.font60[If you’re seeing this video, it’s likely because you or someone you know as had a recent diagnosis of esophageal cancer.]\nThis video is designed to help you choose a surgeon and hospital for your esophagectomy surgery.\nWhen it comes to surgery for esophageal cancer, we’re all interested in getting the best outcome possible. The goals of any operation are rapid recovery, being able to return to activities, and a low risk of complications.\nEsophageal surgery is a substantial operation, so it’s even more important to increase the chances of a good outcome.\nThere are several factors which can change the odds of a good outcome:\nPatient factors\nHospital and the Surgeon"
   },
   {
+    "objectID": "surgeon.html#baseball",
+    "href": "surgeon.html#baseball",
+    "title": "Your Surgery Team",
+    "section": "Baseball",
+    "text": "Baseball\n\n\nIf you go to a baseball game and want to know how a team is doing, you look at the scoreboard"
+  },
+  {
+    "objectID": "surgeon.html#baseball-1",
+    "href": "surgeon.html#baseball-1",
+    "title": "Your Surgery Team",
+    "section": "Baseball",
+    "text": "Baseball\n\n\nIf you want to evaluate an individual baseball player, or you want to compare one baseball player to another, you want to know more than just how they did in one game: you would look at their batting average"
+  },
+  {
+    "objectID": "surgeon.html#baseball-2",
+    "href": "surgeon.html#baseball-2",
+    "title": "Your Surgery Team",
+    "section": "Baseball",
+    "text": "Baseball\n\n\nMicky Mantle is regarded as one of baseball’s greatest players, and this baseball card from 1952 is one of the most valuable in history"
+  },
+  {
     "objectID": "surgeon.html#section",
     "href": "surgeon.html#section",
+    "title": "Your Surgery Team",
+    "section": "",
+    "text": "If you look at the back of his card, you’ll find lots of statistics, including his … batting average"
+  },
+  {
+    "objectID": "surgeon.html#section-1",
+    "href": "surgeon.html#section-1",
+    "title": "Your Surgery Team",
+    "section": "",
+    "text": "The batting average allows fans to compare players. A player with a high batting average may not hit a home run every time, but a player with a high batting average is certainly going to help win more games. The batting average won’t absolutely predict what will happen with every time a player goes to bat, but it shows an average over the season or over a career."
+  },
+  {
+    "objectID": "surgeon.html#section-2",
+    "href": "surgeon.html#section-2",
+    "title": "Your Surgery Team",
+    "section": "",
+    "text": "Something which the batting average doesn’t show, however, is the difficulty level of the games. One can assume that in the major leagues the competitions is pretty high."
+  },
+  {
+    "objectID": "surgeon.html#section-3",
+    "href": "surgeon.html#section-3",
+    "title": "Your Surgery Team",
+    "section": "",
+    "text": "We can imagine that any given batter is going to have a lower batting average against a top notch pitcher like Sandy Kofax, than against a little league pitcher\n\n!!! Photo of Sandy Kofax!!! !!! Photo of Little League Pitcher!!!"
+  },
+  {
+    "objectID": "surgeon.html#section-4",
+    "href": "surgeon.html#section-4",
+    "title": "Your Surgery Team",
+    "section": "",
+    "text": "When you choose a surgeon or a hospital for your cancer surgery, you want to find the best chance of success. You want to make sure you have the best players on the field, and you want to maximize your chances of winning.\nUnfortunately, there aren’t baseball cards for hospitals and surgeons, and finding the statistics for a hospital or surgeon can be a challenge, but it’s still important that you have all the information you need to make a good decision."
+  },
+  {
+    "objectID": "surgeon.html#hospital-volume",
+    "href": "surgeon.html#hospital-volume",
+    "title": "Your Surgery Team",
+    "section": "Hospital Volume",
+    "text": "Hospital Volume\nPractice makes perfect in many things in life, and esophageal surgery is no exception.\nHospitals where an esophagectomy is performed more frequently in general have better outcomes than hospitals where the operation is only occasionally done.\n\nThis chart shows the relationship between hospital volume and the risk of death after esophagectomy."
+  },
+  {
+    "objectID": "surgeon.html#section-5",
+    "href": "surgeon.html#section-5",
     "title": "Your Surgery Team",
     "section": "",
     "text": "The risk of death after esophagectomy is about twice as high in hospitals which perform less than 5 esophagectomy operations per year.\n\n\n\n\n\n\n\n\n\n\nThe easiest way to find out whether a hospital is high volume or low volume is to ask your surgeon.\nYou could also check the internet. The Leapfrog Group is a non-profit organization that collects and publishes safety information healthcare. Their website ranks hospitals for safety and can help you find a high-volume hospital.\n\nYou can find a link to the Leapfrog website in the description: HospitalSafetyGrade.org\nYou can search on a hospital. Once there, you can click “View this hospital’s leapfrog Hospital Survey Results”\n\nOf course there are low-volume hospital that have good outcomes, but starting with a high-volume hospital is a place to start."
   },
   {
+    "objectID": "surgeon_slides.html#baseball",
+    "href": "surgeon_slides.html#baseball",
+    "title": "Your Surgery Team",
+    "section": "Baseball",
+    "text": "Baseball\n\n\nIf you go to a baseball game and want to know how a team is doing, you look at the scoreboard"
+  },
+  {
+    "objectID": "surgeon_slides.html#baseball-1",
+    "href": "surgeon_slides.html#baseball-1",
+    "title": "Your Surgery Team",
+    "section": "Baseball",
+    "text": "Baseball\n\n\nIf you want to evaluate an individual baseball player, or you want to compare one baseball player to another, you want to know more than just how they did in one game: you would look at their batting average"
+  },
+  {
+    "objectID": "surgeon_slides.html#baseball-2",
+    "href": "surgeon_slides.html#baseball-2",
+    "title": "Your Surgery Team",
+    "section": "Baseball",
+    "text": "Baseball\n\n\nMicky Mantle is regarded as one of baseball’s greatest players, and this baseball card from 1952 is one of the most valuable in history"
+  },
+  {
     "objectID": "surgeon_slides.html#section",
     "href": "surgeon_slides.html#section",
+    "title": "Your Surgery Team",
+    "section": "",
+    "text": "If you look at the back of his card, you’ll find lots of statistics, including his … batting average"
+  },
+  {
+    "objectID": "surgeon_slides.html#section-1",
+    "href": "surgeon_slides.html#section-1",
+    "title": "Your Surgery Team",
+    "section": "",
+    "text": "The batting average allows fans to compare players. A player with a high batting average may not hit a home run every time, but a player with a high batting average is certainly going to help win more games. The batting average won’t absolutely predict what will happen with every time a player goes to bat, but it shows an average over the season or over a career."
+  },
+  {
+    "objectID": "surgeon_slides.html#section-2",
+    "href": "surgeon_slides.html#section-2",
+    "title": "Your Surgery Team",
+    "section": "",
+    "text": "Something which the batting average doesn’t show, however, is the difficulty level of the games. One can assume that in the major leagues the competitions is pretty high."
+  },
+  {
+    "objectID": "surgeon_slides.html#section-3",
+    "href": "surgeon_slides.html#section-3",
+    "title": "Your Surgery Team",
+    "section": "",
+    "text": "We can imagine that any given batter is going to have a lower batting average against a top notch pitcher like Sandy Kofax, than against a little league pitcher\n\n!!! Photo of Sandy Kofax!!! !!! Photo of Little League Pitcher!!!"
+  },
+  {
+    "objectID": "surgeon_slides.html#section-4",
+    "href": "surgeon_slides.html#section-4",
+    "title": "Your Surgery Team",
+    "section": "",
+    "text": "When you choose a surgeon or a hospital for your cancer surgery, you want to find the best chance of success. You want to make sure you have the best players on the field, and you want to maximize your chances of winning.\nUnfortunately, there aren’t baseball cards for hospitals and surgeons, and finding the statistics for a hospital or surgeon can be a challenge, but it’s still important that you have all the information you need to make a good decision."
+  },
+  {
+    "objectID": "surgeon_slides.html#hospital-volume",
+    "href": "surgeon_slides.html#hospital-volume",
+    "title": "Your Surgery Team",
+    "section": "Hospital Volume",
+    "text": "Hospital Volume\nPractice makes perfect in many things in life, and esophageal surgery is no exception.\nHospitals where an esophagectomy is performed more frequently in general have better outcomes than hospitals where the operation is only occasionally done."
+  },
+  {
+    "objectID": "surgeon_slides.html#section-5",
+    "href": "surgeon_slides.html#section-5",
     "title": "Your Surgery Team",
     "section": "",
     "text": "The risk of death after esophagectomy is about twice as high in hospitals which perform less than 5 esophagectomy operations per year."
