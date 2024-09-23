@@ -13,24 +13,24 @@ title: "Patient Education"
 | Topic                    |                 Script                  |         HTML |        PDF                 |                        Video                         |
 |:----------------|:-------------------:|:---------------:|:---------------:|:------------:|
 | LCI Introduction         |  [Script](lci_intro_slides.html)     |       [HTML](lci_intro.html) | [PDF](lci_intro.pdf)  | [OLD Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
-| GE Diagnosis & Staging   |  [Script](ge_dx_staging.qmd) | [HTML](ge_dx_staging.html) | [PDF](ge_dx_staging.pdf) | [OLD Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
-| Barretts Esophagus       | [Script](eso_barretts.qmd)   | [HTML](eso_barretts.html) | [PDF](eso_barretts.pdf)  |  |
-| Metastatic Disease       | [Script](ge_metastatic.qmd)  | [HTML](ge_metastatic.html) | [PDF](ge_metastatic.pdf)  |  |
-| Eso Treatment Options    | [Script](eso_rx_options.qmd)  | [HTML](esx_tx_options.html) | [PDF](eso_rx_options.pdf) | [OLD Video](https://www.youtube.com/watch?v=Tk8cp3uL-lU) |
+| GE Diagnosis & Staging   |  [Script](ge_dx_staging_slides.html) | [HTML](ge_dx_staging.html) | [PDF](ge_dx_staging.pdf) | [OLD Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
+| Barretts Esophagus       | [Script](eso_barretts_slides.html)   | [HTML](eso_barretts.html) | [PDF](eso_barretts.pdf)  |  |
+| Metastatic Disease       | [Script](ge_metastatic_slides.html)  | [HTML](ge_metastatic.html) | [PDF](ge_metastatic.pdf)  |  |
+| Eso Treatment Options    | [Script](eso_rx_options_slides.html)  | [HTML](esx_tx_options.html) | [PDF](eso_rx_options.pdf) | [OLD Video](https://www.youtube.com/watch?v=Tk8cp3uL-lU) |
 | Early Stage Disease     | [Script](slides/06-Eso_Early.html)  |   [PDF](slides/06-Eso_Early.pdf)    |                                                      |
-| Eso ACA Treatment       | [Script](eso_aca_rx.qmd)  |  [HTML](eso_aca_rx.html) | [PDF](eso_aca_rx.pdf)    |                                                      |
-| Eso Advanced Disease    |  [Script](eso_advanced.qmd)  | [HTML](eso_advanced.html) [PDF](eso_advanced.pdf)  |                                                      |
-| Locally-Advanced ACA   | [Script](eso_aca_locally_advanced.qmd) | [HTML](eso_aca_locally_advanced.html) | [PDF](eso_aca_locally_advanced.pdf) |                  |
-| Locally-Advanced SCCA  | [Script](eso_scca_locally_advanced.qmd) | [HTML](eso_scca_locally_advanced.html) | [PDF](eso_scca_locally_advanced.pdf) |                 |
-| Surgery - Esophagectomy|[Script](eso_surgery.qmd)   |  [HTML](eso_surgery.html) | [PDF](eso_surgery.pdf)   |               |
-| Your Surgery Team      | [Script](surgeon.qmd)     |    [HTML](surgeon.html) | [PDF](surgeon.pdf)     |                                                      |
-| Symptoms - Esophageal  |[Script](eso_symptoms.qmd)     | [THML](eso_symptoms.html) |    [PDF](eso_symptoms.pdf)     |                                         |
-| Nutrition              |[Script](nutrition.qmd)    | [HTML](nutrition.html) |  [PDF](nutrition.pdf)    |                                                      |
-| Jejunostomy            |[Script](jejunostomy.qmd) | [HTML](jejunostomy.html)  | [PDF](jejunostomy.pdf)  |                                                      |
-| Gastrostomy            |[Script](gastrostomy.qmd)   | [HTML](gastrostomy.html) | [PDF](gastrostomy.pdf)   |                                                      |
-| Exercise               |[Script](exercise.qmd)    | [HTML](exercise.html)   [PDF](exercise.pdf)    |                                                      |
-| Metastatic Disease      |[Script](ge_metastatic.qmd) |[HTML](ge_metastatic.html) | [PDF](eso_metastatic.pdf) |                                                      |
-| Central Venous Port     |[script](cv_port.qmd)      |      [HTML](cv_port.html)      | [PDF](cv_port.pdf) | |                                                     |
-| GE Care Team.           |[script](ge_care_team.qmd)      |      [HTML](ge_care_team.html)      | [PDF](ge_care_team.pdf) | |                                                     |
+| Eso ACA Treatment       | [Script](eso_aca_rx_slides.html)  |  [HTML](eso_aca_rx.html) | [PDF](eso_aca_rx.pdf)    |                                                      |
+| Eso Advanced Disease    |  [Script](eso_advanced_slides.html)  | [HTML](eso_advanced.html) | [PDF](eso_advanced.pdf)  |                                                      |
+| Locally-Advanced ACA   | [Script](eso_aca_locally_advanced_slides.html) | [HTML](eso_aca_locally_advanced.html) | [PDF](eso_aca_locally_advanced.pdf) |                  |
+| Locally-Advanced SCCA  | [Script](eso_scca_locally_advanced_slides.html) | [HTML](eso_scca_locally_advanced.html) | [PDF](eso_scca_locally_advanced.pdf) |                 |
+| Surgery - Esophagectomy|[Script](eso_surgery_slides.html)   |  [HTML](eso_surgery.html) | [PDF](eso_surgery.pdf)   |               |
+| Your Surgery Team      | [Script](surgeon_slides.html)     |    [HTML](surgeon.html) | [PDF](surgeon.pdf)     |                                                      |
+| Symptoms - Esophageal  |[Script](eso_symptoms_slides.html)     | [THML](eso_symptoms.html) |    [PDF](eso_symptoms.pdf)     |                                         |
+| Nutrition              |[Script](nutrition_slides.html)    | [HTML](nutrition.html) |  [PDF](nutrition.pdf)    |                                                      |
+| Jejunostomy            |[Script](jejunostomy_slides.html) | [HTML](jejunostomy.html)  | [PDF](jejunostomy.pdf)  |                                                      |
+| Gastrostomy            |[Script](gastrostomy_slides.html)   | [HTML](gastrostomy.html) | [PDF](gastrostomy.pdf)   |                                                      |
+| Exercise               |[Script](exercise_slides.html)    | [HTML](exercise.html) |  [PDF](exercise.pdf)    |                                                      |
+| Metastatic Disease      |[Script](ge_metastatic_slides.html) |[HTML](ge_metastatic.html) | [PDF](eso_metastatic.pdf) |                                                      |
+| Central Venous Port     |[script](cv_port_slides.html)      |      [HTML](cv_port.html)      | [PDF](cv_port.pdf) | |                                                     |
+| GE Care Team           |[script](ge_care_team_slides.html)      |      [HTML](ge_care_team.html)      | [PDF](ge_care_team.pdf) | |                                                     |
 | **DEPRECATED**|
-| Eso Diagnosis & Staging   |  [Script](eso_dx_staging.qmd) | [HTML](eso_dx_staging.html) | [PDF](eso_dx_staging.pdf) | [OLD Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
+| Eso Diagnosis & Staging   |  [Script](eso_dx_staging_slides.html) | [HTML](eso_dx_staging.html) | [PDF](eso_dx_staging.pdf) | [OLD Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
