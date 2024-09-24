@@ -1,5 +1,5 @@
 ---
-title: "Eso Treatment Options"
+title: "Esophageal Cancer Treatment Options"
 format: 
   revealjs:
     slide-number: c/t
@@ -25,7 +25,7 @@ I’m Dr Jonathan Salo, a GI Cancer Surgeon in Charlotte, North Carolina. If you
 
 ------------------------------------------------------------------------
 
-One of the challenges with communicating medical information by video is that not everyone' situation is the same. It goes without saying that the internet is no substitute for talking with your esophageal cancer care team. If you haven't already, you may want to watch our video about your cancer care team. I'll leave a link in the description below and the care above. [Your Esophageal Cancer Care Team](slides/03-Eso_Care_Team.html)
+One of the challenges with communicating medical information by video is that not everyone' situation is the same. It goes without saying that the internet is no substitute for talking with your esophageal cancer care team. 
 
 ------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ Some of you will want more specific information that applies to your situation o
 
 The first step in designing a treatment plan for esophageal cancer is staging. If you haven't seen it already, please see the video about esophageal cancer diagnosis and staging to give you an overview.
 
-[Esophageal Cancer Diagnosis and Staging](02-Eso_Dx_Staging.html)
+[Gastroesophageal Cancer Diagnosis and Staging](ge_dx_staging.html)
 
 ------------------------------------------------------------------------
 
@@ -79,48 +79,50 @@ We will talk about two general groups of patients, those with early stage diseas
 
 Patients with *Early Stage Disease* generally have T1 or T2 tumors and while they may have bleeding or reflux symptoms, they don't have difficulty eating or weight loss.
 
-.pull-left\[
 
-## Early Stage
+::: columns
+::: {.column .fragment width="50%"}
+Early Stage
 
 -   T1 or T2 Tumors
 -   No Difficulty Eating
 -   Bleeding or reflux
 
-\]
+:::
 
-.pull-right\[
+::: {.column .fragment width="50%"}
+Advanced Stage
 
-## Advanced Stage
-
+-   T3 or M1
 -   Difficulty eating, especially solids
 -   Weight loss frequent
 
-\]
+:::
+:::
 
-------------------------------------------------------------------------
+
 
 Patients with *Advanced Disease* generally have T3 tumors and have some difficulty eating, and frequently have weight loss
 
-.pull-left\[
-
-## Early Stage
+::: columns
+::: {.column .fragment width="50%"}
+Early Stage
 
 -   T1 or T2 Tumors
 -   No Difficulty Eating
 -   Bleeding or reflux
 
-\]
+:::
 
-.pull-right\[
+::: {.column .fragment width="50%"}
+Advanced Stage
 
-## Advanced Stage
-
+-   T3 or M1
 -   Difficulty eating, especially solids
 -   Weight loss frequent
 
-\]
-
+:::
+:::
 ------------------------------------------------------------------------
 
 # Early Stage Disease
@@ -143,9 +145,7 @@ Patients with early stage disease can be divided into two categories:
 
 Locally advanced tumors are usually T3
 
-Metastatic tumors are usually M1 and have signs of spread to other organs
-
-## We will have links at the end to videos about early stage or advanced stage disease.
+Metastatic tumors  M1 and have signs of spread to other organs
 
 # Category? Stage?
 
@@ -181,8 +181,8 @@ Here are links to some videos that you may find helpful:
 
 # Links
 
-[Advanced Esophageal Cancer](08-Eso_Advanced.html)
+[Advanced Esophageal Cancer](eso_advanced.html)
 
-[Early Stage Esophageal Cancer](06-Eso_Early.html)
+[Early Stage Esophageal Cancer](eso_early.html)
 
 ------------------------------------------------------------------------

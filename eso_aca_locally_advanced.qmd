@@ -55,24 +55,32 @@ This video focuses on *Locally Advanced* esophageal cancer
 
 ::: columns
 ::: {.column .fragment width="50%"}
-In many cases, surgery is used to treat locally-advanced esophageal cancer. Esophagectomy surgery removes the tumor and the surrounding lymph nodes. In some cases, however, there is a risk of microscopic disease that can't be seen and can't be removed by surgery alone.
+
+Patients with locally-advanced esophageal cancer have a visible mass, or tumor, which frequently causes trouble swallowing.
+
+What we don't always recognize is that in many cases there can be microscopic areas of tumor which can't be seen with the naked eye.
+
+If surgery is the only treatment given, those microscopic areas of tumor can later cause a recurrence of cancer.
+
 :::
 
 ::: {.column .fragment width="50%"}
-![](images/Eso_Resection2Artboard%202@4x.png)
-:::
-:::
+![](images/Eso_Resection2Artboard 2@4x.png)
 
-------------------------------------------------------------------------
 
-For patients with esophageal cancer that is either T3 or Node-positive, research has shown that *initial* treatment with chemotherapy and radiation therapy makes the surgery more effective by killing microscopic tumor cells that can't be detected at the time of surgery.
+##
 
-Research has shown that a combination of chemotherapy plus radiation, followed by surgery, is the more effective than surgery alone for T3 or node-positive tumors.
+For patients with locally-advanced esophageal cancer, research has shown that preoperative treatment to shrink the cancer makes the surgery more effective by killing microscopic tumor cells that can't be detected at the time of surgery.
 
-|                                                                                                                                                                                                                   |
-|:-----------------------------------------------------------------------|
-| !!! Need to ad FLOT !!!                                                                                                                                                                                           |
-| \# Trimodality Therapy                                                                                                                                                                                            |
+There are two different treatments which have been shown to be effective
+
+- Radiation and chemotherapy for 5 1/2 weeks followed by surgery
+
+- Chemotherapy every other week for 8 weeks both before and after surgery
+
+## Chemoradiation
+
+
 | Over 10 years ago, researchers in the Netherlands took a group of 363 patients with esophageal cancer and divided them into two groups. They they treated the two groups with two different treatment strategies. |
 | The first group was treated with surgery alone.                                                                                                                                                                   |
 | The second group was treated with chemotherapy and radiation together for six weeks, followed by surgery.                                                                                                         |
@@ -88,6 +96,17 @@ This scientific study was called the CROSS trial. The therapy is called tri-moda
 A typical schedule for trimodality therapy is six weeks of chemotherapy and radiation together. Chemotherapy is given once a week, and radiation five days per week.
 
 ------------------------------------------------------------------------
+
+
+## FLOT
+
+A second approach is to use chemotherapy alone.
+
+A combination of drugs is administered intravenously every other week for 4 doses *before* surgery. After surgery, another 4 doses of chemotherapy are adinistered. 
+
+## EsoPEC
+
+
 
 Several weeks after the end of radiation therapy, a PET or CT scan is done to look at the response. Surgery is typically done 8 weeks after the end of radiation.
 
