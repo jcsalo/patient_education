@@ -12,7 +12,7 @@ format:
     echo: false
     output-file: gastrostomy_slides.html
   pdf:
-    documentclass: scrartcl
+    documentclass: handout
   html: default
 editor: visual
 bibliography: zotero.bib
