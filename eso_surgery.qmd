@@ -224,7 +224,7 @@ The anastomosis is surigcal connection between the esophagus and the stomach.
 :::
 
 ::: {.column .fragment width="50%"}
-![](images/Eso_AnastArtboard%202@4x.png)
+![](images/Eso_IL_AnastArtboard 2@4x.png)
 :::
 :::
 
