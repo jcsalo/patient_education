@@ -47,7 +47,7 @@ If you haven't seen it already, this may be a good time to view the Esophageal C
 
 # Goals of Esophagectomy
 
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
 -   Remove tumor from esophagus
 -   Remove surrounding lymph nodes
@@ -57,13 +57,13 @@ If you haven't seen it already, this may be a good time to view the Esophageal C
 ::: {.column .fragment width="50%"}
 ![](images/Eso_Resection1Artboard%202@4x.png)
 :::
-:::
+:::::
 
 ------------------------------------------------------------------------
 
 # Resection
 
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
 The *Ivor Lewis* esophagectomy, shown here, removes the lower 2/3 of the esophagus, the tumor, and the surrounding lymph nodes.
 :::
@@ -71,13 +71,13 @@ The *Ivor Lewis* esophagectomy, shown here, removes the lower 2/3 of the esophag
 ::: {.column .fragment width="50%"}
 ![](images/Eso_Resection2Artboard%202@4x.png)
 :::
-:::
+:::::
 
 ------------------------------------------------------------------------
 
 # Reconstruction
 
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
 A new esophagus is created from the stomach in the abdomen by fashioning it into a tube.
 :::
@@ -85,13 +85,13 @@ A new esophagus is created from the stomach in the abdomen by fashioning it into
 ::: {.column .fragment width="50%"}
 ![](images/Eso_Resection3Artboard%202@4x.png)
 :::
-:::
+:::::
 
 ------------------------------------------------------------------------
 
 # Ivor Lewis esophagectomy
 
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
 The new esophagus is now brought up into the chest. A new connection is made between the esophagus and the stomach, called an *anastomosis*.
 :::
@@ -99,13 +99,13 @@ The new esophagus is now brought up into the chest. A new connection is made bet
 ::: {.column .fragment width="50%"}
 ![](images/Eso_IL_AnastArtboard%202@4x.png)
 :::
-:::
+:::::
 
 ------------------------------------------------------------------------
 
 # Open Esophagectomy
 
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
 Open esophagectomy uses conventional incisions in the abdomen and the right chest. An incision is made between the ribs on the right side, and an abdominal incision made from the breast bone to below the belly button. This is a well-established surgical approach which has been used for the past 75 years.
 :::
@@ -113,13 +113,13 @@ Open esophagectomy uses conventional incisions in the abdomen and the right ches
 ::: {.column .fragment width="50%"}
 ![](images/IvorLewisArtboard%202@4x.png)
 :::
-:::
+:::::
 
 ------------------------------------------------------------------------
 
 # Minimally-invasive Ivor Lewis
 
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
 Mininally-invasive esophagectomy uses small incisions in the abdomen and chest. A surgical telescope and special instruments are used to perform the operations. This operation is a more recent innovation and can be used in many cases instead of an open approach.
 
@@ -129,13 +129,13 @@ The smaller incisions mean faster recovery and less discomfort
 ::: {.column .fragment width="50%"}
 ![](images/MIE_IvorLewisArtboard%202@4x.png)
 :::
-:::
+:::::
 
 ------------------------------------------------------------------------
 
 # Minimally-invasive Ivor Lewis
 
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
 We have found this is the best option for most of our patients. In some cases, an open approach is still necessary.
 :::
@@ -143,13 +143,13 @@ We have found this is the best option for most of our patients. In some cases, a
 ::: {.column .fragment width="50%"}
 ![](images/MIE_IvorLewisArtboard%202@4x.png)
 :::
-:::
+:::::
 
 ------------------------------------------------------------------------
 
 # Total Esophagectomy
 
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
 For patients with tumors in the upper esophagus, we need to remove more of the esophagus
 :::
@@ -157,13 +157,13 @@ For patients with tumors in the upper esophagus, we need to remove more of the e
 ::: {.column .fragment width="50%"}
 ![](images/Eso_ProxTumorArtboard%202@4x.png)
 :::
-:::
+:::::
 
 ------------------------------------------------------------------------
 
 # Total Esophagectomy
 
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
 For those patients, we need to remove the whole esophagus
 :::
@@ -171,13 +171,13 @@ For those patients, we need to remove the whole esophagus
 ::: {.column .fragment width="50%"}
 ![](images/Eso_ResectionTotalArtboard%202@4x.png)
 :::
-:::
+:::::
 
 ------------------------------------------------------------------------
 
 # Minimally-invasive McKeown Esophagectomy
 
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
 In this case, a connection between the esophagus and the stomach is made in the neck.
 :::
@@ -185,13 +185,13 @@ In this case, a connection between the esophagus and the stomach is made in the 
 ::: {.column .fragment width="50%"}
 ![](images/Eso_MIE_McKeownArtboard%202@4x.png)
 :::
-:::
+:::::
 
 ------------------------------------------------------------------------
 
 # Transhiatal Esophagectomy
 
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
 Another option is a transhiatal esohagectomy, which avoids the need to make incisions in the right chest. The operation is performed from the abdomen and the right neck.
 :::
@@ -199,7 +199,7 @@ Another option is a transhiatal esohagectomy, which avoids the need to make inci
 ::: {.column .fragment width="50%"}
 ![](images/Eso_MIE_THEArtboard%202@4x.png)
 :::
-:::
+:::::
 
 ------------------------------------------------------------------------
 
@@ -218,21 +218,21 @@ An esophagectomy is a substantial operation, and in some cases there can be post
 
 # Anastomotic Leak
 
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
 The anastomosis is surigcal connection between the esophagus and the stomach.
 :::
 
 ::: {.column .fragment width="50%"}
-![](images/Eso_IL_AnastArtboard 2@4x.png)
+![](images/Eso_IL_AnastArtboard%202@4x.png)
 :::
-:::
+:::::
 
 ------------------------------------------------------------------------
 
 # Anastomotic Leak
 
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
 If anastomosis does not heal properly, this can cause a leakage of fluid from the esophagus, called an anastomotic leak. If this happens, an infection can occur in the mediastinum, which is the space near the heart between the lungs.
 :::
@@ -240,7 +240,7 @@ If anastomosis does not heal properly, this can cause a leakage of fluid from th
 ::: {.column .fragment width="50%"}
 ![](images/Eso_LeakArtboard%202@4x.png)
 :::
-:::
+:::::
 
 ------------------------------------------------------------------------
 
@@ -252,7 +252,7 @@ In some cases, the leak will heal on its own, but other cases may require additi
 
 # Pneumonia
 
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
 Pneumonia is another complication which can occurs in about 10-15% of patients after esophagectomy. Pneumonia requires treatment with antibiotics and frequently requires a longer hospitalization.
 :::
@@ -260,7 +260,7 @@ Pneumonia is another complication which can occurs in about 10-15% of patients a
 ::: {.column .fragment width="50%"}
 ![](images/Eso_LungsArtboard%202@4x.png)
 :::
-:::
+:::::
 
 ------------------------------------------------------------------------
 
@@ -401,7 +401,7 @@ p
 
 # Muscle Strength and Risk after Esophagectomy
 
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
 The results of our research suggest a simple answer: The risk of pneumonia is related to a patient's muscle strength.\]
 :::
@@ -409,11 +409,11 @@ The results of our research suggest a simple answer: The risk of pneumonia is re
 ::: {.column .fragment width="50%"}
 ![](images/emancipation-156066_1280.png)
 :::
-:::
+:::::
 
 ## 
 
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
 Now this doesn't mean that you need to look like this to prevent pneumonia after your esophagectomy\]
 :::
@@ -421,7 +421,7 @@ Now this doesn't mean that you need to look like this to prevent pneumonia after
 ::: {.column .fragment width="50%"}
 ![](images/man-461195_1920.jpg)
 :::
-:::
+:::::
 
 ------------------------------------------------------------------------
 

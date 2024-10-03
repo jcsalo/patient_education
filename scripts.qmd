@@ -7,12 +7,8 @@ output: html_document
 
 [Gastroesophageal Dx and Staging](ge_dx_staging.qmd)
 
-[Gastroesophageal Treatment Options]
-
-
-
+\[Gastroesophageal Treatment Options\]
 
 ## Deprecated
-
 
 [Eso Dx and Staging](eso_dx_staging.qmd)
