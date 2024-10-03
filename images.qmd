@@ -1,0 +1,112 @@
+---
+title: "Images"
+---
+
+## Images for Patient Education
+
+https://deidt7p41jzcy.cloudfront.net/EMRF_ai.jpg
+
+Transparent Background
+| Name                   |               Size                  |        Description | 
+|:-------------------|:------:|:-------------------------:|
+|[Balloon_catheter_Zeichenfläche 1.pgn](https://deidt7p41jzcy.cloudfront.net/Balloon_catheter_Zeichenfläche 1.png)|507.5 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/barrx-360-rfa-balloon-catheter-f-big.jpg)|102.0 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/central-venous-port_Zeichenfläche 1.png)|173.1 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/egd8_ai.png)|50.8 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/EMRF_ai.jpg)|1.2 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/EMRU_ai.jpg)|1.2 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Anastomosis.png)|242.0 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_jejunostomy_pancreas.png)|268.2 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_jejunostomy.png)|251.3 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Leak.png)|238.9 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_simple.png)|211.6 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/Eso_McKeown_MIE.png)|218.6 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/Eso_McKeown_Open.png)|225.9 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_McKeown_ai.png)|100.5 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_THE_ai.png)|104.5 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/Eso_Resection1_ai.png)|108.4 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/Eso_Resection2_ai.png)|117.0 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/Eso_Resection3_ai.png)|94.6 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/Eso_ResectionTotalb_ai.png)|79.7 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/Eso_THE_MIE.png)|214.7 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/Eso_TotalEsophagectomy.png)|214.2 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/eso1_ai.png)|103.2 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/eso2_ai.png)|105.7 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/eso3_ai.png)|120.7 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/eso4_ai.png)|122.4 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/EUS_ai.png)|114.2 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/gastro-tube_Zeichenfläche 1.png)|167.9 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/gj_ai.png)|121.3 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/gtube_ai.png)|112.9 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/HGD_ai.jpg)|1.1 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/images.png)|1.9 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/jtube_ai.png)|114.2 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/JTubeNativeStomach.jpg)|247.5 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/JTubePostEsophagectomy.jpg)|243.4 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/Lapscope_ai.png)|78.9 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/liverlung_ai.png)|136.9 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/liverlung2_ai.png)|118.1 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/T1a_ai.jpg)|1.1 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/t1a_ai.png)|2.7 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/t1a1b_ai.png)|2.8 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/T1b_ai.jpg)|1.1 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/t1bt2_ai.png)|2.9 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/T2_ai.jpg)|1.2 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/t2n0_ai.png)|2.8 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/T2T3_5000.jpg)|4.0 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/T2T3.png)|1.4 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/T3_ai.jpg)|1.2 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/t3n01_ai.png)|3.1 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/tte1_ai.png)|94.3 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/tte2_ai.png)|86.0 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/tte3_ai.png)|95.0 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/tumor_full.png)|4.1 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/tumor1_ai.png)|2.9 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/tumor21_ai.png)|2.9 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/tumor22_ai.png)|3.0 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/tumor23_ai.png)|3.0 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/tumor24_ai.png)|3.1 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/tumor25_ai.png)|3.1 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/tumor25a_ai.png)|3.2 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/tumor25b_ai.png)|3.3 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/tumor3N0_ai.png)|2.9 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/tumor3N13_ai.png)|3.0 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/tumor3T1_ai.png)|2.9 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/tumor3T1b_ai.png)|2.9 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/tumor3T2_ai.png)|3.1 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/tumor3T3A_ai.png)|3.3 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/tumor3T4_ai.png)|3.5 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/tumors_2160.jpg)|1.5 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/tumors_5000.jpg)|4.2 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/tumors_ai.jpg)|1.3 MB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/wbg_ai.png)|297.6 KB||
+|[PNG](https://deidt7p41jzcy.cloudfront.net/wbgb_ai.png)|297.6 KB
+
+
+
+[JPG](https://deidt7p41jzcy.cloudfront.net/         )|
+
+
+
+
+| LCI Introduction         |  [Script](lci_intro_slides.html)     |       [HTML](lci_intro.html) | [PDF](lci_intro.pdf)  | [OLD Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
+| GE Diagnosis & Staging   |  [Script](ge_dx_staging_slides.html) | [HTML](ge_dx_staging.html) | [PDF](ge_dx_staging.pdf) | [OLD Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
+| Eso Treatment Options    | [Script](eso_rx_options_slides.html)  | [HTML](eso_tx_options.html) | [PDF](eso_rx_options.pdf) | [OLD Video](https://www.youtube.com/watch?v=Tk8cp3uL-lU) |
+| Esophageal Early Stage   | [Script](eso_early_slides.html)  |  [HTML](eso_early.html) | [PDF](eso_early.pdf)    |           |
+| Eso Advanced Disease    |  [Script](eso_advanced_slides.html)  | [HTML](eso_advanced.html) | [PDF](eso_advanced.pdf)  |   
+| Locally-Advanced ACA   | [Script](eso_aca_locally_advanced_slides.html) | [HTML](eso_aca_locally_advanced.html) | [PDF](eso_aca_locally_advanced.pdf) | |
+| Locally-Advanced SCCA  | [Script](eso_scca_locally_advanced_slides.html) | [HTML](eso_scca_locally_advanced.html) | [PDF](eso_scca_locally_advanced.pdf) | |
+| GE Metastatic Disease       | [Script](ge_metastatic_slides.html)  | [HTML](ge_metastatic.html) | [PDF](ge_metastatic.pdf)  |  |
+| Esophagectomy|[Script](eso_surgery_slides.html)   |  [HTML](eso_surgery.html) | [PDF](eso_surgery.pdf)   |               |
+| Your Surgery Team      | [Script](surgeon_slides.html)     |    [HTML](surgeon.html) | [PDF](surgeon.pdf)     |        |
+| Nutrition              |[Script](nutrition_slides.html)    | [HTML](nutrition.html) |  [PDF](nutrition.pdf)    |        |
+| Jejunostomy            |[Script](jejunostomy_slides.html) | [HTML](jejunostomy.html)  | [PDF](jejunostomy.pdf)  |                                  |
+| Gastrostomy            |[Script](gastrostomy_slides.html)   | [HTML](gastrostomy.html) | [PDF](gastrostomy.pdf)   |                                 |
+| Exercise               |[Script](exercise_slides.html)    | [HTML](exercise.html) |  [PDF](exercise.pdf)    |                        |
+| Central Venous Port   |[script](cv_port_slides.html)      |      [HTML](cv_port.html)      | [PDF](cv_port.pdf) | |                            |
+| GE Care Team           |[script](ge_care_team_slides.html)      |      [HTML](ge_care_team.html)      | [PDF](ge_care_team.pdf) | |                |
+| **OBSELETE**|
+| Eso Diagnosis & Staging   |  [Script](eso_dx_staging_slides.html) | [HTML](eso_dx_staging.html) | [PDF](eso_dx_staging.pdf) | [OLD Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
+| Barretts Esophagus       | [Script](eso_barretts_slides.html)   | [HTML](eso_barretts.html) | [PDF](eso_barretts.pdf)  |  |
+| Eso ACA Treatment       | [Script](eso_aca_rx_slides.html)  |  [HTML](eso_aca_rx.html) | [PDF](eso_aca_rx.pdf)    |                |
+| Symptoms - Esophageal  |[Script](eso_symptoms_slides.html)     | [THML](eso_symptoms.html) |    [PDF](eso_symptoms.pdf)     |                 |
