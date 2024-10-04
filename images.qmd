@@ -10,22 +10,22 @@ https://deidt7p41jzcy.cloudfront.net/EMRF_ai.jpg
 
 | Name              | Size    |        Description | 
 |:-------------------|:------:|:-------------------------:|
-|[Balloon_catheter_Zeichenfläche 1.pgn](https://deidt7p41jzcy.cloudfront.net/Balloon_catheter_Zeichenfläche 1.png)|507.5 KB||
-|[barrx-360-rfa-balloon-catheter-f-big.jpg](https://deidt7p41jzcy.cloudfront.net/barrx-360-rfa-balloon-catheter-f-big.jpg)|102.0 KB||
-|[central-venous-port_Zeichenfläche 1.png](https://deidt7p41jzcy.cloudfront.net/central-venous-port_Zeichenfläche 1.png)|173.1 KB||
-|[https://deidt7p41jzcy.cloudfront.net/egd8_ai.png](https://deidt7p41jzcy.cloudfront.net/egd8_ai.png)|50.8 KB||
-|[https://deidt7p41jzcy.cloudfront.net/EMRF_ai.jpg](https://deidt7p41jzcy.cloudfront.net/EMRF_ai.jpg)|1.2 MB||
-|[https://deidt7p41jzcy.cloudfront.net/EMRU_ai.jpg](https://deidt7p41jzcy.cloudfront.net/EMRU_ai.jpg)|1.2 MB||
-|[Eso_IvorLewis_Anastomosis.png](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Anastomosis.png)|242.0 KB||
+|[Balloon_catheter_Zeichenfläche 1.pgn](https://deidt7p41jzcy.cloudfront.net/Balloon_catheter_Zeichenfläche 1.png)|507.5 KBTwo RFA Balloons||
+|[barrx-360-rfa-balloon-catheter-f-big.jpg](https://deidt7p41jzcy.cloudfront.net/barrx-360-rfa-balloon-catheter-f-big.jpg)|102.0 KB|May be commercial|
+|[central-venous-port_Zeichenfläche 1.png](https://deidt7p41jzcy.cloudfront.net/central-venous-port_Zeichenfläche 1.png)|173.1 KBCV Port sideview||
+|[egd8_ai.png](https://deidt7p41jzcy.cloudfront.net/egd8_ai.png)|50.8 KB|EGD cf eso3_ai.png|
+|[EMRF_ai.jpg](https://deidt7p41jzcy.cloudfront.net/EMRF_ai.jpg)|1.2 MB|EMR Favorable (with eso wall)|
+|[EMRU_ai.jpg](https://deidt7p41jzcy.cloudfront.net/EMRU_ai.jpg)|1.2 MB|EMR Unfavorable (with eso wall)|
+|[Eso_IvorLewis_Anastomosis.png](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Anastomosis.png)|242.0 KB|Labels for Anastomosis|
 |[Eso_IvorLewis_jejunostomy_pancreas.png](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_jejunostomy_pancreas.png)|268.2 KB||
 |[Eso_IvorLewis_jejunostomy.png](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_jejunostomy.png)|251.3 KB||
 |[Eso_IvorLewis_Leak.png](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Leak.png)|238.9 KB||
-|[Eso_IvorLewis_simple.png](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_simple.png)|211.6 KB||
+|[Eso_IvorLewis_simple.png](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_simple.png)|211.6 KB|No labels|
 |[Eso_McKeown_MIE.png](https://deidt7p41jzcy.cloudfront.net/Eso_McKeown_MIE.png)|218.6 KB||
 |[Eso_McKeown_Open.png](https://deidt7p41jzcy.cloudfront.net/Eso_McKeown_Open.png)|225.9 KB||
 |[Eso_MIE_McKeown_ai.png](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_McKeown_ai.png)|100.5 KB||
 |[Eso_MIE_THE_ai.png](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_THE_ai.png)|104.5 KB||
-|[Eso_Resection1_ai.png](https://deidt7p41jzcy.cloudfront.net/Eso_Resection1_ai.png)|108.4 KB||
+|[Eso_Resection1_ai.png](https://deidt7p41jzcy.cloudfront.net/Eso_Resection1_ai.png)|108.4 KB|Eso + Tumor + nodes|
 |[Eso_Resection2_ai.png](https://deidt7p41jzcy.cloudfront.net/Eso_Resection2_ai.png)|117.0 KB||
 |[Eso_Resection3_ai.png](https://deidt7p41jzcy.cloudfront.net/Eso_Resection3_ai.png)|94.6 KB||
 |[Eso_ResectionTotalb_ai.png](https://deidt7p41jzcy.cloudfront.net/Eso_ResectionTotalb_ai.png)|79.7 KB||
