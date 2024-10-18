@@ -53,7 +53,7 @@ Staging is important in order to find the right treatment for a particular patie
 ## Esophageal Cancer Staging
 
 |  |  |
-|----------------|--------------------------------------------------------|
+|-------------------|-----------------------------------------------------|
 | **T** | **Tumor** - How deep has cancer grown into the wall of the esophagus |
 | **N** | **Nodes** - Has cancer spread to the lymph nodes? |
 | **M** | **Metastasis** - Has the cancer spread to other parts of the body such as the lungs or liver? |
@@ -66,85 +66,156 @@ The esophagus is made of several layers, starting with the mucosa, which is the 
 
 ## Cancer Growth
 
+::::: columns
+::: {.column .fragment width="50%"}
 Cancers start on the very inside of the layer called the mucosa
+:::
 
+::: {.column .fragment width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/tumor21_ai.png)
+:::
+:::::
 
 ## Cancer Growth
 
+::::: columns
+::: {.column .fragment width="50%"}
 As cancers grow, they penetrate into deeper layers of the wall of the esopahgus
+:::
 
+::: {.column .fragment width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/tumor23_ai.png)
+:::
+:::::
 
 ## Cancer Growth
 
+::::: columns
+::: {.column .fragment width="50%"}
 This process of growth takes years
-
+:::
+::: {.column .fragment width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/tumor24_ai.png)
+:::
+:::::
 
 ## Cancer Growth
 
+::::: columns
+::: {.column .fragment width="50%"}
 As the cancer grows it can make swallowing more difficult
-
+:::
+::: {.column .fragment width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/tumor25_ai.png)
+:::
+:::::
 
 ## Cancer Growth
 
+::::: columns
+::: {.column .fragment width="50%"}
 The thicker a cancer becomes, the more likely it is to spread to lymph nodes
-
+:::
+::: {.column .fragment width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/tumor25a_ai.png)
+:::
+:::::
 
 ## Cancer Growth
 
+::::: columns
+::: {.column .fragment width="50%"}
 Cancer cells can then grow inside the lymph nodes
+:::
 
+::: {.column .fragment width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/tumor25b_ai.png)
+:::
+:::::
 
 ## T Stage
 
+::::: columns
+::: {.column .fragment width="50%"}
 Cancers are categorized based upon the thickness of the tumor, known as the T stage
-
+:::
+::: {.column .fragment width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/tumors_2160.jpg)
+:::
+:::::
 
 ## N Stage
 
+::::: columns
+::: {.column .fragment width="50%"}
 Cancers are also categorized based upon whethere there is spread to the lymph nodes.
 
-N0 cancers have not spread to the lymph nodes
+-   N0 cancers have not spread to the lymph nodes
 
-N1 cancers have spread to the lymph nodes.
-
+-   N1 cancers have spread to the lymph nodes.
+:::
+::: {.column .fragment width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/tumors_2160.jpg)
+:::
+:::::
 
 ## M Stage
 
+:::: columns
+::: {.column .fragment width="50%"}
 Some cancers can spread from the esophagus to the lungs or liver
-
+:::
+::: {.column .fragment width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_M_Stage.png)
+:::
+:::::
 
 ## Endoscopic Ultrasound
 
+::::: columns
+::: {.column .fragment width="50%"}
 Endoscopic ultrasound is a procedure similar to upper endoscopy (EGD) which has an ultrasound probe at the bottom of the scope. This allows measuring the thickness of the cancer.
-
+:::
+::: {.column .fragment width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/EUSArtboard2@4x.png)
+:::
+:::::
 
 ## PET scan
+
+A PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer.
 
 ![](https://deidt7p41jzcy.cloudfront.net/PetImage.png)
 
 ## Laparoscopy
 
+::::: columns
+::: {.column .fragment width="50%"}
 Some cancers can spread inside the abdominal cavity. These areas of spread can be very small, as small as a grain of rice.
 
 In order to detect spread within the abdominal cavity, a proceduce called a laparoscopy can be performed
-
+:::
+::: {.column .fragment width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
+:::
+:::::
 
 ## Laparoscopy
 
-A laparoscopy is performed under a general anesthetic. Several small incisions 1/4: long are made. A telecscope the size of a pencil is inserted to look inside the abdominal cavity. If necessary, a biopsy can be performed.
+::::: columns
+::: {.column .fragment width="60%"}
+A laparoscopy is performed under a general anesthetic.
 
+-   Several small incisions 1/4: long are made.
+
+-   A telecscope the size of a pencil is inserted to look inside the abdominal cavity.
+
+-   If necessary, a biopsy can be performed.
+:::
+::: {.column .fragment width="40%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
+:::
+:::::
 
 ## Treatment Plan
 
@@ -153,18 +224,85 @@ A laparoscopy is performed under a general anesthetic. Several small incisions 1
 | Superficial      | T1        | Endoscopic Therapy                         |
 | Localized        | T1b or T2 | Surgery                                    |
 | Locally-advanced | T3 or N1  | Preoperative therapy $\rightarrow$ Surgery |
-| Metastatic       | M1        | Chemotherapy       
+| Metastatic       | M1        | Chemotherapy                               |
 
-
-## Preoperative therapy 
+## Preoperative therapy
 
 Patients with locally-advanced esophageal cancer often have localized spread of cancer cells in the surrounding area
 
-![]https://deidt7p41jzcy.cloudfront.net/Eso_tumor_100_1600.png
+\![\](https://dei## Preoperative therapy
 
-## Preoperative therapy 
+## Preoperative Therapy
 
-![](https://deidt7p41jzcy.cloudfront.net/tumor25_ai.png)
+Patients with locally-advanced esophageal cancer often have localized spread of cancer cells in the surrounding area
+
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor_100_1600.png)
+
+## Preoperative therapy
+
+Patients with locally-advanced esophageal cancer often have localized spread of cancer cells in the surrounding area
+
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor100_resection2.png)
+
+## Preoperative therapy
+
+Patients with locally-advanced esophageal cancer often have localized spread of cancer cells in the surrounding area
+
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor100_resection_intra.png)
+
+## Preoperative therapy
+
+Patients with locally-advanced esophageal cancer often have localized spread of cancer cells in the surrounding area
+
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor100_resection_post.png)
+
+## Preoperative Therapy
+
+For these patients, it is helplful to start with therapy that will shrink the tumor prior to surgery
+
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor_100_1600.png)
+
+## Preoperative Therapy
+
+For these patients, it is helplful to start with therapy that will shrink the tumor prior to surgery
+
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor80_1600.png)
+
+## Preoperative Therapy
+
+For these patients, it is helplful to start with therapy that will shrink the tumor prior to surgery
+
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor60_1600.png)
+
+## Preoperative Therapy
+
+For these patients, it is helplful to start with therapy that will shrink the tumor prior to surgery
+
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor40_1600.png)
+
+## Preoperative Therapy
+
+For these patients, it is helplful to start with therapy that will shrink the tumor prior to surgery
+
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor20_1600.png)
+
+## Preoperative Therapy
+
+For these patients, it is helplful to start with therapy that will shrink the tumor prior to surgery
+
+![](https://deidt7p41jzcy.cloudfront.net/Eso_Tumor_00_1600.png)
+
+## Preoperative Therapy
+
+For these patients, it is helplful to start with therapy that will shrink the tumor prior to surgery
+
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor00_resection1_1600.png)
+
+## Preoperative Therapy
+
+In this way, surgery can be performed with the best chance of removing all of the cancer and avoid leaving any behind.
+
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor00_resection2_1600.png)
 
 ## Locally-Advanced Esophageal Adenocarcinoma
 
@@ -263,4 +401,13 @@ Dental work done prior to chemotherapy
 Will need a port for chemotherapy
 
 Updated list of medicines
-
+:::::::::::
+::::::::::::::
+:::::::::::::::::
+::::::::::::::::::::
+:::::::::::::::::::::::
+::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::
