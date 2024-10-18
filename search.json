@@ -536,7 +536,7 @@
     "href": "esot3.html#endoscopic-ultrasound",
     "title": "Cancer of the Esophagus and Gastroesophageal Junction",
     "section": "Endoscopic Ultrasound",
-    "text": "Endoscopic Ultrasound"
+    "text": "Endoscopic Ultrasound\nEndoscopic ultrasound is a procedure similar to upper endoscopy (EGD) which has an ultrasound probe at the bottom of the scope. This allows measuring the thickness of the cancer."
   },
   {
     "objectID": "esot3.html#pet-scan",
@@ -560,18 +560,32 @@
     "text": "Laparoscopy\nA laparoscopy is performed under a general anesthetic. Several small incisions 1/4: long are made. A telecscope the size of a pencil is inserted to look inside the abdominal cavity. If necessary, a biopsy can be performed."
   },
   {
-    "objectID": "esot3.html#section",
-    "href": "esot3.html#section",
+    "objectID": "esot3.html#treatment-plan",
+    "href": "esot3.html#treatment-plan",
     "title": "Cancer of the Esophagus and Gastroesophageal Junction",
-    "section": "",
-    "text": "For patients with squamous cell carcinoma of the esophagus, a combination of chemotherapy and radiation is the preferred method tumor shrinkage before surgery. This consists of 5 1/2 weeks of therapy\n\n\nSquamous Cell Carcinoma\n\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery"
+    "section": "Treatment Plan",
+    "text": "Treatment Plan\n\n\n\n\n\n\n\n\nSuperficial\nT1\nEndoscopic Therapy\n\n\nLocalized\nT1b or T2\nSurgery\n\n\nLocally-advanced\nT3 or N1\nPreoperative therapy \\(\\rightarrow\\) Surgery\n\n\nMetastatic\nM1\nChemotherapy"
   },
   {
-    "objectID": "esot3.html#adenocarcinoma",
-    "href": "esot3.html#adenocarcinoma",
+    "objectID": "esot3.html#preoperative-therapy",
+    "href": "esot3.html#preoperative-therapy",
     "title": "Cancer of the Esophagus and Gastroesophageal Junction",
-    "section": "Adenocarcinoma",
-    "text": "Adenocarcinoma\nFor patients with adenocarcinoma, there are two options: chemotherapy and radiation prior to surgery OR chemotherapy before and after surgery:\n\n\nAdenocarcinoma\n\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery\nChemo \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Surgery\n\n\nSquamous Cell Carcinoma\n\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery"
+    "section": "Preoperative therapy",
+    "text": "Preoperative therapy\nPatients with locally-advanced esophageal cancer often have localized spread of cancer cells in the surrounding area\n![]https://deidt7p41jzcy.cloudfront.net/Eso_tumor_100_1600.png"
+  },
+  {
+    "objectID": "esot3.html#preoperative-therapy-1",
+    "href": "esot3.html#preoperative-therapy-1",
+    "title": "Cancer of the Esophagus and Gastroesophageal Junction",
+    "section": "Preoperative therapy",
+    "text": "Preoperative therapy"
+  },
+  {
+    "objectID": "esot3.html#locally-advanced-esophageal-adenocarcinoma",
+    "href": "esot3.html#locally-advanced-esophageal-adenocarcinoma",
+    "title": "Cancer of the Esophagus and Gastroesophageal Junction",
+    "section": "Locally-Advanced Esophageal Adenocarcinoma",
+    "text": "Locally-Advanced Esophageal Adenocarcinoma\nFor patients with adenocarcinoma, there are two options: chemotherapy and radiation prior to surgery OR chemotherapy before and after surgery:\n\n\nAdenocarcinoma\n\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery\nChemo \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Surgery\n\n\nSquamous Cell Carcinoma\n\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery"
   },
   {
     "objectID": "esot3.html#cross-vs-flot",
@@ -581,15 +595,15 @@
     "text": "CROSS vs FLOT\nThe combination of chemotherapy and radiation is referred to as CROSS, and chemotherapy before and after surgery is referrred to as FLOT\n\n\nAdenocarcinoma\n\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery CROSS\nChemo \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Surgery FLOT\n\n\nSquamous Cell Carcinoma\n\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery CROSS"
   },
   {
-    "objectID": "esot3.html#section-1",
-    "href": "esot3.html#section-1",
+    "objectID": "esot3.html#section",
+    "href": "esot3.html#section",
     "title": "Cancer of the Esophagus and Gastroesophageal Junction",
     "section": "",
     "text": "Several weeks after the end of radiation therapy, a PET or CT scan is done to look at the response. Surgery is typically done 8 weeks after the end of radiation."
   },
   {
-    "objectID": "esot3.html#section-2",
-    "href": "esot3.html#section-2",
+    "objectID": "esot3.html#section-1",
+    "href": "esot3.html#section-1",
     "title": "Cancer of the Esophagus and Gastroesophageal Junction",
     "section": "",
     "text": "For most people, the chemotherapy and radiation are well tolerated. In some cases, side effects do occur."
@@ -606,14 +620,7 @@
     "href": "esot3.html#chemotherapy-flot",
     "title": "Cancer of the Esophagus and Gastroesophageal Junction",
     "section": "Chemotherapy (FLOT)",
-    "text": "Chemotherapy (FLOT)\nFor patients with adenocarcinoma, an alternative to CROSS chemotherapy and radiation is to administer chemotherapy before and after surgery.\nIn this method,\nhttps://www.macmillan.org.uk/cancer-information-and-support/treatments-and-drugs/flot\nhttps://www.chemoexperts.com/flot-fluorouracil-leucovorin-oxaliplatin-docetaxel.html\nTaxotere - 1 hour Oxaliplatin - 2 hours Leucovorin - 2 hours 5FU - 24 hours via an infusion pump\nPre-medication with dexamethosone day prior and day of\nCovid-19 and Flu vaccines Shingles vaccine before chemotherapy\nDental work done prior to chemotherapy\nWill need a port for chemotherapy\nUpdated list of medicines"
-  },
-  {
-    "objectID": "esot3.html#summary---locally-advanced",
-    "href": "esot3.html#summary---locally-advanced",
-    "title": "Cancer of the Esophagus and Gastroesophageal Junction",
-    "section": "Summary - Locally advanced",
-    "text": "Summary - Locally advanced\nFor patients T3 or Node-positive:\nPatients with squamous cell carcinoma are treated with chemotherapy + radiaiton\nFor patients with adenocarcinoma, there are two options: chemotherapy and radiation prior to surgery OR chemotherapy before and after surgery:\n\n\nAdenocarcinoma\n\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery\nChemo \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Surgery\n\n\nSquamous Cell Carcinoma\n\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery"
+    "text": "Chemotherapy (FLOT)\nFor patients with adenocarcinoma, an alternative to CROSS chemotherapy and radiation is to administer chemotherapy before and after surgery.\nIn this method,\nhttps://www.macmillan.org.uk/cancer-information-and-support/treatments-and-drugs/flot\nhttps://www.chemoexperts.com/flot-fluorouracil-leucovorin-oxaliplatin-docetaxel.html\nTaxotere - 1 hour Oxaliplatin - 2 hours Leucovorin - 2 hours 5FU - 24 hours via an infusion pump\nPre-medication with dexamethosone day prior and day of\nCovid-19 and Flu vaccines Shingles vaccine before chemotherapy\nDental work done prior to chemotherapy\nWill need a port for chemotherapy\nUpdated list of medicines\n\n\n\n\nPatient Education"
   },
   {
     "objectID": "clgi_eso_t3_aca.html",
@@ -725,7 +732,7 @@
     "href": "clgi_eso_t3_aca.html#endoscopic-ultrasound",
     "title": "Cancer of the Esophagus and Gastroesophageal Junction",
     "section": "Endoscopic Ultrasound",
-    "text": "Endoscopic Ultrasound"
+    "text": "Endoscopic Ultrasound\nEndoscopic ultrasound is a procedure similar to upper endoscopy (EGD) which has an ultrasound probe at the bottom of the scope. This allows measuring the thickness of the cancer."
   },
   {
     "objectID": "clgi_eso_t3_aca.html#pet-scan",
@@ -749,18 +756,32 @@
     "text": "Laparoscopy\nA laparoscopy is performed under a general anesthetic. Several small incisions 1/4: long are made. A telecscope the size of a pencil is inserted to look inside the abdominal cavity. If necessary, a biopsy can be performed."
   },
   {
-    "objectID": "clgi_eso_t3_aca.html#section",
-    "href": "clgi_eso_t3_aca.html#section",
+    "objectID": "clgi_eso_t3_aca.html#treatment-plan",
+    "href": "clgi_eso_t3_aca.html#treatment-plan",
     "title": "Cancer of the Esophagus and Gastroesophageal Junction",
-    "section": "",
-    "text": "For patients with squamous cell carcinoma of the esophagus, a combination of chemotherapy and radiation is the preferred method tumor shrinkage before surgery. This consists of 5 1/2 weeks of therapy\n\n\nSquamous Cell Carcinoma\n\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery"
+    "section": "Treatment Plan",
+    "text": "Treatment Plan\n\n\n\n\n\n\n\n\nSuperficial\nT1\nEndoscopic Therapy\n\n\nLocalized\nT1b or T2\nSurgery\n\n\nLocally-advanced\nT3 or N1\nPreoperative therapy \\(\\rightarrow\\) Surgery\n\n\nMetastatic\nM1\nChemotherapy"
   },
   {
-    "objectID": "clgi_eso_t3_aca.html#adenocarcinoma",
-    "href": "clgi_eso_t3_aca.html#adenocarcinoma",
+    "objectID": "clgi_eso_t3_aca.html#preoperative-therapy",
+    "href": "clgi_eso_t3_aca.html#preoperative-therapy",
     "title": "Cancer of the Esophagus and Gastroesophageal Junction",
-    "section": "Adenocarcinoma",
-    "text": "Adenocarcinoma\nFor patients with adenocarcinoma, there are two options: chemotherapy and radiation prior to surgery OR chemotherapy before and after surgery:\n\n\nAdenocarcinoma\n\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery\nChemo \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Surgery\n\n\nSquamous Cell Carcinoma\n\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery"
+    "section": "Preoperative therapy",
+    "text": "Preoperative therapy\nPatients with locally-advanced esophageal cancer often have localized spread of cancer cells in the surrounding area\n![]https://deidt7p41jzcy.cloudfront.net/Eso_tumor_100_1600.png"
+  },
+  {
+    "objectID": "clgi_eso_t3_aca.html#preoperative-therapy-1",
+    "href": "clgi_eso_t3_aca.html#preoperative-therapy-1",
+    "title": "Cancer of the Esophagus and Gastroesophageal Junction",
+    "section": "Preoperative therapy",
+    "text": "Preoperative therapy"
+  },
+  {
+    "objectID": "clgi_eso_t3_aca.html#locally-advanced-esophageal-adenocarcinoma",
+    "href": "clgi_eso_t3_aca.html#locally-advanced-esophageal-adenocarcinoma",
+    "title": "Cancer of the Esophagus and Gastroesophageal Junction",
+    "section": "Locally-Advanced Esophageal Adenocarcinoma",
+    "text": "Locally-Advanced Esophageal Adenocarcinoma\nFor patients with adenocarcinoma, there are two options: chemotherapy and radiation prior to surgery OR chemotherapy before and after surgery:\n\n\nAdenocarcinoma\n\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery\nChemo \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Surgery\n\n\nSquamous Cell Carcinoma\n\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery"
   },
   {
     "objectID": "clgi_eso_t3_aca.html#cross-vs-flot",
@@ -770,15 +791,15 @@
     "text": "CROSS vs FLOT\nThe combination of chemotherapy and radiation is referred to as CROSS, and chemotherapy before and after surgery is referrred to as FLOT\n\n\nAdenocarcinoma\n\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery CROSS\nChemo \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Surgery FLOT\n\n\nSquamous Cell Carcinoma\n\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery CROSS"
   },
   {
-    "objectID": "clgi_eso_t3_aca.html#section-1",
-    "href": "clgi_eso_t3_aca.html#section-1",
+    "objectID": "clgi_eso_t3_aca.html#section",
+    "href": "clgi_eso_t3_aca.html#section",
     "title": "Cancer of the Esophagus and Gastroesophageal Junction",
     "section": "",
     "text": "Several weeks after the end of radiation therapy, a PET or CT scan is done to look at the response. Surgery is typically done 8 weeks after the end of radiation."
   },
   {
-    "objectID": "clgi_eso_t3_aca.html#section-2",
-    "href": "clgi_eso_t3_aca.html#section-2",
+    "objectID": "clgi_eso_t3_aca.html#section-1",
+    "href": "clgi_eso_t3_aca.html#section-1",
     "title": "Cancer of the Esophagus and Gastroesophageal Junction",
     "section": "",
     "text": "For most people, the chemotherapy and radiation are well tolerated. In some cases, side effects do occur."
@@ -796,13 +817,6 @@
     "title": "Cancer of the Esophagus and Gastroesophageal Junction",
     "section": "Chemotherapy (FLOT)",
     "text": "Chemotherapy (FLOT)\nFor patients with adenocarcinoma, an alternative to CROSS chemotherapy and radiation is to administer chemotherapy before and after surgery.\nIn this method,\nhttps://www.macmillan.org.uk/cancer-information-and-support/treatments-and-drugs/flot\nhttps://www.chemoexperts.com/flot-fluorouracil-leucovorin-oxaliplatin-docetaxel.html\nTaxotere - 1 hour Oxaliplatin - 2 hours Leucovorin - 2 hours 5FU - 24 hours via an infusion pump\nPre-medication with dexamethosone day prior and day of\nCovid-19 and Flu vaccines Shingles vaccine before chemotherapy\nDental work done prior to chemotherapy\nWill need a port for chemotherapy\nUpdated list of medicines"
-  },
-  {
-    "objectID": "clgi_eso_t3_aca.html#summary---locally-advanced",
-    "href": "clgi_eso_t3_aca.html#summary---locally-advanced",
-    "title": "Cancer of the Esophagus and Gastroesophageal Junction",
-    "section": "Summary - Locally advanced",
-    "text": "Summary - Locally advanced\nFor patients T3 or Node-positive:\nPatients with squamous cell carcinoma are treated with chemotherapy + radiaiton\nFor patients with adenocarcinoma, there are two options: chemotherapy and radiation prior to surgery OR chemotherapy before and after surgery:\n\n\nAdenocarcinoma\n\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery\nChemo \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Surgery\n\n\nSquamous Cell Carcinoma\n\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery\n\n\n\n\nIf you or a family member have had an encounter with esophageal cancer surgery, I would love to hear about your experience, so please take a minute to leave a comment below. We’re constantly creating new videos, so please subscribe to be notified of new videos when we post them.\n\nI hope you have found this video helpful. This videos and others like it are designed to\neducate patients and families about esophageal cancer\nand equip them for their discussions with their esophageal cancer care team.\nAs always, these videos are no substitute for expert medical advice.\n\nFeel free to leave a comment or a question, or if you have suggestions for future videos.\nHere are some additional videos you may find helpful:\nCentral Venous Port\nSurgery for Esophageal Cancer"
   },
   {
     "objectID": "eso_scca_locally_advanced.html",
