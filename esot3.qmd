@@ -1,0 +1,514 @@
+---
+title: "Cancer of the Esophagus and Gastroesophageal Junction"
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1280
+    height: 720
+    logo: "atriumlogo.jpg"
+    footer: "[Patient Education](https://jcsalo.github.io/patient_education/)"
+    css: "lci_styles.css"
+    theme: default
+    echo: false
+    output-file: esot3_slides.html
+  pdf:
+    documentclass: scrartcl
+  html: default
+editor: visual
+bibliography: zotero.bib
+from: markdown+emoji
+---
+
+## Anatomy
+
+::::: columns
+::: {.column width="50%"}
+Food moves from the throat
+
+$\rightarrow$ esophagus
+
+$\rightarrow$ stomach
+
+$\rightarrow$ small bowel (jejunum)
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_Anatomy_Labels.png)
+:::
+:::::
+
+## Types of Esophageal Cancer
+
+\
+
+There are two common types of esophageal cancer
+
+-   Adenocarcinoma
+-   Squamous Cell Carcinoma
+
+## Cancer Staging
+
+Staging refers to the tests to determine
+
+-   How large is the tumor?
+-   Has there been spread to lymph nodes?
+-   Has it spread to other parts of the body?
+
+**Staging is important in order to find the right treatment for a particular patient**
+
+## Esophageal Cancer Staging {.center}
+
+|  |  |
+|-----------------------|-------------------------------------------------|
+| **T** | **Tumor** - How deep has cancer grown into the wall of the esophagus? |
+| **N** | **Nodes** - Has cancer spread to the lymph nodes? |
+| **M** | **Metastasis** - Has the cancer spread to other parts of the body such as the lungs or liver? |
+
+## Wall of the Esophagus
+
+::::: columns
+::: {.column width="50%"}
+The esophagus is made of several layers, starting with the mucosa, which is the inner layer. The mucosa is surrounded by muscle layers and the muscle is surrounded by fat. Outside the esopahgeal wall are lymph nodes
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/tumor1_ai.png)
+:::
+:::::
+
+## Cancer Growth
+
+::::: columns
+::: {.column width="50%"}
+Cancers start on the very inside of the layer called the mucosa
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/tumor21_ai.png)
+:::
+:::::
+
+## Cancer Growth
+
+::::: columns
+::: {.column width="50%"}
+As cancers grow, they penetrate into deeper layers of the wall of the esopahgus
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/tumor23_ai.png)
+:::
+:::::
+
+## Cancer Growth
+
+::::: columns
+::: {.column width="50%"}
+This process of growth takes years
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/tumor24_ai.png)
+:::
+:::::
+
+## Cancer Growth
+
+::::: columns
+::: {.column width="50%"}
+The thicker a cancer becomes, the more likely it is to spread to lymph nodes
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/tumor25a_ai.png)
+:::
+:::::
+
+## Cancer Growth
+
+::::: columns
+::: {.column width="50%"}
+Cancer cells can then begin to grow inside the lymph nodes
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/tumor25b_ai.png)
+:::
+:::::
+
+## T Stage
+
+::::: columns
+::: {.column width="50%"}
+Cancers are categorized based upon the thickness of the tumor, known as the T stage
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/tumor_t_full.png)
+:::
+:::::
+
+## N Stage
+
+::::: columns
+::: {.column width="50%"}
+Cancers are also categorized by whether there is spread to the lymph nodes.
+
+-   N0 cancers have not spread to the lymph nodes
+
+-   N1 cancers have spread to the lymph nodes.
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/tumor_t3_nodes_labels.png)
+:::
+:::::
+
+## M Stage
+
+::::: columns
+::: {.column width="50%"}
+Some cancers can spread from the esophagus to the lungs or liver
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_M_Stage.png)
+:::
+:::::
+
+## PET scan
+
+A PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer.
+
+![](https://deidt7p41jzcy.cloudfront.net/PetImage.png)
+
+## Laparoscopy
+
+::::: columns
+::: {.column width="50%"}
+Some esophageal cancers can spread inside the abdominal cavity. These areas of spread can be very small, as small as a grain of rice.
+
+In order to detect spread within the abdominal cavity, a proceduce called a laparoscopy can be performed in some some patients.
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
+:::
+:::::
+
+## Laparoscopy
+
+::::: columns
+::: {.column width="50%"}
+A laparoscopy is performed under a general anesthetic.
+
+-   Several small incisions 1/4" long
+
+-   A telescope is inserted to look inside the abdominal cavity.
+
+-   Biopsies can be performed.
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
+:::
+:::::
+
+## Treatment Plan {.center}
+
+| Category         | Staging   | Treatment                                  |
+|------------------|-----------|--------------------------------------------|
+| Superficial      | T1        | Endoscopic Therapy                         |
+| Localized        | T1b or T2 | Surgery                                    |
+| Locally-advanced | T3 or N1  | Preoperative therapy $\rightarrow$ Surgery |
+| Metastatic       | M1        | Chemotherapy                               |
+
+Treatment is determine by staging
+
+## Locally-advanced cancers
+
+::::: columns
+::: {.column width="50%"}
+Patients with locally-advanced esophageal cancer often have localized spread of cancer cells in the surrounding area
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor_100_1600.png)
+:::
+:::::
+
+## Locally-advanced cancers
+
+::::: columns
+::: {.column width="50%"}
+Surgery removes the top of the stomach and a portion of the esophagus
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor100_resection_intra.png)
+:::
+:::::
+
+## Locally-advanced cancers
+
+::::: columns
+::: {.column width="50%"}
+However, with locally-advanced cancers, there is a risk that small amounts of cancer could be left behind at the time of surgery
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor100_resection_post.png)
+:::
+:::::
+
+## Locally-advanced cancers
+
+::::: columns
+::: {.column width="50%"}
+For these patients, it is helpful to start with therapy *before* surgery that will shrink the cancer.
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor_100_1600.png)
+:::
+:::::
+
+## Preoperative Therapy
+
+::::: columns
+::: {.column width="50%"}
+For these patients, it is helpful to start with therapy *before* surgery that will shrink the cancer.
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor80_1600.png)
+:::
+:::::
+
+## Preoperative Therapy
+
+For these patients, it is helpful to start with therapy *before* surgery that will shrink the cancer.
+
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor60_1600.png)
+
+## Preoperative Therapy
+
+For these patients, it is helpful to start with therapy *before* surgery that will shrink the cancer.
+
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor40_1600.png)
+
+## Preoperative Therapy
+
+For these patients, it is helpful to start with therapy *before* surgery that will shrink the cancer.
+
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor20_1600.png)
+
+## Preoperative Therapy
+
+For these patients, it is helpful to start with therapy *before* surgery that will shrink the cancer.
+
+![](https://deidt7p41jzcy.cloudfront.net/Eso_Tumor_00_1600.png)
+
+## Preoperative Therapy
+
+For these patients, it is helpful to start with therapy *before* surgery that will shrink the cancer.
+
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor00_resection1_1600.png)
+
+## Preoperative Therapy
+
+In this way, surgery can be performed with the best chance of removing all of the cancer and avoid leaving any cancer cells behind.
+
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor00_resection2_1600.png)
+
+## Chemotherapy + Radiation
+
+Over 10 years ago, researchers in the Netherlands took 363 patients with esophageal cancer and divided them into two groups. They they treated the two groups with two different treatment strategies.\
+
+::::: columns
+::: {.column width="40%"}
+**Surgery Group**
+
+Surgery Alone
+:::
+
+::: {.column width="60%"}
+**Chemo + Radiation Group**
+
+Chemotherapy + Radiation $\rightarrow$Surgery
+:::
+:::::
+
+\
+Chemotherapy and radiation were administered together over six weeks
+
+## Chemotherapy + Radiation
+
+The results were quite dramatic: The group that was treated with all three therapies, chemotherapy and radiation and surgery, lived on average twice a long as patients who had surgery alone.
+
+::::: columns
+::: {.column width="40%"}
+**Surgery Group**
+
+Surgery Alone
+:::
+
+::: {.column width="60%"}
+**Chemo + Radiation Group**
+
+Chemotherapy + Radiation $\rightarrow$Surgery
+
+-   Longer survival
+-   Fewer cancer recurrences
+:::
+:::::
+
+\
+This scientific study was called the **CROSS** trial.
+
+## Chemotherapy + Radiation
+
+A typical schedule for chemotherapy + radiation:
+
+-   Chemotherapy once per week for six weeks
+-   Radiation five days per week for six weeks (28 treatments)
+-   PET scan (or CT) 4 weeks after the end of radiation
+-   Surgery 8 weeks after the end of radiation
+
+## Chemotherapy + Radiation - Side Effects
+
+The radiation attacks the cancer cells in the esophagus and nearby lymph nodes, but it can also cause irritation of the lining of the esophagus. You could think if it as a sunburn on the inside of the esophagus. What this means is that for patients who have some trouble eating before starting therapy, swallowing can get worse before it gets better. The most challenging time will be the last week of treatment. By two weeks after the end of treatment, the tumor is beginning to shrink and the inflammation is getting better, and most patients find that their swallowing gets easier. But during the treatment, it's important to get enough nutrition and stay hydrated. Protein shakes and nutritional supplements can help here. In some cases, a feeding tube can help provide nutritional support to get through treatment.
+
+## Locally-advanced Adenocarcinoma
+
+For patients with *adenocarcinoma* another option is "sandwich" chemotherapy administered before and after surgery:
+
+\
+
+Chemotherapy (8 weeks) $\rightarrow$ Surgery Chemotherapy (8 weeks)
+
+\
+
+Two different drug combinations can be used:
+
+-   FLOT
+-   FOLFOX
+
+## "Sandwich" Chemotherapy
+
+There are two different drug combinations used:
+
+::::: columns
+::: {.column width="40%"}
+**FLOT**
+
+-   5-FU
+-   Leucovorion
+-   Oxaliplatin
+-   Taxotere
+:::
+
+::: {.column width="60%"}
+**FOLFOX**
+
+-   5-FU
+-   Leucovorin
+-   Oxaliplatin
+:::
+:::::
+
+\
+A *medical oncologist* administered the chemotherapy drugs
+
+## Locally-advanced Adenocarcinoma
+
+Patient with Adenocarcinoma have two options for therapy prior to surgery:
+
+::::: columns
+::: {.column width="60%"}
+**Chemo + Radiation**
+
+-   Chemotherapy + Radiation (6 weeks)
+-   Surgery
+:::
+
+::: {.column width="40%"}
+**Chemotherapy**
+
+-   Chemotherapy (8 weeks)
+-   Surgery
+-   Chemotherapy (8 weeks)
+:::
+:::::
+
+\
+The cancer treatment team will work together to recommend a therapy
+
+## Chemotherapy
+
+Chemotherapy drugs are administered intravenously. There are several options:
+
+- Peripheral IVs in the hand
+- PICC line (Peripheral Inserted Central Catheter)
+- Central Venous Port
+
+## Peripheral IVs
+
+Some patients with good veins can be treated with an intravenous line placed in the hand or arm for each dose of chemotherapy
+
+## PICC Lines
+
+
+::::: columns
+::: {.column width="50%"}
+A PICC line is placed in Radiology and stays in place during the treatment course
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/comm_picc.jpeg)
+:::
+:::::
+
+## Central Venous Port
+
+::::: columns
+::: {.column width="50%"}
+A central venous port is an implantable device that makes the administration of chemotherapy easier
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/cv_port.png)
+:::
+:::::
+
+
+
+## Central Venous Port
+
+::::: columns
+::: {.column width="50%"}
+A central venous port is typically placed underneath the skin below the right collarbone
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/cv_port_1700.png)
+:::
+:::::
+
+## Central Venous Port
+
+::::: columns
+::: {.column width="50%"}
+When it is time for chemotherapy, a needle is inserted through the skin into the port
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/cv_port_detail_1700.png)
+:::
+:::::
+
+## Restaging
+
+Several weeks after the completion of preoperative therapy, a CT or PET scan will be performed
+
+Surgery is typically performed 4-8 weeks after therapy, once recovery is complete

@@ -7,6 +7,11 @@ title: "Patient Education"
 
 ## Patient education resources for GI cancer patients
 
+## LCI Presentations
+
+[Esophagus T3](esot3_slides.html) 
+
+
 ### Gastroesophageal Cancer
 
 | Topic | Script | HTML | PDF | Video |
