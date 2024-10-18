@@ -53,7 +53,7 @@ Staging is important in order to find the right treatment for a particular patie
 ## Esophageal Cancer Staging
 
 |  |  |
-|-----|-------------------------------------------------------------------|
+|----------------|--------------------------------------------------------|
 | **T** | **Tumor** - How deep has cancer grown into the wall of the esophagus |
 | **N** | **Nodes** - Has cancer spread to the lymph nodes? |
 | **M** | **Metastasis** - Has the cancer spread to other parts of the body such as the lungs or liver? |
@@ -67,7 +67,6 @@ The esophagus is made of several layers, starting with the mucosa, which is the 
 ## Cancer Growth
 
 Cancers start on the very inside of the layer called the mucosa
-
 
 ![](https://deidt7p41jzcy.cloudfront.net/tumor21_ai.png)
 
@@ -99,7 +98,7 @@ The thicker a cancer becomes, the more likely it is to spread to lymph nodes
 
 Cancer cells can then grow inside the lymph nodes
 
-![](https://deidt7p41jzcy.cloudfront.net/tumor25b_ai.png) 
+![](https://deidt7p41jzcy.cloudfront.net/tumor25b_ai.png)
 
 ## T Stage
 
@@ -115,10 +114,7 @@ N0 cancers have not spread to the lymph nodes
 
 N1 cancers have spread to the lymph nodes.
 
-
 ![](https://deidt7p41jzcy.cloudfront.net/tumors_2160.jpg)
-
-
 
 ## M Stage
 
@@ -128,18 +124,17 @@ Some cancers can spread from the esophagus to the lungs or liver
 
 ## Endoscopic Ultrasound
 
+Endoscopic ultrasound is a procedure similar to upper endoscopy (EGD) which has an ultrasound probe at the bottom of the scope. This allows measuring the thickness of the cancer.
 
-
-
-
+![](https://deidt7p41jzcy.cloudfront.net/EUSArtboard2@4x.png)
 
 ## PET scan
 
+![](https://deidt7p41jzcy.cloudfront.net/PetImage.png)
 
 ## Laparoscopy
 
-
-Some cancers can spread inside the abdominal cavity.  These areas of spread can be very small, as small as a grain of rice.  
+Some cancers can spread inside the abdominal cavity. These areas of spread can be very small, as small as a grain of rice.
 
 In order to detect spread within the abdominal cavity, a proceduce called a laparoscopy can be performed
 
@@ -147,27 +142,31 @@ In order to detect spread within the abdominal cavity, a proceduce called a lapa
 
 ## Laparoscopy
 
-
-A laparoscopy is performed under a general anesthetic.  Several small incisions 1/4: long are made.  A telecscope the size of a pencil is inserted to look inside the abdominal cavity.  If necessary, a biopsy can be performed.
+A laparoscopy is performed under a general anesthetic. Several small incisions 1/4: long are made. A telecscope the size of a pencil is inserted to look inside the abdominal cavity. If necessary, a biopsy can be performed.
 
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
 
-##
+## Treatment Plan
 
-For patients with squamous cell carcinoma of the esophagus, a combination of chemotherapy and radiation is the preferred method tumor shrinkage before surgery. This consists of 5 1/2 weeks of therapy
+|                  |           |                                            |
+|------------------|-----------|--------------------------------------------|
+| Superficial      | T1        | Endoscopic Therapy                         |
+| Localized        | T1b or T2 | Surgery                                    |
+| Locally-advanced | T3 or N1  | Preoperative therapy $\rightarrow$ Surgery |
+| Metastatic       | M1        | Chemotherapy       
 
-::::: columns
-::: {.column .fragment width="50%"}
-Squamous Cell Carcinoma
 
--   Chemotherapy + Radiation $\rightarrow$ Surgery
-:::
+## Preoperative therapy 
 
-::: {.column .fragment width="50%"}
-:::
-:::::
+Patients with locally-advanced esophageal cancer often have localized spread of cancer cells in the surrounding area
 
-## Adenocarcinoma
+![]https://deidt7p41jzcy.cloudfront.net/Eso_tumor_100_1600.png
+
+## Preoperative therapy 
+
+![](https://deidt7p41jzcy.cloudfront.net/tumor25_ai.png)
+
+## Locally-Advanced Esophageal Adenocarcinoma
 
 For patients with adenocarcinoma, there are two options: chemotherapy and radiation prior to surgery OR chemotherapy before and after surgery:
 
@@ -265,49 +264,3 @@ Will need a port for chemotherapy
 
 Updated list of medicines
 
-## Summary - Locally advanced
-
-For patients T3 or Node-positive:
-
-Patients with squamous cell carcinoma are treated with chemotherapy + radiaiton
-
-For patients with adenocarcinoma, there are two options: chemotherapy and radiation prior to surgery OR chemotherapy before and after surgery:
-
-::::: columns
-::: {.column .fragment width="50%"}
-Adenocarcinoma
-
--   Chemotherapy + Radiation $\rightarrow$ Surgery
--   Chemo $\rightarrow$ Surgery $\rightarrow$ Surgery
-:::
-
-::: {.column .fragment width="50%"}
-Squamous Cell Carcinoma
-
--   Chemotherapy + Radiation $\rightarrow$ Surgery
-:::
-:::::
-
-------------------------------------------------------------------------
-
-If you or a family member have had an encounter with esophageal cancer surgery, I would love to hear about your experience, so please take a minute to leave a comment below. We're constantly creating new videos, so please subscribe to be notified of new videos when we post them.
-
-------------------------------------------------------------------------
-
-I hope you have found this video helpful. This videos and others like it are designed to
-
-educate patients and families about esophageal cancer
-
-and equip them for their discussions with their esophageal cancer care team.
-
-As always, these videos are no substitute for expert medical advice.
-
-------------------------------------------------------------------------
-
-Feel free to leave a comment or a question, or if you have suggestions for future videos.
-
-Here are some additional videos you may find helpful:
-
-[Central Venous Port](cv_port.qmd)
-
-[Surgery for Esophageal Cancer](eso_surgery.qmd)
