@@ -8,11 +8,13 @@ format:
     width: 1280
     height: 720
     logo: "atriumlogo.jpg"
-    footer: "[LCI Patient Education](https://jcsalo.github.io/patient_education/lci.html)"
+    footer: "[LCI Patient Education](https://jcsalo.github.io/patient_education/LCI.html)"
     css: "lci_styles.css"
     theme: default
     echo: false
     #output-file: lci_esot3_slides.html
+  beamer:
+    output-file: lci_esot3_slides.pdf
   pdf:
     documentclass: scrartcl
   html: default
