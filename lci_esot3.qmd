@@ -6,15 +6,15 @@ format:
     width: 1280
     height: 720
     logo: "atriumlogo.jpg"
-    #footer: "[LCI Patient Education](https://jcsalo.github.io/patient_education/LCI.html)"
+    footer: "[LCI Patient Education](https://jcsalo.github.io/patient_education/lci.html)"
     css: "lci_styles.css"
     theme: default
     echo: false
     output-file: lci_esot3_slides.html
   pdf:
     documentclass: scrartcl
-  beamer: default
-  #pptx: default
+  html: default
+  pptx: default
 editor: visual
 bibliography: zotero.bib
 from: markdown+emoji
@@ -57,13 +57,18 @@ Staging refers to the tests to determine
 
 **Staging is important in order to find the right treatment for a particular patient**
 
-## Esophageal Cancer Staging {.center}
+## Esophageal Cancer Staging
 
-|  |  |
-|-----------------------|------------------------------------------------|
-| **T** | **Tumor** - How deep has cancer grown into the wall of the esophagus? |
-| **N** | **Nodes** - Has cancer spread to the lymph nodes? |
-| **M** | **Metastasis** - Has the cancer spread to other parts of the body such as the lungs or liver? |
++----------+-----------------------------------------------------------------------------------+
+| **\      | **\                                                                               |
+| T**      | Tumor** - How deep has cancer grown into the wall of the esophagus?\              |
++----------+-----------------------------------------------------------------------------------+
+| **\      | **\                                                                               |
+| N**      | Nodes** - Has cancer spread to the lymph nodes?\                                  |
++----------+-----------------------------------------------------------------------------------+
+| **\      | **\                                                                               |
+| M**      | Metastasis** - Has the cancer spread to other parts of the body? lungs or liver?\ |
++----------+-----------------------------------------------------------------------------------+
 
 ## Wall of the Esophagus
 
@@ -217,12 +222,17 @@ A laparoscopy is performed under a general anesthetic.
 
 ## Treatment Plan {.center}
 
-| Category         | Staging   | Treatment                                  |
-|------------------|-----------|--------------------------------------------|
-| Superficial      | T1        | Endoscopic Therapy                         |
-| Localized        | T1b or T2 | Surgery                                    |
-| Locally-advanced | T3 or N1  | Preoperative therapy $\rightarrow$ Surgery |
-| Metastatic       | M1        | Chemotherapy                               |
++------------------+---------------+--------------------------------------------+
+| Category         | Staging       | Treatment                                  |
++==================+===============+============================================+
+| Superficial      | T1            | Endoscopic Therapy                         |
++------------------+---------------+--------------------------------------------+
+| Localized        | T1b or T2     | Surgery                                    |
++------------------+---------------+--------------------------------------------+
+| Locally-advanced | T3 or N1      | Preoperative therapy $\rightarrow$ Surgery |
++------------------+---------------+--------------------------------------------+
+| Metastatic       | M1            | Chemotherapy                               |
++------------------+---------------+--------------------------------------------+
 
 Treatment is determine by staging
 
