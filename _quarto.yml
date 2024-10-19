@@ -24,8 +24,10 @@ format:
       - custom.scss
     #css: styles.css
     toc: false
+    output-ext: html
   revealjs: 
     output-ext: htm
+
 
 from: markdown+emoji
 

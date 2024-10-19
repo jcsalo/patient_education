@@ -10,11 +10,12 @@ format:
     css: "lci_styles.css"
     theme: default
     echo: false
-    output-file: lci_esot3_slides.html
+    #output-file: lci_esot3_slides.html
   pdf:
     documentclass: scrartcl
   html: default
-  pptx: default
+  pptx: 
+    reference-doc: template.pptx
 editor: visual
 bibliography: zotero.bib
 from: markdown+emoji
@@ -59,16 +60,16 @@ Staging refers to the tests to determine
 
 ## Esophageal Cancer Staging
 
-+----------+-----------------------------------------------------------------------------------+
-| **\      | **\                                                                               |
-| T**      | Tumor** - How deep has cancer grown into the wall of the esophagus?\              |
-+----------+-----------------------------------------------------------------------------------+
-| **\      | **\                                                                               |
-| N**      | Nodes** - Has cancer spread to the lymph nodes?\                                  |
-+----------+-----------------------------------------------------------------------------------+
-| **\      | **\                                                                               |
-| M**      | Metastasis** - Has the cancer spread to other parts of the body? lungs or liver?\ |
-+----------+-----------------------------------------------------------------------------------+
++------------+-----------------------------------------------------------------------------------+
+| **\        | **\                                                                               |
+| T**        | Tumor** - How deep has cancer grown into the wall of the esophagus?\              |
++------------+-----------------------------------------------------------------------------------+
+| **\        | **\                                                                               |
+| N**        | Nodes** - Has cancer spread to the lymph nodes?\                                  |
++------------+-----------------------------------------------------------------------------------+
+| **\        | **\                                                                               |
+| M**        | Metastasis** - Has the cancer spread to other parts of the body? lungs or liver?\ |
++------------+-----------------------------------------------------------------------------------+
 
 ## Wall of the Esophagus
 
@@ -220,21 +221,19 @@ A laparoscopy is performed under a general anesthetic.
 :::
 :::::
 
-## Treatment Plan {.center}
+## Treatment Plan
 
-+------------------+---------------+--------------------------------------------+
-| Category         | Staging       | Treatment                                  |
-+==================+===============+============================================+
-| Superficial      | T1            | Endoscopic Therapy                         |
-+------------------+---------------+--------------------------------------------+
-| Localized        | T1b or T2     | Surgery                                    |
-+------------------+---------------+--------------------------------------------+
-| Locally-advanced | T3 or N1      | Preoperative therapy $\rightarrow$ Surgery |
-+------------------+---------------+--------------------------------------------+
-| Metastatic       | M1            | Chemotherapy                               |
-+------------------+---------------+--------------------------------------------+
-
-Treatment is determine by staging
++------------------+---------------+-------------------------------------+
+| **Category**     | **Staging**   | **Treatment**                       |
++------------------+---------------+-------------------------------------+
+| Superficial      | T1            | Endoscopic Therapy                  |
++------------------+---------------+-------------------------------------+
+| Localized        | T1b or T2     | Surgery                             |
++------------------+---------------+-------------------------------------+
+| Locally-advanced | T3 or N1      | Preoperative therapy Surgery        |
++------------------+---------------+-------------------------------------+
+| Metastatic       | M1            | Chemotherapy                        |
++------------------+---------------+-------------------------------------+
 
 ## Locally-advanced cancers
 
