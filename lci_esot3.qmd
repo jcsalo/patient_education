@@ -10,7 +10,7 @@ format:
     css: "lci_styles.css"
     theme: default
     echo: false
-    output-file: esot3_slides.html
+    output-file: lci_esot3_slides.html
   pdf:
     documentclass: scrartcl
   html: default
