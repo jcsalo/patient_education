@@ -6,7 +6,7 @@ format:
     width: 1280
     height: 720
     logo: "atriumlogo.jpg"
-    footer: "[LCI Patient Education](https://jcsalo.github.io/patient_education/lci.html)"
+    #footer: "[LCI Patient Education](https://jcsalo.github.io/patient_education/LCI.html)"
     css: "lci_styles.css"
     theme: default
     echo: false
@@ -14,7 +14,7 @@ format:
   pdf:
     documentclass: scrartcl
   html: default
-  pptx: default
+  #pptx: default
 editor: visual
 bibliography: zotero.bib
 from: markdown+emoji
@@ -60,7 +60,7 @@ Staging refers to the tests to determine
 ## Esophageal Cancer Staging {.center}
 
 |  |  |
-|-----------------------|-------------------------------------------------|
+|-----------------------|------------------------------------------------|
 | **T** | **Tumor** - How deep has cancer grown into the wall of the esophagus? |
 | **N** | **Nodes** - Has cancer spread to the lymph nodes? |
 | **M** | **Metastasis** - Has the cancer spread to other parts of the body such as the lungs or liver? |
@@ -449,16 +449,15 @@ The cancer treatment team will work together to recommend a therapy
 
 Chemotherapy drugs are administered intravenously. There are several options:
 
-- Peripheral IVs in the hand
-- PICC line (Peripheral Inserted Central Catheter)
-- Central Venous Port
+-   Peripheral IVs in the hand
+-   PICC line (Peripheral Inserted Central Catheter)
+-   Central Venous Port
 
 ## Peripheral IVs
 
 Some patients with good veins can be treated with an intravenous line placed in the hand or arm for each dose of chemotherapy
 
 ## PICC Lines
-
 
 ::::: columns
 ::: {.column width="50%"}
@@ -481,8 +480,6 @@ A central venous port is an implantable device that makes the administration of 
 ![](https://deidt7p41jzcy.cloudfront.net/cv_port.png)
 :::
 :::::
-
-
 
 ## Central Venous Port
 
