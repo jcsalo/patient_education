@@ -1,0 +1,12 @@
+---
+title: "LCI Clinic Resources"
+output: html_document
+---
+
+|  |  |  |  |  |  |
+|------------|-------|---------|---------|------------|------------|
+| Esophagus T3 | [Slides](esot3_slides.html) | [Handout](esot3.html) | [PPTx](esot3.pptx) |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |

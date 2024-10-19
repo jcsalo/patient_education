@@ -6,7 +6,7 @@ format:
     width: 1280
     height: 720
     logo: "atriumlogo.jpg"
-    footer: "[Patient Education](https://jcsalo.github.io/patient_education/)"
+    footer: "[LCI Patient Education](https://jcsalo.github.io/patient_education/lci.html)"
     css: "lci_styles.css"
     theme: default
     echo: false
@@ -14,6 +14,7 @@ format:
   pdf:
     documentclass: scrartcl
   html: default
+  pptx: default
 editor: visual
 bibliography: zotero.bib
 from: markdown+emoji
