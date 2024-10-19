@@ -1,6 +1,8 @@
 ---
 title: "Cancer of the Esophagus and Gastroesophageal Junction"
 format: 
+  pptx: 
+    reference-doc: template.pptx
   revealjs:
     slide-number: c/t
     width: 1280
@@ -14,8 +16,6 @@ format:
   pdf:
     documentclass: scrartcl
   html: default
-  pptx: 
-    reference-doc: template.pptx
 editor: visual
 bibliography: zotero.bib
 from: markdown+emoji
