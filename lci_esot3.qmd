@@ -13,14 +13,12 @@ format:
     theme: default
     echo: false
     #output-file: lci_esot3_slides.html
-  beamer:
-    output-file: lci_esot3_slides.pdf
+    pdf-separate-fragments: true
   pdf:
     documentclass: scrartcl
   html: default
 editor: visual
 bibliography: zotero.bib
-from: markdown+emoji
 ---
 
 ## Anatomy
@@ -60,18 +58,13 @@ Staging refers to the tests to determine
 
 **Staging is important in order to find the right treatment for a particular patient**
 
-## Esophageal Cancer Staging
+## Esophageal Cancer Staging {tbl-colwidths="[20,10,70]"}
 
-+------------+-----------------------------------------------------------------------------------+
-| **\        | **\                                                                               |
-| T**        | Tumor** - How deep has cancer grown into the wall of the esophagus?\              |
-+------------+-----------------------------------------------------------------------------------+
-| **\        | **\                                                                               |
-| N**        | Nodes** - Has cancer spread to the lymph nodes?\                                  |
-+------------+-----------------------------------------------------------------------------------+
-| **\        | **\                                                                               |
-| M**        | Metastasis** - Has the cancer spread to other parts of the body? lungs or liver?\ |
-+------------+-----------------------------------------------------------------------------------+
+|  |  |
+|--------------|----------------------------------------------------------|
+| **T** | **Tumor** - How deep has cancer grown into the wall of the esophagus? |
+| **N** | **Nodes** - Has cancer spread to the lymph nodes? |
+| **M** | **Metastasis** - Has the cancer spread to other parts of the body? lungs or liver? |
 
 ## Wall of the Esophagus
 
@@ -97,7 +90,7 @@ Cancers start on the very inside of the layer called the mucosa
 :::
 :::::
 
-## Cancer Growth
+## Cancer Growth {auto-animate="true"}
 
 ::::: columns
 ::: {.column width="50%"}
@@ -109,7 +102,7 @@ As cancers grow, they penetrate into deeper layers of the wall of the esopahgus
 :::
 :::::
 
-## Cancer Growth
+## Cancer Growth {auto-animate="true"}
 
 ::::: columns
 ::: {.column width="50%"}
@@ -121,7 +114,7 @@ This process of growth takes years
 :::
 :::::
 
-## Cancer Growth
+## Cancer Growth {auto-animate="true"}
 
 ::::: columns
 ::: {.column width="50%"}
@@ -133,7 +126,7 @@ The thicker a cancer becomes, the more likely it is to spread to lymph nodes
 :::
 :::::
 
-## Cancer Growth
+## Cancer Growth {auto-animate="true"}
 
 ::::: columns
 ::: {.column width="50%"}
@@ -225,17 +218,13 @@ A laparoscopy is performed under a general anesthetic.
 
 ## Treatment Plan
 
-+------------------+---------------+-------------------------------------+
-| **Category**     | **Staging**   | **Treatment**                       |
-+------------------+---------------+-------------------------------------+
-| Superficial      | T1            | Endoscopic Therapy                  |
-+------------------+---------------+-------------------------------------+
-| Localized        | T1b or T2     | Surgery                             |
-+------------------+---------------+-------------------------------------+
-| Locally-advanced | T3 or N1      | Preoperative therapy Surgery        |
-+------------------+---------------+-------------------------------------+
-| Metastatic       | M1            | Chemotherapy                        |
-+------------------+---------------+-------------------------------------+
+|                  |             |                              |
+|------------------|-------------|------------------------------|
+| **Category**     | **Staging** | **Treatment**                |
+| Superficial      | T1          | Endoscopic Therapy           |
+| Localized        | T1b or T2   | Surgery                      |
+| Locally-advanced | T3 or N1    | Preoperative therapy Surgery |
+| Metastatic       | M1          | Chemotherapy                 |
 
 ## Locally-advanced cancers
 
@@ -273,7 +262,7 @@ However, with locally-advanced cancers, there is a risk that small amounts of ca
 :::
 :::::
 
-## Locally-advanced cancers
+## Locally-advanced cancers {auto-animate="true"}
 
 ::::: columns
 ::: {.column width="50%"}
@@ -285,7 +274,7 @@ For these patients, it is helpful to start with therapy *before* surgery that wi
 :::
 :::::
 
-## Preoperative Therapy
+## Preoperative Therapy {auto-animate="true"}
 
 ::::: columns
 ::: {.column width="50%"}
@@ -297,41 +286,77 @@ For these patients, it is helpful to start with therapy *before* surgery that wi
 :::
 :::::
 
-## Preoperative Therapy
+## Preoperative Therapy {auto-animate="true"}
 
+::::: columns
+::: {.column width="50%"}
 For these patients, it is helpful to start with therapy *before* surgery that will shrink the cancer.
+:::
 
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor60_1600.png)
+:::
+:::::
 
-## Preoperative Therapy
+## Preoperative Therapy {auto-animate="true"}
 
+::::: columns
+::: {.column width="50%"}
 For these patients, it is helpful to start with therapy *before* surgery that will shrink the cancer.
+:::
 
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor40_1600.png)
+:::
+:::::
 
-## Preoperative Therapy
+## Preoperative Therapy {auto-animate="true"}
 
+::::: columns
+::: {.column width="50%"}
 For these patients, it is helpful to start with therapy *before* surgery that will shrink the cancer.
+:::
 
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor20_1600.png)
+:::
+:::::
 
-## Preoperative Therapy
+## Preoperative Therapy {auto-animate="true"}
 
+::::: columns
+::: {.column width="50%"}
 For these patients, it is helpful to start with therapy *before* surgery that will shrink the cancer.
+:::
 
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_Tumor_00_1600.png)
+:::
+:::::
 
 ## Preoperative Therapy
 
+::::: columns
+::: {.column width="50%"}
 For these patients, it is helpful to start with therapy *before* surgery that will shrink the cancer.
+:::
 
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor00_resection1_1600.png)
+:::
+:::::
 
 ## Preoperative Therapy
 
-In this way, surgery can be performed with the best chance of removing all of the cancer and avoid leaving any cancer cells behind.
+::::: columns
+::: {.column width="50%"}
+For these patients, it is helpful to start with therapy *before* surgery that will shrink the cancer.
+:::
 
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor00_resection2_1600.png)
+:::
+:::::
 
 ## Chemotherapy + Radiation
 
@@ -389,7 +414,12 @@ A typical schedule for chemotherapy + radiation:
 
 ## Chemotherapy + Radiation - Side Effects
 
-The radiation attacks the cancer cells in the esophagus and nearby lymph nodes, but it can also cause irritation of the lining of the esophagus. You could think if it as a sunburn on the inside of the esophagus. What this means is that for patients who have some trouble eating before starting therapy, swallowing can get worse before it gets better. The most challenging time will be the last week of treatment. By two weeks after the end of treatment, the tumor is beginning to shrink and the inflammation is getting better, and most patients find that their swallowing gets easier. But during the treatment, it's important to get enough nutrition and stay hydrated. Protein shakes and nutritional supplements can help here. In some cases, a feeding tube can help provide nutritional support to get through treatment.
+The radiation attacks the cancer, but it can also cause irritation of the lining of the esophagus. 
+
+This irritation can make swallowing more challenging the last two weeks of therapy.
+
+A feeding tube can sometime be required to help with hydration and nutrition.
+
 
 ## Locally-advanced Adenocarcinoma
 
@@ -406,9 +436,7 @@ Two different drug combinations can be used:
 -   FLOT
 -   FOLFOX
 
-## "Sandwich" Chemotherapy
-
-There are two different drug combinations used:
+## "Sandwich" Chemotherapy Drug Combinations
 
 ::::: columns
 ::: {.column width="40%"}
@@ -429,12 +457,8 @@ There are two different drug combinations used:
 :::
 :::::
 
-\
-A *medical oncologist* administered the chemotherapy drugs
 
-## Locally-advanced Adenocarcinoma
-
-Patient with Adenocarcinoma have two options for therapy prior to surgery:
+## Locally-advanced Adenocarcinoma Treatment Options
 
 ::::: columns
 ::: {.column width="60%"}
@@ -453,8 +477,6 @@ Patient with Adenocarcinoma have two options for therapy prior to surgery:
 :::
 :::::
 
-\
-The cancer treatment team will work together to recommend a therapy
 
 ## Chemotherapy
 
