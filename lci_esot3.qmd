@@ -13,7 +13,7 @@ format:
     output-file: lci_esot3_slides.html
   pdf:
     documentclass: scrartcl
-  html: default
+  beamer: default
   #pptx: default
 editor: visual
 bibliography: zotero.bib

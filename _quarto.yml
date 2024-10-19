@@ -23,7 +23,9 @@ format:
       - simplex
       - custom.scss
     #css: styles.css
-    toc: true
+    toc: false
+  revealjs: 
+    output-ext: htm
 
 from: markdown+emoji
 

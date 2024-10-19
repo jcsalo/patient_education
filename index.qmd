@@ -9,7 +9,7 @@ title: "Patient Education"
 
 ## LCI Presentations
 
-[Esophagus T3](esot3_slides.html) 
+[Esophagus T3](lci_esot3_slides.html) 
 
 
 ### Gastroesophageal Cancer
