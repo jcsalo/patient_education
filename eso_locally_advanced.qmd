@@ -31,7 +31,7 @@ This video focuses on patients with locally advanced esophageal cancer. This is 
 
 If that terminology is unfamiliar or you haven't seen our video on Esophageal Cancer Treatment Options video, a link is provided in the description.
 
- [Esophageal Cancer Treatment Options](eso_rx_options.html)
+[Esophageal Cancer Treatment Options](eso_rx_options.html)
 
 For a refresher, we have four major categories of esophageal cancers:
 
@@ -55,24 +55,21 @@ This video focuses on *Locally Advanced* esophageal cancer
 
 !!! Need graphic/animation with micrometastatic disease !!!
 
-
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
-
 Patients with locally-advanced esophageal cancer have a visible mass, or tumor, which frequently causes trouble swallowing.
 
 What we don't always recognize is that in many cases there can be microscopic areas of tumor which can't be seen with the naked eye.
 
 If surgery is the only treatment given, those microscopic areas of tumor can later cause a recurrence of cancer.
-
 :::
 
 ::: {.column .fragment width="50%"}
-![](images/Eso_Resection2Artboard 2@4x.png)
+![](images/Eso_Resection2Artboard%202@4x.png)
 :::
-:::
+:::::
 
-##
+## 
 
 For patients with esophageal cancer that is either T3 or Node-positive, research has shown that *initial* treatment with chemotherapy and radiation therapy makes the surgery more effective by killing microscopic tumor cells that can't be detected at the time of surgery.
 
@@ -84,69 +81,54 @@ There are two different methods of shrinking a tumor prior to surgery, and the p
 
 For patients with squamous cell carcinoma of the esophagus, a combination of chemotherapy and radiation is the preferred method tumor shrinkage before surgery. This consists of 5 1/2 weeks of therapy
 
-
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
-
 Squamous Cell Carcinoma
 
-- Chemotherapy + Radiation $\rightarrow$ Surgery
+-   Chemotherapy + Radiation $\rightarrow$ Surgery
 :::
 
 ::: {.column .fragment width="50%"}
-
-
 :::
-:::
-
+:::::
 
 ## Adenocarcinoma
 
 For patients with adenocarcinoma, there are two options: chemotherapy and radiation prior to surgery OR chemotherapy before and after surgery:
 
-
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
-
 Adenocarcinoma
 
-- Chemotherapy + Radiation $\rightarrow$ Surgery
-- Chemo $\rightarrow$ Surgery $\rightarrow$ Surgery
-
+-   Chemotherapy + Radiation $\rightarrow$ Surgery
+-   Chemo $\rightarrow$ Surgery $\rightarrow$ Surgery
 :::
 
 ::: {.column .fragment width="50%"}
 Squamous Cell Carcinoma
 
-- Chemotherapy + Radiation $\rightarrow$ Surgery
-
+-   Chemotherapy + Radiation $\rightarrow$ Surgery
 :::
-:::
-
+:::::
 
 ## CROSS vs FLOT
 
 The combination of chemotherapy and radiation is referred to as CROSS, and chemotherapy before and after surgery is referrred to as FLOT
 
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
-
 Adenocarcinoma
 
-- Chemotherapy + Radiation $\rightarrow$ Surgery CROSS
-- Chemo $\rightarrow$ Surgery $\rightarrow$ Surgery FLOT
-
+-   Chemotherapy + Radiation $\rightarrow$ Surgery CROSS
+-   Chemo $\rightarrow$ Surgery $\rightarrow$ Surgery FLOT
 :::
 
 ::: {.column .fragment width="50%"}
 Squamous Cell Carcinoma
 
-- Chemotherapy + Radiation $\rightarrow$ Surgery CROSS
-
+-   Chemotherapy + Radiation $\rightarrow$ Surgery CROSS
 :::
-:::
-
-
+:::::
 
 # CROSS Chemotherapy + Radiation
 
@@ -168,11 +150,11 @@ This scientific study was called the CROSS trial. The therapy is called tri-moda
 
 A typical schedule for trimodality therapy is six weeks of chemotherapy and radiation together. Chemotherapy is given once a week, and radiation five days per week.
 
-##
+## 
 
 Several weeks after the end of radiation therapy, a PET or CT scan is done to look at the response. Surgery is typically done 8 weeks after the end of radiation.
 
-##
+## 
 
 For most people, the chemotherapy and radiation are well tolerated. In some cases, side effects do occur.
 
@@ -186,28 +168,21 @@ The radiation attacks the cancer cells in the esophagus and nearby lymph nodes, 
 
 In a small number of patients, the chemotherapy can lower the blood counts, so your chemotherapy team will periodically check blood test to be certain you have enough white blood cells to fight infection. About 7% of patients will need some additonal medications to keep their blood counts up. But in 93% of patients, the white blood cell counts remain normal.
 
-
 ## Chemotherapy (FLOT)
-
 
 For patients with adenocarcinoma, an alternative to CROSS chemotherapy and radiation is to administer chemotherapy before and after surgery.
 
-In this method, 
+In this method,
 
 https://www.macmillan.org.uk/cancer-information-and-support/treatments-and-drugs/flot
 
 https://www.chemoexperts.com/flot-fluorouracil-leucovorin-oxaliplatin-docetaxel.html
 
-
-Taxotere - 1 hour
-Oxaliplatin - 2 hours
-Leucovorin - 2 hours
-5FU - 24 hours via an infusion pump
+Taxotere - 1 hour Oxaliplatin - 2 hours Leucovorin - 2 hours 5FU - 24 hours via an infusion pump
 
 Pre-medication with dexamethosone day prior and day of
 
-Covid-19 and Flu vaccines
-Shingles vaccine *before* chemotherapy
+Covid-19 and Flu vaccines Shingles vaccine *before* chemotherapy
 
 Dental work done prior to chemotherapy
 
@@ -223,26 +198,20 @@ Patients with squamous cell carcinoma are treated with chemotherapy + radiaiton
 
 For patients with adenocarcinoma, there are two options: chemotherapy and radiation prior to surgery OR chemotherapy before and after surgery:
 
-
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
-
 Adenocarcinoma
 
-- Chemotherapy + Radiation $\rightarrow$ Surgery
-- Chemo $\rightarrow$ Surgery $\rightarrow$ Surgery
-
+-   Chemotherapy + Radiation $\rightarrow$ Surgery
+-   Chemo $\rightarrow$ Surgery $\rightarrow$ Surgery
 :::
 
 ::: {.column .fragment width="50%"}
 Squamous Cell Carcinoma
 
-- Chemotherapy + Radiation $\rightarrow$ Surgery
-
+-   Chemotherapy + Radiation $\rightarrow$ Surgery
 :::
-:::
-
-
+:::::
 
 ------------------------------------------------------------------------
 

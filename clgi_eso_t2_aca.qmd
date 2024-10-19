@@ -10,7 +10,7 @@ format:
     css: "lci_styles.css"
     theme: default
     echo: false
-    output-file: esot3.html
+    output-file: esot2_slides.html
   pdf:
     documentclass: scrartcl
   html: default
@@ -21,8 +21,8 @@ from: markdown+emoji
 
 ## Anatomy
 
-:::: {.columns}
-::: {.column  width="50%"}
+::::: columns
+::: {.column width="50%"}
 Food moves from the throat
 
 $\rightarrow$ esophagus
@@ -32,10 +32,10 @@ $\rightarrow$ stomach
 $\rightarrow$ small bowel (jejunum)
 :::
 
-::: {.column  width="50%"}
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_Anatomy_Labels.png)
 :::
-::::
+:::::
 
 ## Types of Esophageal Cancer
 
@@ -56,113 +56,112 @@ Staging is important in order to find the right treatment for a particular patie
 
 ## Esophageal Cancer Staging {.center}
 
-
-
 |  |  |
-|--------------------|----------------------------------------------------|
+|---------------------|---------------------------------------------------|
 | **T** | **Tumor** - How deep has cancer grown into the wall of the esophagus? |
 | **N** | **Nodes** - Has cancer spread to the lymph nodes? |
 | **M** | **Metastasis** - Has the cancer spread to other parts of the body such as the lungs or liver? |
 
 ## Wall of the Esophagus
-:::: {.columns}
-::: {.column  width="50%"}
+
+::::: columns
+::: {.column width="50%"}
 The esophagus is made of several layers, starting with the mucosa, which is the inner layer. The mucosa is surrounded by muscle layers and the muscle is surrounded by fat. Outside the esophagus are lymph nodes
 :::
 
-::: {.column  width="50%"}
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/tumor1_ai.png)
 :::
-::::
+:::::
 
 ## Cancer Growth
 
-:::: {.columns}
-::: {.column  width="50%"}
+::::: columns
+::: {.column width="50%"}
 Cancers start on the very inside of the layer called the mucosa
 :::
 
-::: {.column  width="50%"}
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/tumor21_ai.png)
 :::
-::::
+:::::
 
 ## Cancer Growth
 
-:::: {.columns}
-::: {.column  width="50%"}
+::::: columns
+::: {.column width="50%"}
 As cancers grow, they penetrate into deeper layers of the wall of the esopahgus
 :::
 
-::: {.column  width="50%"}
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/tumor23_ai.png)
 :::
-::::
+:::::
 
 ## Cancer Growth
 
-:::: {.columns}
-::: {.column  width="50%"}
+::::: columns
+::: {.column width="50%"}
 This process of growth takes years
 :::
 
-::: {.column  width="50%"}
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/tumor24_ai.png)
 :::
-::::
+:::::
 
 ## Cancer Growth
 
-:::: {.columns}
-::: {.column  width="50%"}
+::::: columns
+::: {.column width="50%"}
 As the cancer grows it can make swallowing more difficult
 :::
 
-::: {.column  width="50%"}
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/tumor25_ai.png)
 :::
-::::
+:::::
 
 ## Cancer Growth
 
-:::: {.columns}
-::: {.column  width="50%"}
+::::: columns
+::: {.column width="50%"}
 The thicker a cancer becomes, the more likely it is to spread to lymph nodes
 :::
 
-::: {.column  width="50%"}
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/tumor25a_ai.png)
 :::
-::::
+:::::
 
 ## Cancer Growth
 
-:::: {.columns}
-::: {.column  width="50%"}
+::::: columns
+::: {.column width="50%"}
 Cancer cells can then begin to grow inside the lymph nodes
 :::
 
-::: {.column  width="50%"}
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/tumor25b_ai.png)
 :::
-::::
+:::::
 
 ## T Stage
 
-:::: {.columns}
-::: {.column  width="50%"}
+::::: columns
+::: {.column width="50%"}
 Cancers are categorized based upon the thickness of the tumor, known as the T stage
 :::
 
-::: {.column  width="50%"}
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/tumor_t_full.png)
 :::
-::::
+:::::
 
 ## N Stage
 
-:::: {.columns}
-::: {.column  width="50%"}
+::::: columns
+::: {.column width="50%"}
 Cancers are also categorized based upon whether there there is spread to the lymph nodes.
 
 -   N0 cancers have not spread to the lymph nodes
@@ -170,34 +169,34 @@ Cancers are also categorized based upon whether there there is spread to the lym
 -   N1 cancers have spread to the lymph nodes.
 :::
 
-::: {.column  width="50%"}
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/tumor_t3_nodes_labels.png)
 :::
-::::
+:::::
 
 ## M Stage
 
-:::: {.columns}
-::: {.column  width="50%"}
+::::: columns
+::: {.column width="50%"}
 Some cancers can spread from the esophagus to the lungs or liver
 :::
 
-::: {.column  width="50%"}
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_M_Stage.png)
 :::
-::::
+:::::
 
 ## Endoscopic Ultrasound
 
-:::: {.columns}
-::: {.column  width="50%"}
+::::: columns
+::: {.column width="50%"}
 Endoscopic ultrasound (EUS) is a procedure similar to upper endoscopy (EGD) which has an ultrasound probe at the bottom of the scope. This allows measuring the thickness of the cancer. Endoscopic ultrasound can help determine the T stage of the cancer.
 :::
 
-::: {.column  width="50%"}
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/EUSArtboard2@4x.png)
 :::
-::::
+:::::
 
 ## PET scan
 
@@ -207,22 +206,22 @@ A PET scan is similar to a CT scan, and uses a small amount of tracer to light u
 
 ## Laparoscopy
 
-:::: {.columns}
-::: {.column  width="50%"}
+::::: columns
+::: {.column width="50%"}
 Some cancers can spread inside the abdominal cavity. These areas of spread can be very small, as small as a grain of rice.
 
 In order to detect spread within the abdominal cavity, a proceduce called a laparoscopy can be performed
 :::
 
-::: {.column  width="50%"}
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
 :::
-::::
+:::::
 
 ## Laparoscopy
 
-:::: {.columns}
-::: {.column  width="50%"}
+::::: columns
+::: {.column width="50%"}
 A laparoscopy is performed under a general anesthetic.
 
 -   Several small incisions 1/4: long are made.
@@ -232,10 +231,10 @@ A laparoscopy is performed under a general anesthetic.
 -   If necessary, a biopsy can be performed.
 :::
 
-::: {.column  width="50%"}
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
 :::
-::::
+:::::
 
 ## Treatment Plan
 
@@ -246,67 +245,65 @@ A laparoscopy is performed under a general anesthetic.
 | Locally-advanced | T3 or N1  | Preoperative therapy $\rightarrow$ Surgery |
 | Metastatic       | M1        | Chemotherapy                               |
 
-
-
 ## Preoperative Therapy
 
-:::: {.columns}
-::: {.column  width="50%"}
+::::: columns
+::: {.column width="50%"}
 Patients with locally-advanced esophageal cancer often have localized spread of cancer cells in the surrounding area
-
-
 :::
 
-::: {.column  width="50%"}
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor_100_1600.png)
 :::
-::::
-
-
-
-
-
-
+:::::
 
 ## Preoperative therapy
-:::: {.columns}
-::: {.column  width="50%"}
+
+::::: columns
+::: {.column width="50%"}
 Surgery removes the top of the stomach and a portion of the esophagus
 :::
-::: {.column  width="50%"}
+
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor100_resection_intra.png)
 :::
-::::
+:::::
 
 ## Preoperative therapy
-:::: {.columns}
-::: {.column  width="50%"}
+
+::::: columns
+::: {.column width="50%"}
 However, with locally-advanced cancers, there is a risk that small amounts of cancer could be left behind at the time of surgery
 :::
-::: {.column  width="50%"}
+
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor100_resection_post.png)
 :::
-::::
+:::::
 
 ## Preoperative Therapy
-:::: {.columns}
-::: {.column  width="50%"}
+
+::::: columns
+::: {.column width="50%"}
 For these patients, it is helplful to start with therapy that will shrink the tumor prior to surgery
 :::
-::: {.column  width="50%"}
+
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor_100_1600.png)
 :::
-::::
+:::::
 
 ## Preoperative Therapy
-:::: {.columns}
-::: {.column  width="50%"}
+
+::::: columns
+::: {.column width="50%"}
 For these patients, it is helplful to start with therapy that will shrink the tumor prior to surgery
 :::
-::: {.column  width="50%"}
+
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor80_1600.png)
 :::
-::::
+:::::
 
 ## Preoperative Therapy
 
@@ -348,39 +345,39 @@ In this way, surgery can be performed with the best chance of removing all of th
 
 For patients with adenocarcinoma, there are two options: chemotherapy and radiation prior to surgery OR chemotherapy before and after surgery:
 
-:::: {.columns}
-::: {.column  width="50%"}
+::::: columns
+::: {.column width="50%"}
 Adenocarcinoma
 
 -   Chemotherapy + Radiation $\rightarrow$ Surgery
 -   Chemo $\rightarrow$ Surgery $\rightarrow$ Surgery
 :::
 
-::: {.column  width="50%"}
+::: {.column width="50%"}
 Squamous Cell Carcinoma
 
 -   Chemotherapy + Radiation $\rightarrow$ Surgery
 :::
-::::
+:::::
 
 ## CROSS vs FLOT
 
 The combination of chemotherapy and radiation is referred to as CROSS, and chemotherapy before and after surgery is referrred to as FLOT
 
-:::: {.columns}
-::: {.column  width="50%"}
+::::: columns
+::: {.column width="50%"}
 Adenocarcinoma
 
 -   Chemotherapy + Radiation $\rightarrow$ Surgery CROSS
 -   Chemo $\rightarrow$ Surgery $\rightarrow$ Surgery FLOT
 :::
 
-::: {.column  width="50%"}
+::: {.column width="50%"}
 Squamous Cell Carcinoma
 
 -   Chemotherapy + Radiation $\rightarrow$ Surgery CROSS
 :::
-::::
+:::::
 
 # CROSS Chemotherapy + Radiation
 
@@ -440,4 +437,4 @@ Dental work done prior to chemotherapy
 
 Will need a port for chemotherapy
 
-Updated list of medicines 
+Updated list of medicines
