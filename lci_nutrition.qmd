@@ -1,56 +1,50 @@
 ---
 title: "Nutrition"
 format: 
+  pptx: 
+    reference-doc: template.pptx
   revealjs:
     slide-number: c/t
     width: 1280
     height: 720
     logo: "atriumlogo.jpg"
-    footer: "[Patient Education](https://jcsalo.github.io/patient_education/)"
+    footer: "[LCI Patient Education](https://jcsalo.github.io/patient_education/LCI.html)"
     css: "lci_styles.css"
-    theme: default
+    theme: [simple, lci.scss]
     echo: false
-    output-file: lci_nutrition_slides.html
+    transition: fade
+    #output-file: lci_esot3_slides.html
+    pdf-separate-fragments: true
   pdf:
-    documentclass: scrreprt
+    documentclass: scrartcl
   html: default
 editor: visual
 bibliography: zotero.bib
-from: markdown+emoji
 ---
-
-## Introduction
-
-Nutrition is an important part of preparation for cancer therapy.
-
-We have done 
-
-I’m Dr Jonathan Salo, I’m a GI Cancer Surgeon in Charlotte, North Carolina.
-
-Esophageal cancer can cause difficulty with swallowing, which can limit your body’s ability to get the nutrition you need in order to keep your body healthy during cancer treatment.
-
-------------------------------------------------------------------------
-
-In this video you’ll learn about
-
--   Essential building blocks for good nutrition
--   Nutritional drinks
--   Feeding tubes
-
-------------------------------------------------------------------------
-
-There are four major nutritional building block:
-
--   Carbohydrates
--   Protein
--   Fats
--   Vitamins and Minerals
-
-------------------------------------------------------------------------
 
 # GI Tract Anatomy
 
 Normally, food passes from the mouth into the esophagus, and then into the stomach. The stomach serves as a reservoir for food, to allow you to eat a big Thanksgiving. The stomach starts digestion, and then after the meal slowly allows small portions of food to pass into the small intestines, where most of the digestion occurs.
+
+## Anatomy
+
+::::: columns
+::: {.column width="50%"}
+
+
+- Esophagus delivers food to the stomach
+
+- Stomach stores food and delivers it in small quantities to the jejunum
+
+- Jejunum begins digestion in the small intestines
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_Anatomy_Labels.png)
+:::
+:::::
+
+## Nutrition Building Blocks
 
 ------------------------------------------------------------------------
 
