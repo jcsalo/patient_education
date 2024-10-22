@@ -1,22 +1,25 @@
 ---
-title: "Cancer of the Esophagus and Gastroesophageal Junction"
+title: "Early Stage Cancer of the Esophagus and Gastroesophageal Junction"
 format: 
+  pptx: 
+    reference-doc: template.pptx
   revealjs:
     slide-number: c/t
     width: 1280
     height: 720
     logo: "atriumlogo.jpg"
-    footer: "[Patient Education](https://jcsalo.github.io/patient_education/)"
+    footer: "[LCI Patient Education](https://jcsalo.github.io/patient_education/LCI.html)"
     css: "lci_styles.css"
-    theme: default
+    theme: [simple, lci.scss]
     echo: false
-    output-file: esot2_slides.html
+    transition: fade
+    #output-file: lci_esot3_slides.html
+    pdf-separate-fragments: true
   pdf:
     documentclass: scrartcl
   html: default
 editor: visual
 bibliography: zotero.bib
-from: markdown+emoji
 ---
 
 ## Anatomy
@@ -57,7 +60,7 @@ Staging is important in order to find the right treatment for a particular patie
 ## Esophageal Cancer Staging {.center}
 
 |  |  |
-|---------------------|---------------------------------------------------|
+|----------------------|--------------------------------------------------|
 | **T** | **Tumor** - How deep has cancer grown into the wall of the esophagus? |
 | **N** | **Nodes** - Has cancer spread to the lymph nodes? |
 | **M** | **Metastasis** - Has the cancer spread to other parts of the body such as the lungs or liver? |
