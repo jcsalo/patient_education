@@ -27,19 +27,18 @@ Surgery for esophageal cancer is generally performed in several situations:
 
 -   Superficial Tumors (T1) that can't be completely removed by endoscopy
 -   Localized Tumors (T2N0)
--   Locally Advanced Tumors (T3 or N+) after the completion of preoperative therapy. Preoperative therapy is generally some combination of chemotherapy and radiation.
-
+-   Locally Advanced Tumors (T3 or N+) after preoperative therapy. 
 
 ## Goals of Surgery
 
 ::::: columns
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 -   Remove tumor from esophagus
 -   Remove surrounding lymph nodes
 -   Create a new esophagus
 :::
 
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_Resection1_ai.png)
 :::
 :::::
@@ -47,11 +46,11 @@ Surgery for esophageal cancer is generally performed in several situations:
 ## Resection
 
 ::::: columns
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 The *Ivor Lewis* esophagectomy, shown here, removes the lower 2/3 of the esophagus, the tumor, and the surrounding lymph nodes.
 :::
 
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_Resection2_ai.png)
 
 
@@ -62,11 +61,11 @@ The *Ivor Lewis* esophagectomy, shown here, removes the lower 2/3 of the esophag
 ## Reconstruction
 
 ::::: columns
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 A new esophagus is created from the stomach in the abdomen by fashioning it into a tube.
 :::
 
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_Resection3_ai.png)
 :::
 :::::
@@ -75,11 +74,11 @@ A new esophagus is created from the stomach in the abdomen by fashioning it into
 ## Ivor Lewis esophagectomy
 
 ::::: columns
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 The new esophagus is now brought up into the chest. A new connection is made between the esophagus and the stomach, called an *anastomosis*.
 :::
 
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Anastomosis.png)
 :::
 :::::
@@ -88,13 +87,18 @@ The new esophagus is now brought up into the chest. A new connection is made bet
 ## Minimally-invasive Ivor Lewis
 
 ::::: columns
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
+
+- Small incisions in the abdomen and chest
+
+
+
 Mininally-invasive esophagectomy uses small incisions in the abdomen and chest. A surgical telescope and special instruments are used to perform the operations. This operation is a more recent innovation and can be used in many cases instead of an open approach.
 
 The smaller incisions mean faster recovery and less discomfort
 :::
 
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/MIE_IvorLewisArtboard.png)
 :::
 :::::
@@ -104,11 +108,11 @@ The smaller incisions mean faster recovery and less discomfort
 ## Minimally-invasive Ivor Lewis
 
 ::::: columns
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 We have found this is the best option for most of our patients. In some cases, an open approach is still necessary.
 :::
 
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/IvorLewisArtboard.png)
 :::
 :::::
@@ -117,11 +121,11 @@ We have found this is the best option for most of our patients. In some cases, a
 ## Total Esophagectomy
 
 ::::: columns
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 For patients with tumors in the upper esophagus, we need to remove more of the esophagus
 :::
 
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_ProxTumorArtboard.png)
 
@@ -132,11 +136,11 @@ For patients with tumors in the upper esophagus, we need to remove more of the e
 ## Total Esophagectomy
 
 ::::: columns
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 For those patients, we need to remove the whole esophagus
 :::
 
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_ResectionTotalArtboard.png)
 
 :::
@@ -146,11 +150,11 @@ For those patients, we need to remove the whole esophagus
 ## Minimally-invasive McKeown Esophagectomy
 
 ::::: columns
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 In this case, a connection between the esophagus and the stomach is made in the neck.
 :::
 
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_McKeownArtboard.png)
 
 :::
@@ -164,16 +168,16 @@ An esophagectomy is a substantial operation, and in some cases there can be post
 -   Anastomotic leak
 -   Pneumonia
 
-------------------------------------------------------------------------
-
 ## Anastomotic Leak
 
 ::::: columns
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 The anastomosis is surigcal connection between the esophagus and the stomach.
 :::
 
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
+
+![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_McKeownArtboard.png)
 ![](images/Eso_IL_AnastArtboard%202@4x.png)
 :::
 :::::
@@ -183,11 +187,11 @@ The anastomosis is surigcal connection between the esophagus and the stomach.
 ## Anastomotic Leak
 
 ::::: columns
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 If anastomosis does not heal properly, this can cause a leakage of fluid from the esophagus, called an anastomotic leak. If this happens, an infection can occur in the mediastinum, which is the space near the heart between the lungs.
 :::
 
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 ![](images/Eso_LeakArtboard%202@4x.png)
 :::
 :::::
@@ -203,11 +207,11 @@ In some cases, the leak will heal on its own, but other cases may require additi
 ## Pneumonia
 
 ::::: columns
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 Pneumonia is another complication which can occurs in about 10-15% of patients after esophagectomy. Pneumonia requires treatment with antibiotics and frequently requires a longer hospitalization.
 :::
 
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 ![](images/Eso_LungsArtboard%202@4x.png)
 :::
 :::::
@@ -352,11 +356,11 @@ p
 ## Muscle Strength and Risk after Esophagectomy
 
 ::::: columns
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 The results of our research suggest a simple answer: The risk of pneumonia is related to a patient's muscle strength.\]
 :::
 
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 ![](images/emancipation-156066_1280.png)
 :::
 :::::
@@ -364,11 +368,11 @@ The results of our research suggest a simple answer: The risk of pneumonia is re
 ## 
 
 ::::: columns
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 Now this doesn't mean that you need to look like this to prevent pneumonia after your esophagectomy\]
 :::
 
-::: {.column .fragment width="50%"}
+::: {.column width="50%"}
 ![](images/man-461195_1920.jpg)
 :::
 :::::
