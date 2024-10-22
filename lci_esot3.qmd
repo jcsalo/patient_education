@@ -8,7 +8,7 @@ format:
     width: 1280
     height: 720
     logo: "atriumlogo.jpg"
-    footer: "[LCI Patient Education](https://jcsalo.github.io/patient_education/LCI.html)"
+    footer: "[LCI GI Oncology](https://jcsalo.github.io/patient_education/LCI.html)"
     css: "lci_styles.css"
     theme: [simple, lci.scss]
     echo: false
@@ -61,18 +61,17 @@ Staging refers to the tests to determine
 
 ## Esophageal Cancer Staging {tbl-colwidths="[20,10,70]"}
 
-- **T** = Tumor - How deep has cancer grown into the wall of the esophagus? 
-- **N** = Nodes - Has cancer spread to the lymph nodes? 
-- **M** = Metastasis - Has the cancer spread to other parts of the body? lungs or liver? 
-
+-   **T** = Tumor - How deep has cancer grown into the wall of the esophagus?
+-   **N** = Nodes - Has cancer spread to the lymph nodes?
+-   **M** = Metastasis - Has the cancer spread to other parts of the body? lungs or liver?
 
 ## Lyaers of the Wall of the Esophagus
 
 ::::: columns
 ::: {.column width="50%"}
-- Mucosa - Inner layer
-- Muscle Wall (muscularis)
-- Lymph nodes located in fat outside the muscle
+-   Mucosa - Inner layer
+-   Muscle Wall (muscularis)
+-   Lymph nodes located in fat outside the muscle
 :::
 
 ::: {.column width="50%"}
@@ -85,18 +84,12 @@ Staging refers to the tests to determine
 ::::: columns
 ::: {.column width="50%"}
 Cancers start on the very inside of the layer called the mucosa
-
 :::
 
 ::: {.column width="50%"}
-
 ![](https://deidt7p41jzcy.cloudfront.net/tumor21_ai.png)
-
 :::
-
 :::::
-
-
 
 ## Locally-advanced Cancers
 
@@ -110,13 +103,12 @@ Over time, cancers can grow into the muscular wall
 :::
 :::::
 
-## Lymph Nodes 
+## Lymph Nodes
 
 ::::: columns
 ::: {.column width="50%"}
 In some cases, cancer cells can break off from the main tumor and spread to lymph nodes
 :::
-
 
 ::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/tumor25b_ai.png)
@@ -267,8 +259,7 @@ It is helpful to start with therapy *before* surgery that will shrink the cancer
 :::
 :::::
 
-
-## Preoperative Therapy 
+## Preoperative Therapy
 
 ::::: columns
 ::: {.column width="50%"}
@@ -280,8 +271,7 @@ It is helpful to start with therapy *before* surgery that will shrink the cancer
 :::
 :::::
 
-
-## Preoperative Therapy 
+## Preoperative Therapy
 
 ::::: columns
 ::: {.column width="50%"}
@@ -312,8 +302,6 @@ When surgery is then performed...
 When surgery is then performed...
 
 The risk of cancer recurrence is minimized
-
-
 :::
 
 ::: {.column width="50%"}
@@ -325,20 +313,17 @@ The risk of cancer recurrence is minimized
 
 Over 10 years ago, researchers in the Netherlands took 363 patients with esophageal cancer and divided them into two groups. The two groups were treated differently:\
 
-
 **Surgery Alone**
 
 vs
 
-**Chemotherapy + Radiation $\rightarrow$ Surgery 
-
-
+\*\*Chemotherapy + Radiation $\rightarrow$ Surgery
 
 ## Chemotherapy + Radiation CROSS Trial
 
 The results were quite dramatic: The group that was treated with all three therapies, chemotherapy and radiation and surgery, lived on average twice a long as patients who had surgery alone.
 
-**Chemotherapy + Radiation $\rightarrow$Surgery** $\Rightarrow$ Longer Survival
+**Chemotherapy + Radiation** $\rightarrow$Surgery $\Rightarrow$ Longer Survival
 
 Chemotherapy and radiation were given together over six weeks
 
@@ -353,12 +338,11 @@ A typical schedule for chemotherapy + radiation:
 
 ## Chemotherapy + Radiation - Side Effects
 
-Radiation kills cancer cells, but can also cause irritation of the lining of the esophagus. 
+Radiation kills cancer cells, but can also cause irritation of the lining of the esophagus.
 
 This can make swallowing more challenging the last two weeks of therapy.
 
 A feeding tube is sometimes needed to help with hydration and nutrition.
-
 
 ## Locally-advanced Adenocarcinoma
 
@@ -396,7 +380,6 @@ Two different drug combinations can be used:
 :::
 :::::
 
-
 ## Adenocarcinoma Treatment Options
 
 ::::: columns
@@ -416,10 +399,9 @@ Two different drug combinations can be used:
 :::
 :::::
 
-
 ## Chemotherapy
 
-Chemotherapy drugs are administered intravenously. 
+Chemotherapy drugs are administered intravenously.
 
 There are several options for intravenous access:
 
@@ -438,7 +420,6 @@ Some patients can be treated with an intravenous line placed in the hand or arm 
 ![](https://deidt7p41jzcy.cloudfront.net/peripheral-venous-catheter-427167-7_960_720-pixabay.jpg)
 :::
 :::::
-
 
 ## PICC Lines
 
