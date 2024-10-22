@@ -1,0 +1,223 @@
+---
+title: "Early-Stage Cancer of the Esophagus and Gastroesophageal Junction"
+format: 
+  pptx: 
+    reference-doc: template.pptx
+  revealjs:
+    slide-number: c/t
+    width: 1280
+    height: 720
+    logo: "atriumlogo.jpg"
+    footer: "[LCI Patient Education](https://jcsalo.github.io/patient_education/LCI.html)"
+    css: "lci_styles.css"
+    theme: [simple, lci.scss]
+    echo: false
+    transition: fade
+    #output-file: lci_esot3_slides.html
+    pdf-separate-fragments: true
+  pdf:
+    documentclass: scrartcl
+  html: default
+editor: visual
+bibliography: zotero.bib
+---
+
+## Anatomy
+
+::::: columns
+::: {.column width="50%"}
+Food moves from the throat
+
+$\rightarrow$ esophagus
+
+$\rightarrow$ stomach
+
+$\rightarrow$ small bowel (jejunum)
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_Anatomy_Labels.png)
+:::
+:::::
+
+## Types of Esophageal Cancer
+
+\
+
+There are two common types of esophageal cancer
+
+-   Adenocarcinoma
+-   Squamous Cell Carcinoma
+
+## Cancer Staging
+
+Staging refers to the tests to determine
+
+-   How large is the tumor?
+-   Has there been spread to lymph nodes?
+-   Has it spread to other parts of the body?
+
+**Treatment options depend upont the cancer stage**
+
+## Esophageal Cancer Staging {tbl-colwidths="[20,10,70]"}
+
+-   **T** = Tumor - How deep has cancer grown into the wall of the esophagus?
+-   **N** = Nodes - Has cancer spread to the lymph nodes?
+-   **M** = Metastasis - Has the cancer spread to other parts of the body? lungs or liver?
+
+## Lyaers of the Wall of the Esophagus
+
+::::: columns
+::: {.column width="50%"}
+-   Mucosa - Inner layer
+-   Muscle Wall (muscularis)
+-   Lymph nodes located in fat outside the muscle
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/tumor1_ai.png)
+:::
+:::::
+
+## Early Stage Cancers
+
+::::: columns
+::: {.column width="50%"}
+Cancers start on the very inside of the layer called the mucosa
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/tumor21_ai.png)
+:::
+:::::
+
+## Locally-advanced Cancers
+
+::::: columns
+::: {.column width="50%"}
+Over time, cancers can grow into the muscular wall
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/tumor24_ai.png)
+:::
+:::::
+
+## Lymph Nodes
+
+::::: columns
+::: {.column width="50%"}
+In some cases, cancer cells can break off from the main tumor and spread to lymph nodes
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/tumor25b_ai.png)
+:::
+:::::
+
+## T Stage
+
+::::: columns
+::: {.column width="50%"}
+Cancers are categorized based upon the thickness of the tumor, known as the T stage
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/tumor_t_full.png)
+:::
+:::::
+
+## N Stage
+
+::::: columns
+::: {.column width="50%"}
+Cancers are categorized by whether there is spread to the lymph nodes.
+
+-   **N0** cancers have not spread to the lymph nodes
+
+-   **N1** cancers have spread to the lymph nodes.
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/tumor_t3_nodes_labels.png)
+:::
+:::::
+
+## M Stage
+
+::::: columns
+::: {.column width="50%"}
+Some cancers can also spread from the esophagus to the lungs or liver
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_M_Stage.png)
+:::
+:::::
+
+
+## Endoscopic Ultrasound
+
+::::: columns
+::: {.column width="50%"}
+Endoscopic ultrasound (EUS) is a procedure similar to upper endoscopy (EGD) which has an ultrasound probe at the bottom of the scope. This allows measuring the thickness of the cancer. Endoscopic ultrasound can help determine the T stage of the cancer.
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/EUSArtboard2@4x.png)
+:::
+:::::
+
+## PET scan
+
+::::: columns
+::: {.column width="50%"}
+A PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer.
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/PetImage.png)
+:::
+:::::
+
+## Laparoscopy
+
+::::: columns
+::: {.column width="50%"}
+Some esophageal cancers can spread inside the abdominal cavity. These areas of spread can be very small, as small as a grain of rice.
+
+In order to detect spread within the abdominal cavity, a proceduce called a laparoscopy can be performed in some some patients.
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
+:::
+:::::
+
+## Laparoscopy
+
+::::: columns
+::: {.column width="50%"}
+A laparoscopy is performed under a general anesthetic.
+
+-   Several incisions 1/4" long
+
+-   A telescope is inserted to look inside the abdominal cavity.
+
+-   Biopsies can be performed.
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
+:::
+:::::
+
+## Treatment Plan
+
+|                  |             |                              |
+|------------------|-------------|------------------------------|
+| **Category**     | **Staging** | **Treatment**                |
+| Superficial      | T1          | Endoscopic Therapy           |
+| Localized        | T1b or T2   | Surgery                      |
+| Locally-advanced | T3 or N1    | Preoperative therapy Surgery |
+| Metastatic       | M1          | Chemotherapy                 |
