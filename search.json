@@ -760,7 +760,28 @@
     "href": "lci_esot2.htm#treatment-plan",
     "title": "Early-Stage Cancer of the Esophagus and Gastroesophageal Junction",
     "section": "Treatment Plan",
-    "text": "Treatment Plan\n\n\n\nCategory\nStaging\nTreatment\n\n\nSuperficial\nT1\nEndoscopic Therapy\n\n\nLocalized\nT1b or T2\nSurgery\n\n\nLocally-advanced\nT3 or N1\nPreoperative therapy Surgery\n\n\nMetastatic\nM1\nChemotherapy\n\n\n\n\n\n\n\nLCI Patient Education"
+    "text": "Treatment Plan\n\n\n\nCategory\nStaging\nTreatment\n\n\nSuperficial\nT1\nEndoscopic Therapy\n\n\nLocalized\nT1b or T2\nSurgery\n\n\nLocally-advanced\nT3 or N1\nPreoperative therapy Surgery\n\n\nMetastatic\nM1\nChemotherapy"
+  },
+  {
+    "objectID": "lci_esot2.htm#endoscopic-mucosal-resecteion",
+    "href": "lci_esot2.htm#endoscopic-mucosal-resecteion",
+    "title": "Early-Stage Cancer of the Esophagus and Gastroesophageal Junction",
+    "section": "Endoscopic Mucosal Resecteion",
+    "text": "Endoscopic Mucosal Resecteion\n :::"
+  },
+  {
+    "objectID": "lci_esot2.htm#endoscopic-mucosal-resection---favorable",
+    "href": "lci_esot2.htm#endoscopic-mucosal-resection---favorable",
+    "title": "Early-Stage Cancer of the Esophagus and Gastroesophageal Junction",
+    "section": "Endoscopic Mucosal Resection - Favorable",
+    "text": "Endoscopic Mucosal Resection - Favorable\n\n\n\nClear margins around the edge AND\nClear deep margin AND\nTumor appears slow-growing under microscope\n\n\n\nEMR may be sufficient treatment (without surgery)\nEndoscopic Mucosal Resection - Unfavorable\n\n\n\nInvolved margins around the edge. OR\nInvolved deep margin OR\nTumor appears rapidly-growing under microscope\n\nEsophagectomy (surgery) is standard recommendation\n\n\n\n\n\nLCI GI Oncology"
+  },
+  {
+    "objectID": "lci_esot2.htm#endoscopic-mucosal-resection---unfavorable",
+    "href": "lci_esot2.htm#endoscopic-mucosal-resection---unfavorable",
+    "title": "Early-Stage Cancer of the Esophagus and Gastroesophageal Junction",
+    "section": "Endoscopic Mucosal Resection - Unfavorable",
+    "text": "Endoscopic Mucosal Resection - Unfavorable\n\n\n\nInvolved margins around the edge. OR\nInvolved deep margin OR\nTumor appears rapidly-growing under microscope\n\nEsophagectomy (surgery) is standard recommendation\n\n\n\n\n\nLCI GI Oncology"
   },
   {
     "objectID": "lci_esot2.html",
@@ -880,6 +901,27 @@
     "title": "Early-Stage Cancer of the Esophagus and Gastroesophageal Junction",
     "section": "Treatment Plan",
     "text": "Treatment Plan\n\n\n\nCategory\nStaging\nTreatment\n\n\nSuperficial\nT1\nEndoscopic Therapy\n\n\nLocalized\nT1b or T2\nSurgery\n\n\nLocally-advanced\nT3 or N1\nPreoperative therapy Surgery\n\n\nMetastatic\nM1\nChemotherapy"
+  },
+  {
+    "objectID": "lci_esot2.html#endoscopic-mucosal-resecteion",
+    "href": "lci_esot2.html#endoscopic-mucosal-resecteion",
+    "title": "Early-Stage Cancer of the Esophagus and Gastroesophageal Junction",
+    "section": "Endoscopic Mucosal Resecteion",
+    "text": "Endoscopic Mucosal Resecteion\n :::"
+  },
+  {
+    "objectID": "lci_esot2.html#endoscopic-mucosal-resection---favorable",
+    "href": "lci_esot2.html#endoscopic-mucosal-resection---favorable",
+    "title": "Early-Stage Cancer of the Esophagus and Gastroesophageal Junction",
+    "section": "Endoscopic Mucosal Resection - Favorable",
+    "text": "Endoscopic Mucosal Resection - Favorable\n\n\n\nClear margins around the edge AND\nClear deep margin AND\nTumor appears slow-growing under microscope\n\n\n\n\nEMR may be sufficient treatment (without surgery)\nEndoscopic Mucosal Resection - Unfavorable\n\n\n\nInvolved margins around the edge. OR\nInvolved deep margin OR\nTumor appears rapidly-growing under microscope\n\nEsophagectomy (surgery) is standard recommendation"
+  },
+  {
+    "objectID": "lci_esot2.html#endoscopic-mucosal-resection---unfavorable",
+    "href": "lci_esot2.html#endoscopic-mucosal-resection---unfavorable",
+    "title": "Early-Stage Cancer of the Esophagus and Gastroesophageal Junction",
+    "section": "Endoscopic Mucosal Resection - Unfavorable",
+    "text": "Endoscopic Mucosal Resection - Unfavorable\n\n\n\nInvolved margins around the edge. OR\nInvolved deep margin OR\nTumor appears rapidly-growing under microscope\n\nEsophagectomy (surgery) is standard recommendation"
   },
   {
     "objectID": "cv_port.html",
@@ -1152,7 +1194,7 @@
     "href": "lci_esot3.htm#restaging",
     "title": "Cancer of the Esophagus and Gastroesophageal Junction",
     "section": "Restaging",
-    "text": "Restaging\nCT or PET scan will be performed after preoperative therapy\nSurgery is typically performed 4-8 weeks after therapy, once recovered\n\n\n\n\nLCI Patient Education"
+    "text": "Restaging\nCT or PET scan will be performed after preoperative therapy\nSurgery is typically performed 4-8 weeks after therapy, once recovered\n\n\n\n\nLCI GI Oncology"
   },
   {
     "objectID": "lci_esot3.html",
@@ -2496,21 +2538,21 @@
     "href": "lci_intro.html",
     "title": "LCI Introduction",
     "section": "",
-    "text": "I’m Dr Jonathan Salo, a GI Cancer Surgeon at the Levine Cancer Institute.\nIf you’re seeing this video, it’s likely because you have an upcoming consultation scheduled with us.\nYou may have a recent diagnosis of cancer.\nWhatever your situation, we have a great team of people who can help you every step of the way."
+    "text": "I’m Dr Jonathan Salo, a GI Cancer Surgeon at the Levine Cancer Institute.\nIf you’re seeing this video, it’s likely because you have an upcoming consultation scheduled with us.\nYou may have a recent diagnosis of cancer or you may have a friend or family member who is seeing us\nWhatever your situation, we have a great team of people who can help you every step of the way."
   },
   {
     "objectID": "lci_intro.html#lci-welcome-2024",
     "href": "lci_intro.html#lci-welcome-2024",
     "title": "LCI Introduction",
     "section": "",
-    "text": "I’m Dr Jonathan Salo, a GI Cancer Surgeon at the Levine Cancer Institute.\nIf you’re seeing this video, it’s likely because you have an upcoming consultation scheduled with us.\nYou may have a recent diagnosis of cancer.\nWhatever your situation, we have a great team of people who can help you every step of the way."
+    "text": "I’m Dr Jonathan Salo, a GI Cancer Surgeon at the Levine Cancer Institute.\nIf you’re seeing this video, it’s likely because you have an upcoming consultation scheduled with us.\nYou may have a recent diagnosis of cancer or you may have a friend or family member who is seeing us\nWhatever your situation, we have a great team of people who can help you every step of the way."
   },
   {
     "objectID": "lci_intro.html#location",
     "href": "lci_intro.html#location",
     "title": "LCI Introduction",
     "section": "Location",
-    "text": "Location\nWe’re located at 1310 East Morehead Street in Building 2 of Levine Cancer Institute.\nThere is a traffic circle which allows you to pull in for patient drop-off\nYou can either self-park in the garage, or we have free value parking."
+    "text": "Location\nWe’re located at 1310 East Morehead Street in Building 2 of Levine Cancer Institute.\nThere is a traffic circle which allows you to pull in for patient drop-off\nYou can either self-park in the garage, or we have free valet parking."
   },
   {
     "objectID": "lci_intro.html#my-atrium-portal",
@@ -2580,14 +2622,14 @@
     "href": "lci_intro_slides.html.htm#lci-welcome-2024",
     "title": "LCI Introduction",
     "section": "LCI welcome 2024",
-    "text": "LCI welcome 2024\nI’m Dr Jonathan Salo, a GI Cancer Surgeon at the Levine Cancer Institute.\nIf you’re seeing this video, it’s likely because you have an upcoming consultation scheduled with us.\nYou may have a recent diagnosis of cancer.\nWhatever your situation, we have a great team of people who can help you every step of the way."
+    "text": "LCI welcome 2024\nI’m Dr Jonathan Salo, a GI Cancer Surgeon at the Levine Cancer Institute.\nIf you’re seeing this video, it’s likely because you have an upcoming consultation scheduled with us.\nYou may have a recent diagnosis of cancer or you may have a friend or family member who is seeing us\nWhatever your situation, we have a great team of people who can help you every step of the way."
   },
   {
     "objectID": "lci_intro_slides.html.htm#location",
     "href": "lci_intro_slides.html.htm#location",
     "title": "LCI Introduction",
     "section": "Location",
-    "text": "Location\nWe’re located at 1310 East Morehead Street in Building 2 of Levine Cancer Institute.\nThere is a traffic circle which allows you to pull in for patient drop-off\nYou can either self-park in the garage, or we have free value parking."
+    "text": "Location\nWe’re located at 1310 East Morehead Street in Building 2 of Levine Cancer Institute.\nThere is a traffic circle which allows you to pull in for patient drop-off\nYou can either self-park in the garage, or we have free valet parking."
   },
   {
     "objectID": "lci_intro_slides.html.htm#my-atrium-portal",
