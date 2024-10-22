@@ -236,6 +236,7 @@ A laparoscopy is performed under a general anesthetic.
 - Clear margins around the edge *AND*
 - Clear deep margin *AND*
 - Tumor appears slow-growing under microscope
+:::
 
 ::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/EMRF_ai.jpg)
@@ -255,6 +256,7 @@ EMR may be sufficient treatment (without surgery)
 - Tumor appears rapidly-growing under microscope
 
 Esophagectomy (surgery) is standard recommendation
+:::
 
 ::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/EMRU_ai.jpg)
