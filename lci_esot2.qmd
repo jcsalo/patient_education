@@ -221,3 +221,42 @@ A laparoscopy is performed under a general anesthetic.
 | Localized        | T1b or T2   | Surgery                      |
 | Locally-advanced | T3 or N1    | Preoperative therapy Surgery |
 | Metastatic       | M1          | Chemotherapy                 |
+
+## Endoscopic Mucosal Resecteion
+
+![](https://deidt7p41jzcy.cloudfront.net/emr_comm.png)
+:::
+
+## Endoscopic Mucosal Resection - Favorable
+
+
+::::: columns
+::: {.column width="50%"}
+
+- Clear margins around the edge *AND*
+- Clear deep margin *AND*
+- Tumor appears slow-growing under microscope
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/EMRF.jpg)
+:::
+:::::
+
+EMR may be sufficient treatment (without surgery)
+
+## Endoscopic Mucosal Resection - Unfavorable
+
+
+::::: columns
+::: {.column width="50%"}
+
+- Involved margins around the edge. *OR*
+- Involved deep margin *OR*
+- Tumor appears rapidly-growing under microscope
+
+Esophagectomy (surgery) is standard recommendation
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/EMRU.jpg)
+:::
+:::::
