@@ -222,7 +222,9 @@ A laparoscopy is performed under a general anesthetic.
 | Locally-advanced | T3 or N1    | Preoperative therapy Surgery |
 | Metastatic       | M1          | Chemotherapy                 |
 
-## Endoscopic Mucosal Resecteion
+## Endoscopic Mucosal Resection (EMR)
+
+Endoscopic procedure to remove a superficial tumor from the inner layer of the esophagus
 
 ![](https://deidt7p41jzcy.cloudfront.net/emr_comm.png)
 
@@ -233,13 +235,31 @@ A laparoscopy is performed under a general anesthetic.
 ::::: columns
 ::: {.column width="50%"}
 
-- Clear margins around the edge *AND*
+- Clear margins at the edge *AND*
 - Clear deep margin *AND*
 - Tumor appears slow-growing under microscope
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/EMRF_ai.jpg)
+![](https://deidt7p41jzcy.cloudfront.net/emr_favorable.png)
+:::
+:::::
+
+
+
+## Endoscopic Mucosal Resection - Favorable
+
+
+::::: columns
+::: {.column width="50%"}
+
+- Clear margins at the edge *AND*
+- Clear deep margin *AND*
+- Tumor appears slow-growing under microscope
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/emr_favorable_16001200.png)
 :::
 :::::
 
@@ -251,14 +271,34 @@ EMR may be sufficient treatment (without surgery)
 ::::: columns
 ::: {.column width="50%"}
 
-- Involved margins around the edge. *OR*
-- Involved deep margin *OR*
+- Tumor at edge margin *OR*
+- Tumor at  deep margin *OR*
 - Tumor appears rapidly-growing under microscope
 
 Esophagectomy (surgery) is standard recommendation
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/EMRU_ai.jpg)
+![](https://deidt7p41jzcy.cloudfront.net/emr_unfavorable.png)
+:::
+:::::
+
+
+
+## Endoscopic Mucosal Resection - Unfavorable
+
+
+::::: columns
+::: {.column width="50%"}
+
+- Tumor at edge margin *OR*
+- Tumor at  deep margin *OR*
+- Tumor appears rapidly-growing under microscope
+
+Esophagectomy (surgery) is standard recommendation
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/emr_unfavorable_16001200.png)
 :::
 :::::
