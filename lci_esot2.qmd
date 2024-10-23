@@ -229,7 +229,7 @@ Endoscopic procedure to remove a superficial tumor from the inner layer of the e
 ![](https://deidt7p41jzcy.cloudfront.net/emr_comm.png)
 
 
-## Endoscopic Mucosal Resection - Favorable
+## Endoscopic Mucosal Resection - Favorable {auto-animate=true}
 
 
 ::::: columns
@@ -247,7 +247,7 @@ Endoscopic procedure to remove a superficial tumor from the inner layer of the e
 
 
 
-## Endoscopic Mucosal Resection - Favorable
+## Endoscopic Mucosal Resection - Favorable {auto-animate=true}
 
 
 ::::: columns
@@ -265,7 +265,7 @@ Endoscopic procedure to remove a superficial tumor from the inner layer of the e
 
 EMR may be sufficient treatment (without surgery)
 
-## Endoscopic Mucosal Resection - Unfavorable
+## Endoscopic Mucosal Resection - Unfavorable {auto-animate=true auto-animate-restart=true}
 
 
 ::::: columns
@@ -283,9 +283,7 @@ EMR may be sufficient treatment (without surgery)
 :::
 :::::
 
-Esophagectomy (surgery) is standard recommendation
-
-## Endoscopic Mucosal Resection - Unfavorable
+## Endoscopic Mucosal Resection - Unfavorable {auto-animate=true}
 
 
 ::::: columns
@@ -295,10 +293,11 @@ Esophagectomy (surgery) is standard recommendation
 - Tumor at  deep margin *OR*
 - Tumor appears rapidly-growing under microscope
 
-Esophagectomy (surgery) is standard recommendation
+
 :::
 
 ::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/emr_unfavorable_16001200.png)
 :::
 :::::
+Esophagectomy (surgery) is standard recommendation
