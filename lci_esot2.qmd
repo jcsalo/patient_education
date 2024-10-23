@@ -275,7 +275,7 @@ EMR may be sufficient treatment (without surgery)
 - Tumor at  deep margin *OR*
 - Tumor appears rapidly-growing under microscope
 
-Esophagectomy (surgery) is standard recommendation
+
 :::
 
 ::: {.column width="50%"}
@@ -283,7 +283,7 @@ Esophagectomy (surgery) is standard recommendation
 :::
 :::::
 
-
+Esophagectomy (surgery) is standard recommendation
 
 ## Endoscopic Mucosal Resection - Unfavorable
 
