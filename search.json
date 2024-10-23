@@ -763,25 +763,39 @@
     "text": "Treatment Plan\n\n\n\nCategory\nStaging\nTreatment\n\n\nSuperficial\nT1\nEndoscopic Therapy\n\n\nLocalized\nT1b or T2\nSurgery\n\n\nLocally-advanced\nT3 or N1\nPreoperative therapy Surgery\n\n\nMetastatic\nM1\nChemotherapy"
   },
   {
-    "objectID": "lci_esot2.htm#endoscopic-mucosal-resecteion",
-    "href": "lci_esot2.htm#endoscopic-mucosal-resecteion",
+    "objectID": "lci_esot2.htm#endoscopic-mucosal-resection-emr",
+    "href": "lci_esot2.htm#endoscopic-mucosal-resection-emr",
     "title": "Early-Stage Cancer of the Esophagus and Gastroesophageal Junction",
-    "section": "Endoscopic Mucosal Resecteion",
-    "text": "Endoscopic Mucosal Resecteion"
+    "section": "Endoscopic Mucosal Resection (EMR)",
+    "text": "Endoscopic Mucosal Resection (EMR)\nEndoscopic procedure to remove a superficial tumor from the inner layer of the esophagus"
   },
   {
     "objectID": "lci_esot2.htm#endoscopic-mucosal-resection---favorable",
     "href": "lci_esot2.htm#endoscopic-mucosal-resection---favorable",
     "title": "Early-Stage Cancer of the Esophagus and Gastroesophageal Junction",
     "section": "Endoscopic Mucosal Resection - Favorable",
-    "text": "Endoscopic Mucosal Resection - Favorable\n\n\n\nClear margins around the edge AND\nClear deep margin AND\nTumor appears slow-growing under microscope\n\n\n\n\nEMR may be sufficient treatment (without surgery)"
+    "text": "Endoscopic Mucosal Resection - Favorable\n\n\n\nClear margins at the edge AND\nClear deep margin AND\nTumor appears slow-growing under microscope"
+  },
+  {
+    "objectID": "lci_esot2.htm#endoscopic-mucosal-resection---favorable-1",
+    "href": "lci_esot2.htm#endoscopic-mucosal-resection---favorable-1",
+    "title": "Early-Stage Cancer of the Esophagus and Gastroesophageal Junction",
+    "section": "Endoscopic Mucosal Resection - Favorable",
+    "text": "Endoscopic Mucosal Resection - Favorable\n\n\n\nClear margins at the edge AND\nClear deep margin AND\nTumor appears slow-growing under microscope\n\n\n\n\nEMR may be sufficient treatment (without surgery)"
   },
   {
     "objectID": "lci_esot2.htm#endoscopic-mucosal-resection---unfavorable",
     "href": "lci_esot2.htm#endoscopic-mucosal-resection---unfavorable",
     "title": "Early-Stage Cancer of the Esophagus and Gastroesophageal Junction",
     "section": "Endoscopic Mucosal Resection - Unfavorable",
-    "text": "Endoscopic Mucosal Resection - Unfavorable\n\n\n\nInvolved margins around the edge. OR\nInvolved deep margin OR\nTumor appears rapidly-growing under microscope\n\nEsophagectomy (surgery) is standard recommendation\n\n\n\n\n\n\n\nLCI GI Oncology"
+    "text": "Endoscopic Mucosal Resection - Unfavorable\n\n\n\nTumor at edge margin OR\nTumor at deep margin OR\nTumor appears rapidly-growing under microscope\n\nEsophagectomy (surgery) is standard recommendation"
+  },
+  {
+    "objectID": "lci_esot2.htm#endoscopic-mucosal-resection---unfavorable-1",
+    "href": "lci_esot2.htm#endoscopic-mucosal-resection---unfavorable-1",
+    "title": "Early-Stage Cancer of the Esophagus and Gastroesophageal Junction",
+    "section": "Endoscopic Mucosal Resection - Unfavorable",
+    "text": "Endoscopic Mucosal Resection - Unfavorable\n\n\n\nTumor at edge margin OR\nTumor at deep margin OR\nTumor appears rapidly-growing under microscope\n\nEsophagectomy (surgery) is standard recommendation\n\n\n\n\n\n\n\nLCI GI Oncology"
   },
   {
     "objectID": "lci_esot2.html",
@@ -903,25 +917,39 @@
     "text": "Treatment Plan\n\n\n\nCategory\nStaging\nTreatment\n\n\nSuperficial\nT1\nEndoscopic Therapy\n\n\nLocalized\nT1b or T2\nSurgery\n\n\nLocally-advanced\nT3 or N1\nPreoperative therapy Surgery\n\n\nMetastatic\nM1\nChemotherapy"
   },
   {
-    "objectID": "lci_esot2.html#endoscopic-mucosal-resecteion",
-    "href": "lci_esot2.html#endoscopic-mucosal-resecteion",
+    "objectID": "lci_esot2.html#endoscopic-mucosal-resection-emr",
+    "href": "lci_esot2.html#endoscopic-mucosal-resection-emr",
     "title": "Early-Stage Cancer of the Esophagus and Gastroesophageal Junction",
-    "section": "Endoscopic Mucosal Resecteion",
-    "text": "Endoscopic Mucosal Resecteion"
+    "section": "Endoscopic Mucosal Resection (EMR)",
+    "text": "Endoscopic Mucosal Resection (EMR)\nEndoscopic procedure to remove a superficial tumor from the inner layer of the esophagus"
   },
   {
     "objectID": "lci_esot2.html#endoscopic-mucosal-resection---favorable",
     "href": "lci_esot2.html#endoscopic-mucosal-resection---favorable",
     "title": "Early-Stage Cancer of the Esophagus and Gastroesophageal Junction",
     "section": "Endoscopic Mucosal Resection - Favorable",
-    "text": "Endoscopic Mucosal Resection - Favorable\n\n\n\nClear margins around the edge AND\nClear deep margin AND\nTumor appears slow-growing under microscope\n\n\n\n\n\nEMR may be sufficient treatment (without surgery)"
+    "text": "Endoscopic Mucosal Resection - Favorable\n\n\n\nClear margins at the edge AND\nClear deep margin AND\nTumor appears slow-growing under microscope"
+  },
+  {
+    "objectID": "lci_esot2.html#endoscopic-mucosal-resection---favorable-1",
+    "href": "lci_esot2.html#endoscopic-mucosal-resection---favorable-1",
+    "title": "Early-Stage Cancer of the Esophagus and Gastroesophageal Junction",
+    "section": "Endoscopic Mucosal Resection - Favorable",
+    "text": "Endoscopic Mucosal Resection - Favorable\n\n\n\nClear margins at the edge AND\nClear deep margin AND\nTumor appears slow-growing under microscope\n\n\n\n\n\nEMR may be sufficient treatment (without surgery)"
   },
   {
     "objectID": "lci_esot2.html#endoscopic-mucosal-resection---unfavorable",
     "href": "lci_esot2.html#endoscopic-mucosal-resection---unfavorable",
     "title": "Early-Stage Cancer of the Esophagus and Gastroesophageal Junction",
     "section": "Endoscopic Mucosal Resection - Unfavorable",
-    "text": "Endoscopic Mucosal Resection - Unfavorable\n\n\n\nInvolved margins around the edge. OR\nInvolved deep margin OR\nTumor appears rapidly-growing under microscope\n\nEsophagectomy (surgery) is standard recommendation"
+    "text": "Endoscopic Mucosal Resection - Unfavorable\n\n\n\nTumor at edge margin OR\nTumor at deep margin OR\nTumor appears rapidly-growing under microscope\n\nEsophagectomy (surgery) is standard recommendation"
+  },
+  {
+    "objectID": "lci_esot2.html#endoscopic-mucosal-resection---unfavorable-1",
+    "href": "lci_esot2.html#endoscopic-mucosal-resection---unfavorable-1",
+    "title": "Early-Stage Cancer of the Esophagus and Gastroesophageal Junction",
+    "section": "Endoscopic Mucosal Resection - Unfavorable",
+    "text": "Endoscopic Mucosal Resection - Unfavorable\n\n\n\nTumor at edge margin OR\nTumor at deep margin OR\nTumor appears rapidly-growing under microscope\n\nEsophagectomy (surgery) is standard recommendation"
   },
   {
     "objectID": "cv_port.html",
