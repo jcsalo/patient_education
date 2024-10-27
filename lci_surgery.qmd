@@ -90,12 +90,8 @@ The new esophagus is now brought up into the chest. A new connection is made bet
 ::: {.column width="50%"}
 
 - Small incisions in the abdomen and chest
-
-
-
-Mininally-invasive esophagectomy uses small incisions in the abdomen and chest. A surgical telescope and special instruments are used to perform the operations. This operation is a more recent innovation and can be used in many cases instead of an open approach.
-
-The smaller incisions mean faster recovery and less discomfort
+- Surgical telescope and instruments inserged
+- The smaller incisions mean faster recovery and less discomfort
 :::
 
 ::: {.column width="50%"}
@@ -110,6 +106,19 @@ The smaller incisions mean faster recovery and less discomfort
 ::::: columns
 ::: {.column width="50%"}
 We have found this is the best option for most of our patients. In some cases, an open approach is still necessary.
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/MIE_IvorLewisArtboard.png)
+:::
+:::::
+
+
+## Open Ivor Lewis
+
+::::: columns
+::: {.column width="50%"}
+In some cases, an open approach is still necessary.
 :::
 
 ::: {.column width="50%"}
@@ -172,7 +181,7 @@ An esophagectomy is a substantial operation, and in some cases there can be post
 
 ::::: columns
 ::: {.column width="50%"}
-The anastomosis is surigcal connection between the esophagus and the stomach.
+The anastomosis is surgical connection between the esophagus and the stomach.
 :::
 
 ::: {.column width="50%"}
@@ -239,7 +248,9 @@ Walking after surgery is also an important way to help your lungs recover as wel
 
 ## Preventing Pneumonia
 
-How can we prevent pneumonia? Believe it or not, I can tell who is more likely to develop pneumonia after surgery when I first meet them and shake their hand. Someone with a firm handshake has a lower risk of pneumonia. We think this is because someone with a firm handshake has good muscle tone, and someone with good muscle tone probably has good function of the muscles between the ribs so that they have a nice strong cough and can prevent pneumonia.
+How can we prevent pneumonia? Believe it or not, we can tell who is more likely to develop pneumonia after surgery simply by measuring their grip strength.
+
+We think this is because someone with a strong grip has good muscle function of the muscles between the ribs so that they have a nice strong cough and can prevent pneumonia.
 
 ## Strength
 
@@ -351,7 +362,7 @@ p
 
 ::::: columns
 ::: {.column width="50%"}
-The results of our research suggest a simple answer: The risk of pneumonia is related to a patient's muscle strength.\]
+The results of our research suggest a simple answer: The risk of pneumonia is related to a patient's muscle strength.
 :::
 
 ::: {.column width="50%"}
