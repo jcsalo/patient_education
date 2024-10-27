@@ -177,12 +177,10 @@ The anastomosis is surigcal connection between the esophagus and the stomach.
 
 ::: {.column width="50%"}
 
-![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_McKeownArtboard.png)
-![](images/Eso_IL_AnastArtboard%202@4x.png)
+![](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Anastomosis.png)
+
 :::
 :::::
-
-------------------------------------------------------------------------
 
 ## Anastomotic Leak
 
@@ -192,11 +190,10 @@ If anastomosis does not heal properly, this can cause a leakage of fluid from th
 :::
 
 ::: {.column width="50%"}
-![](images/Eso_LeakArtboard%202@4x.png)
+https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Leak.png
 :::
 :::::
 
-------------------------------------------------------------------------
 
 ## Anastomotic Leak
 
@@ -212,11 +209,10 @@ Pneumonia is another complication which can occurs in about 10-15% of patients a
 :::
 
 ::: {.column width="50%"}
-![](images/Eso_LungsArtboard%202@4x.png)
+
 :::
 :::::
 
-------------------------------------------------------------------------
 
 ## Preventing Pneumonia
 
@@ -229,19 +225,17 @@ There are two important ways that pneumonia can be prevented:
 -   Deep breathing
 -   Walking
 
-------------------------------------------------------------------------
 
 ## Deep breathing and coughing
 
 After surgery, it's important to breathe deeply to help your lungs recover after surgery. Deep breathing make the cough more effective and helps clear secretions. After surgery, deep breathing and coughing can be uncomfortable, so controlling your discomfort will be an important part of your recovery.
 
-------------------------------------------------------------------------
 
 ## Walking
 
 Walking after surgery is also an important way to help your lungs recover as well. When we walk, it's easier for our lungs to function, and again, it makes the cough more frequently.
 
-------------------------------------------------------------------------
+
 
 ## Preventing Pneumonia
 
