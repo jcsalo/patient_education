@@ -27,7 +27,7 @@ Surgery for esophageal cancer is generally performed in several situations:
 
 -   Superficial Tumors (T1) that can't be completely removed by endoscopy
 -   Localized Tumors (T2N0)
--   Locally Advanced Tumors (T3 or N+) after preoperative therapy. 
+-   Locally Advanced Tumors (T3 or N+) after preoperative therapy.
 
 ## Goals of Surgery
 
@@ -52,11 +52,8 @@ The *Ivor Lewis* esophagectomy, shown here, removes the lower 2/3 of the esophag
 
 ::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_Resection2_ai.png)
-
-
 :::
 :::::
-
 
 ## Reconstruction
 
@@ -70,7 +67,6 @@ A new esophagus is created from the stomach in the abdomen by fashioning it into
 :::
 :::::
 
-
 ## Ivor Lewis esophagectomy
 
 ::::: columns
@@ -83,23 +79,19 @@ The new esophagus is now brought up into the chest. A new connection is made bet
 :::
 :::::
 
-
 ## Minimally-invasive Ivor Lewis
 
 ::::: columns
 ::: {.column width="50%"}
-
-- Small incisions in the abdomen and chest
-- Surgical telescope and instruments inserged
-- The smaller incisions mean faster recovery and less discomfort
+-   Small incisions in the abdomen and chest
+-   Surgical telescope and instruments inserged
+-   The smaller incisions mean faster recovery and less discomfort
 :::
 
 ::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/MIE_IvorLewisArtboard.png)
 :::
 :::::
-
-
 
 ## Minimally-invasive Ivor Lewis
 
@@ -113,7 +105,6 @@ We have found this is the best option for most of our patients. In some cases, a
 :::
 :::::
 
-
 ## Open Ivor Lewis
 
 ::::: columns
@@ -126,7 +117,6 @@ In some cases, an open approach is still necessary.
 :::
 :::::
 
-
 ## Total Esophagectomy
 
 ::::: columns
@@ -135,12 +125,9 @@ For patients with tumors in the upper esophagus, we need to remove more of the e
 :::
 
 ::: {.column width="50%"}
-
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_ProxTumorArtboard.png)
-
 :::
 :::::
-
 
 ## Total Esophagectomy
 
@@ -151,10 +138,8 @@ For those patients, we need to remove the whole esophagus
 
 ::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_ResectionTotalArtboard.png)
-
 :::
 :::::
-
 
 ## Minimally-invasive McKeown Esophagectomy
 
@@ -165,10 +150,8 @@ In this case, a connection between the esophagus and the stomach is made in the 
 
 ::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_McKeownArtboard.png)
-
 :::
 :::::
-
 
 ## Risks of Surgery
 
@@ -185,9 +168,7 @@ The anastomosis is surgical connection between the esophagus and the stomach.
 :::
 
 ::: {.column width="50%"}
-
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Anastomosis.png)
-
 :::
 :::::
 
@@ -203,7 +184,6 @@ https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Leak.png
 :::
 :::::
 
-
 ## Anastomotic Leak
 
 In some cases, the leak will heal on its own, but other cases may require additional procedures or even surgery. The risk of leak depends upon the operation performed but also depends upon the experience of the surgeon. At the end of this video we have a link to a video about how to choose a hospital and a surgeon, which talks further about the risks of a leak.
@@ -218,10 +198,8 @@ Pneumonia is another complication which can occurs in about 10-15% of patients a
 :::
 
 ::: {.column width="50%"}
-
 :::
 :::::
-
 
 ## Preventing Pneumonia
 
@@ -234,17 +212,13 @@ There are two important ways that pneumonia can be prevented:
 -   Deep breathing
 -   Walking
 
-
 ## Deep breathing and coughing
 
 After surgery, it's important to breathe deeply to help your lungs recover after surgery. Deep breathing make the cough more effective and helps clear secretions. After surgery, deep breathing and coughing can be uncomfortable, so controlling your discomfort will be an important part of your recovery.
 
-
 ## Walking
 
 Walking after surgery is also an important way to help your lungs recover as well. When we walk, it's easier for our lungs to function, and again, it makes the cough more frequently.
-
-
 
 ## Preventing Pneumonia
 
@@ -382,40 +356,96 @@ Now this doesn't mean that you need to look like this to prevent pneumonia after
 :::
 :::::
 
-------------------------------------------------------------------------
-
 The good news is that you can increase your muscle strength before surgery in two very simple ways:
 
 -   Good nutrition with adequate intake of protein
 
 -   Exercise
 
-------------------------------------------------------------------------
-
 ## Good News
 
 with proper nutrition and exercise, you can increase your muscle strength, and we have good reason to believe this will reduce your risk of complications after esophagectomy.
 
-When you meet with your surgery team, be sure to ask them about pain control after surgery and how you can increase your muscle strength.
+## Minimally-invasive Esophagectomy
 
-------------------------------------------------------------------------
+::::: columns
+::: {.column width="50%"}
+https://deidt7p41jzcy.cloudfront.net/mie_abd.png
+:::
 
-In the next video in our series, you will learn about how to choose a hospital and a surgeon for esophageal surgery:
+::: {.column width="50%"}
+https://deidt7p41jzcy.cloudfront.net/mie_chest.png
+:::
+:::::
 
-[Choosing a Hospital and Surgeon for Esophagectomy](32-Surgeon.html)
+## Risks of Surgery
 
-------------------------------------------------------------------------
+Risks related to anesthesia
 
-We hope you have found this video helpful. This videos and others like it are designed to
+-   Heart attack (5%)
+-   Irregular heart rhythm (15%)
+-   Pneumonia (10%)
+-   Blood clots in legs (\<5%)
+-   Pulmonary embolism (2%)
 
-educate patients and families about esophageal cancer
+## Risks of Surgery
 
-and equip them for their discussions with their esophageal cancer care team.
+Risks related to Surgery
 
-As always, these videos are no substitute for expert medical advice.
+-   Anastomotic leak (5%)
+-   Stricture at anastomosis (15%)
+-   Death within 90 days of surgyer
+    -   Low risk patients 2%
+    -   Intermediate risk 10%
+    -   High risk 30%
 
-------------------------------------------------------------------------
+## Risks of Surgery
 
-Feel free to leave a comment or a question, or if you have suggestions for future videos.
+|                     | Age \<75 | Age \>75 |
+|---------------------|:--------:|:--------:|
+| Normal Muscle (75%) |    2%    |   10%    |
+| Low Muscle (25%)    |   10%    |   30%    |
 
-------------------------------------------------------------------------
+: Risks of Death within 90 Days of Surgery
+
+## Day Prior to Surgery
+
+- Clear liquids for 24 hours prior to surgery
+- Check with Pre-op nurse regarding medicines day prior to surgery
+- No tube feedings the night before surgery
+
+## Day of Surgery
+
+- Arrive at 5am – nothing to eat or drink after midnight. 
+- OK to take medicines with a sip of water (or coffee) but no cream. Surgery may be cancelled if you take even a sip of cream or milk the morning of surgery.
+- Waiting room on 5th floor 
+- Post-operative care in STICU (11th floor)
+
+## Anesthesia
+
+Epidural catheter for pain control
+
+- Remains in place for 2-5 days
+- Dose can be adjusted as needed
+- Can make it more difficult to empty the bladder
+- May require foley (bladder) catheter to stay in place until epidural 
+
+## Intensive Care Unit (1-2 days)
+
+Multiple lines and tubes:
+
+- NG tube in nose (stays in 2-7 days)
+- Catheter in bladder (2-5 days)
+- Chest tube right chest (2-4 days)
+- Abdominal drains (2 or 3)
+
+## ICU
+
+- Catheter in bladder removed → check to make certain the bladder empties properly
+- Chest tube removed (day 2-4) → follow-up chest x-ray
+- Fluid emptied from drains every few hours
+- Start tube feedings by feeding 
+- Feeding jejunostomy (stays in 8 weeks()
+
+##
+
