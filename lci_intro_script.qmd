@@ -14,12 +14,15 @@ format:
   pdf:
     documentclass: scrartcl
   html: default
+  docx:
+    number-sections: true
+    number-depth: 3
 editor: visual
 bibliography: zotero.bib
 from: markdown+emoji
 ---
 
-## 1 
+## 1 - Taking Head 
 
 I'm Dr Jonathan Salo, a GI Cancer Surgeon at the Levine Cancer Institute.
 
@@ -29,15 +32,13 @@ You may have a recent diagnosis of cancer or you may have a friend or family mem
 
 Whatever your situation, we have a great team of people who can help you every step of the way.
 
-## Surgeons
+## 2 - Surgeons
 
 We have three surgeons in the GI Surgical Oncology Section at the Levine Cancer Institute:
 
-Joshua Hill
-
-Hart Squires
-
-Jonathan Salo
+-Joshua Hill
+-Hart Squires
+-Jonathan Salo
 
 
 ## Location
@@ -52,20 +53,21 @@ You can either self-park in the garage, or we have free valet parking.
 
 In order to prepare for your visit, please download the MyAtrium Patient Portal if you have not done so already.
 
-The My Atrium Portal allows you to 
-
-View your medical records 
--   Send a messages to your care team 
-- request medication renewals 
-- You can view your upcoming appointments and procedures or x-rays
+In order to sign up, navigate with your desktop computer or cell phone of my.atriumhealth.org
 
 ##
-
-In order to sign up, navigate with your desktop computer or cell phone of my.atriumhealth.org
 
 There are smartphone apps for both iPhone and Android
 
 We have a toll-free number for technical support to help you get started.
+
+##
+
+The My Atrium Portal allows you to 
+
+- Send messages to your care team 
+- request medication renewals 
+- View upcoming appointments 
 
 ## Consultation
 
@@ -75,16 +77,30 @@ During your consultation, we will review your case and the information that has 
 
 After your visit, a **After Visit Summary** will be sent to your patient portal, which will provide details of your visit and will outline the next steps in your care
 
+## Consultation Note
+
 We will also send a **consultation note** to you other physicians, so please bring with you the names of other physicians
+
+We typically send notes to:
+
+- Primary care provider
+- Referring Physician
+- Cardiologist
+- Gastroenterologist
+- Other Cancer Providers
 
 ## Next Steps
 
-Those next steps may include: 
+Those next steps may include additional x-rays
 
-- Additional xrays, such as a CT scan or PET scan 
+- CT scan or 
+- PET scan 
+
+
+## Next Steps 2
 - An endoscopic procedure 
 - Placement of a feeding tube for nutrition if you are having difficulty with eating 
-- Placement of a port for chemotherapy Scheduling for surgery 
+- Placement of a port for chemotherapy 
 - Making a referral for chemotherapy or radiation therapy
 - Scheduling surgery
 
@@ -93,49 +109,41 @@ Those next steps may include:
 We recognize that a cancer diagnosis affects not only the patient but the whole community of family and friends. We have a lot of resources to help patients and the people close to them.
 
 -   Support groups for patients and families
-
 -   Counseling to help with stress reduction
-
 -   Financial counselors and social workers to help with insurance and other financial issues
+- Social Workers to help find resources
+- Supportive Oncology department to help with managing symptoms
 
--   Supportive Oncology department to help with managing symptoms
+## More Resources
 
-## 
-
-We have a full-time staff of **dietitians**
-
-We have an **Integrative Oncology** program which and can assist you in choosing supplements and complementary therapies to help manage symptoms and promote wellness without interfering with your cancer treatment.
-
-We have a **senior oncology clinic** which can help with the special needs of our patients over age 75
-
-For patients with colon cancer under age 55, we have an **Empower program** to address the special needs of this group.
-
-We have team of **Nurse Navigators** who can help to coordinate you care by the cancer care team and locate resources you may need.
+- We have a full-time staff of **dietitians**
+- We have an **Integrative Oncology** program which and can assist you in choosing supplements and complementary therapies to help manage symptoms and promote wellness without interfering with your cancer treatment.
+- We have a **senior oncology clinic** which can help with the special needs of our patients over age 75
+- For patients with colon cancer under age 55, we have an **Empower program** to address the special needs of this group.
+- We have team of **Nurse Navigators** who can help to coordinate your care by the cancer care team 
 
 ## Please bring
 
-When you come for a consultation, please bring with you\
+When you come for a consultation, please bring with you
 
+-   Names of your physicians
+-   A List of your medications
 -   A copy of your insurance cards
-
--   List of your physicians
-
--   List of your medications
-
+- Reports you have have of any procedures or scans
 -   List of any questions you may have
 
-## Arrival
+##  (Talking Head)
 
 Please plan to arrive about 15 minutes before your appointment
 
 -   to fill out any paperwork needed
-
 -   and to fill out a health summary prior to your visit
 
 We will look forward to meeting you.
 
-## Outro
+## Contact
 
-Feel free to subscribe so you can be notified about new videos
+If you have any questions please feel free to contact us at (980) 442-6410
 
-If there are video topics you would like us to cover, please leave a comment below.
+## (Outro Slide)
+ 
