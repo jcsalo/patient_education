@@ -36,9 +36,9 @@ Whatever your situation, we have a great team of people who can help you every s
 
 We have three surgeons in the GI Surgical Oncology Section at the Levine Cancer Institute:
 
--Joshua Hill
--Hart Squires
--Jonathan Salo
+- Joshua Hill
+- Hart Squires
+- Jonathan Salo
 
 
 ## Location
@@ -108,9 +108,9 @@ Those next steps may include additional x-rays
 
 We recognize that a cancer diagnosis affects not only the patient but the whole community of family and friends. We have a lot of resources to help patients and the people close to them.
 
--   Support groups for patients and families
--   Counseling to help with stress reduction
--   Financial counselors and social workers to help with insurance and other financial issues
+- Support groups for patients and families
+- Counseling to help with stress reduction
+- Financial counselors and social workers to help with insurance and other financial issues
 - Social Workers to help find resources
 - Supportive Oncology department to help with managing symptoms
 
@@ -126,18 +126,18 @@ We recognize that a cancer diagnosis affects not only the patient but the whole 
 
 When you come for a consultation, please bring with you
 
--   Names of your physicians
--   A List of your medications
--   A copy of your insurance cards
+- Names of your physicians
+- A List of your medications
+- A copy of your insurance cards
 - Reports you have have of any procedures or scans
--   List of any questions you may have
+- List of any questions you may have
 
 ##  (Talking Head)
 
 Please plan to arrive about 15 minutes before your appointment
 
--   to fill out any paperwork needed
--   and to fill out a health summary prior to your visit
+- to fill out any paperwork needed
+- and to fill out a health summary prior to your visit
 
 We will look forward to meeting you.
 
