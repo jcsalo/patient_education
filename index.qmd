@@ -17,7 +17,7 @@ title: "Patient Education"
 
 | Topic | Script | HTML | PDF | Video |
 |:--------------|:-------------:|:-------------:|:-------------:|:-------------:|
-| LCI Introduction | [Script](lci_intro_slides.html) | [HTML](lci_intro.html) | [PDF](lci_intro.pdf) | [OLD Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
+| LCI Introduction | [Script](lci_intro_script.docx) | [HTML](lci_intro.html) | [PDF](lci_intro.pdf) | [OLD Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
 | GE Diagnosis & Staging | [Script](ge_dx_staging_slides.html) | [HTML](ge_dx_staging.html) | [PDF](ge_dx_staging.pdf) | [OLD Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
 | Eso Treatment Options | [Script](eso_rx_options_slides.html) | [HTML](eso_tx_options.html) | [PDF](eso_rx_options.pdf) | [OLD Video](https://www.youtube.com/watch?v=Tk8cp3uL-lU) |
 | Esophageal Early Stage | [Script](eso_early_slides.html) | [HTML](eso_early.html) | [PDF](eso_early.pdf) |  |
