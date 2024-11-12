@@ -282,15 +282,12 @@ A laparoscopy is performed under a general anesthetic.
 :::::
 :::::::
 
-## Treatment Plan
+## Treatment Plans
 
-|                  |             |                              |
-|------------------|-------------|------------------------------|
-| **Category**     | **Staging** | **Treatment**                |
-| Superficial      | T1          | Endoscopic Therapy           |
-| Localized        | T1b or T2   | Surgery                      |
-| Locally-advanced | T3 or N1    | Preoperative therapy$\rightarrow$Surgery |
-| Metastatic       | M1          | Chemotherapy                 |
+- Superficial (T1) $\Rightarrow$ Endoscopic Therapy
+- Localized (T1b/T2)  $\Rightarrow$ Surgery
+- Locally-advanced (T3/N1)  $\Rightarrow$ Chemo $\pm$ Radiation $\rightarrow$Surgery 
+- Metastatic (M1)  $\Rightarrow$ Chemotherapy
 
 ::: {.content-hidden unless-format="docx"}
 This table summarizes four different treatment categories:
