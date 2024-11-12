@@ -586,3 +586,7 @@ When it is time for chemotherapy, a needle is inserted through the skin into the
 CT or PET scan will be performed after preoperative therapy
 
 Surgery performed after restating, and the timing depends upon recovery from therapy.
+
+## Surgery
+
+![Surgery Slideshow](lci_surgery2.htm)

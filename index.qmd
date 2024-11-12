@@ -10,8 +10,11 @@ title: "Patient Education"
 ## [LCI Presentations](LCI.html)
 
 [Esophagus T3](lci_esot3.htm) 
+
 [Esophagus T1-T2](lci_esot1.htm)
+
 [Esophagus T2](lci_esot2.htm)
+
 [Esophagectomy](lci_surgery2.htm)
 
 

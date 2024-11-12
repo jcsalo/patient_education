@@ -307,8 +307,10 @@ Multiple lines and tubes:
 :::
 
 ::: {.column width="50%"}
-{{< qrcode https://www.youtube.com/watch?v=jjPP4zENP9g >}}
+![](https://deidt7p41jzcy.cloudfront.net/jtubevideo_qr.png)
 :::
+
+
 :::::
 
 

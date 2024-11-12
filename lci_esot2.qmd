@@ -22,11 +22,10 @@ editor: visual
 bibliography: zotero.bib
 ---
 
-
 ## Anatomy
 
-::::::: columns
-::::: {.column width="50%"}
+:::::: columns
+::: {.column width="50%"}
 Food moves from the throat
 
 $\rightarrow$ esophagus
@@ -34,16 +33,14 @@ $\rightarrow$ esophagus
 $\rightarrow$ stomach
 
 $\rightarrow$ small bowel (jejunum)
-:::::
-
-::::: {.column width="50%"} 
-
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Anatomy_Labels.png)]
 :::
 
-:::::
-:::::::
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_Anatomy_Labels.png)\]
+:::
+::::
+::::::
 
 ## Types of Esophageal Cancer
 
@@ -52,7 +49,7 @@ There are two common types of esophageal cancer
 -   Adenocarcinoma
 -   Squamous Cell Carcinoma
 
-In many ways, these to different types of esophageal cancer behave the same. 
+In many ways, these to different types of esophageal cancer behave the same.
 
 We will see later in this video, however, that the treatment **can** be different depending upon whether the cancer is adenocarcinoma or squamous cell carcinoma.
 
@@ -78,20 +75,19 @@ Staging refers to the tests to determine
 If we look at the wasll of the esophagus, we see several layers:
 :::
 
-
-::::::: columns
-::::: {.column width="50%"}
+:::::: columns
+::: {.column width="50%"}
 -   Mucosa - Inner layer
 -   Muscle Wall (muscularis)
 -   Lymph nodes located in fat outside the muscle
-:::::
+:::
 
-::::: {.column width="50%"}
+:::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/tumor1_ai.png)
 :::
-:::::
-:::::::
+::::
+::::::
 
 ## Early Stage Cancers
 
@@ -99,143 +95,137 @@ If we look at the wasll of the esophagus, we see several layers:
 Early-stage cancers are those that are small and have not grown very far into the wall of the esophagus.
 :::
 
-::::::: columns
-::::: {.column width="50%"}
+:::::: columns
+::: {.column width="50%"}
 Cancers start on the very inside of the layer called the mucosa
-:::::
+:::
 
-::::: {.column width="50%"}
+:::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/tumor21_ai.png)
 :::
-:::::
-:::::::
+::::
+::::::
 
 ## Locally-advanced Cancers
 
-::::::: columns
-::::: {.column width="50%"}
+:::::: columns
+::: {.column width="50%"}
 Over time, cancers can grow into the muscular wall
-:::::
+:::
 
-::::: {.column width="50%"}
-:::{.content-visible unless-format="docx"}
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/tumor24_ai.png)
 :::
-:::::
-:::::::
+::::
+::::::
 
 ::: {.content-hidden unless-format="docx"}
 Locally-advanced cancers are those that have gorwn through the wall of the esophagus.
 :::
 
-
 ## Lymph Nodes
 
-::::::: columns
-::::: {.column width="50%"}
+:::::: columns
+::: {.column width="50%"}
 In some cases, cancer cells can break off from the main tumor and spread to lymph nodes
-:::::
-
-::::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor25b_ai.png) 
 :::
-:::::
-:::::::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/tumor25b_ai.png)
+:::
+::::
+::::::
 
 ::: {.content-hidden unless-format="docx"}
 If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
 :::
 
-
 ## T Stage
 
-::::::: columns
-::::: {.column width="50%"}
+:::::: columns
+::: {.column width="50%"}
 Cancers are categorized based upon the thickness of the tumor, known as the T stage
-:::::
+:::
 
-::::: {.column width="50%"}
+:::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/tumor_t_full.png)
 :::
-:::::
-:::::::
+::::
+::::::
 
 ::: {.content-hidden unless-format="docx"}
 T1 tumors are early stage, and T4 tumors more advanced
 :::
 
-
 ## N Stage
 
-::::::: columns
-::::: {.column width="50%"}
+:::::: columns
+::: {.column width="50%"}
 Cancers are categorized by whether there is spread to the lymph nodes.
 
-- **N0** cancers have not spread to the lymph nodes
-- **N1** cancers have spread to the lymph nodes.
-:::::
+-   **N0** cancers have not spread to the lymph nodes
+-   **N1** cancers have spread to the lymph nodes.
+:::
 
-::::: {.column width="50%"}
+:::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/tumor_t3_nodes_labels.png)
 :::
-:::::
-:::::::
+::::
+::::::
 
 ## M Stage
 
-::::::: columns
-::::: {.column width="50%"}
+:::::: columns
+::: {.column width="50%"}
 Some cancers can also spread from the esophagus to the lungs or liver
 
-- **M0** cancers have not spread to other parts of the body
-- **N1** cancers have spread to other parts of the body such as lungs or liver
+-   **M0** cancers have not spread to other parts of the body
+-   **N1** cancers have spread to other parts of the body such as lungs or liver
+:::
 
-:::::
-
-::::: {.column width="50%"}
+:::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_M_Stage.png)
 :::
-:::::
-:::::::
+::::
+::::::
 
 ## PET scan
 
-::::::: columns
-::::: {.column width="50%"}
+:::::: columns
+::: {.column width="50%"}
 A PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer.
 :::
 
-::::: {.column width="50%"}
+:::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/PetImage.png)
 :::
-:::::
-:::::::
+::::
+::::::
 
 ::: {.content-hidden unless-format="docx"}
 In some cases, the PET scan is not performed until a CT scans bas been done.
 :::
 
-
-
 ## Endoscopic Ultrasound
 
-::::::: columns
-::::: {.column width="50%"}
+:::::: columns
+::: {.column width="50%"}
 Endoscopic ultrasound (EUS) is a procedure similar to upper endoscopy (EGD) which has an ultrasound probe at the bottom of the scope. This allows measuring the thickness of the cancer. Endoscopic ultrasound can help determine the T stage of the cancer.
-:::::
+:::
 
-::::: {.column width="50%"}
+:::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/EUSArtboard.png)
 :::
-:::::
-:::::::
+::::
+::::::
 
 ::: {.content-hidden unless-format="docx"}
 Endoscopic ultrasound is most helpful in early stage cancers.
@@ -243,161 +233,149 @@ Endoscopic ultrasound is most helpful in early stage cancers.
 
 ## Laparoscopy
 
-::::::: columns
-::::: {.column width="50%"}
+:::::: columns
+::: {.column width="50%"}
 Some esophageal cancers can spread inside the abdominal cavity. These areas of spread can be very small, as small as a grain of rice.
 
 In order to detect spread within the abdominal cavity, a proceduce called a laparoscopy can be performed in some some patients.
-:::::
-
-::::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png) 
 :::
-:::::
-:::::::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
+:::
+::::
+::::::
 
 ::: {.content-hidden unless-format="docx"}
-Not all patients with esophageal cancer need a laparoscopy.  
+Not all patients with esophageal cancer need a laparoscopy.
 
 In general, laparoscopy is considered for cancers that invade from the esophagus into the stomach.
 :::
 
-
 ## Laparoscopy
 
-::::::: columns
-::::: {.column width="50%"}
+:::::: columns
+::: {.column width="50%"}
 A laparoscopy is performed under a general anesthetic.
 
 -   Several incisions 1/4" long
 -   A telescope is inserted to look inside the abdominal cavity.
 -   Biopsies can be performed.
-:::::
+:::
 
-::::: {.column width="50%"}
+:::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
 :::
-:::::
-:::::::
+::::
+::::::
 
 ## Treatment Plan
 
-|                  |             |                              |
-|------------------|-------------|------------------------------|
-| **Category**     | **Staging** | **Treatment**                |
-| Superficial      | T1          | Endoscopic Therapy           |
-| Localized        | T1b or T2   | Surgery                      |
+|                  |             |                                          |
+|------------------|-------------|------------------------------------------|
+| **Category**     | **Staging** | **Treatment**                            |
+| Superficial      | T1          | Endoscopic Therapy                       |
+| Localized        | T1b or T2   | Surgery                                  |
 | Locally-advanced | T3 or N1    | Preoperative therapy$\rightarrow$Surgery |
-| Metastatic       | M1          | Chemotherapy                 |
+| Metastatic       | M1          | Chemotherapy                             |
 
 ::: {.content-hidden unless-format="docx"}
 This table summarizes four different treatment categories:
 
-- Superficial cancers are T1 and can be treated by endoscopic therapy without the need for surgery
-- Localized cancers are T1b or T2 and are frequently treated by surgery alone without the need for chemotherapy or radiation
-- Locally-advanced cancers are T3 or N1 and are usually treated with some combination of chemotherapy and radiation prior to surgery
-- Metastatic cancers are M1 and are treated primary by chemotherapy.
+-   Superficial cancers are T1 and can be treated by endoscopic therapy without the need for surgery
+-   Localized cancers are T1b or T2 and are frequently treated by surgery alone without the need for chemotherapy or radiation
+-   Locally-advanced cancers are T3 or N1 and are usually treated with some combination of chemotherapy and radiation prior to surgery
+-   Metastatic cancers are M1 and are treated primary by chemotherapy.
 :::
-
-
-
-
 
 ## Localized Cancers
 
-::::::: columns
-::::: {.column width="50%"}
+:::::: columns
+::: {.column width="50%"}
 Patients with locally-advanced esophageal cancer have smaller tumors which have not invaded all the way throug the muscle wall and are too large to remove by endoscopic therapy
-:::::
+:::
 
-::::: {.column width="50%"}
+:::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor_t12t2.png)
 :::
-:::::
-:::::::
+::::
+::::::
 
 ## Localized Cancers
 
-::::::: columns
-::::: {.column width="50%"}
+:::::: columns
+::: {.column width="50%"}
 Localized cancers rarely spread to the lymph nodes, which means that surgery alone can often remove the cancer completely.
 
 Localized cancers are less likely to need chemotherapy or radiation because the cancer is localized to the wall of the esophagus.
+:::
 
-
-:::::
-
-::::: {.column width="50%"}
+:::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor_t12t2.png)
 :::
-:::::
-:::::::
+::::
+::::::
 
 ## Localized Cancers
 
-::::::: columns
-::::: {.column width="50%"}
+:::::: columns
+::: {.column width="50%"}
 Localized cancers are not very common, because most people don't know that they have esophageal cancer until they have difficulty eating. The majority of patients who have difficulty eating have a T3 tumor *and* usually need either chemotherapy and/or radiation to prevent recurrences
-:::::
+:::
 
-::::: {.column width="50%"}
+:::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor_t12t2.png)
 :::
-:::::
-:::::::
+::::
+::::::
 
 ## Diagnosis
 
-::::::: columns
-::::: {.column width="50%"}
+:::::: columns
+::: {.column width="50%"}
 Localized cancers are generally diagnosed with a combination of endoscopic ultrasound and PET scan.
 
-- Endoscopic ultrasound can determine the T stage
-- PET scan can look at the nearby lymph nodes
+-   Endoscopic ultrasound can determine the T stage
+-   PET scan can look at the nearby lymph nodes
+:::
 
-:::::
-
-::::: {.column width="50%"}
+:::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor_100_1600.png)
 :::
-:::::
-:::::::
+::::
+::::::
 
 ::: {.content-hidden unless-format="docx"}
-If endoscopic ultrasound shows a T3 tumor, the tumor is locally advanced and needs preoperative chemotherapy and/or radiation therapy
-If PET shows N1 nodes, the tumor is locally advanced and needs preoperative chemotherapy and/or radiation therapy
+If endoscopic ultrasound shows a T3 tumor, the tumor is locally advanced and needs preoperative chemotherapy and/or radiation therapy If PET shows N1 nodes, the tumor is locally advanced and needs preoperative chemotherapy and/or radiation therapy
 :::
-
 
 ## Surgery
 
-::::::: columns
-::::: {.column width="50%"}
+:::::: columns
+::: {.column width="50%"}
 Surgery to remove the esophagus is frequently done for localized esophageal cancers
-:::::
+:::
 
-::::: {.column width="50%"}
+:::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_simple.png)
 :::
-:::::
-:::::::
-
+::::
+::::::
 
 ## Surgery for Localized Esophageal Cancer
-
 
 If surgery is performed, the cancer in the esophagus is examined by the pathologist to confirm the precise thickness of the tumor and its T stage
 
 About 25% of the time, the pathologist finds that the tumor is actually T3 or N1, in which case chemotherapy and/or radiation is needed after surgery.
 
-On the other hand, in 75% of cases surgery is all the therapy that is required and there is no need for chemotherapy and/or radiation 
+On the other hand, in 75% of cases surgery is all the therapy that is required and there is no need for chemotherapy and/or radiation
 
 ## Chemotherapy + Radiation for Localized Esophageal Cancer
 
@@ -409,45 +387,43 @@ For adenocarcicnoma, about 25% of cases are cured with chemotherapy + radiation
 
 For squmaous cell carcinoma, about 40% of cases are cured with chemotherapy + radiation
 
-
-## Followup after Chemotherapy + Radiation 
+## Followup after Chemotherapy + Radiation
 
 The challenge here is that it's difficult to know right away whether chemotherapy + radiation has been effective for esophageal cancer.
 
 In most cases, scans and upper endoscopy performed after chemotherapy + radiation show no signs of cancer, but only a minority of cases are actually cured.
 
-In can take up to two years to know with certainty whether or not an esophageal cancer has been cured by chemotherapy + radiation. 
-
+In can take up to two years to know with certainty whether or not an esophageal cancer has been cured by chemotherapy + radiation.
 
 ## Surgery after Preoperative Therapy
 
-::::::: columns
-::::: {.column width="50%"}
+:::::: columns
+::: {.column width="50%"}
 When surgery is then performed...
 :::
 
-::::: {.column width="50%"}
+:::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor00_resection1_1600.png)
 :::
-:::::
-:::::::
+::::
+::::::
 
 ## Preoperative Therapy
 
-::::::: columns
-::::: {.column width="50%"}
+:::::: columns
+::: {.column width="50%"}
 When surgery is then performed...
 
 The risk of cancer recurrence is minimized
-:::::
+:::
 
-::::: {.column width="50%"}
+:::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor00_resection2_1600.png)
 :::
-:::::
-:::::::
+::::
+::::::
 
 ## Chemotherapy + Radiation CROSS Trial
 
@@ -497,43 +473,43 @@ Two different drug combinations can be used:
 
 ## "Sandwich" Chemotherapy Drugs
 
-::::::: columns
-::::: {.column width="40%"}
+::::: columns
+::: {.column width="40%"}
 **FLOT**
 
 -   5-FU
 -   Leucovorion
 -   Oxaliplatin
 -   Taxotere
-:::::
+:::
 
-::::: {.column width="60%"}
+::: {.column width="60%"}
 **FOLFOX**
 
 -   5-FU
 -   Leucovorin
 -   Oxaliplatin
+:::
 :::::
-:::::::
 
 ## Adenocarcinoma Treatment Options
 
-::::::: columns
-::::: {.column width="50%"}
+::::: columns
+::: {.column width="50%"}
 **Chemo + Radiation**
 
 -   Chemo + Radiation (6 weeks)
 -   Surgery
-:::::
+:::
 
-::::: {.column width="50%"}
+::: {.column width="50%"}
 **Chemotherapy**
 
 -   Chemotherapy (8 weeks)
 -   Surgery
 -   Chemotherapy (8 weeks)
+:::
 :::::
-:::::::
 
 ## Chemotherapy
 
@@ -547,73 +523,73 @@ There are several options for intravenous access:
 
 ## Peripheral IVs
 
-::::::: columns
-::::: {.column width="50%"}
+:::::: columns
+::: {.column width="50%"}
 Some patients can be treated with an intravenous line placed in the hand or arm for each dose of chemotherapy. The catheter is placed at the beginning of each dose and removed that day.
-:::::
+:::
 
-::::: {.column width="50%"}
+:::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/peripheral-venous-catheter-427167-7_960_720-pixabay.jpg)
 :::
-:::::
-:::::::
+::::
+::::::
 
 ## PICC Lines
 
-::::::: columns
-::::: {.column width="50%"}
+:::::: columns
+::: {.column width="50%"}
 A PICC line is placed in Radiology and stays in place during the treatment course
-:::::
+:::
 
-::::: {.column width="50%"}
+:::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/comm_picc.jpeg)
 :::
-:::::
-:::::::
+::::
+::::::
 
 ## Central Venous Port
 
-::::::: columns
-::::: {.column width="50%"}
+:::::: columns
+::: {.column width="50%"}
 A central venous port is an implantable device that makes the administration of chemotherapy easier
 :::
 
-::::: {.column width="50%"}
+:::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/cv_port.png)
 :::
-:::::
-:::::::
+::::
+::::::
 
 ## Central Venous Port
 
-::::::: columns
-::::: {.column width="50%"}
+:::::: columns
+::: {.column width="50%"}
 A central venous port is typically placed underneath the skin below the right collarbone
-:::::
+:::
 
-::::: {.column width="50%"}
+:::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/cv_port_1700.png)
 :::
-:::::
-:::::::
+::::
+::::::
 
 ## Central Venous Port
 
-::::::: columns
-::::: {.column width="50%"}
+:::::: columns
+::: {.column width="50%"}
 When it is time for chemotherapy, a needle is inserted through the skin into the port
-:::::
+:::
 
-::::: {.column width="50%"}
+:::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/cv_port_detail_1700.png)
 :::
-:::::
-:::::::
+::::
+::::::
 
 ## Restaging
 
@@ -621,83 +597,6 @@ CT or PET scan will be performed after preoperative therapy
 
 Surgery performed after restating, and the timing depends upon recovery from therapy.
 
+## Surgery
 
-## Endoscopic Mucosal Resection (EMR)
-
-Endoscopic procedure to remove a superficial tumor from the inner layer of the esophagus
-
-![](https://deidt7p41jzcy.cloudfront.net/emr_comm.png)
-
-
-## Endoscopic Mucosal Resection - Favorable {auto-animate=true}
-
-
-::::: columns
-::: {.column width="50%"}
-
-- Clear margins at the edge *AND*
-- Clear deep margin *AND*
-- Tumor appears slow-growing under microscope
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/emr_favorable.png)
-:::
-:::::
-
-
-
-## Endoscopic Mucosal Resection - Favorable {auto-animate=true}
-
-
-::::: columns
-::: {.column width="50%"}
-
-- Clear margins at the edge *AND*
-- Clear deep margin *AND*
-- Tumor appears slow-growing under microscope
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/emr_favorable_16001200.png)
-:::
-:::::
-
-EMR may be sufficient treatment (without surgery)
-
-## Endoscopic Mucosal Resection - Unfavorable {auto-animate=true auto-animate-restart=true}
-
-
-::::: columns
-::: {.column width="50%"}
-
-- Tumor at edge margin *OR*
-- Tumor at  deep margin *OR*
-- Tumor appears rapidly-growing under microscope
-
-
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/emr_unfavorable.png)
-:::
-:::::
-
-## Endoscopic Mucosal Resection - Unfavorable {auto-animate=true}
-
-
-::::: columns
-::: {.column width="50%"}
-
-- Tumor at edge margin *OR*
-- Tumor at  deep margin *OR*
-- Tumor appears rapidly-growing under microscope
-
-
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/emr_unfavorable_16001200.png)
-:::
-:::::
-Esophagectomy (surgery) is standard recommendation
+![Surgery Slideshow](lci_surgery2.htm)

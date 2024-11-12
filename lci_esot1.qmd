@@ -408,3 +408,7 @@ Esophagectomy (surgery) is standard recommendation
 
 For patients with superficial cancers that can't be adequately treated with endoscopic therapy, surgery is usually recommended
 :::
+
+## Surgery
+
+![Surgery Slideshow](lci_surgery2.htm)
