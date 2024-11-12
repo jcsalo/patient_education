@@ -10,7 +10,9 @@ title: "Patient Education"
 ## [LCI Presentations](LCI.html)
 
 [Esophagus T3](lci_esot3.htm) 
-[Esophagus T1-T2](lci_esot2.htm)
+[Esophagus T1-T2](lci_esot1.htm)
+[Esophagus T2](lci_esot2.htm)
+[Esophagectomy](lci_surgery2.htm)
 
 
 ### Gastroesophageal Cancer
@@ -21,6 +23,8 @@ title: "Patient Education"
 | GE Diagnosis & Staging | [Script](ge_dx_staging_slides.html) | [HTML](ge_dx_staging.html) | [PDF](ge_dx_staging.pdf) | [OLD Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
 | Eso Treatment Options | [Script](eso_rx_options_slides.html) | [HTML](eso_tx_options.html) | [PDF](eso_rx_options.pdf) | [OLD Video](https://www.youtube.com/watch?v=Tk8cp3uL-lU) |
 | Esophageal Early Stage | [Script](eso_early_slides.html) | [HTML](eso_early.html) | [PDF](eso_early.pdf) |  |
+| Eso T2N0 | [Script](eso_t2.docx) | [HTML](eso_advanced.html) | [PDF](eso_advanced.pdf) | [Slides](lci_esot2.htm) |
+| Eso T3 | [Script](eso_t3.docx) | [HTML](eso_t3.html) | [PDF](eso_t3.pdf) | [Slides](lci_esot3.htm) |
 | Eso Advanced Disease | [Script](eso_advanced_slides.html) | [HTML](eso_advanced.html) | [PDF](eso_advanced.pdf) |  |
 | Locally-Advanced ACA | [Script](eso_aca_locally_advanced_slides.html) | [HTML](eso_aca_locally_advanced.html) | [PDF](eso_aca_locally_advanced.pdf) |  |
 | Locally-Advanced SCCA | [Script](eso_scca_locally_advanced_slides.html) | [HTML](eso_scca_locally_advanced.html) | [PDF](eso_scca_locally_advanced.pdf) |  |

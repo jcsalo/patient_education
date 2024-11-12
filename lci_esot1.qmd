@@ -1,5 +1,5 @@
 ---
-title: "Cancer of the Esophagus and Gastroesophageal Junction"
+title: "Early-Stage Cancer of the Esophagus and Gastroesophageal Junction"
 format: 
   pptx: 
     reference-doc: template.pptx
@@ -15,10 +15,9 @@ format:
     transition: fade
     #output-file: lci_esot3_slides.html
     pdf-separate-fragments: true
+  pdf:
+    documentclass: scrartcl
   html: default
-  docx:
-    number-sections: true
-    number-depth: 3
 editor: visual
 bibliography: zotero.bib
 ---
@@ -285,10 +284,13 @@ A laparoscopy is performed under a general anesthetic.
 
 ## Treatment Plan
 
-- Superficial (T1) $\Rightarrow$ Endoscopic Therapy
-- Localized (T1b/T2)  $\Rightarrow$ Surgery
-- Locally-advanced (T3/N1)  $\Rightarrow$ Chemo $\pm$ Radiation $\rightarrow$Surgery 
-- Metastatic (M1)  $\Rightarrow$ Chemotherapy
+|                  |             |                              |
+|------------------|-------------|------------------------------|
+| **Category**     | **Staging** | **Treatment**                |
+| Superficial      | T1          | Endoscopic Therapy           |
+| Localized        | T1b or T2   | Surgery                      |
+| Locally-advanced | T3 or N1    | Preoperative therapy$\rightarrow$Surgery |
+| Metastatic       | M1          | Chemotherapy                 |
 
 ::: {.content-hidden unless-format="docx"}
 This table summarizes four different treatment categories:
@@ -299,290 +301,110 @@ This table summarizes four different treatment categories:
 - Metastatic cancers are M1 and are treated primary by chemotherapy.
 :::
 
-## Locally-advanced cancers
+## Superficial Cancers
+
 
 ::::::: columns
 ::::: {.column width="50%"}
-Patients with locally-advanced esophageal cancer often have localized spread of cancer cells in the surrounding area
+Superficial Cancers = T1a N0
+
+Treatment is often with endoscopy without the need for surgery. 
 :::::
 
 ::::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor_100_1600.png)
+
+![](https://deidt7p41jzcy.cloudfront.net/tumor21_ai.png) 
 :::
 :::::
 :::::::
 
-## Locally-advanced cancers
-
-::::::: columns
-::::: {.column width="50%"}
-If locally-advanced cancers are treated with surgery alone...
-:::::
-
-::::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor100_resection_intra.png)
-:::
-:::::
-:::::::
-
-## Locally-advanced cancers
-
-::::::: columns
-::::: {.column width="50%"}
-If locally-advanced cancers are treated with surgery alone...
-
-There is a risk that cancer cells can be left behind
-:::::
-
-::::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor100_resection_post.png)
-:::
-:::::
-:::::::
-
-## Preoperative Therapy for Locally-Advanced Cancers
-
-::::::: columns
-::::: {.column width="50%"}
-It is helpful to start with therapy *before* surgery that will shrink the cancer.
-:::::
-
-::::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor_100_1600.png)
-:::
-:::::
-:::::::
-
-## Preoperative Therapy
-
-::::::: columns
-::::: {.column width="50%"}
-It is helpful to start with therapy *before* surgery that will shrink the cancer.
-:::::
-
-::::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor40_1600.png)
-:::
-:::::
-:::::::
-
-## Preoperative Therapy
-
-::::::: columns
-::::: {.column width="50%"}
-It is helpful to start with therapy *before* surgery that will shrink the cancer.
-:::::
-
-::::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Tumor_00_1600.png)
-:::
-:::::
-:::::::
-
-## Surgery after Preoperative Therapy
-
-::::::: columns
-::::: {.column width="50%"}
-When surgery is then performed...
+::: {.content-hidden unless-format="docx"}
+Becauase the risk of spread to the lymph nodes is very low, there tumors can often be removed with endoscopy without the need for surgery.
 :::
 
-::::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor00_resection1_1600.png)
-:::
-:::::
-:::::::
 
-## Preoperative Therapy
+## Endoscopic Mucosal Resection (EMR)
 
-::::::: columns
-::::: {.column width="50%"}
-When surgery is then performed...
+Endoscopic procedure to remove a superficial tumor from the inner layer of the esophagus
 
-The risk of cancer recurrence is minimized
-:::::
+![](https://deidt7p41jzcy.cloudfront.net/emr_comm.png)
 
-::::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor00_resection2_1600.png)
-:::
-:::::
-:::::::
 
-## Chemotherapy + Radiation CROSS Trial
+## Endoscopic Mucosal Resection - Favorable {auto-animate=true}
 
-Over 10 years ago, researchers in the Netherlands took 363 patients with esophageal cancer and divided them into two groups. The two groups were treated differently:\
 
-**Surgery Alone**
+::::: columns
+::: {.column width="50%"}
 
-vs
-
-**Chemotherapy + Radiation** $\rightarrow$ Surgery
-
-## Chemotherapy + Radiation CROSS Trial
-
-The results were quite dramatic: The group that was treated with all three therapies, chemotherapy and radiation and surgery, lived on average twice a long as patients who had surgery alone.
-
-**Chemotherapy + Radiation** $\rightarrow$Surgery $\Rightarrow$ Longer Survival
-
-Chemotherapy and radiation were given together over six weeks
-
-## Chemotherapy + Radiation CROSS Trial
-
-A typical schedule for chemotherapy + radiation:
-
--   Chemotherapy once per week for six weeks
--   Radiation five days per week for six weeks (28 treatments)
--   PET scan (or CT) 4 weeks after the end of radiation
--   Surgery 8 weeks after the end of radiation
-
-## Chemotherapy + Radiation - Side Effects
-
-Radiation kills cancer cells, but can also cause irritation of the lining of the esophagus.
-
-This can make swallowing more challenging the last two weeks of therapy.
-
-A feeding tube is sometimes needed to help with hydration and nutrition.
-
-## Locally-advanced Adenocarcinoma
-
-For patients with *adenocarcinoma* another option is "sandwich" chemotherapy administered before and after surgery:
-
-Chemotherapy (8 weeks) $\rightarrow$ Surgery Chemotherapy (8 weeks)
-
-Two different drug combinations can be used:
-
--   FLOT
--   FOLFOX
-
-## "Sandwich" Chemotherapy Drugs
-
-::::::: columns
-::::: {.column width="40%"}
-**FLOT**
-
--   5-FU
--   Leucovorion
--   Oxaliplatin
--   Taxotere
-:::::
-
-::::: {.column width="60%"}
-**FOLFOX**
-
--   5-FU
--   Leucovorin
--   Oxaliplatin
-:::::
-:::::::
-
-## Adenocarcinoma Treatment Options
-
-::::::: columns
-::::: {.column width="50%"}
-**Chemo + Radiation**
-
--   Chemo + Radiation (6 weeks)
--   Surgery
-:::::
-
-::::: {.column width="50%"}
-**Chemotherapy**
-
--   Chemotherapy (8 weeks)
--   Surgery
--   Chemotherapy (8 weeks)
-:::::
-:::::::
-
-## Chemotherapy
-
-Chemotherapy drugs are administered intravenously.
-
-There are several options for intravenous access:
-
--   Peripheral IVs in the hand
--   PICC line (Peripheral Inserted Central Catheter)
--   Central Venous Port
-
-## Peripheral IVs
-
-::::::: columns
-::::: {.column width="50%"}
-Some patients can be treated with an intravenous line placed in the hand or arm for each dose of chemotherapy. The catheter is placed at the beginning of each dose and removed that day.
-:::::
-
-::::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/peripheral-venous-catheter-427167-7_960_720-pixabay.jpg)
-:::
-:::::
-:::::::
-
-## PICC Lines
-
-::::::: columns
-::::: {.column width="50%"}
-A PICC line is placed in Radiology and stays in place during the treatment course
-:::::
-
-::::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/comm_picc.jpeg)
-:::
-:::::
-:::::::
-
-## Central Venous Port
-
-::::::: columns
-::::: {.column width="50%"}
-A central venous port is an implantable device that makes the administration of chemotherapy easier
+- Clear margins at the edge *AND*
+- Clear deep margin *AND*
+- Tumor appears slow-growing under microscope
 :::
 
-::::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/cv_port.png)
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/emr_favorable.png)
 :::
 :::::
-:::::::
 
-## Central Venous Port
 
-::::::: columns
-::::: {.column width="50%"}
-A central venous port is typically placed underneath the skin below the right collarbone
-:::::
 
-::::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/cv_port_1700.png)
+## Endoscopic Mucosal Resection - Favorable {auto-animate=true}
+
+
+::::: columns
+::: {.column width="50%"}
+
+- Clear margins at the edge *AND*
+- Clear deep margin *AND*
+- Tumor appears slow-growing under microscope
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/emr_favorable_16001200.png)
 :::
 :::::
-:::::::
 
-## Central Venous Port
+EMR may be sufficient treatment (without surgery)
 
-::::::: columns
-::::: {.column width="50%"}
-When it is time for chemotherapy, a needle is inserted through the skin into the port
-:::::
+## Endoscopic Mucosal Resection - Unfavorable {auto-animate=true auto-animate-restart=true}
 
-::::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/cv_port_detail_1700.png)
+
+::::: columns
+::: {.column width="50%"}
+
+- Tumor at edge margin *OR*
+- Tumor at  deep margin *OR*
+- Tumor appears rapidly-growing under microscope
+
+
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/emr_unfavorable.png)
 :::
 :::::
-:::::::
 
-## Restaging
+## Endoscopic Mucosal Resection - Unfavorable {auto-animate=true}
 
-CT or PET scan will be performed after preoperative therapy
 
-Surgery performed after restating, and the timing depends upon recovery from therapy.
+::::: columns
+::: {.column width="50%"}
+
+- Tumor at edge margin *OR*
+- Tumor at  deep margin *OR*
+- Tumor appears rapidly-growing under microscope
+
+
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/emr_unfavorable_16001200.png)
+:::
+:::::
+Esophagectomy (surgery) is standard recommendation
+
+::: {.content-hidden unless-format="docx"}
+
+For patients with superficial cancers that can't be adequately treated with endoscopic therapy, surgery is usually recommended
+:::
