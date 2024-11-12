@@ -1,5 +1,5 @@
 ---
-title: "Early-Stage Cancer of the Esophagus and Gastroesophageal Junction"
+title: "Early-Stage Cancer of the Esophagus and GE Junction"
 format: 
   pptx: 
     reference-doc: template.pptx
