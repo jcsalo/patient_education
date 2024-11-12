@@ -392,49 +392,7 @@ In most cases, scans and upper endoscopy performed after chemotherapy + radiatio
 
 In can take up to two years to know with certainty whether or not an esophageal cancer has been cured by chemotherapy + radiation.
 
-## Surgery after Preoperative Therapy
-
-:::::: columns
-::: {.column width="50%"}
-When surgery is then performed...
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor00_resection1_1600.png)
-:::
-::::
-::::::
-
-## Preoperative Therapy
-
-:::::: columns
-::: {.column width="50%"}
-When surgery is then performed...
-
-The risk of cancer recurrence is minimized
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor00_resection2_1600.png)
-:::
-::::
-::::::
-
 ## Chemotherapy + Radiation CROSS Trial
-
-Over 10 years ago, researchers in the Netherlands took 363 patients with esophageal cancer and divided them into two groups. The two groups were treated differently:\
-
-**Surgery Alone**
-
-vs
-
-**Chemotherapy + Radiation** $\rightarrow$ Surgery
-
-## Chemotherapy + Radiation CROSS Trial
-
-The results were quite dramatic: The group that was treated with all three therapies, chemotherapy and radiation and surgery, lived on average twice a long as patients who had surgery alone.
 
 **Chemotherapy + Radiation** $\rightarrow$Surgery $\Rightarrow$ Longer Survival
 
@@ -444,10 +402,11 @@ Chemotherapy and radiation were given together over six weeks
 
 A typical schedule for chemotherapy + radiation:
 
--   Chemotherapy once per week for six weeks
--   Radiation five days per week for six weeks (28 treatments)
--   PET scan (or CT) 4 weeks after the end of radiation
--   Surgery 8 weeks after the end of radiation
+- Chemotherapy once per week for six weeks
+- Radiation five days per week for six weeks (28 treatments)
+- PET scan 4 weeks after the end of radiation
+- EGD every 3-6 months for 2 years
+- CT scan every 6-12 months
 
 ## Chemotherapy + Radiation - Side Effects
 
@@ -456,57 +415,6 @@ Radiation kills cancer cells, but can also cause irritation of the lining of the
 This can make swallowing more challenging the last two weeks of therapy.
 
 A feeding tube is sometimes needed to help with hydration and nutrition.
-
-## Locally-advanced Adenocarcinoma
-
-For patients with *adenocarcinoma* another option is "sandwich" chemotherapy administered before and after surgery:
-
-Chemotherapy (8 weeks) $\rightarrow$ Surgery Chemotherapy (8 weeks)
-
-Two different drug combinations can be used:
-
--   FLOT
--   FOLFOX
-
-## "Sandwich" Chemotherapy Drugs
-
-::::: columns
-::: {.column width="40%"}
-**FLOT**
-
--   5-FU
--   Leucovorion
--   Oxaliplatin
--   Taxotere
-:::
-
-::: {.column width="60%"}
-**FOLFOX**
-
--   5-FU
--   Leucovorin
--   Oxaliplatin
-:::
-:::::
-
-## Adenocarcinoma Treatment Options
-
-::::: columns
-::: {.column width="50%"}
-**Chemo + Radiation**
-
--   Chemo + Radiation (6 weeks)
--   Surgery
-:::
-
-::: {.column width="50%"}
-**Chemotherapy**
-
--   Chemotherapy (8 weeks)
--   Surgery
--   Chemotherapy (8 weeks)
-:::
-:::::
 
 ## Chemotherapy
 
@@ -591,8 +499,6 @@ When it is time for chemotherapy, a needle is inserted through the skin into the
 ## Restaging
 
 CT or PET scan will be performed after preoperative therapy
-
-Surgery performed after restating, and the timing depends upon recovery from therapy.
 
 ## Surgery
 
