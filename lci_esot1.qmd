@@ -411,4 +411,4 @@ For patients with superficial cancers that can't be adequately treated with endo
 
 ## Surgery
 
-![Surgery Slideshow](lci_surgery2.htm)
+[Surgery Slideshow](lci_surgery2.htm)

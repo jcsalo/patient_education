@@ -599,4 +599,4 @@ Surgery performed after restating, and the timing depends upon recovery from the
 
 ## Surgery
 
-![Surgery Slideshow](lci_surgery2.htm)
+[Surgery Slideshow](lci_surgery2.htm)
