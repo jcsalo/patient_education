@@ -517,7 +517,7 @@ There are several options for intravenous access:
 -   PICC line (Peripheral Inserted Central Catheter)
 -   Central Venous Port
 
-![](lci_cvport.htm)
+[Central Venous Port](lci_cvport.htm)
 
 ## Restaging
 
