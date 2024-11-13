@@ -502,4 +502,4 @@ CT or PET scan will be performed after preoperative therapy
 
 ## Surgery
 
-[Surgery Slideshow](lci_surgery2.htm)
+[Surgery Slideshow](lci_surgery.htm)

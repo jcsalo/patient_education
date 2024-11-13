@@ -19,7 +19,7 @@ bibliography: zotero.bib
 from: markdown+emoji
 ---
 
-## 1 
+## 1
 
 I'm Dr Jonathan Salo, a GI Cancer Surgeon at the Levine Cancer Institute.
 
@@ -39,7 +39,6 @@ Hart Squires
 
 Jonathan Salo
 
-
 ## Location
 
 We’re located at 1310 East Morehead Street in Building 2 of Levine Cancer Institute.
@@ -52,14 +51,11 @@ You can either self-park in the garage, or we have free valet parking.
 
 In order to prepare for your visit, please download the MyAtrium Patient Portal if you have not done so already.
 
-The My Atrium Portal allows you to 
+The My Atrium Portal allows you to
 
-View your medical records 
--   Send a messages to your care team 
-- request medication renewals 
-- You can view your upcoming appointments and procedures or x-rays
+View your medical records - Send a messages to your care team - request medication renewals - You can view your upcoming appointments and procedures or x-rays
 
-##
+## 
 
 In order to sign up, navigate with your desktop computer or cell phone of my.atriumhealth.org
 
@@ -79,14 +75,14 @@ We will also send a **consultation note** to you other physicians, so please bri
 
 ## Next Steps
 
-Those next steps may include: 
+Those next steps may include:
 
-- Additional xrays, such as a CT scan or PET scan 
-- An endoscopic procedure 
-- Placement of a feeding tube for nutrition if you are having difficulty with eating 
-- Placement of a port for chemotherapy Scheduling for surgery 
-- Making a referral for chemotherapy or radiation therapy
-- Scheduling surgery
+-   Additional xrays, such as a CT scan or PET scan
+-   An endoscopic procedure
+-   Placement of a feeding tube for nutrition if you are having difficulty with eating
+-   Placement of a port for chemotherapy Scheduling for surgery
+-   Making a referral for chemotherapy or radiation therapy
+-   Scheduling surgery
 
 ## Resources
 
