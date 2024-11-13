@@ -43,6 +43,15 @@ $\rightarrow$ small bowel (jejunum)
 ::::
 ::::::
 
+::: {.content-hidden unless-format="docx"}
+We'll start with reviewing some anatomy about how the body digests food.
+
+Food moves from the throat to the esophagus, and from there to the stomach.  
+
+From the stomach, food moved through a valve called the pylorus into the small intestines
+:::
+
+
 ## Types of Esophageal Cancer
 
 There are two common types of esophageal cancer
@@ -51,7 +60,7 @@ There are two common types of esophageal cancer
 -   Squamous Cell Carcinoma
 
 ::: {.content-hidden unless-format="docx"}
-In many ways, these to different types of esophageal cancer behave the same.
+In many ways, these two different types of esophageal cancer behave in similar fashion.
 
 We will see later that the treatment **can** be different depending upon whether the cancer is adenocarcinoma or squamous cell carcinoma.
 :::
@@ -75,7 +84,7 @@ Staging refers to the tests to determine
 ## Layers of the Wall of the Esophagus
 
 ::: {.content-hidden unless-format="docx"}
-If we look at the wasll of the esophagus, we see several layers:
+If we look at the walls of the esophagus, we see several layers:
 :::
 
 :::::: columns
@@ -508,75 +517,7 @@ There are several options for intravenous access:
 -   PICC line (Peripheral Inserted Central Catheter)
 -   Central Venous Port
 
-## Peripheral IVs
-
-:::::: columns
-::: {.column width="50%"}
-Some patients can be treated with an intravenous line placed in the hand or arm for each dose of chemotherapy. The catheter is placed at the beginning of each dose and removed that day.
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/peripheral-venous-catheter-427167-7_960_720-pixabay.jpg)
-:::
-::::
-::::::
-
-## PICC Lines
-
-:::::: columns
-::: {.column width="50%"}
-A PICC line is placed in Radiology and stays in place during the treatment course
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/comm_picc.jpeg)
-:::
-::::
-::::::
-
-## Central Venous Port
-
-:::::: columns
-::: {.column width="50%"}
-A central venous port is an implantable device that makes the administration of chemotherapy easier
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/cv_port.png)
-:::
-::::
-::::::
-
-## Central Venous Port
-
-:::::: columns
-::: {.column width="50%"}
-A central venous port is typically placed underneath the skin below the right collarbone
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/cv_port_1700.png)
-:::
-::::
-::::::
-
-## Central Venous Port
-
-:::::: columns
-::: {.column width="50%"}
-When it is time for chemotherapy, a needle is inserted through the skin into the port
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/cv_port_detail_1700.png)
-:::
-::::
-::::::
+![](lci_cvport.htm)
 
 ## Restaging
 
