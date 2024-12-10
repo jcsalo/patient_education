@@ -39,8 +39,6 @@ A peripheral IV catheter involves placing a small tube into the veins, which is 
 
 A new catheter is placed for each dose of chemotherapy
 
-
-
 ## Intravenous Catheter in Peripheral Vein ("IV")
 
 :::::: columns
@@ -50,7 +48,7 @@ A new catheter is placed for each dose of chemotherapy
 - Allows administration of chemotherapy and fluids
 - Placed at the beginning of each dose
 - Removed that day at the end of treatment
-- Some chemotherapy (such as FLOT) can't be given through peripheral IV
+- Not suitable for FLOT chemotherapy
 
 
 :::
@@ -112,8 +110,8 @@ Special care is needed at home to keep the catheter and it's dressing clean and 
 :::::: columns
 ::: {.column width="50%"}
 - Implantable device that makes the administration of chemotherapy easier
+- May shower within 24 hours
 - No special care at home
-- Allows showering, bathing, swimming
 - Suitable for FLOT chemotherapy
 - Allows for blood draws
 :::

@@ -519,6 +519,29 @@ There are several options for intravenous access:
 
 [Central Venous Port](lci_cvport.htm)
 
+
+## Adenocarcinoma Treatment Options
+
+::::: columns
+::: {.column width="50%"}
+**CROSS Chemo + Radiation**
+
+- Longer track record (14 years)
+- Better tolerated
+- Eating gets worse $\rightarrow$ better
+- More likely to need feeding tube
+:::
+
+::: {.column width="50%"}
+**FLOT Chemotherapy**
+
+- More effective than CROSS
+- More side effects
+- Eating gets slowly better
+- Less likely to need feeding tube
+:::
+:::::
+
 ## Restaging
 
 CT or PET scan will be performed after preoperative therapy\`

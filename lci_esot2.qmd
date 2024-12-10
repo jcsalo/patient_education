@@ -273,18 +273,18 @@ A laparoscopy is performed under a general anesthetic.
 
 ## Treatment Plans
 
-- Superficial (T1) $\Rightarrow$ Endoscopic Therapy
-- Localized (T1b/T2)  $\Rightarrow$ Surgery
-- Locally-advanced (T3/N1)  $\Rightarrow$ Chemo $\pm$ Radiation $\rightarrow$Surgery 
-- Metastatic (M1)  $\Rightarrow$ Chemotherapy
+-   Superficial (T1) $\Rightarrow$ Endoscopic Therapy
+-   Localized (T1b/T2) $\Rightarrow$ Surgery
+-   Locally-advanced (T3/N1) $\Rightarrow$ Chemo $\pm$ Radiation $\rightarrow$Surgery
+-   Metastatic (M1) $\Rightarrow$ Chemotherapy
 
 ::: {.content-hidden unless-format="docx"}
 This table summarizes four different treatment categories:
 
-- Superficial cancers are T1 and can be treated by endoscopic therapy without the need for surgery
-- Localized cancers are T1b or T2 and are frequently treated by surgery alone without the need for chemotherapy or radiation
-- Locally-advanced cancers are T3 or N1 and are usually treated with some combination of chemotherapy and radiation prior to surgery
-- Metastatic cancers are M1 and are treated primary by chemotherapy.
+-   Superficial cancers are T1 and can be treated by endoscopic therapy without the need for surgery
+-   Localized cancers are T1b or T2 and are frequently treated by surgery alone without the need for chemotherapy or radiation
+-   Locally-advanced cancers are T3 or N1 and are usually treated with some combination of chemotherapy and radiation prior to surgery
+-   Metastatic cancers are M1 and are treated primary by chemotherapy.
 :::
 
 ## Localized Cancers
@@ -402,11 +402,11 @@ Chemotherapy and radiation were given together over six weeks
 
 A typical schedule for chemotherapy + radiation:
 
-- Chemotherapy once per week for six weeks
-- Radiation five days per week for six weeks (28 treatments)
-- PET scan 4 weeks after the end of radiation
-- EGD every 3-6 months for 2 years
-- CT scan every 6-12 months
+-   Chemotherapy once per week for six weeks
+-   Radiation five days per week for six weeks (28 treatments)
+-   PET scan 4 weeks after the end of radiation
+-   EGD every 3-6 months for 2 years
+-   CT scan every 6-12 months
 
 ## Chemotherapy + Radiation - Side Effects
 

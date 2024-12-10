@@ -1,136 +1,242 @@
 ---
-title: "Locally-Advanced Eso Adenocarcinoma"
+title: "Locally-Advanced Adenocarcinoma of the Esophagus"
 format: 
   revealjs:
     slide-number: c/t
     width: 1280
     height: 720
-    logo: "atriumlogo.jpg"
     footer: "[Patient Education](https://jcsalo.github.io/patient_education/)"
     css: "lci_styles.css"
-    theme: default
+    theme: [simple, lci.scss]
     echo: false
-    output-file: eso_aca_locally_advanced_slides.html
   pdf:
     documentclass: scrartcl
   html: default
+  docx:
+    number-sections: true
+    number-depth: 3
 editor: visual
-bibliography: zotero.bib
-from: markdown+emoji
 ---
 
-# Introduction
+## Introduction
 
 I’m Dr Jonathan Salo, a GI Cancer Surgeon in Charlotte, North Carolina.
 
 If you're viewing this video, chances are that you or someone close to you has encountered esophageal cancer and is contemplating treatment.
 
-------------------------------------------------------------------------
+##
 
-This video focuses on patients with locally advanced esophageal cancer. This is defined as T3 or Node-positive esophageal cancer.
+This video focuses on *locally advanced* adenocarcinoma of the esophagus. This is defined as T3 or Node-positive esophageal cancer without evidence of distant metastasis.
 
-If that terminology is unfamiliar or you haven't seen our video on Esophageal Cancer Treatment Options video, a link is provided in the description.
+Most patients in this category have some difficulty with eating. 
+
+If that terminology is unfamiliar, we have a link to a video on Diagnosis and Staging.
 
 ## [Esophageal Cancer Treatment Options](eso_rx_options.qmd)
 
 For a refresher, we have four major categories of esophageal cancers:
 
--   Superficial -\> Treated without surgery
--   Localized -\> Treated with surgery alone
--   Locally Advanced -\> Chemotherapy + Radiation -\> Surgery
--   Metastatic -\> Chemotherapy
+-   Superficial: T1a tumors -  Treated without surgery
+-   Localized:  T1b to T2 tumors -  Treated with surgery alone
+-   Locally Advanced: T3 or N1  - subject of this video
+-   Metastatic cancers: M1 - Treated with Chemotherapy
 
-------------------------------------------------------------------------
-
-We will divide these into two groups: Early and Advanced
-
-Advanced esophageal cancer, which consists of two categories: Locally Advanced and Metastatic.
-
--   Locally Advanced -\> T3M0
--   Metastatic -\> M1
 
 This video focuses on *Locally Advanced* esophageal cancer
 
-## 
+## Types of Esophageal Cancer
 
-::: columns
-::: {.column .fragment width="50%"}
+There are two types of esophageal cancer: 
 
-Patients with locally-advanced esophageal cancer have a visible mass, or tumor, which frequently causes trouble swallowing.
+adenocarcinoma 
 
-What we don't always recognize is that in many cases there can be microscopic areas of tumor which can't be seen with the naked eye.
+squamous cell carcinoma
 
-If surgery is the only treatment given, those microscopic areas of tumor can later cause a recurrence of cancer.
+The treatment of these two types is similar, but there are differences.
 
-:::
+We're preparing a separate video for locally-advanced squamous cell carcinoma.
 
-::: {.column .fragment width="50%"}
-![](images/Eso_Resection2Artboard 2@4x.png)
+## Tumor
 
+To review the terminology: A *tumor* is an abnormal mass or lump
 
-##
+A benign tumor may grow slowly over time but will never spread
 
-For patients with locally-advanced esophageal cancer, research has shown that preoperative treatment to shrink the cancer makes the surgery more effective by killing microscopic tumor cells that can't be detected at the time of surgery.
+A malignant tumor has the potential to spread to other parts of the body.
 
-There are two different treatments which have been shown to be effective
-
-- Radiation and chemotherapy for 5 1/2 weeks followed by surgery
-
-- Chemotherapy every other week for 8 weeks both before and after surgery
-
-## Chemoradiation
+Cancer is another term for a malignancy tumor.
 
 
-| Over 10 years ago, researchers in the Netherlands took a group of 363 patients with esophageal cancer and divided them into two groups. They they treated the two groups with two different treatment strategies. |
-| The first group was treated with surgery alone.                                                                                                                                                                   |
-| The second group was treated with chemotherapy and radiation together for six weeks, followed by surgery.                                                                                                         |
 
-The results were quite dramatic: The group that was treated with all three therapies, chemotherapy and radiation and surgery, lived on average twice a long as patients who had surgery alone.
+## Esophageal Cancer Staging {tbl-colwidths="[20,10,70]"}
 
-------------------------------------------------------------------------
+The cancer stage consists of three parts:
 
-This scientific study was called the CROSS trial. The therapy is called tri-modality therapy, because three therapies are administered: chemotherapy, radiation, and surgery.
+-   **T** = Tumor - We're talking about the size of the tumor and the depth of invasion into the wall of the esophagus
+-   **N** = Nodes - Has the  cancer spread to the nearby lymph nodes?
+-   **M** = Metastasis - Has the cancer spread to other parts of the body? lungs or liver?
 
-------------------------------------------------------------------------
 
-A typical schedule for trimodality therapy is six weeks of chemotherapy and radiation together. Chemotherapy is given once a week, and radiation five days per week.
+## Locally-advanced Cancers
 
-------------------------------------------------------------------------
+Most locally advanced cancers are T3, which means they have grown all the way through the wall of the esophagus.
 
+These tumors frequently cause trouble eating.
+cancers are those that have gorwn through the wall of the esophagus.
+
+
+## Lymph Nodes
+
+In some cases, cancer cells can break off from the main tumor and spread to lymph nodes
+
+If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
+
+Treatment of these cancers requires treating cancer cells in the nodes as well as in the esophagus
+
+
+## M Stage
+
+Locally-advanced cancers are localized to the esophagus and nearby lymph nodes and have *not* spread to other parts of the body such as the lungs or liver.
+
+## Locally-Advanced Cancers
+
+To summarize, locally-advanced cancers are T3, can be either N0 or N1, and are M0
+
+
+## Staging Tests
+
+Common staging tests include:
+
+- CT scan
+- PET scan
+- Laparoscopy in some cases
+
+
+
+## PET scan
+
+PET scan is similar to a CT scan and is the best test to see whether there is spread of cancer to lymph nodes.
+
+Because PET scans are expensive, the insurance plan will frequently require that a CT scan be done before a PET scan will be approved.
+
+
+## Treatment
+
+Locally-advanced cancers can spread to nearby lymph nodes.  In early stages, the cancer in the lymph nodes is too small to be seen on scans or with the naked eye.
+
+In the past, surgery was the only treatment for esophageal cancer. 
+
+When surgery is the only treatment, there is a risk that cancer cells can be left behind.
+
+## Preoperative Therapy
+
+Preoperative therapy uses chemotherapy with or without radiation before surgery to shrink the tumor and kill microscopic areas of cancer nearby
+
+## Surgery
+
+Surgery is then performed after preoperative therapy
+
+## Preoperative Therapy
+
+Preoperative therapy before surgery is designed to reduce the risk that any cancer cells are left behind after surgery
+
+Surgery then reconstructs the GI tract, usually using the stomach to make a new esopahgus.
+
+## Preoperative Therapy
+
+There are two different strategies for preoperative therapy:
+
+In the first, chemotherapy and radiation are given together for six weeks prior to surgery
+
+In the second, chemotherapy is given both before and after surgery.
+
+## ChemoRT -> Surgery
+
+Treatment with chemotherapy and radiation is referred to as "CROSS" treatment
+
+Radiation is given 5 days per week for six weeks
+
+Chemotherapy is given along with the radiation once weekly for six weeks.
+
+A PET scan is done 4 to 6 weeks after the end of radiation
+
+Surgery is performed a few weeks later 
+
+## CROSS
+
+This strategy was studied by medical researchers during the CROSS clinical trial
+
+363 patients with locally-advanced esophageal cancer were treated with one of two treatment strategies:
+
+- Surgery alone OR
+- Chemotherapy and radiation (administered together) followed by surgery
+
+There were better outcomes with chemotherapy and radiation followed by surgery, compared with surgery alone
 
 ## FLOT
 
-A second approach is to use chemotherapy alone.
+The other strategy for preoperative therapy is chemotherapy followed by surgery followed by additional chemotherapy
 
-A combination of drugs is administered intravenously every other week for 4 doses *before* surgery. After surgery, another 4 doses of chemotherapy are adinistered. 
+Treatment starts with chemotherapy every other week for 4 doses
 
-## EsoPEC
+A CT scan is done after finishing chemotherapy
 
+Surgery is then performed a few weeks later
 
+An additional 4 doses of chemotherapy are then given after surgery
 
-Several weeks after the end of radiation therapy, a PET or CT scan is done to look at the response. Surgery is typically done 8 weeks after the end of radiation.
+## CROSS vs FLOT
 
-------------------------------------------------------------------------
+To summarize, CROSS treatment starts with a combination of radiation and chemotherapy prior to surgery
 
-For most people, the chemotherapy and radiation are well tolerated. In some cases, side effects do occur.
+FLOT treatment starts with chemotherapy prior to surgery
 
-------------------------------------------------------------------------
+## CROSS
 
-# Radiation Esophagitis
+With CROSS therapy, the dose of chemotherapy is low, which minimizes side effects.
 
-The radiation attacks the cancer cells in the esophagus and nearby lymph nodes, but it can also cause irritation of the lining of the esophagitis. You could think if it as a sunburn on the inside of the esophagus. What this means is that for patients who have some trouble eating before starting therapy, swallowing can get worse before it gets better. The most challenging time will be the last week of treatment. By two weeks after the end of treatment, the tumor is beginning to shrink and the inflammation is getting better, and most patients find that their swallowing gets easier. But during the treatment, it's important to get enough nutrition and stay hydrated. Protein shakes and nutritional supplements can help here. In some cases, a feeding tube can help provide nutritional support to get through treatment.
+The radiation can lead to a "sunburn" on the inside of the esophagus called radiation esophagitis
 
-------------------------------------------------------------------------
+This means that swallowing can get worse before it gets better. Typically, the last two weeks of radiation are the worst.
 
-# Blood counts
+The good news is that eating is usually much easier 2 weeks after the end of radiation, as the tumor has begun to shrink and the inflammation in the esophagus caused by the radiation gets better
 
-In a small number of patients, the chemotherapy can lower the blood counts, so your chemotherapy team will periodically check blood test to be certain you have enough white blood cells to fight infection. About 7% of patients will need some additional medications to keep their blood counts up. But in 93% of patients, the white blood cell counts remain normal.
+## FLOT
 
-------------------------------------------------------------------------
+FLOT chemotherapy uses higher doses of chemotherapy
+
+But because there is no radiation, swallowing doesn't get any worse during therapy.
+
+FLOT chemotherapy is usually a better choice for younger, fit patients without medical problems.
+
+##
+
+Paitients getting CROSS therapy are a bit more likely to need a feeding tube to help them get through therapy,
+
+While patients getting FLOT are a bit less likely to need a feeding tube
+
+## IV Access
+
+The chemotherapy for CROSS can be administered by peripheral IV or a port
+
+While FLOT chemotherapy requires a port for administration
+
+We will provide a link to a separate video about intravenous ports
+
+## More Topics
+
+Other questions for you to discuss with your cancer care team?
+
+- Do I need a port for intravenous access for chemotherapy?
+- How will I maintain my nutrition during therapy?
+- Will I need a feeding tube?
+- What does surgery involve?
+
+##
 
 If you or a family member have had an encounter with esophageal cancer surgery, I would love to hear about your experience, so please take a minute to leave a comment below. We're constantly creating new videos, so please subscribe to be notified of new videos when we post them.
 
-------------------------------------------------------------------------
+##
 
 I hope you have found this video helpful. This videos and others like it are designed to
 
@@ -140,7 +246,7 @@ and equip them for their discussions with their esophageal cancer care team.
 
 As always, these videos are no substitute for expert medical advice.
 
-------------------------------------------------------------------------
+## 
 
 Feel free to leave a comment or a question, or if you have suggestions for future videos.
 
