@@ -2926,13 +2926,6 @@
     "text": "Locally-advanced cancers\n\n\nIf locally-advanced cancers are treated with surgery alone…\nThere is a risk that cancer cells can be left behind"
   },
   {
-    "objectID": "lci_esot3.html#preoperative-therapy-for-locally-advanced-cancers",
-    "href": "lci_esot3.html#preoperative-therapy-for-locally-advanced-cancers",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "Preoperative Therapy for Locally-Advanced Cancers",
-    "text": "Preoperative Therapy for Locally-Advanced Cancers\n\n\nIt is helpful to start with therapy before surgery that will shrink the cancer."
-  },
-  {
     "objectID": "lci_esot3.html#preoperative-therapy",
     "href": "lci_esot3.html#preoperative-therapy",
     "title": "T3 Cancer of the Esophagus and GE Junction",
@@ -2947,6 +2940,13 @@
     "text": "Preoperative Therapy\n\n\nIt is helpful to start with therapy before surgery that will shrink the cancer."
   },
   {
+    "objectID": "lci_esot3.html#preoperative-therapy-2",
+    "href": "lci_esot3.html#preoperative-therapy-2",
+    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "section": "Preoperative Therapy",
+    "text": "Preoperative Therapy\n\n\nIt is helpful to start with therapy before surgery that will shrink the cancer."
+  },
+  {
     "objectID": "lci_esot3.html#surgery-after-preoperative-therapy",
     "href": "lci_esot3.html#surgery-after-preoperative-therapy",
     "title": "T3 Cancer of the Esophagus and GE Junction",
@@ -2954,8 +2954,8 @@
     "text": "Surgery after Preoperative Therapy\n\n\nWhen surgery is then performed…"
   },
   {
-    "objectID": "lci_esot3.html#preoperative-therapy-2",
-    "href": "lci_esot3.html#preoperative-therapy-2",
+    "objectID": "lci_esot3.html#preoperative-therapy-3",
+    "href": "lci_esot3.html#preoperative-therapy-3",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Preoperative Therapy",
     "text": "Preoperative Therapy\n\n\nWhen surgery is then performed…\nThe risk of cancer recurrence is minimized"
@@ -2972,28 +2972,28 @@
     "href": "lci_esot3.html#chemotherapy-radiation-cross-trial-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nChemotherapy + Radiation \\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival than Surgery alone\nThe addition of chemotherapy + radiation therapy before surgery resulted in better cancer treatment\nChemotherapy and radiation were given together over six weeks"
+    "text": "Chemotherapy + Radiation CROSS Trial\nChemotherapy and radiation were given together over six weeks\n\n\n\nSurgery Alone\nvs\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_esot3.html#chemotherapy-radiation-cross-trial-2",
     "href": "lci_esot3.html#chemotherapy-radiation-cross-trial-2",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nA typical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28 treatments)\nPET scan (or CT) 4 weeks after the end of radiation\nSurgery 8 weeks after the end of radiation"
+    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28 treatments)\nPET scan (or CT) 4 weeks after the end of radiation\nSurgery 8 weeks after the end of radiation"
   },
   {
     "objectID": "lci_esot3.html#chemotherapy-radiation---side-effects",
     "href": "lci_esot3.html#chemotherapy-radiation---side-effects",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nRadiation kills cancer cells in the esophagus and lymph nodes\nRadiation can also cause irritation of the lining of the esophagus.\nThis can make swallowing more challenging the last two weeks of therapy.\nA feeding tube is sometimes needed to help with hydration and nutrition."
+    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also cause irritation of the lining of the esophagus.\nSwallowing can be difficult the last two weeks of therapy.\nFeeding tube may be needed for hydration and nutrition."
   },
   {
     "objectID": "lci_esot3.html#locally-advanced-adenocarcinoma",
     "href": "lci_esot3.html#locally-advanced-adenocarcinoma",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Locally-advanced Adenocarcinoma",
-    "text": "Locally-advanced Adenocarcinoma\nFor patients with adenocarcinoma another option is “sandwich” chemotherapy administered before and after surgery:\nChemotherapy (8 weeks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemotherapy (8 weeks)\nTwo different drug combinations can be used:\n\nFLOT\nFOLFOX"
+    "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy given before and after surgery:\nChemotherapy (8 weeks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemotherapy (8 weeks)\nTwo different drug combinations:\n\nFLOT (more effective)\nFOLFOX (better tolerated)"
   },
   {
     "objectID": "lci_esot3.html#sandwich-chemotherapy-drugs",
@@ -3010,18 +3010,18 @@
     "text": "Adenocarcinoma Treatment Options\n\n\nChemo + Radiation\n\nChemo + Radiation (6 weeks)\nSurgery\n\n\nChemotherapy\n\nChemotherapy (8 weeks)\nSurgery\nChemotherapy (8 weeks)"
   },
   {
+    "objectID": "lci_esot3.html#adenocarcinoma-treatment-options-1",
+    "href": "lci_esot3.html#adenocarcinoma-treatment-options-1",
+    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "section": "Adenocarcinoma Treatment Options",
+    "text": "Adenocarcinoma Treatment Options\n\n\nCROSS Chemo + Radiation\n\nLonger track record (14 years)\nBetter tolerated\nPort usually placed\nEating gets worse \\(\\rightarrow\\) better\nMay need feeding tube\n\n\nFLOT Chemotherapy\n\nMore effective than CROSS\nMore side effects\nPort always required\nEating gets slowly better\nLess likely to need feeding tube"
+  },
+  {
     "objectID": "lci_esot3.html#chemotherapy",
     "href": "lci_esot3.html#chemotherapy",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Chemotherapy",
     "text": "Chemotherapy\nChemotherapy drugs are administered intravenously.\nThere are several options for intravenous access:\n\nPeripheral IVs in the hand\nPICC line (Peripheral Inserted Central Catheter)\nCentral Venous Port\n\nCentral Venous Port"
-  },
-  {
-    "objectID": "lci_esot3.html#adenocarcinoma-treatment-options-1",
-    "href": "lci_esot3.html#adenocarcinoma-treatment-options-1",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "Adenocarcinoma Treatment Options",
-    "text": "Adenocarcinoma Treatment Options\n\n\nCROSS Chemo + Radiation\n\nLonger track record (14 years)\nBetter tolerated\nEating gets worse \\(\\rightarrow\\) better\nMore likely to need feeding tube\n\n\nFLOT Chemotherapy\n\nMore effective than CROSS\nMore side effects\nEating gets slowly better\nLess likely to need feeding tube"
   },
   {
     "objectID": "lci_esot3.html#restaging",
@@ -3178,13 +3178,6 @@
     "text": "Locally-advanced cancers\n\n\nIf locally-advanced cancers are treated with surgery alone…\nThere is a risk that cancer cells can be left behind"
   },
   {
-    "objectID": "lci_esot3.htm#preoperative-therapy-for-locally-advanced-cancers",
-    "href": "lci_esot3.htm#preoperative-therapy-for-locally-advanced-cancers",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "Preoperative Therapy for Locally-Advanced Cancers",
-    "text": "Preoperative Therapy for Locally-Advanced Cancers\n\n\nIt is helpful to start with therapy before surgery that will shrink the cancer."
-  },
-  {
     "objectID": "lci_esot3.htm#preoperative-therapy",
     "href": "lci_esot3.htm#preoperative-therapy",
     "title": "T3 Cancer of the Esophagus and GE Junction",
@@ -3199,6 +3192,13 @@
     "text": "Preoperative Therapy\n\n\nIt is helpful to start with therapy before surgery that will shrink the cancer."
   },
   {
+    "objectID": "lci_esot3.htm#preoperative-therapy-2",
+    "href": "lci_esot3.htm#preoperative-therapy-2",
+    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "section": "Preoperative Therapy",
+    "text": "Preoperative Therapy\n\n\nIt is helpful to start with therapy before surgery that will shrink the cancer."
+  },
+  {
     "objectID": "lci_esot3.htm#surgery-after-preoperative-therapy",
     "href": "lci_esot3.htm#surgery-after-preoperative-therapy",
     "title": "T3 Cancer of the Esophagus and GE Junction",
@@ -3206,8 +3206,8 @@
     "text": "Surgery after Preoperative Therapy\n\n\nWhen surgery is then performed…"
   },
   {
-    "objectID": "lci_esot3.htm#preoperative-therapy-2",
-    "href": "lci_esot3.htm#preoperative-therapy-2",
+    "objectID": "lci_esot3.htm#preoperative-therapy-3",
+    "href": "lci_esot3.htm#preoperative-therapy-3",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Preoperative Therapy",
     "text": "Preoperative Therapy\n\n\nWhen surgery is then performed…\nThe risk of cancer recurrence is minimized"
@@ -3224,28 +3224,28 @@
     "href": "lci_esot3.htm#chemotherapy-radiation-cross-trial-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nChemotherapy + Radiation \\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival than Surgery alone\nThe addition of chemotherapy + radiation therapy before surgery resulted in better cancer treatment\nChemotherapy and radiation were given together over six weeks"
+    "text": "Chemotherapy + Radiation CROSS Trial\nChemotherapy and radiation were given together over six weeks\n\n\n\nSurgery Alone\nvs\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_esot3.htm#chemotherapy-radiation-cross-trial-2",
     "href": "lci_esot3.htm#chemotherapy-radiation-cross-trial-2",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nA typical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28 treatments)\nPET scan (or CT) 4 weeks after the end of radiation\nSurgery 8 weeks after the end of radiation"
+    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28 treatments)\nPET scan (or CT) 4 weeks after the end of radiation\nSurgery 8 weeks after the end of radiation"
   },
   {
     "objectID": "lci_esot3.htm#chemotherapy-radiation---side-effects",
     "href": "lci_esot3.htm#chemotherapy-radiation---side-effects",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nRadiation kills cancer cells in the esophagus and lymph nodes\nRadiation can also cause irritation of the lining of the esophagus.\nThis can make swallowing more challenging the last two weeks of therapy.\nA feeding tube is sometimes needed to help with hydration and nutrition."
+    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also cause irritation of the lining of the esophagus.\nSwallowing can be difficult the last two weeks of therapy.\nFeeding tube may be needed for hydration and nutrition."
   },
   {
     "objectID": "lci_esot3.htm#locally-advanced-adenocarcinoma",
     "href": "lci_esot3.htm#locally-advanced-adenocarcinoma",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Locally-advanced Adenocarcinoma",
-    "text": "Locally-advanced Adenocarcinoma\nFor patients with adenocarcinoma another option is “sandwich” chemotherapy administered before and after surgery:\nChemotherapy (8 weeks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemotherapy (8 weeks)\nTwo different drug combinations can be used:\n\nFLOT\nFOLFOX"
+    "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy given before and after surgery:\nChemotherapy (8 weeks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemotherapy (8 weeks)\nTwo different drug combinations:\n\nFLOT (more effective)\nFOLFOX (better tolerated)"
   },
   {
     "objectID": "lci_esot3.htm#sandwich-chemotherapy-drugs",
@@ -3262,18 +3262,18 @@
     "text": "Adenocarcinoma Treatment Options\n\n\nChemo + Radiation\n\nChemo + Radiation (6 weeks)\nSurgery\n\n\nChemotherapy\n\nChemotherapy (8 weeks)\nSurgery\nChemotherapy (8 weeks)"
   },
   {
+    "objectID": "lci_esot3.htm#adenocarcinoma-treatment-options-1",
+    "href": "lci_esot3.htm#adenocarcinoma-treatment-options-1",
+    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "section": "Adenocarcinoma Treatment Options",
+    "text": "Adenocarcinoma Treatment Options\n\n\nCROSS Chemo + Radiation\n\nLonger track record (14 years)\nBetter tolerated\nPort usually placed\nEating gets worse \\(\\rightarrow\\) better\nMay need feeding tube\n\n\nFLOT Chemotherapy\n\nMore effective than CROSS\nMore side effects\nPort always required\nEating gets slowly better\nLess likely to need feeding tube"
+  },
+  {
     "objectID": "lci_esot3.htm#chemotherapy",
     "href": "lci_esot3.htm#chemotherapy",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Chemotherapy",
     "text": "Chemotherapy\nChemotherapy drugs are administered intravenously.\nThere are several options for intravenous access:\n\nPeripheral IVs in the hand\nPICC line (Peripheral Inserted Central Catheter)\nCentral Venous Port\n\nCentral Venous Port"
-  },
-  {
-    "objectID": "lci_esot3.htm#adenocarcinoma-treatment-options-1",
-    "href": "lci_esot3.htm#adenocarcinoma-treatment-options-1",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "Adenocarcinoma Treatment Options",
-    "text": "Adenocarcinoma Treatment Options\n\n\nCROSS Chemo + Radiation\n\nLonger track record (14 years)\nBetter tolerated\nEating gets worse \\(\\rightarrow\\) better\nMore likely to need feeding tube\n\n\nFLOT Chemotherapy\n\nMore effective than CROSS\nMore side effects\nEating gets slowly better\nLess likely to need feeding tube"
   },
   {
     "objectID": "lci_esot3.htm#restaging",
