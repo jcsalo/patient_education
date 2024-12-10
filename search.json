@@ -249,7 +249,7 @@
     "href": "lci_intro_script.htm#outro-slide",
     "title": "LCI Introduction",
     "section": "(Outro Slide)",
-    "text": "(Outro Slide)\n\n\n\n\nPatient Education"
+    "text": "(Outro Slide)"
   },
   {
     "objectID": "lci_intro_script.html",
@@ -424,7 +424,7 @@
     "href": "lci_nutrition.htm#jejunostomy",
     "title": "Nutrition",
     "section": "Jejunostomy",
-    "text": "Jejunostomy\nA jejunostomy tube is used in cases where it’s not possible to place a gastrostomy tube, such as when there is a tumor in the stomach. A jejunostomy tube is routinely used after esophageal surgery, so in patients who need help with nutrition prior to surgery, it makes sense to put in a jejunostomy tube before surgery. The same tube can then be used for nutrition both before and after surgery.\n\n\n\n\nLCI Patient Education"
+    "text": "Jejunostomy\nA jejunostomy tube is used in cases where it’s not possible to place a gastrostomy tube, such as when there is a tumor in the stomach. A jejunostomy tube is routinely used after esophageal surgery, so in patients who need help with nutrition prior to surgery, it makes sense to put in a jejunostomy tube before surgery. The same tube can then be used for nutrition both before and after surgery."
   },
   {
     "objectID": "lci_nutrition.html",
@@ -963,7 +963,7 @@
     "href": "lci_intro.htm#outro",
     "title": "LCI Introduction",
     "section": "Outro",
-    "text": "Outro\nFeel free to subscribe so you can be notified about new videos\nIf there are video topics you would like us to cover, please leave a comment below.\n\n\n\n\nPatient Education"
+    "text": "Outro\nFeel free to subscribe so you can be notified about new videos\nIf there are video topics you would like us to cover, please leave a comment below."
   },
   {
     "objectID": "lci_intro.html",
@@ -1064,95 +1064,417 @@
     "text": "Outro\nFeel free to subscribe so you can be notified about new videos\nIf there are video topics you would like us to cover, please leave a comment below."
   },
   {
-    "objectID": "eso_aca_locally_advanced_slides.html.htm#esophageal-cancer-treatment-options",
-    "href": "eso_aca_locally_advanced_slides.html.htm#esophageal-cancer-treatment-options",
-    "title": "Locally-Advanced Eso Adenocarcinoma",
+    "objectID": "eso_aca_locally_advanced.htm#introduction",
+    "href": "eso_aca_locally_advanced.htm#introduction",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Introduction",
+    "text": "Introduction\nI’m Dr Jonathan Salo, a GI Cancer Surgeon in Charlotte, North Carolina.\nIf you’re viewing this video, chances are that you or someone close to you has encountered esophageal cancer and is contemplating treatment."
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.htm#section",
+    "href": "eso_aca_locally_advanced.htm#section",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "",
+    "text": "This video focuses on locally advanced adenocarcinoma of the esophagus. This is defined as T3 or Node-positive esophageal cancer without evidence of distant metastasis.\nMost patients in this category have some difficulty with eating.\nIf that terminology is unfamiliar, we have a link to a video on Diagnosis and Staging."
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.htm#esophageal-cancer-treatment-options",
+    "href": "eso_aca_locally_advanced.htm#esophageal-cancer-treatment-options",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
     "section": "Esophageal Cancer Treatment Options",
-    "text": "Esophageal Cancer Treatment Options\nFor a refresher, we have four major categories of esophageal cancers:\n\nSuperficial -&gt; Treated without surgery\nLocalized -&gt; Treated with surgery alone\nLocally Advanced -&gt; Chemotherapy + Radiation -&gt; Surgery\nMetastatic -&gt; Chemotherapy"
+    "text": "Esophageal Cancer Treatment Options\nFor a refresher, we have four major categories of esophageal cancers:\n\nSuperficial: T1a tumors - Treated without surgery\nLocalized: T1b to T2 tumors - Treated with surgery alone\nLocally Advanced: T3 or N1 - subject of this video\nMetastatic cancers: M1 - Treated with Chemotherapy\n\nThis video focuses on Locally Advanced esophageal cancer"
   },
   {
-    "objectID": "eso_aca_locally_advanced_slides.html.htm#section",
-    "href": "eso_aca_locally_advanced_slides.html.htm#section",
-    "title": "Locally-Advanced Eso Adenocarcinoma",
-    "section": "",
-    "text": "Patients with locally-advanced esophageal cancer have a visible mass, or tumor, which frequently causes trouble swallowing.\nWhat we don’t always recognize is that in many cases there can be microscopic areas of tumor which can’t be seen with the naked eye.\nIf surgery is the only treatment given, those microscopic areas of tumor can later cause a recurrence of cancer.\n\n\n\n\nFor patients with locally-advanced esophageal cancer, research has shown that preoperative treatment to shrink the cancer makes the surgery more effective by killing microscopic tumor cells that can’t be detected at the time of surgery.\nThere are two different treatments which have been shown to be effective\n\nRadiation and chemotherapy for 5 1/2 weeks followed by surgery\nChemotherapy every other week for 8 weeks both before and after surgery\n\n\n\nChemoradiation\nOver 10 years ago, researchers in the Netherlands took a group of 363 patients with esophageal cancer and divided them into two groups. They they treated the two groups with two different treatment strategies. |\nThe first group was treated with surgery alone. |\nThe second group was treated with chemotherapy and radiation together for six weeks, followed by surgery. |\nThe results were quite dramatic: The group that was treated with all three therapies, chemotherapy and radiation and surgery, lived on average twice a long as patients who had surgery alone.\n\nThis scientific study was called the CROSS trial. The therapy is called tri-modality therapy, because three therapies are administered: chemotherapy, radiation, and surgery.\n\nA typical schedule for trimodality therapy is six weeks of chemotherapy and radiation together. Chemotherapy is given once a week, and radiation five days per week.\n\n\n\nFLOT\nA second approach is to use chemotherapy alone.\nA combination of drugs is administered intravenously every other week for 4 doses before surgery. After surgery, another 4 doses of chemotherapy are adinistered.\n\n\nEsoPEC\nSeveral weeks after the end of radiation therapy, a PET or CT scan is done to look at the response. Surgery is typically done 8 weeks after the end of radiation.\n\nFor most people, the chemotherapy and radiation are well tolerated. In some cases, side effects do occur.\n\n\n\nRadiation Esophagitis\nThe radiation attacks the cancer cells in the esophagus and nearby lymph nodes, but it can also cause irritation of the lining of the esophagitis. You could think if it as a sunburn on the inside of the esophagus. What this means is that for patients who have some trouble eating before starting therapy, swallowing can get worse before it gets better. The most challenging time will be the last week of treatment. By two weeks after the end of treatment, the tumor is beginning to shrink and the inflammation is getting better, and most patients find that their swallowing gets easier. But during the treatment, it’s important to get enough nutrition and stay hydrated. Protein shakes and nutritional supplements can help here. In some cases, a feeding tube can help provide nutritional support to get through treatment.\n\n\n\n\nBlood counts\nIn a small number of patients, the chemotherapy can lower the blood counts, so your chemotherapy team will periodically check blood test to be certain you have enough white blood cells to fight infection. About 7% of patients will need some additional medications to keep their blood counts up. But in 93% of patients, the white blood cell counts remain normal.\n\nIf you or a family member have had an encounter with esophageal cancer surgery, I would love to hear about your experience, so please take a minute to leave a comment below. We’re constantly creating new videos, so please subscribe to be notified of new videos when we post them.\n\nI hope you have found this video helpful. This videos and others like it are designed to\neducate patients and families about esophageal cancer\nand equip them for their discussions with their esophageal cancer care team.\nAs always, these videos are no substitute for expert medical advice.\n\nFeel free to leave a comment or a question, or if you have suggestions for future videos.\nHere are some additional videos you may find helpful:\nSurgery for Esophageal Cancer\n\n\n\n\nPatient Education"
+    "objectID": "eso_aca_locally_advanced.htm#types-of-esophageal-cancer",
+    "href": "eso_aca_locally_advanced.htm#types-of-esophageal-cancer",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Types of Esophageal Cancer",
+    "text": "Types of Esophageal Cancer\nThere are two types of esophageal cancer:\nadenocarcinoma\nsquamous cell carcinoma\nThe treatment of these two types is similar, but there are differences.\nWe’re preparing a separate video for locally-advanced squamous cell carcinoma."
   },
   {
-    "objectID": "eso_aca_locally_advanced_slides.html.htm#section-1",
-    "href": "eso_aca_locally_advanced_slides.html.htm#section-1",
-    "title": "Locally-Advanced Eso Adenocarcinoma",
-    "section": "",
-    "text": "For patients with locally-advanced esophageal cancer, research has shown that preoperative treatment to shrink the cancer makes the surgery more effective by killing microscopic tumor cells that can’t be detected at the time of surgery.\nThere are two different treatments which have been shown to be effective\n\nRadiation and chemotherapy for 5 1/2 weeks followed by surgery\nChemotherapy every other week for 8 weeks both before and after surgery"
+    "objectID": "eso_aca_locally_advanced.htm#tumor",
+    "href": "eso_aca_locally_advanced.htm#tumor",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Tumor",
+    "text": "Tumor\nTo review the terminology: A tumor is an abnormal mass or lump\nA benign tumor may grow slowly over time but will never spread\nA malignant tumor has the potential to spread to other parts of the body.\nCancer is another term for a malignancy tumor."
   },
   {
-    "objectID": "eso_aca_locally_advanced_slides.html.htm#chemoradiation",
-    "href": "eso_aca_locally_advanced_slides.html.htm#chemoradiation",
-    "title": "Locally-Advanced Eso Adenocarcinoma",
-    "section": "Chemoradiation",
-    "text": "Chemoradiation\nOver 10 years ago, researchers in the Netherlands took a group of 363 patients with esophageal cancer and divided them into two groups. They they treated the two groups with two different treatment strategies. |\nThe first group was treated with surgery alone. |\nThe second group was treated with chemotherapy and radiation together for six weeks, followed by surgery. |\nThe results were quite dramatic: The group that was treated with all three therapies, chemotherapy and radiation and surgery, lived on average twice a long as patients who had surgery alone.\n\nThis scientific study was called the CROSS trial. The therapy is called tri-modality therapy, because three therapies are administered: chemotherapy, radiation, and surgery.\n\nA typical schedule for trimodality therapy is six weeks of chemotherapy and radiation together. Chemotherapy is given once a week, and radiation five days per week."
+    "objectID": "eso_aca_locally_advanced.htm#esophageal-cancer-staging",
+    "href": "eso_aca_locally_advanced.htm#esophageal-cancer-staging",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Esophageal Cancer Staging",
+    "text": "Esophageal Cancer Staging\nThe cancer stage consists of three parts:\n\nT = Tumor - We’re talking about the size of the tumor and the depth of invasion into the wall of the esophagus\nN = Nodes - Has the cancer spread to the nearby lymph nodes?\nM = Metastasis - Has the cancer spread to other parts of the body? lungs or liver?"
   },
   {
-    "objectID": "eso_aca_locally_advanced_slides.html.htm#flot",
-    "href": "eso_aca_locally_advanced_slides.html.htm#flot",
-    "title": "Locally-Advanced Eso Adenocarcinoma",
+    "objectID": "eso_aca_locally_advanced.htm#locally-advanced-cancers",
+    "href": "eso_aca_locally_advanced.htm#locally-advanced-cancers",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Locally-advanced Cancers",
+    "text": "Locally-advanced Cancers\nMost locally advanced cancers are T3, which means they have grown all the way through the wall of the esophagus.\nThese tumors frequently cause trouble eating. cancers are those that have gorwn through the wall of the esophagus."
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.htm#lymph-nodes",
+    "href": "eso_aca_locally_advanced.htm#lymph-nodes",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Lymph Nodes",
+    "text": "Lymph Nodes\nIn some cases, cancer cells can break off from the main tumor and spread to lymph nodes\nIf the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans\nTreatment of these cancers requires treating cancer cells in the nodes as well as in the esophagus"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.htm#m-stage",
+    "href": "eso_aca_locally_advanced.htm#m-stage",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "M Stage",
+    "text": "M Stage\nLocally-advanced cancers are localized to the esophagus and nearby lymph nodes and have not spread to other parts of the body such as the lungs or liver."
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.htm#locally-advanced-cancers-1",
+    "href": "eso_aca_locally_advanced.htm#locally-advanced-cancers-1",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Locally-Advanced Cancers",
+    "text": "Locally-Advanced Cancers\nTo summarize, locally-advanced cancers are T3, can be either N0 or N1, and are M0"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.htm#staging-tests",
+    "href": "eso_aca_locally_advanced.htm#staging-tests",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Staging Tests",
+    "text": "Staging Tests\nCommon staging tests include:\n\nCT scan\nPET scan\nLaparoscopy in some cases"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.htm#pet-scan",
+    "href": "eso_aca_locally_advanced.htm#pet-scan",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "PET scan",
+    "text": "PET scan\nPET scan is similar to a CT scan and is the best test to see whether there is spread of cancer to lymph nodes.\nBecause PET scans are expensive, the insurance plan will frequently require that a CT scan be done before a PET scan will be approved."
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.htm#treatment",
+    "href": "eso_aca_locally_advanced.htm#treatment",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Treatment",
+    "text": "Treatment\nLocally-advanced cancers can spread to nearby lymph nodes. In early stages, the cancer in the lymph nodes is too small to be seen on scans or with the naked eye.\nIn the past, surgery was the only treatment for esophageal cancer.\nWhen surgery is the only treatment, there is a risk that cancer cells can be left behind."
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.htm#preoperative-therapy",
+    "href": "eso_aca_locally_advanced.htm#preoperative-therapy",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Preoperative Therapy",
+    "text": "Preoperative Therapy\nPreoperative therapy uses chemotherapy with or without radiation before surgery to shrink the tumor and kill microscopic areas of cancer nearby"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.htm#surgery",
+    "href": "eso_aca_locally_advanced.htm#surgery",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Surgery",
+    "text": "Surgery\nSurgery is then performed after preoperative therapy"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.htm#preoperative-therapy-1",
+    "href": "eso_aca_locally_advanced.htm#preoperative-therapy-1",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Preoperative Therapy",
+    "text": "Preoperative Therapy\nPreoperative therapy before surgery is designed to reduce the risk that any cancer cells are left behind after surgery\nSurgery then reconstructs the GI tract, usually using the stomach to make a new esopahgus."
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.htm#preoperative-therapy-2",
+    "href": "eso_aca_locally_advanced.htm#preoperative-therapy-2",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Preoperative Therapy",
+    "text": "Preoperative Therapy\nThere are two different strategies for preoperative therapy:\nIn the first, chemotherapy and radiation are given together for six weeks prior to surgery\nIn the second, chemotherapy is given both before and after surgery."
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.htm#chemort---surgery",
+    "href": "eso_aca_locally_advanced.htm#chemort---surgery",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "ChemoRT -> Surgery",
+    "text": "ChemoRT -&gt; Surgery\nTreatment with chemotherapy and radiation is referred to as “CROSS” treatment\nRadiation is given 5 days per week for six weeks\nChemotherapy is given along with the radiation once weekly for six weeks.\nA PET scan is done 4 to 6 weeks after the end of radiation\nSurgery is performed a few weeks later"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.htm#cross",
+    "href": "eso_aca_locally_advanced.htm#cross",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "CROSS",
+    "text": "CROSS\nThis strategy was studied by medical researchers during the CROSS clinical trial\n363 patients with locally-advanced esophageal cancer were treated with one of two treatment strategies:\n\nSurgery alone OR\nChemotherapy and radiation (administered together) followed by surgery\n\nThere were better outcomes with chemotherapy and radiation followed by surgery, compared with surgery alone"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.htm#flot",
+    "href": "eso_aca_locally_advanced.htm#flot",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
     "section": "FLOT",
-    "text": "FLOT\nA second approach is to use chemotherapy alone.\nA combination of drugs is administered intravenously every other week for 4 doses before surgery. After surgery, another 4 doses of chemotherapy are adinistered."
+    "text": "FLOT\nThe other strategy for preoperative therapy is chemotherapy followed by surgery followed by additional chemotherapy\nTreatment starts with chemotherapy every other week for 4 doses\nA CT scan is done after finishing chemotherapy\nSurgery is then performed a few weeks later\nAn additional 4 doses of chemotherapy are then given after surgery"
   },
   {
-    "objectID": "eso_aca_locally_advanced_slides.html.htm#esopec",
-    "href": "eso_aca_locally_advanced_slides.html.htm#esopec",
-    "title": "Locally-Advanced Eso Adenocarcinoma",
-    "section": "EsoPEC",
-    "text": "EsoPEC\nSeveral weeks after the end of radiation therapy, a PET or CT scan is done to look at the response. Surgery is typically done 8 weeks after the end of radiation.\n\nFor most people, the chemotherapy and radiation are well tolerated. In some cases, side effects do occur."
+    "objectID": "eso_aca_locally_advanced.htm#cross-vs-flot",
+    "href": "eso_aca_locally_advanced.htm#cross-vs-flot",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "CROSS vs FLOT",
+    "text": "CROSS vs FLOT\nTo summarize, CROSS treatment starts with a combination of radiation and chemotherapy prior to surgery\nFLOT treatment starts with chemotherapy prior to surgery"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.htm#cross-1",
+    "href": "eso_aca_locally_advanced.htm#cross-1",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "CROSS",
+    "text": "CROSS\nWith CROSS therapy, the dose of chemotherapy is low, which minimizes side effects.\nThe radiation can lead to a “sunburn” on the inside of the esophagus called radiation esophagitis\nThis means that swallowing can get worse before it gets better. Typically, the last two weeks of radiation are the worst.\nThe good news is that eating is usually much easier 2 weeks after the end of radiation, as the tumor has begun to shrink and the inflammation in the esophagus caused by the radiation gets better"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.htm#flot-1",
+    "href": "eso_aca_locally_advanced.htm#flot-1",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "FLOT",
+    "text": "FLOT\nFLOT chemotherapy uses higher doses of chemotherapy\nBut because there is no radiation, swallowing doesn’t get any worse during therapy.\nFLOT chemotherapy is usually a better choice for younger, fit patients without medical problems."
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.htm#section-1",
+    "href": "eso_aca_locally_advanced.htm#section-1",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "",
+    "text": "Paitients getting CROSS therapy are a bit more likely to need a feeding tube to help them get through therapy,\nWhile patients getting FLOT are a bit less likely to need a feeding tube"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.htm#iv-access",
+    "href": "eso_aca_locally_advanced.htm#iv-access",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "IV Access",
+    "text": "IV Access\nThe chemotherapy for CROSS can be administered by peripheral IV or a port\nWhile FLOT chemotherapy requires a port for administration\nWe will provide a link to a separate video about intravenous ports"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.htm#more-topics",
+    "href": "eso_aca_locally_advanced.htm#more-topics",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "More Topics",
+    "text": "More Topics\nOther questions for you to discuss with your cancer care team?\n\nDo I need a port for intravenous access for chemotherapy?\nHow will I maintain my nutrition during therapy?\nWill I need a feeding tube?\nWhat does surgery involve?"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.htm#section-2",
+    "href": "eso_aca_locally_advanced.htm#section-2",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "",
+    "text": "If you or a family member have had an encounter with esophageal cancer surgery, I would love to hear about your experience, so please take a minute to leave a comment below. We’re constantly creating new videos, so please subscribe to be notified of new videos when we post them."
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.htm#section-3",
+    "href": "eso_aca_locally_advanced.htm#section-3",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "",
+    "text": "I hope you have found this video helpful. This videos and others like it are designed to\neducate patients and families about esophageal cancer\nand equip them for their discussions with their esophageal cancer care team.\nAs always, these videos are no substitute for expert medical advice."
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.htm#section-4",
+    "href": "eso_aca_locally_advanced.htm#section-4",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "",
+    "text": "Feel free to leave a comment or a question, or if you have suggestions for future videos.\nHere are some additional videos you may find helpful:\nSurgery for Esophageal Cancer"
   },
   {
     "objectID": "eso_aca_locally_advanced.html",
     "href": "eso_aca_locally_advanced.html",
-    "title": "Locally-Advanced Eso Adenocarcinoma",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
     "section": "",
-    "text": "I’m Dr Jonathan Salo, a GI Cancer Surgeon in Charlotte, North Carolina.\nIf you’re viewing this video, chances are that you or someone close to you has encountered esophageal cancer and is contemplating treatment.\n\nThis video focuses on patients with locally advanced esophageal cancer. This is defined as T3 or Node-positive esophageal cancer.\nIf that terminology is unfamiliar or you haven’t seen our video on Esophageal Cancer Treatment Options video, a link is provided in the description.\n\n\nFor a refresher, we have four major categories of esophageal cancers:\n\nSuperficial -&gt; Treated without surgery\nLocalized -&gt; Treated with surgery alone\nLocally Advanced -&gt; Chemotherapy + Radiation -&gt; Surgery\nMetastatic -&gt; Chemotherapy\n\n\nWe will divide these into two groups: Early and Advanced\nAdvanced esophageal cancer, which consists of two categories: Locally Advanced and Metastatic.\n\nLocally Advanced -&gt; T3M0\nMetastatic -&gt; M1\n\nThis video focuses on Locally Advanced esophageal cancer\n\n\n\n\n\nPatients with locally-advanced esophageal cancer have a visible mass, or tumor, which frequently causes trouble swallowing.\nWhat we don’t always recognize is that in many cases there can be microscopic areas of tumor which can’t be seen with the naked eye.\nIf surgery is the only treatment given, those microscopic areas of tumor can later cause a recurrence of cancer.\n\n\n\n\nFor patients with locally-advanced esophageal cancer, research has shown that preoperative treatment to shrink the cancer makes the surgery more effective by killing microscopic tumor cells that can’t be detected at the time of surgery.\nThere are two different treatments which have been shown to be effective\n\nRadiation and chemotherapy for 5 1/2 weeks followed by surgery\nChemotherapy every other week for 8 weeks both before and after surgery\n\n\n\n\nOver 10 years ago, researchers in the Netherlands took a group of 363 patients with esophageal cancer and divided them into two groups. They they treated the two groups with two different treatment strategies. |\nThe first group was treated with surgery alone. |\nThe second group was treated with chemotherapy and radiation together for six weeks, followed by surgery. |\nThe results were quite dramatic: The group that was treated with all three therapies, chemotherapy and radiation and surgery, lived on average twice a long as patients who had surgery alone.\n\nThis scientific study was called the CROSS trial. The therapy is called tri-modality therapy, because three therapies are administered: chemotherapy, radiation, and surgery.\n\nA typical schedule for trimodality therapy is six weeks of chemotherapy and radiation together. Chemotherapy is given once a week, and radiation five days per week.\n\n\n\n\nA second approach is to use chemotherapy alone.\nA combination of drugs is administered intravenously every other week for 4 doses before surgery. After surgery, another 4 doses of chemotherapy are adinistered.\n\n\n\nSeveral weeks after the end of radiation therapy, a PET or CT scan is done to look at the response. Surgery is typically done 8 weeks after the end of radiation.\n\nFor most people, the chemotherapy and radiation are well tolerated. In some cases, side effects do occur.\n\n\n\n\nThe radiation attacks the cancer cells in the esophagus and nearby lymph nodes, but it can also cause irritation of the lining of the esophagitis. You could think if it as a sunburn on the inside of the esophagus. What this means is that for patients who have some trouble eating before starting therapy, swallowing can get worse before it gets better. The most challenging time will be the last week of treatment. By two weeks after the end of treatment, the tumor is beginning to shrink and the inflammation is getting better, and most patients find that their swallowing gets easier. But during the treatment, it’s important to get enough nutrition and stay hydrated. Protein shakes and nutritional supplements can help here. In some cases, a feeding tube can help provide nutritional support to get through treatment.\n\n\n\n\nIn a small number of patients, the chemotherapy can lower the blood counts, so your chemotherapy team will periodically check blood test to be certain you have enough white blood cells to fight infection. About 7% of patients will need some additional medications to keep their blood counts up. But in 93% of patients, the white blood cell counts remain normal.\n\nIf you or a family member have had an encounter with esophageal cancer surgery, I would love to hear about your experience, so please take a minute to leave a comment below. We’re constantly creating new videos, so please subscribe to be notified of new videos when we post them.\n\nI hope you have found this video helpful. This videos and others like it are designed to\neducate patients and families about esophageal cancer\nand equip them for their discussions with their esophageal cancer care team.\nAs always, these videos are no substitute for expert medical advice.\n\nFeel free to leave a comment or a question, or if you have suggestions for future videos.\nHere are some additional videos you may find helpful:\nSurgery for Esophageal Cancer"
+    "text": "I’m Dr Jonathan Salo, a GI Cancer Surgeon in Charlotte, North Carolina.\nIf you’re viewing this video, chances are that you or someone close to you has encountered esophageal cancer and is contemplating treatment."
   },
   {
-    "objectID": "eso_aca_locally_advanced.html#esophageal-cancer-treatment-options",
-    "href": "eso_aca_locally_advanced.html#esophageal-cancer-treatment-options",
-    "title": "Locally-Advanced Eso Adenocarcinoma",
+    "objectID": "eso_aca_locally_advanced.html#introduction",
+    "href": "eso_aca_locally_advanced.html#introduction",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
     "section": "",
-    "text": "For a refresher, we have four major categories of esophageal cancers:\n\nSuperficial -&gt; Treated without surgery\nLocalized -&gt; Treated with surgery alone\nLocally Advanced -&gt; Chemotherapy + Radiation -&gt; Surgery\nMetastatic -&gt; Chemotherapy\n\n\nWe will divide these into two groups: Early and Advanced\nAdvanced esophageal cancer, which consists of two categories: Locally Advanced and Metastatic.\n\nLocally Advanced -&gt; T3M0\nMetastatic -&gt; M1\n\nThis video focuses on Locally Advanced esophageal cancer"
+    "text": "I’m Dr Jonathan Salo, a GI Cancer Surgeon in Charlotte, North Carolina.\nIf you’re viewing this video, chances are that you or someone close to you has encountered esophageal cancer and is contemplating treatment."
   },
   {
     "objectID": "eso_aca_locally_advanced.html#section",
     "href": "eso_aca_locally_advanced.html#section",
-    "title": "Locally-Advanced Eso Adenocarcinoma",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
     "section": "",
-    "text": "Patients with locally-advanced esophageal cancer have a visible mass, or tumor, which frequently causes trouble swallowing.\nWhat we don’t always recognize is that in many cases there can be microscopic areas of tumor which can’t be seen with the naked eye.\nIf surgery is the only treatment given, those microscopic areas of tumor can later cause a recurrence of cancer.\n\n\n\n\nFor patients with locally-advanced esophageal cancer, research has shown that preoperative treatment to shrink the cancer makes the surgery more effective by killing microscopic tumor cells that can’t be detected at the time of surgery.\nThere are two different treatments which have been shown to be effective\n\nRadiation and chemotherapy for 5 1/2 weeks followed by surgery\nChemotherapy every other week for 8 weeks both before and after surgery\n\n\n\n\nOver 10 years ago, researchers in the Netherlands took a group of 363 patients with esophageal cancer and divided them into two groups. They they treated the two groups with two different treatment strategies. |\nThe first group was treated with surgery alone. |\nThe second group was treated with chemotherapy and radiation together for six weeks, followed by surgery. |\nThe results were quite dramatic: The group that was treated with all three therapies, chemotherapy and radiation and surgery, lived on average twice a long as patients who had surgery alone.\n\nThis scientific study was called the CROSS trial. The therapy is called tri-modality therapy, because three therapies are administered: chemotherapy, radiation, and surgery.\n\nA typical schedule for trimodality therapy is six weeks of chemotherapy and radiation together. Chemotherapy is given once a week, and radiation five days per week.\n\n\n\n\nA second approach is to use chemotherapy alone.\nA combination of drugs is administered intravenously every other week for 4 doses before surgery. After surgery, another 4 doses of chemotherapy are adinistered.\n\n\n\nSeveral weeks after the end of radiation therapy, a PET or CT scan is done to look at the response. Surgery is typically done 8 weeks after the end of radiation.\n\nFor most people, the chemotherapy and radiation are well tolerated. In some cases, side effects do occur.\n\n\n\n\nThe radiation attacks the cancer cells in the esophagus and nearby lymph nodes, but it can also cause irritation of the lining of the esophagitis. You could think if it as a sunburn on the inside of the esophagus. What this means is that for patients who have some trouble eating before starting therapy, swallowing can get worse before it gets better. The most challenging time will be the last week of treatment. By two weeks after the end of treatment, the tumor is beginning to shrink and the inflammation is getting better, and most patients find that their swallowing gets easier. But during the treatment, it’s important to get enough nutrition and stay hydrated. Protein shakes and nutritional supplements can help here. In some cases, a feeding tube can help provide nutritional support to get through treatment.\n\n\n\n\nIn a small number of patients, the chemotherapy can lower the blood counts, so your chemotherapy team will periodically check blood test to be certain you have enough white blood cells to fight infection. About 7% of patients will need some additional medications to keep their blood counts up. But in 93% of patients, the white blood cell counts remain normal.\n\nIf you or a family member have had an encounter with esophageal cancer surgery, I would love to hear about your experience, so please take a minute to leave a comment below. We’re constantly creating new videos, so please subscribe to be notified of new videos when we post them.\n\nI hope you have found this video helpful. This videos and others like it are designed to\neducate patients and families about esophageal cancer\nand equip them for their discussions with their esophageal cancer care team.\nAs always, these videos are no substitute for expert medical advice.\n\nFeel free to leave a comment or a question, or if you have suggestions for future videos.\nHere are some additional videos you may find helpful:\nSurgery for Esophageal Cancer"
+    "text": "This video focuses on locally advanced adenocarcinoma of the esophagus. This is defined as T3 or Node-positive esophageal cancer without evidence of distant metastasis.\nMost patients in this category have some difficulty with eating.\nIf that terminology is unfamiliar, we have a link to a video on Diagnosis and Staging."
   },
   {
-    "objectID": "eso_aca_locally_advanced.html#section-1",
-    "href": "eso_aca_locally_advanced.html#section-1",
-    "title": "Locally-Advanced Eso Adenocarcinoma",
-    "section": "",
-    "text": "For patients with locally-advanced esophageal cancer, research has shown that preoperative treatment to shrink the cancer makes the surgery more effective by killing microscopic tumor cells that can’t be detected at the time of surgery.\nThere are two different treatments which have been shown to be effective\n\nRadiation and chemotherapy for 5 1/2 weeks followed by surgery\nChemotherapy every other week for 8 weeks both before and after surgery"
+    "objectID": "eso_aca_locally_advanced.html#esophageal-cancer-treatment-options",
+    "href": "eso_aca_locally_advanced.html#esophageal-cancer-treatment-options",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Esophageal Cancer Treatment Options",
+    "text": "Esophageal Cancer Treatment Options\nFor a refresher, we have four major categories of esophageal cancers:\n\nSuperficial: T1a tumors - Treated without surgery\nLocalized: T1b to T2 tumors - Treated with surgery alone\nLocally Advanced: T3 or N1 - subject of this video\nMetastatic cancers: M1 - Treated with Chemotherapy\n\nThis video focuses on Locally Advanced esophageal cancer"
   },
   {
-    "objectID": "eso_aca_locally_advanced.html#chemoradiation",
-    "href": "eso_aca_locally_advanced.html#chemoradiation",
-    "title": "Locally-Advanced Eso Adenocarcinoma",
-    "section": "",
-    "text": "Over 10 years ago, researchers in the Netherlands took a group of 363 patients with esophageal cancer and divided them into two groups. They they treated the two groups with two different treatment strategies. |\nThe first group was treated with surgery alone. |\nThe second group was treated with chemotherapy and radiation together for six weeks, followed by surgery. |\nThe results were quite dramatic: The group that was treated with all three therapies, chemotherapy and radiation and surgery, lived on average twice a long as patients who had surgery alone.\n\nThis scientific study was called the CROSS trial. The therapy is called tri-modality therapy, because three therapies are administered: chemotherapy, radiation, and surgery.\n\nA typical schedule for trimodality therapy is six weeks of chemotherapy and radiation together. Chemotherapy is given once a week, and radiation five days per week."
+    "objectID": "eso_aca_locally_advanced.html#types-of-esophageal-cancer",
+    "href": "eso_aca_locally_advanced.html#types-of-esophageal-cancer",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Types of Esophageal Cancer",
+    "text": "Types of Esophageal Cancer\nThere are two types of esophageal cancer:\nadenocarcinoma\nsquamous cell carcinoma\nThe treatment of these two types is similar, but there are differences.\nWe’re preparing a separate video for locally-advanced squamous cell carcinoma."
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.html#tumor",
+    "href": "eso_aca_locally_advanced.html#tumor",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Tumor",
+    "text": "Tumor\nTo review the terminology: A tumor is an abnormal mass or lump\nA benign tumor may grow slowly over time but will never spread\nA malignant tumor has the potential to spread to other parts of the body.\nCancer is another term for a malignancy tumor."
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.html#esophageal-cancer-staging",
+    "href": "eso_aca_locally_advanced.html#esophageal-cancer-staging",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Esophageal Cancer Staging",
+    "text": "Esophageal Cancer Staging\nThe cancer stage consists of three parts:\n\nT = Tumor - We’re talking about the size of the tumor and the depth of invasion into the wall of the esophagus\nN = Nodes - Has the cancer spread to the nearby lymph nodes?\nM = Metastasis - Has the cancer spread to other parts of the body? lungs or liver?"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.html#locally-advanced-cancers",
+    "href": "eso_aca_locally_advanced.html#locally-advanced-cancers",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Locally-advanced Cancers",
+    "text": "Locally-advanced Cancers\nMost locally advanced cancers are T3, which means they have grown all the way through the wall of the esophagus.\nThese tumors frequently cause trouble eating. cancers are those that have gorwn through the wall of the esophagus."
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.html#lymph-nodes",
+    "href": "eso_aca_locally_advanced.html#lymph-nodes",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Lymph Nodes",
+    "text": "Lymph Nodes\nIn some cases, cancer cells can break off from the main tumor and spread to lymph nodes\nIf the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans\nTreatment of these cancers requires treating cancer cells in the nodes as well as in the esophagus"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.html#m-stage",
+    "href": "eso_aca_locally_advanced.html#m-stage",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "M Stage",
+    "text": "M Stage\nLocally-advanced cancers are localized to the esophagus and nearby lymph nodes and have not spread to other parts of the body such as the lungs or liver."
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.html#locally-advanced-cancers-1",
+    "href": "eso_aca_locally_advanced.html#locally-advanced-cancers-1",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Locally-Advanced Cancers",
+    "text": "Locally-Advanced Cancers\nTo summarize, locally-advanced cancers are T3, can be either N0 or N1, and are M0"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.html#staging-tests",
+    "href": "eso_aca_locally_advanced.html#staging-tests",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Staging Tests",
+    "text": "Staging Tests\nCommon staging tests include:\n\nCT scan\nPET scan\nLaparoscopy in some cases"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.html#pet-scan",
+    "href": "eso_aca_locally_advanced.html#pet-scan",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "PET scan",
+    "text": "PET scan\nPET scan is similar to a CT scan and is the best test to see whether there is spread of cancer to lymph nodes.\nBecause PET scans are expensive, the insurance plan will frequently require that a CT scan be done before a PET scan will be approved."
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.html#treatment",
+    "href": "eso_aca_locally_advanced.html#treatment",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Treatment",
+    "text": "Treatment\nLocally-advanced cancers can spread to nearby lymph nodes. In early stages, the cancer in the lymph nodes is too small to be seen on scans or with the naked eye.\nIn the past, surgery was the only treatment for esophageal cancer.\nWhen surgery is the only treatment, there is a risk that cancer cells can be left behind."
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.html#preoperative-therapy",
+    "href": "eso_aca_locally_advanced.html#preoperative-therapy",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Preoperative Therapy",
+    "text": "Preoperative Therapy\nPreoperative therapy uses chemotherapy with or without radiation before surgery to shrink the tumor and kill microscopic areas of cancer nearby"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.html#surgery",
+    "href": "eso_aca_locally_advanced.html#surgery",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Surgery",
+    "text": "Surgery\nSurgery is then performed after preoperative therapy"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.html#preoperative-therapy-1",
+    "href": "eso_aca_locally_advanced.html#preoperative-therapy-1",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Preoperative Therapy",
+    "text": "Preoperative Therapy\nPreoperative therapy before surgery is designed to reduce the risk that any cancer cells are left behind after surgery\nSurgery then reconstructs the GI tract, usually using the stomach to make a new esopahgus."
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.html#preoperative-therapy-2",
+    "href": "eso_aca_locally_advanced.html#preoperative-therapy-2",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "Preoperative Therapy",
+    "text": "Preoperative Therapy\nThere are two different strategies for preoperative therapy:\nIn the first, chemotherapy and radiation are given together for six weeks prior to surgery\nIn the second, chemotherapy is given both before and after surgery."
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.html#chemort---surgery",
+    "href": "eso_aca_locally_advanced.html#chemort---surgery",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "ChemoRT -> Surgery",
+    "text": "ChemoRT -&gt; Surgery\nTreatment with chemotherapy and radiation is referred to as “CROSS” treatment\nRadiation is given 5 days per week for six weeks\nChemotherapy is given along with the radiation once weekly for six weeks.\nA PET scan is done 4 to 6 weeks after the end of radiation\nSurgery is performed a few weeks later"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.html#cross",
+    "href": "eso_aca_locally_advanced.html#cross",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "CROSS",
+    "text": "CROSS\nThis strategy was studied by medical researchers during the CROSS clinical trial\n363 patients with locally-advanced esophageal cancer were treated with one of two treatment strategies:\n\nSurgery alone OR\nChemotherapy and radiation (administered together) followed by surgery\n\nThere were better outcomes with chemotherapy and radiation followed by surgery, compared with surgery alone"
   },
   {
     "objectID": "eso_aca_locally_advanced.html#flot",
     "href": "eso_aca_locally_advanced.html#flot",
-    "title": "Locally-Advanced Eso Adenocarcinoma",
-    "section": "",
-    "text": "A second approach is to use chemotherapy alone.\nA combination of drugs is administered intravenously every other week for 4 doses before surgery. After surgery, another 4 doses of chemotherapy are adinistered."
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "FLOT",
+    "text": "FLOT\nThe other strategy for preoperative therapy is chemotherapy followed by surgery followed by additional chemotherapy\nTreatment starts with chemotherapy every other week for 4 doses\nA CT scan is done after finishing chemotherapy\nSurgery is then performed a few weeks later\nAn additional 4 doses of chemotherapy are then given after surgery"
   },
   {
-    "objectID": "eso_aca_locally_advanced.html#esopec",
-    "href": "eso_aca_locally_advanced.html#esopec",
-    "title": "Locally-Advanced Eso Adenocarcinoma",
+    "objectID": "eso_aca_locally_advanced.html#cross-vs-flot",
+    "href": "eso_aca_locally_advanced.html#cross-vs-flot",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "CROSS vs FLOT",
+    "text": "CROSS vs FLOT\nTo summarize, CROSS treatment starts with a combination of radiation and chemotherapy prior to surgery\nFLOT treatment starts with chemotherapy prior to surgery"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.html#cross-1",
+    "href": "eso_aca_locally_advanced.html#cross-1",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "CROSS",
+    "text": "CROSS\nWith CROSS therapy, the dose of chemotherapy is low, which minimizes side effects.\nThe radiation can lead to a “sunburn” on the inside of the esophagus called radiation esophagitis\nThis means that swallowing can get worse before it gets better. Typically, the last two weeks of radiation are the worst.\nThe good news is that eating is usually much easier 2 weeks after the end of radiation, as the tumor has begun to shrink and the inflammation in the esophagus caused by the radiation gets better"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.html#flot-1",
+    "href": "eso_aca_locally_advanced.html#flot-1",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "FLOT",
+    "text": "FLOT\nFLOT chemotherapy uses higher doses of chemotherapy\nBut because there is no radiation, swallowing doesn’t get any worse during therapy.\nFLOT chemotherapy is usually a better choice for younger, fit patients without medical problems."
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.html#section-1",
+    "href": "eso_aca_locally_advanced.html#section-1",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
     "section": "",
-    "text": "Several weeks after the end of radiation therapy, a PET or CT scan is done to look at the response. Surgery is typically done 8 weeks after the end of radiation.\n\nFor most people, the chemotherapy and radiation are well tolerated. In some cases, side effects do occur."
+    "text": "Paitients getting CROSS therapy are a bit more likely to need a feeding tube to help them get through therapy,\nWhile patients getting FLOT are a bit less likely to need a feeding tube"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.html#iv-access",
+    "href": "eso_aca_locally_advanced.html#iv-access",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "IV Access",
+    "text": "IV Access\nThe chemotherapy for CROSS can be administered by peripheral IV or a port\nWhile FLOT chemotherapy requires a port for administration\nWe will provide a link to a separate video about intravenous ports"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.html#more-topics",
+    "href": "eso_aca_locally_advanced.html#more-topics",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "More Topics",
+    "text": "More Topics\nOther questions for you to discuss with your cancer care team?\n\nDo I need a port for intravenous access for chemotherapy?\nHow will I maintain my nutrition during therapy?\nWill I need a feeding tube?\nWhat does surgery involve?"
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.html#section-2",
+    "href": "eso_aca_locally_advanced.html#section-2",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "",
+    "text": "If you or a family member have had an encounter with esophageal cancer surgery, I would love to hear about your experience, so please take a minute to leave a comment below. We’re constantly creating new videos, so please subscribe to be notified of new videos when we post them."
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.html#section-3",
+    "href": "eso_aca_locally_advanced.html#section-3",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "",
+    "text": "I hope you have found this video helpful. This videos and others like it are designed to\neducate patients and families about esophageal cancer\nand equip them for their discussions with their esophageal cancer care team.\nAs always, these videos are no substitute for expert medical advice."
+  },
+  {
+    "objectID": "eso_aca_locally_advanced.html#section-4",
+    "href": "eso_aca_locally_advanced.html#section-4",
+    "title": "Locally-Advanced Adenocarcinoma of the Esophagus",
+    "section": "",
+    "text": "Feel free to leave a comment or a question, or if you have suggestions for future videos.\nHere are some additional videos you may find helpful:\nSurgery for Esophageal Cancer"
   },
   {
     "objectID": "eso_advanced_slides.html.htm#section",
@@ -2181,7 +2503,7 @@
     "href": "lci_esot1.htm#surgery",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Surgery",
-    "text": "Surgery\nSurgery Slideshow\n\n\n\n\nLCI GI Oncology"
+    "text": "Surgery\nSurgery Slideshow"
   },
   {
     "objectID": "scripts.htm#deprecated",
@@ -2695,6 +3017,13 @@
     "text": "Chemotherapy\nChemotherapy drugs are administered intravenously.\nThere are several options for intravenous access:\n\nPeripheral IVs in the hand\nPICC line (Peripheral Inserted Central Catheter)\nCentral Venous Port\n\nCentral Venous Port"
   },
   {
+    "objectID": "lci_esot3.html#adenocarcinoma-treatment-options-1",
+    "href": "lci_esot3.html#adenocarcinoma-treatment-options-1",
+    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "section": "Adenocarcinoma Treatment Options",
+    "text": "Adenocarcinoma Treatment Options\n\n\nCROSS Chemo + Radiation\n\nLonger track record (14 years)\nBetter tolerated\nEating gets worse \\(\\rightarrow\\) better\nMore likely to need feeding tube\n\n\nFLOT Chemotherapy\n\nMore effective than CROSS\nMore side effects\nEating gets slowly better\nLess likely to need feeding tube"
+  },
+  {
     "objectID": "lci_esot3.html#restaging",
     "href": "lci_esot3.html#restaging",
     "title": "T3 Cancer of the Esophagus and GE Junction",
@@ -2940,6 +3269,13 @@
     "text": "Chemotherapy\nChemotherapy drugs are administered intravenously.\nThere are several options for intravenous access:\n\nPeripheral IVs in the hand\nPICC line (Peripheral Inserted Central Catheter)\nCentral Venous Port\n\nCentral Venous Port"
   },
   {
+    "objectID": "lci_esot3.htm#adenocarcinoma-treatment-options-1",
+    "href": "lci_esot3.htm#adenocarcinoma-treatment-options-1",
+    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "section": "Adenocarcinoma Treatment Options",
+    "text": "Adenocarcinoma Treatment Options\n\n\nCROSS Chemo + Radiation\n\nLonger track record (14 years)\nBetter tolerated\nEating gets worse \\(\\rightarrow\\) better\nMore likely to need feeding tube\n\n\nFLOT Chemotherapy\n\nMore effective than CROSS\nMore side effects\nEating gets slowly better\nLess likely to need feeding tube"
+  },
+  {
     "objectID": "lci_esot3.htm#restaging",
     "href": "lci_esot3.htm#restaging",
     "title": "T3 Cancer of the Esophagus and GE Junction",
@@ -2958,7 +3294,7 @@
     "href": "lci_esot3.htm#surgery",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Surgery",
-    "text": "Surgery\nSurgery Slideshow\n\n\n\n\nLCI GI Oncology"
+    "text": "Surgery\nSurgery Slideshow"
   },
   {
     "objectID": "gastrostomy.html",
@@ -3469,7 +3805,7 @@
     "href": "lci_esot2.htm#surgery-1",
     "title": "Early-Stage Cancer of the Esophagus and GE Junction",
     "section": "Surgery",
-    "text": "Surgery\nSurgery Slideshow\n\n\n\n\nLCI GI Oncology"
+    "text": "Surgery\nSurgery Slideshow"
   },
   {
     "objectID": "lci_surgery.html",
@@ -3885,13 +4221,6 @@
     "text": "Discharge\nGoal: Ready to leave hospital day #6/7 after surgery\n\nTube feeds at night (6pm to 10am)\nProtein shakes by mouth (70% of patients)\n\n4oz every 2 hours\nWater by mouth 2 oz at a time Water through feeding tube (8oz 4x/day)"
   },
   {
-    "objectID": "lci_surgery.htm#section",
-    "href": "lci_surgery.htm#section",
-    "title": "Surgery of the Esophagus",
-    "section": "",
-    "text": "LCI GI Oncology"
-  },
-  {
     "objectID": "jejunostomy.html",
     "href": "jejunostomy.html",
     "title": "Jejunostomy",
@@ -3924,7 +4253,7 @@
     "href": "jejunostomy_slides.html.htm#section",
     "title": "Jejunostomy",
     "section": "",
-    "text": "Esophageal cancer can cause difficulty with\nswallowing, which can limit your body’s ability to\nget the nutrition you need in order to keep your\nbody healthy during cancer treatment.\nI’m Dr Jonathan Salo, I’m a GI Cancer Surgeon.\nIn this video you’ll learn about\n• Essential building blocks for good nutrition\n• Protein supplements\n• Feeding tubes\n2\nNutrition during Cancer\nTherapy\n3\nFor most people with esophageal cancer who\nhave difficulty eating, things can get worse\nduring cancer therapy.\nThe reason is that the most common initial\ntreatment in chemotherapy and radiation.\nChemotherapy can tend to depress your appetite.\nRadiation can lead to a temporary ‘sunburn’ on the\ninside of the esphagus called radiation\nesophagitis. This usually gets better after the\nradiation ends\n4\nOne of the questions you will want to address with\nyour esophageal cancer care team is whether or\nnot you need a feeding tube to help with your\nnutrition during cancer treatment.\nYour dietitian and physicians will evaluate your\nsituation and made a recommendation, but I’d\nlike to show you some options.\n5\nGI Tract Anatomy\n6\nNormally, food passes from the mouth into the\nesophagus, and then into the stomach.\nThe stomach serves as a reservoir for food, to\nallow you to eat a big Thanksgiving.\nThe stomach starts digestion, and then after the\nmeal slowly allows small portions of food to pass\ninto the small intestines, where most of the\ndigestion occurs.\n7\n[Inset for jejunostomy-only video]\nFor patients with cancer of the esophagus or\nstomach, the most common feeding tube is a\njejunostomy tube\n8\nFor patients with cancer of the esophagus, there\nare two different kinds of feeding tube which can\nbe used:\nA gastrostomy tube is placed into the stomach\nA jejunostomy tube is placed in the small\nintestines\nYour dietitian and physician will help you decide\nwhich tube is best for your situation\n9\nFeeding Tube Options\n10\nGastrostomy tube\n• Placed into stomach\nJejunostomy tube\n• Placed into small intestin\nof) the stomach\nFeeding t\nA gastrostomy tube allows feeding with a syringe,\nwhich can be done several times per day.\nWhen it’s not being used, the gastrostomy tube\ncan be hidden underneath clothing.\nFor patient who later need surgery on the\nesophagus, it will be necessary to remove the\ngastrostomy tube and place a jejunostomy tube,\nas the stomach frequently used to create a new\nesophagus\n12\nA gastrostomy tube can be placed either by\nendoscopy, which is called a PEG tube\nA gastrostomy tube can also be placed by\nlaparoscopy, which is usually preferred if\nsurgery on the esophagus is planned in the\nfuture.\nYour surgeon will help you decide which kind of\ntube is best for you. This is especially important\nif you will need esophageal surgery in the future,\nas the stomach is frequently used to make a\nnew esophagus\n13\nA gastrostomy tube is generally placed as an\noutpatient, which means you can go home the\nsame day.\nIn some cases, a central venous port for\nchemotherapy is placed at the same time as a\ngastrostomy tube.\n14\nThe other type of feeding tube is a jejunostomy.\n15\nA jejunostomy tube tube is placed into the small\nintestines. Because the small intestine is used to\nreceiving food in small quantities, a jejunostomy\ntube requires the use of a pump to deliver\nfeedings gradually over a matter of hours.\nIn general, feedings are done at night in order to\nallow you to be active during the day\n16\nA jejunostomy tube is used in cases where it’s not\npossible to place a gastrostomy tube, such as\nwhen there is a tumor in the stomach.\nA jejunostomy tube is routinely used after\nesophageal surgery, so in patients who need\nhelp with nutrition prior to surgery, it makes\nsense to put in a jejunostomy tube before\nsurgery. The same tube can then be used for\nnutrition both before and after surgery.\n17\nWe have a link here to a video that explains more\nabout the jejunostomy tube\n18\nI hope this video has been helpful.\nHere are links to other videos you may find helpful.\nFeel free to subscribe in order to be notified about\nnew videos\n19\n\n\n\n\nPatient Education"
+    "text": "Esophageal cancer can cause difficulty with\nswallowing, which can limit your body’s ability to\nget the nutrition you need in order to keep your\nbody healthy during cancer treatment.\nI’m Dr Jonathan Salo, I’m a GI Cancer Surgeon.\nIn this video you’ll learn about\n• Essential building blocks for good nutrition\n• Protein supplements\n• Feeding tubes\n2\nNutrition during Cancer\nTherapy\n3\nFor most people with esophageal cancer who\nhave difficulty eating, things can get worse\nduring cancer therapy.\nThe reason is that the most common initial\ntreatment in chemotherapy and radiation.\nChemotherapy can tend to depress your appetite.\nRadiation can lead to a temporary ‘sunburn’ on the\ninside of the esphagus called radiation\nesophagitis. This usually gets better after the\nradiation ends\n4\nOne of the questions you will want to address with\nyour esophageal cancer care team is whether or\nnot you need a feeding tube to help with your\nnutrition during cancer treatment.\nYour dietitian and physicians will evaluate your\nsituation and made a recommendation, but I’d\nlike to show you some options.\n5\nGI Tract Anatomy\n6\nNormally, food passes from the mouth into the\nesophagus, and then into the stomach.\nThe stomach serves as a reservoir for food, to\nallow you to eat a big Thanksgiving.\nThe stomach starts digestion, and then after the\nmeal slowly allows small portions of food to pass\ninto the small intestines, where most of the\ndigestion occurs.\n7\n[Inset for jejunostomy-only video]\nFor patients with cancer of the esophagus or\nstomach, the most common feeding tube is a\njejunostomy tube\n8\nFor patients with cancer of the esophagus, there\nare two different kinds of feeding tube which can\nbe used:\nA gastrostomy tube is placed into the stomach\nA jejunostomy tube is placed in the small\nintestines\nYour dietitian and physician will help you decide\nwhich tube is best for your situation\n9\nFeeding Tube Options\n10\nGastrostomy tube\n• Placed into stomach\nJejunostomy tube\n• Placed into small intestin\nof) the stomach\nFeeding t\nA gastrostomy tube allows feeding with a syringe,\nwhich can be done several times per day.\nWhen it’s not being used, the gastrostomy tube\ncan be hidden underneath clothing.\nFor patient who later need surgery on the\nesophagus, it will be necessary to remove the\ngastrostomy tube and place a jejunostomy tube,\nas the stomach frequently used to create a new\nesophagus\n12\nA gastrostomy tube can be placed either by\nendoscopy, which is called a PEG tube\nA gastrostomy tube can also be placed by\nlaparoscopy, which is usually preferred if\nsurgery on the esophagus is planned in the\nfuture.\nYour surgeon will help you decide which kind of\ntube is best for you. This is especially important\nif you will need esophageal surgery in the future,\nas the stomach is frequently used to make a\nnew esophagus\n13\nA gastrostomy tube is generally placed as an\noutpatient, which means you can go home the\nsame day.\nIn some cases, a central venous port for\nchemotherapy is placed at the same time as a\ngastrostomy tube.\n14\nThe other type of feeding tube is a jejunostomy.\n15\nA jejunostomy tube tube is placed into the small\nintestines. Because the small intestine is used to\nreceiving food in small quantities, a jejunostomy\ntube requires the use of a pump to deliver\nfeedings gradually over a matter of hours.\nIn general, feedings are done at night in order to\nallow you to be active during the day\n16\nA jejunostomy tube is used in cases where it’s not\npossible to place a gastrostomy tube, such as\nwhen there is a tumor in the stomach.\nA jejunostomy tube is routinely used after\nesophageal surgery, so in patients who need\nhelp with nutrition prior to surgery, it makes\nsense to put in a jejunostomy tube before\nsurgery. The same tube can then be used for\nnutrition both before and after surgery.\n17\nWe have a link here to a video that explains more\nabout the jejunostomy tube\n18\nI hope this video has been helpful.\nHere are links to other videos you may find helpful.\nFeel free to subscribe in order to be notified about\nnew videos\n19"
   },
   {
     "objectID": "exercise.html",
@@ -4155,7 +4484,7 @@
     "href": "lci_cvport.html#intravenous-catheter-in-peripheral-vein-iv",
     "title": "Central Venous Port",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced at the beginning of each dose\nRemoved that day at the end of treatment\nSome chemotherapy (such as FLOT) can’t be given through peripheral IV"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced at the beginning of each dose\nRemoved that day at the end of treatment\nNot suitable for FLOT chemotherapy"
   },
   {
     "objectID": "lci_cvport.html#picc-lines",
@@ -4169,7 +4498,7 @@
     "href": "lci_cvport.html#central-venous-port",
     "title": "Central Venous Port",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nNo special care at home\nAllows showering, bathing, swimming\nSuitable for FLOT chemotherapy\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower within 24 hours\nNo special care at home\nSuitable for FLOT chemotherapy\nAllows for blood draws"
   },
   {
     "objectID": "lci_cvport.html#central-venous-port-1",
@@ -4204,7 +4533,7 @@
     "href": "lci_cvport.htm#intravenous-catheter-in-peripheral-vein-iv",
     "title": "Central Venous Port",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced at the beginning of each dose\nRemoved that day at the end of treatment\nSome chemotherapy (such as FLOT) can’t be given through peripheral IV"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced at the beginning of each dose\nRemoved that day at the end of treatment\nNot suitable for FLOT chemotherapy"
   },
   {
     "objectID": "lci_cvport.htm#picc-lines",
@@ -4218,7 +4547,7 @@
     "href": "lci_cvport.htm#central-venous-port",
     "title": "Central Venous Port",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nNo special care at home\nAllows showering, bathing, swimming\nSuitable for FLOT chemotherapy\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower within 24 hours\nNo special care at home\nSuitable for FLOT chemotherapy\nAllows for blood draws"
   },
   {
     "objectID": "lci_cvport.htm#central-venous-port-1",
@@ -4232,7 +4561,7 @@
     "href": "lci_cvport.htm#central-venous-port-2",
     "title": "Central Venous Port",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\nWhen it is time for chemotherapy, a needle is inserted through the skin into the port\n\n\n\n\n\n\n\nLCI GI Oncology"
+    "text": "Central Venous Port\n\n\nWhen it is time for chemotherapy, a needle is inserted through the skin into the port"
   },
   {
     "objectID": "LCI.html",
