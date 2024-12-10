@@ -134,7 +134,7 @@ Over time, cancers can grow into the muscular wall
 ::::::
 
 ::: {.content-hidden unless-format="docx"}
-Locally-advanced cancers are those that have gorwn through the wall of the esophagus.
+Locally-advanced cancers are those that have grown through the wall of the esophagus.
 :::
 
 ## Lymph Nodes
@@ -343,7 +343,7 @@ There is a risk that cancer cells can be left behind
 ::::
 ::::::
 
-## Preoperative Therapy for Locally-Advanced Cancers
+## Preoperative Therapy
 
 :::::: columns
 ::: {.column width="50%"}
@@ -427,11 +427,15 @@ vs
 
 ## Chemotherapy + Radiation CROSS Trial
 
-**Chemotherapy + Radiation** $\rightarrow$Surgery $\Rightarrow$ Longer Survival than Surgery alone
+Chemotherapy and radiation were given together over six weeks\
+\
+\
 
-The addition of chemotherapy + radiation therapy *before* surgery resulted in better cancer treatment
+**Surgery Alone**
 
-Chemotherapy and radiation were given together over six weeks
+vs
+
+**Chemotherapy + Radiation** $\rightarrow$ Surgery $\Rightarrow$ Longer Survival 
 
 ::: {.content-hidden unless-format="docx"}
 The results were quite dramatic: The group that was treated with all three therapies, chemotherapy and radiation and surgery, lived on average twice a long as patients who had surgery alone.
@@ -439,7 +443,7 @@ The results were quite dramatic: The group that was treated with all three thera
 
 ## Chemotherapy + Radiation CROSS Trial
 
-A typical schedule for chemotherapy + radiation:
+Typical schedule for chemotherapy + radiation:
 
 -   Chemotherapy once per week for six weeks
 -   Radiation five days per week for six weeks (28 treatments)
@@ -448,24 +452,24 @@ A typical schedule for chemotherapy + radiation:
 
 ## Chemotherapy + Radiation - Side Effects
 
-Radiation kills cancer cells in the esophagus and lymph nodes
+Kills cancer cells in the esophagus and lymph nodes
 
-Radiation can also cause irritation of the lining of the esophagus.
+Can also cause irritation of the lining of the esophagus.
 
-This can make swallowing more challenging the last two weeks of therapy.
+Swallowing can be difficult the last two weeks of therapy.
 
-A feeding tube is sometimes needed to help with hydration and nutrition.
+Feeding tube may be needed for hydration and nutrition.
 
 ## Locally-advanced Adenocarcinoma
 
-For patients with *adenocarcinoma* another option is "sandwich" chemotherapy administered before and after surgery:
+"Sandwich" chemotherapy given before and after surgery:
 
 Chemotherapy (8 weeks) $\rightarrow$ Surgery $\rightarrow$ Chemotherapy (8 weeks)
 
-Two different drug combinations can be used:
+Two different drug combinations:
 
--   FLOT
--   FOLFOX
+-   FLOT (more effective)
+-   FOLFOX (better tolerated)
 
 ## "Sandwich" Chemotherapy Drugs
 
@@ -507,6 +511,31 @@ Two different drug combinations can be used:
 :::
 :::::
 
+
+## Adenocarcinoma Treatment Options
+
+::::: columns
+::: {.column width="50%"}
+**CROSS Chemo + Radiation**
+
+- Longer track record (14 years)
+- Better tolerated
+- Port usually placed
+- Eating gets worse $\rightarrow$ better
+- May need feeding tube
+:::
+
+::: {.column width="50%"}
+**FLOT Chemotherapy**
+
+- More effective than CROSS
+- More side effects
+- Port always required
+- Eating gets slowly better
+- Less likely to need feeding tube
+:::
+:::::
+
 ## Chemotherapy
 
 Chemotherapy drugs are administered intravenously.
@@ -520,27 +549,6 @@ There are several options for intravenous access:
 [Central Venous Port](lci_cvport.htm)
 
 
-## Adenocarcinoma Treatment Options
-
-::::: columns
-::: {.column width="50%"}
-**CROSS Chemo + Radiation**
-
-- Longer track record (14 years)
-- Better tolerated
-- Eating gets worse $\rightarrow$ better
-- More likely to need feeding tube
-:::
-
-::: {.column width="50%"}
-**FLOT Chemotherapy**
-
-- More effective than CROSS
-- More side effects
-- Eating gets slowly better
-- Less likely to need feeding tube
-:::
-:::::
 
 ## Restaging
 
