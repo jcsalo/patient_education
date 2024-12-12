@@ -27,6 +27,7 @@ bibliography: zotero.bib
 
 :::::: columns
 ::: {.column width="50%"}
+:::{style="font-size: 95%;"}
 Food moves from the throat
 
 $\rightarrow$ esophagus
@@ -34,6 +35,7 @@ $\rightarrow$ esophagus
 $\rightarrow$ stomach
 
 $\rightarrow$ small bowel (jejunum)
+:::
 :::
 
 :::: {.column width="50%"}
@@ -77,9 +79,16 @@ Staging refers to the tests to determine
 
 ## Esophageal Cancer Staging {tbl-colwidths="[20,10,70]"}
 
--   **T** = Tumor - How deep has cancer grown into the wall of the esophagus?
--   **N** = Nodes - Has cancer spread to the lymph nodes?
--   **M** = Metastasis - Has the cancer spread to other parts of the body? lungs or liver?
+\
+\
+
+-   **T** = Tumor - Depth of growth into the wall of the esophagus
+\
+\
+-   **N** = Nodes - Spread to the lymph nodes
+\
+\
+-   **M** = Metastasis - Spread to liver, lungs, or bone
 
 ## Layers of the Wall of the Esophagus
 
@@ -90,7 +99,11 @@ If we look at the walls of the esophagus, we see several layers:
 :::::: columns
 ::: {.column width="50%"}
 -   Mucosa - Inner layer
--   Muscle Wall (muscularis)
+\
+\
+-   Muscle wall (muscularis)
+\
+\
 -   Lymph nodes located in fat outside the muscle
 :::
 
@@ -109,6 +122,8 @@ Early-stage cancers are those that are small and have not grown very far into th
 
 :::::: columns
 ::: {.column width="50%"}
+\
+\
 Cancers start on the very inside of the layer called the mucosa
 :::
 
@@ -123,6 +138,8 @@ Cancers start on the very inside of the layer called the mucosa
 
 :::::: columns
 ::: {.column width="50%"}
+\
+\
 Over time, cancers can grow into the muscular wall
 :::
 
@@ -141,6 +158,8 @@ Locally-advanced cancers are those that have grown through the wall of the esoph
 
 :::::: columns
 ::: {.column width="50%"}
+\
+\
 In some cases, cancer cells can break off from the main tumor and spread to lymph nodes
 :::
 
@@ -159,6 +178,8 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 
 :::::: columns
 ::: {.column width="50%"}
+\
+\
 Cancers are categorized based upon the thickness of the tumor, known as the T stage
 :::
 
@@ -180,6 +201,8 @@ T1 tumors are early stage, and T4 tumors more advanced
 Cancers are categorized by whether there is spread to the lymph nodes.
 
 -   **N0** cancers have not spread to the lymph nodes
+\
+\
 -   **N1** cancers have spread to the lymph nodes.
 :::
 
@@ -194,10 +217,10 @@ Cancers are categorized by whether there is spread to the lymph nodes.
 
 :::::: columns
 ::: {.column width="50%"}
-Some cancers can also spread from the esophagus to the lungs or liver
+Some cancers spread from the esophagus to other parts of the body
 
 -   **M0** cancers have not spread to other parts of the body
--   **N1** cancers have spread to other parts of the body such as lungs or liver
+-   **N1** cancers have spread lungs, liver, or bone
 :::
 
 :::: {.column width="50%"}
@@ -210,11 +233,11 @@ Some cancers can also spread from the esophagus to the lungs or liver
 ## PET scan
 
 :::::: columns
-::: {.column width="50%"}
+::: {.column width="40%"}
 A PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer.
 :::
 
-:::: {.column width="50%"}
+:::: {.column width="60%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/PetImage.png)
 :::
@@ -229,7 +252,9 @@ In some cases, the PET scan is not performed until a CT scans bas been done.
 
 :::::: columns
 ::: {.column width="50%"}
-Endoscopic ultrasound (EUS) is a procedure similar to upper endoscopy (EGD) which has an ultrasound probe at the bottom of the scope. This allows measuring the thickness of the cancer. Endoscopic ultrasound can help determine the T stage of the cancer.
+- Similar to upper endoscopy (EGD) 
+- Ultrasound probe in scope
+- Evaluates T stage of cancer
 :::
 
 :::: {.column width="50%"}
@@ -247,9 +272,10 @@ Endoscopic ultrasound is most helpful in early stage cancers.
 
 :::::: columns
 ::: {.column width="50%"}
-Some esophageal cancers can spread inside the abdominal cavity. These areas of spread can be very small, as small as a grain of rice.
 
-In order to detect spread within the abdominal cavity, a proceduce called a laparoscopy can be performed in some some patients.
+- Some esophageal cancers can spread inside the abdomen
+- Areas of spread can be very small (grain of rice)
+- Laparoscopy can detect spread inside the abdomen
 :::
 
 :::: {.column width="50%"}
@@ -284,10 +310,17 @@ A laparoscopy is performed under a general anesthetic.
 ::::::
 
 ## Treatment Plan
-
+\
+\
 -   Superficial (T1) $\Rightarrow$ Endoscopic Therapy
+\
+\
 -   Localized (T1b/T2) $\Rightarrow$ Surgery
+\
+\
 -   Locally-advanced (T3/N1) $\Rightarrow$ Chemo $\pm$ Radiation $\rightarrow$Surgery
+\
+\
 -   Metastatic (M1) $\Rightarrow$ Chemotherapy
 
 ::: {.content-hidden unless-format="docx"}
@@ -417,7 +450,11 @@ The risk of cancer recurrence is minimized
 
 ## Chemotherapy + Radiation CROSS Trial
 
-Over 10 years ago, researchers in the Netherlands took 363 patients with esophageal cancer and divided them into two groups. The two groups were treated differently:\
+Researchers studied 363 patients with esophageal cancer
+
+Patients were treated in two groups:
+
+\
 
 **Surgery Alone**
 
@@ -552,9 +589,13 @@ There are several options for intravenous access:
 
 ## Restaging
 
-CT or PET scan will be performed after preoperative therapy\`
+CT or PET scan will be performed after preoperative therapy
 
-Surgery performed after restating, and the timing depends upon recovery from therapy.
+\
+\
+
+- Surgery performed after restaging
+- Timing depends upon recovery from therapy
 
 ## Nutrition
 
