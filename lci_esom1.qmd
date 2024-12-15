@@ -1,0 +1,236 @@
+---
+title: "Stage IV Cancer of the Esophagus and GE Junction"
+format: 
+  pptx: 
+    reference-doc: template.pptx
+  revealjs:
+    slide-number: c/t
+    width: 1280
+    height: 720
+    logo: "atriumlogo.jpg"
+    footer: "[LCI GI Oncology](https://jcsalo.github.io/patient_education/LCI.html)"
+    css: "lci_styles.css"
+    theme: [simple, lci.scss]
+    echo: false
+    transition: fade
+    #output-file: lci_esot3_slides.html
+    pdf-separate-fragments: true
+  html: default
+  docx:
+    number-sections: true
+    number-depth: 3
+editor: visual
+bibliography: zotero.bib
+---
+
+## Anatomy
+
+:::::: columns
+::: {.column width="50%"}
+:::{style="font-size: 95%;"}
+Food moves from the throat
+
+$\rightarrow$ esophagus
+
+$\rightarrow$ stomach
+
+$\rightarrow$ small bowel (jejunum)
+:::
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_Anatomy_Labels.png)\]
+:::
+::::
+::::::
+
+::: {.content-hidden unless-format="docx"}
+We'll start with reviewing some anatomy about how the body digests food.
+
+Food moves from the throat to the esophagus, and from there to the stomach.  
+
+From the stomach, food moved through a valve called the pylorus into the small intestines
+:::
+
+
+## Esophageal Cancer Staging {tbl-colwidths="[20,10,70]"}
+
+\
+\
+
+-   **T** = Tumor - Depth of growth into the wall of the esophagus
+\
+\
+-   **N** = Nodes - Spread to the lymph nodes
+\
+\
+-   **M** = Metastasis - Spread to liver, lungs, or bone
+
+## Metastatic Cancers
+
+:::::: columns
+::: {.column width="50%"}
+Metastatic cancers spread from the esophagus to other parts of the body
+
+-   **M0** cancers have not spread to other parts of the body
+-   **M1** cancers have spread lungs, liver, or bone
+
+
+M1 cancers is also known as Stage 4
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_M_Stage.png)
+:::
+::::
+::::::
+
+## Treatment Plan
+\
+\
+-   Superficial (T1) $\Rightarrow$ Endoscopic Therapy
+\
+\
+-   Localized (T1b/T2) $\Rightarrow$ Surgery
+\
+\
+-   Locally-advanced (T3/N1) $\Rightarrow$ Chemo $\pm$ Radiation $\rightarrow$Surgery
+\
+\
+-   Metastatic (M1) $\Rightarrow$ Systemic Therapy $\pm$ Radiation
+
+::: {.content-hidden unless-format="docx"}
+This table summarizes four different treatment categories:
+
+-   Superficial cancers are T1 and can be treated by endoscopic therapy without the need for surgery
+-   Localized cancers are T1b or T2 and are frequently treated by surgery alone without the need for chemotherapy or radiation
+-   Locally-advanced cancers are T3 or N1 and are usually treated with some combination of chemotherapy and radiation prior to surgery
+-   *Metastatic cancers are M1 and are treated primary by systemic therapy*
+:::
+
+## Systemic Therapy
+
+Systemic therapy is administered intravenously (or by mouth) and circulates to kill cancer cells anywhere in the body.
+
+- Chemotherapy (FOLFOX)
+- Immunotherapy (nivolumab, pembrolizumab)
+- Hormone therapy (herceptin)
+
+## Goals of Therapy
+\
+\
+- Symptom control
+\
+\
+- Prolong life
+\
+\
+- Minimize symptoms due to treatment
+
+## Systemic Therapy
+
+By shrinking tumor and decreasing cancer burden
+
+- Can improve symptoms
+- Can prolong life
+
+Goals:
+
+- Maximize cancer shrinkage
+- Minimize side-effects due to therapy
+
+## Radiation Therapy
+
+Radiation uses high-energy x-rays to kill cancer cells
+
+- Bone metastasis: Can relieve pain
+
+- Esophagus: Can shrink tumor and improve eating
+
+# Endoluminal Stent
+
+:::::: columns
+::: {.column width="50%"}
+An endoluminal stent can be placed inside an esophageal cancer to improve eating
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/wallflex_eso.png)
+:::
+::::
+::::::
+
+
+# Endoluminal Stent
+
+:::::: columns
+::: {.column width="50%"}
+An endoluminal stent can be placed inside an esophageal cancer to improve eating
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/nci_stent_433292.jpg)
+:::
+::::
+::::::
+
+## Endoluminal Stents
+
+Advantages:
+
+- Outpatient procedure 
+- Does not require surgery
+- Can improve swallowing
+
+Disadvantages:
+
+- Discomfort
+- Reflux
+- Can make surgery to remove esophagus more complicated
+
+
+## Radiation Therapy - Esophagus
+
+Radiation therapy to the esophagus can improve swallowing. There are two approaches:
+
+** Short Course **
+- 10 treatments over 2 weeks
+
+** Conventional Dosing*
+- 25-30 treatment over 5-6 weeks
+
+
+## Radiation Therapy - Bone
+\
+\
+
+For patients with metastasis to bone causing pain, radiation can provide pain relief wiht a relatively short (two week) treatment course
+
+## Intravenous Drug Administration
+
+Systemic Therapy drugs are administered intravenously.
+
+There are several options for intravenous access:
+
+-   Peripheral IVs in the hand
+-   PICC line (Peripheral Inserted Central Catheter)
+-   Central Venous Port
+
+[Central Venous Port](lci_cvport.htm)
+
+
+## Hospice
+
+Hospice provides end-of-life care for patients whose priority is treatment of symptoms rather than systemic therapy of the cancer.
+
+- Usually provided in the home
+- Residential hospice is available as an alternative
+- Hospice team manages symptoms including pain managemnt
+
+## Nutrition
+
+[Nutrition Slideshow](lci_nutrition.htm)
