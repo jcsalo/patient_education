@@ -186,15 +186,15 @@ If anastomosis does not heal properly, this can cause a leakage of fluid from th
 
 ## Anastomotic Leak
 
-In some cases, the leak will heal on its own, but other cases may require additional procedures or even surgery. 
+In some cases, the leak will heal on its own, but other cases may require additional procedures or even surgery.
 
-The risk of leak depends upon the operation performed but also depends upon the experience of the surgeon. 
+The risk of leak depends upon the operation performed but also depends upon the experience of the surgeon.
 
 ## Pneumonia
 
 ::::: columns
 ::: {.column width="50%"}
-Pneumonia can occurs in about 10-15% of patients after esophagectomy. 
+Pneumonia can occurs in about 10-15% of patients after esophagectomy.
 
 Pneumonia requires treatment with antibiotics and frequently requires a longer hospitalization.
 :::
@@ -213,7 +213,6 @@ There are two important ways that pneumonia can be prevented:
 
 -   Deep breathing
 -   Walking
-
 
 ## Minimally-invasive Esophagectomy
 
@@ -266,7 +265,7 @@ Risks related to Surgery
 ## Day of Surgery
 
 -   Arrive at 5am – nothing to eat or drink after midnight.
--   OK to take medicines with a sip of water (or coffee) but no cream. 
+-   OK to take medicines with a sip of water (or coffee) but no cream.
 -   Surgery may be cancelled if you take even a sip of cream or milk the morning of surgery.
 -   Waiting room on 5th floor
 -   Post-operative care in STICU (11th floor)
@@ -291,7 +290,7 @@ Multiple lines and tubes:
 
 ## ICU
 
--   Catheter in bladder removed →  make certain the bladder empties properly
+-   Catheter in bladder removed → make certain the bladder empties properly
 -   Chest tube removed (day 2-4) → follow-up chest x-ray
 -   Fluid emptied from drains every few hours
 -   Start tube feedings by feeding
@@ -301,37 +300,91 @@ Multiple lines and tubes:
 
 ::::: columns
 ::: {.column width="50%"}
-- Feeding tube placed in small intestine
-- Pump feedings require 16 hours (overnight)
-- Run from 6pm to 10am
+-   Feeding tube placed in small intestine
+-   Pump feedings require 16 hours (overnight)
+-   Run from 6pm to 10am
 :::
 
 ::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/jtubevideo_qr.png)
 :::
-
-
 :::::
+
+## Feeding Jejunostomy - Typical Regimen
+/
+/
+- Men: 75mL/hour x 16 hours (6pm to 10am)
+- Women: 60mL/hour x 16 hours (6pm to 10am)
+- Water 240ml (8oz) via syringe 4x/day
+
+The hospital nurses will teach you how to use the feeding tube pump once you leave the ICU.
+
+## Feeding Jejunostomy - Diabetes
+
+Jejunostomy feeding tend to elevate blood sugars: Insulin may be required
+
+Typical pattern
+
+- Jejunostomy feeds 6pm to 10am
+- Insulin at 6pm (70/30)
+- Insulin at MN (70/30)
+- No insulin if feedings are not run
 
 
 ## Activity
 
-- Up in chair most of the day
-- Walking in hallway with help from nurse/Physical Therapist
-- Goals:
-  - Improve lung function
-  - Prevent muscle loss
-  
-  
+-   Up in chair most of the day
+-   Walking in hallway with help from nurse/Physical Therapist
+-   Goals:
+    -   Improve lung function
+    -   Prevent muscle loss
+    
+## Nasogastric Tubes
+
+A nasogastric tube is placed trough the nose into the stomach at the time surgery to remove fluid from the stomach and allow healing.
+
+An x-ray is done on the 2nd to 4th day after surgery to determine when the nasogastric tube can be removed.
+
+You will lay on a flat x-ray table, which will then be tilted to the standing position.  Dye will then be injected into the tube and x-rays taken.  If the stomach is emptying properly, the nasogastric tube will be removed.
+
+## Modified Barium Swallow
+
+Once the nasogastric tube has been removed, a barium swallow study will be performed in radiology.
+
+You will be asked a drink a white chalky liquid (barium) while x-rays are taken.  
+
+This test shows whether the swallowing muscles are working properly.
+
+70% of patients have good swallowling function and are started on 1oz of water every hour
+
+## Protein Shakes
+
+\
+\
+- Protein shakes are started once you are tolerating water by mouth
+
+\
+\
+- 2 oz per hour to start
+\
+\
+- 4 oz per hour as tolerated
+
+## Nutrition at Home
+
+Most patients go home with:
+
+- Protein shakes by mouth 4oz at a time
+- Tube feeds at night (4-5 cartons)
+- Water through the feeding tube 8oz 4 times per day
+
 ## Discharge
 
 Goal: Ready to leave hospital day #6/7 after surgery
 
-- Tube feeds at night (6pm to 10am)
-- Protein shakes by mouth (70% of patients)
-  - 4oz every 2 hours
-  - Water by mouth 2 oz at a time
-Water through feeding tube (8oz 4x/day)
+-   Tube feeds at night (6pm to 10am)
+-   Protein shakes by mouth (70% of patients)
+    -   4oz every 2 hours
+    -   Water by mouth 2 oz at a time Water through feeding tube (8oz 4x/day)
 
-
-##
+## 
