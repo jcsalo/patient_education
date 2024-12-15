@@ -370,13 +370,8 @@ This test shows whether the swallowing muscles are working properly.
 \
 - 4 oz per hour as tolerated
 
-## Nutrition at Home
 
-Most patients go home with:
 
-- Protein shakes by mouth 4oz at a time
-- Tube feeds at night (4-5 cartons)
-- Water through the feeding tube 8oz 4 times per day
 
 ## Discharge
 
@@ -387,4 +382,72 @@ Goal: Ready to leave hospital day #6/7 after surgery
     -   4oz every 2 hours
     -   Water by mouth 2 oz at a time Water through feeding tube (8oz 4x/day)
 
-## 
+## Nutrition at Home
+
+Most patients go home with:
+
+- Protein shakes by mouth 4oz at a time
+- Tube feeds at night (4-5 cartons)
+- Water through the feeding tube 8oz 4 times per day
+
+## Medicines at Home
+
+- Proton pump inhibitor (omeprazole, pantoprazole) for one year
+- Reglan (metoclopramide) - help stomach empty: 6 weeks
+- Lopressor (metoprolol) - helps prevent atrial fibrillation: 2 weeks
+
+## Pain Medicines at Home
+
+- Acetaminophen 1000mg every 6 hours
+- Gabapentin 300mg every 8 hours
+- Oxycodone 5mg every 6 hours
+
+In most cases, oxycodone is no longer needed by 6 weeks after surgery
+
+
+## Sleeping
+
+
+::::: columns
+::: {.column width="50%"}
+Reflux can occur the first few weeks/months after surgery
+
+This improves over the first few months
+
+A wedge pillow can be helpful for sleep
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/wedge_pillow_comm.jpg)
+:::
+:::::
+
+## Postoperative Visit
+
+You will be seen in the office 7-10 days after discharge
+
+- Adjust medicines
+- Remove staples
+- Remove drains (if needed)
+
+## Jejunostomy Removal
+
+Jejunostomy tube is removed in the office once you can take in enough nutrients by mouth (usually 8 weeks after surgery)
+
+Depending upon this tube, then may take 30 minutes and some local anesthethic to loosen up the tube for removal.
+
+## Nutritional Monitoring
+
+After surgery, you may have some difficulty absorbing some nutrients:
+
+- Iron
+- Vitamin B12
+- Vitamin D
+
+About 3 months after the jejunostomy tube is removed, we will check blood levels of iron (ferritin), Vitamin B12, and Vitamin D.
+
+Vitamin or iron replacements can be ordered by your primary care physician, medical oncologist, or surgery.
+
+If levels are low, repeat testing in several months may be needed.
+
+
