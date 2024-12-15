@@ -311,8 +311,10 @@ Multiple lines and tubes:
 :::::
 
 ## Feeding Jejunostomy - Typical Regimen
+
 /
 /
+
 - Men: 75mL/hour x 16 hours (6pm to 10am)
 - Women: 60mL/hour x 16 hours (6pm to 10am)
 - Water 240ml (8oz) via syringe 4x/day
@@ -359,16 +361,14 @@ This test shows whether the swallowing muscles are working properly.
 
 ## Protein Shakes
 
-\
-\
-- Protein shakes are started once you are tolerating water by mouth
 
+-   Protein shakes are started once you are tolerating water by mouth
 \
 \
-- 2 oz per hour to start
+  -   2 oz per hour to start
 \
 \
-- 4 oz per hour as tolerated
+  -   4 oz per hour as tolerated
 
 
 
@@ -450,4 +450,8 @@ Vitamin or iron replacements can be ordered by your primary care physician, medi
 
 If levels are low, repeat testing in several months may be needed.
 
+
+## Nutrition
+
+[Nutrition Slideshow](lci_nutrition.htm)
 
