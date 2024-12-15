@@ -921,7 +921,7 @@
     "href": "lci_surgery.htm#feeding-jejunostomy---typical-regimen",
     "title": "Surgery of the Esophagus",
     "section": "Feeding Jejunostomy - Typical Regimen",
-    "text": "Feeding Jejunostomy - Typical Regimen\n/ / - Men: 75mL/hour x 16 hours (6pm to 10am) - Women: 60mL/hour x 16 hours (6pm to 10am) - Water 240ml (8oz) via syringe 4x/day\nThe hospital nurses will teach you how to use the feeding tube pump once you leave the ICU."
+    "text": "Feeding Jejunostomy - Typical Regimen\n/ /\n\nMen: 75mL/hour x 16 hours (6pm to 10am)\nWomen: 60mL/hour x 16 hours (6pm to 10am)\nWater 240ml (8oz) via syringe 4x/day\n\nThe hospital nurses will teach you how to use the feeding tube pump once you leave the ICU."
   },
   {
     "objectID": "lci_surgery.htm#feeding-jejunostomy---diabetes",
@@ -956,7 +956,14 @@
     "href": "lci_surgery.htm#protein-shakes",
     "title": "Surgery of the Esophagus",
     "section": "Protein Shakes",
-    "text": "Protein Shakes\n\n\n- Protein shakes are started once you are tolerating water by mouth\n\n\n- 2 oz per hour to start\n\n- 4 oz per hour as tolerated"
+    "text": "Protein Shakes\n\nProtein shakes are started once you are tolerating water by mouth\n\n\n2 oz per hour to start\n\n\n4 oz per hour as tolerated"
+  },
+  {
+    "objectID": "lci_surgery.htm#discharge",
+    "href": "lci_surgery.htm#discharge",
+    "title": "Surgery of the Esophagus",
+    "section": "Discharge",
+    "text": "Discharge\nGoal: Ready to leave hospital day #6/7 after surgery\n\nTube feeds at night (6pm to 10am)\nProtein shakes by mouth (70% of patients)\n\n4oz every 2 hours\nWater by mouth 2 oz at a time Water through feeding tube (8oz 4x/day)"
   },
   {
     "objectID": "lci_surgery.htm#nutrition-at-home",
@@ -966,11 +973,53 @@
     "text": "Nutrition at Home\nMost patients go home with:\n\nProtein shakes by mouth 4oz at a time\nTube feeds at night (4-5 cartons)\nWater through the feeding tube 8oz 4 times per day"
   },
   {
-    "objectID": "lci_surgery.htm#discharge",
-    "href": "lci_surgery.htm#discharge",
+    "objectID": "lci_surgery.htm#medicines-at-home",
+    "href": "lci_surgery.htm#medicines-at-home",
     "title": "Surgery of the Esophagus",
-    "section": "Discharge",
-    "text": "Discharge\nGoal: Ready to leave hospital day #6/7 after surgery\n\nTube feeds at night (6pm to 10am)\nProtein shakes by mouth (70% of patients)\n\n4oz every 2 hours\nWater by mouth 2 oz at a time Water through feeding tube (8oz 4x/day)"
+    "section": "Medicines at Home",
+    "text": "Medicines at Home\n\nProton pump inhibitor (omeprazole, pantoprazole) for one year\nReglan (metoclopramide) - help stomach empty: 6 weeks\nLopressor (metoprolol) - helps prevent atrial fibrillation: 2 weeks"
+  },
+  {
+    "objectID": "lci_surgery.htm#pain-medicines-at-home",
+    "href": "lci_surgery.htm#pain-medicines-at-home",
+    "title": "Surgery of the Esophagus",
+    "section": "Pain Medicines at Home",
+    "text": "Pain Medicines at Home\n\nAcetaminophen 1000mg every 6 hours\nGabapentin 300mg every 8 hours\nOxycodone 5mg every 6 hours\n\nIn most cases, oxycodone is no longer needed by 6 weeks after surgery"
+  },
+  {
+    "objectID": "lci_surgery.htm#sleeping",
+    "href": "lci_surgery.htm#sleeping",
+    "title": "Surgery of the Esophagus",
+    "section": "Sleeping",
+    "text": "Sleeping\n\n\nReflux can occur the first few weeks/months after surgery\nThis improves over the first few months\nA wedge pillow can be helpful for sleep"
+  },
+  {
+    "objectID": "lci_surgery.htm#postoperative-visit",
+    "href": "lci_surgery.htm#postoperative-visit",
+    "title": "Surgery of the Esophagus",
+    "section": "Postoperative Visit",
+    "text": "Postoperative Visit\nYou will be seen in the office 7-10 days after discharge\n\nAdjust medicines\nRemove staples\nRemove drains (if needed)"
+  },
+  {
+    "objectID": "lci_surgery.htm#jejunostomy-removal",
+    "href": "lci_surgery.htm#jejunostomy-removal",
+    "title": "Surgery of the Esophagus",
+    "section": "Jejunostomy Removal",
+    "text": "Jejunostomy Removal\nJejunostomy tube is removed in the office once you can take in enough nutrients by mouth (usually 8 weeks after surgery)\nDepending upon this tube, then may take 30 minutes and some local anesthethic to loosen up the tube for removal."
+  },
+  {
+    "objectID": "lci_surgery.htm#nutritional-monitoring",
+    "href": "lci_surgery.htm#nutritional-monitoring",
+    "title": "Surgery of the Esophagus",
+    "section": "Nutritional Monitoring",
+    "text": "Nutritional Monitoring\nAfter surgery, you may have some difficulty absorbing some nutrients:\n\nIron\nVitamin B12\nVitamin D\n\nAbout 3 months after the jejunostomy tube is removed, we will check blood levels of iron (ferritin), Vitamin B12, and Vitamin D.\nVitamin or iron replacements can be ordered by your primary care physician, medical oncologist, or surgery.\nIf levels are low, repeat testing in several months may be needed."
+  },
+  {
+    "objectID": "lci_surgery.htm#nutrition",
+    "href": "lci_surgery.htm#nutrition",
+    "title": "Surgery of the Esophagus",
+    "section": "Nutrition",
+    "text": "Nutrition\nNutrition Slideshow"
   },
   {
     "objectID": "lci_surgery.html",
@@ -1173,7 +1222,7 @@
     "href": "lci_surgery.html#feeding-jejunostomy---typical-regimen",
     "title": "Surgery of the Esophagus",
     "section": "Feeding Jejunostomy - Typical Regimen",
-    "text": "Feeding Jejunostomy - Typical Regimen\n/ / - Men: 75mL/hour x 16 hours (6pm to 10am) - Women: 60mL/hour x 16 hours (6pm to 10am) - Water 240ml (8oz) via syringe 4x/day\nThe hospital nurses will teach you how to use the feeding tube pump once you leave the ICU."
+    "text": "Feeding Jejunostomy - Typical Regimen\n/ /\n\nMen: 75mL/hour x 16 hours (6pm to 10am)\nWomen: 60mL/hour x 16 hours (6pm to 10am)\nWater 240ml (8oz) via syringe 4x/day\n\nThe hospital nurses will teach you how to use the feeding tube pump once you leave the ICU."
   },
   {
     "objectID": "lci_surgery.html#feeding-jejunostomy---diabetes",
@@ -1208,7 +1257,14 @@
     "href": "lci_surgery.html#protein-shakes",
     "title": "Surgery of the Esophagus",
     "section": "Protein Shakes",
-    "text": "Protein Shakes\n\n\n- Protein shakes are started once you are tolerating water by mouth\n\n\n- 2 oz per hour to start\n\n- 4 oz per hour as tolerated"
+    "text": "Protein Shakes\n\nProtein shakes are started once you are tolerating water by mouth\n\n\n2 oz per hour to start\n\n\n4 oz per hour as tolerated"
+  },
+  {
+    "objectID": "lci_surgery.html#discharge",
+    "href": "lci_surgery.html#discharge",
+    "title": "Surgery of the Esophagus",
+    "section": "Discharge",
+    "text": "Discharge\nGoal: Ready to leave hospital day #6/7 after surgery\n\nTube feeds at night (6pm to 10am)\nProtein shakes by mouth (70% of patients)\n\n4oz every 2 hours\nWater by mouth 2 oz at a time Water through feeding tube (8oz 4x/day)"
   },
   {
     "objectID": "lci_surgery.html#nutrition-at-home",
@@ -1218,11 +1274,53 @@
     "text": "Nutrition at Home\nMost patients go home with:\n\nProtein shakes by mouth 4oz at a time\nTube feeds at night (4-5 cartons)\nWater through the feeding tube 8oz 4 times per day"
   },
   {
-    "objectID": "lci_surgery.html#discharge",
-    "href": "lci_surgery.html#discharge",
+    "objectID": "lci_surgery.html#medicines-at-home",
+    "href": "lci_surgery.html#medicines-at-home",
     "title": "Surgery of the Esophagus",
-    "section": "Discharge",
-    "text": "Discharge\nGoal: Ready to leave hospital day #6/7 after surgery\n\nTube feeds at night (6pm to 10am)\nProtein shakes by mouth (70% of patients)\n\n4oz every 2 hours\nWater by mouth 2 oz at a time Water through feeding tube (8oz 4x/day)"
+    "section": "Medicines at Home",
+    "text": "Medicines at Home\n\nProton pump inhibitor (omeprazole, pantoprazole) for one year\nReglan (metoclopramide) - help stomach empty: 6 weeks\nLopressor (metoprolol) - helps prevent atrial fibrillation: 2 weeks"
+  },
+  {
+    "objectID": "lci_surgery.html#pain-medicines-at-home",
+    "href": "lci_surgery.html#pain-medicines-at-home",
+    "title": "Surgery of the Esophagus",
+    "section": "Pain Medicines at Home",
+    "text": "Pain Medicines at Home\n\nAcetaminophen 1000mg every 6 hours\nGabapentin 300mg every 8 hours\nOxycodone 5mg every 6 hours\n\nIn most cases, oxycodone is no longer needed by 6 weeks after surgery"
+  },
+  {
+    "objectID": "lci_surgery.html#sleeping",
+    "href": "lci_surgery.html#sleeping",
+    "title": "Surgery of the Esophagus",
+    "section": "Sleeping",
+    "text": "Sleeping\n\n\nReflux can occur the first few weeks/months after surgery\nThis improves over the first few months\nA wedge pillow can be helpful for sleep"
+  },
+  {
+    "objectID": "lci_surgery.html#postoperative-visit",
+    "href": "lci_surgery.html#postoperative-visit",
+    "title": "Surgery of the Esophagus",
+    "section": "Postoperative Visit",
+    "text": "Postoperative Visit\nYou will be seen in the office 7-10 days after discharge\n\nAdjust medicines\nRemove staples\nRemove drains (if needed)"
+  },
+  {
+    "objectID": "lci_surgery.html#jejunostomy-removal",
+    "href": "lci_surgery.html#jejunostomy-removal",
+    "title": "Surgery of the Esophagus",
+    "section": "Jejunostomy Removal",
+    "text": "Jejunostomy Removal\nJejunostomy tube is removed in the office once you can take in enough nutrients by mouth (usually 8 weeks after surgery)\nDepending upon this tube, then may take 30 minutes and some local anesthethic to loosen up the tube for removal."
+  },
+  {
+    "objectID": "lci_surgery.html#nutritional-monitoring",
+    "href": "lci_surgery.html#nutritional-monitoring",
+    "title": "Surgery of the Esophagus",
+    "section": "Nutritional Monitoring",
+    "text": "Nutritional Monitoring\nAfter surgery, you may have some difficulty absorbing some nutrients:\n\nIron\nVitamin B12\nVitamin D\n\nAbout 3 months after the jejunostomy tube is removed, we will check blood levels of iron (ferritin), Vitamin B12, and Vitamin D.\nVitamin or iron replacements can be ordered by your primary care physician, medical oncologist, or surgery.\nIf levels are low, repeat testing in several months may be needed."
+  },
+  {
+    "objectID": "lci_surgery.html#nutrition",
+    "href": "lci_surgery.html#nutrition",
+    "title": "Surgery of the Esophagus",
+    "section": "Nutrition",
+    "text": "Nutrition\nNutrition Slideshow"
   },
   {
     "objectID": "lci_esot2.htm#anatomy",
