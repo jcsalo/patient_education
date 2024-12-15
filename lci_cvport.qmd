@@ -25,7 +25,7 @@ bibliography: zotero.bib
 
 ## Chemotherapy Administration
 
-Most chemotherapy for esophageal cancer is administered into a vein. 
+Most chemotherapy is administered by vein. 
 
 Several options exist to administer chemotherapy through veins:
 
@@ -42,7 +42,7 @@ A new catheter is placed for each dose of chemotherapy
 ## Intravenous Catheter in Peripheral Vein ("IV")
 
 :::::: columns
-::: {.column width="50%"}
+::: {.column width="60%"}
 
 - IV catheter placed into a vein in the hand or arm
 - Allows administration of chemotherapy and fluids
@@ -53,7 +53,7 @@ A new catheter is placed for each dose of chemotherapy
 
 :::
 
-:::: {.column width="50%"}
+:::: {.column width="40%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/peripheral-venous-catheter-427167-7_960_720-pixabay.jpg)
 :::
@@ -79,18 +79,18 @@ FLOT chemotherapy requires a home infusion pump, got which a peripheral IV won't
 ## PICC Lines
 
 :::::: columns
-::: {.column width="50%"}
+::: {.column width="60%"}
 - Placed in Radiology
 - Stay in place during all of treatment
 - Can stay in place for weeks
 - Special care is needed at home to keep it clean and dry
 - Suitable for FLOT chemotherapy
 
-Special care is needed at home to keep the catheter and it's dressing clean and dry
+Special care needed at home to keep catheter and dressing clean and dry
 
 :::
 
-:::: {.column width="50%"}
+:::: {.column width="40%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/comm_picc.jpeg)
 :::

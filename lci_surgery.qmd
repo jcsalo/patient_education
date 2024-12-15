@@ -176,7 +176,12 @@ The anastomosis is surgical connection between the esophagus and the stomach.
 
 ::::: columns
 ::: {.column width="50%"}
-If anastomosis does not heal properly, this can cause a leakage of fluid from the esophagus, called an anastomotic leak. If this happens, an infection can occur in the mediastinum, which is the space near the heart between the lungs.
+If anastomosis does not heal properly:
+
+- Leakage of fluid from the esophagus
+- Infection in the space between the lungs
+- Requires additional time in the hospital
+
 :::
 
 ::: {.column width="50%"}
@@ -184,11 +189,41 @@ If anastomosis does not heal properly, this can cause a leakage of fluid from th
 :::
 :::::
 
+
 ## Anastomotic Leak
 
-In some cases, the leak will heal on its own, but other cases may require additional procedures or even surgery.
+::::: columns
+::: {.column width="50%"}
+If an anastomotic leak does occur:
 
-The risk of leak depends upon the operation performed but also depends upon the experience of the surgeon.
+- Some leaks will seal on their own
+- A stent may be required to help healing
+- Occasionally additional surgey is required
+
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Leak.png)
+:::
+:::::
+
+
+## Anastomotic Leak
+
+::::: columns
+::: {.column width="50%"}
+Risk of a leak depends upon:
+
+- Type of operation performed
+- Overall nutritional status of patient
+- Experience of the surgeon
+
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Leak.png)
+:::
+:::::
 
 ## Pneumonia
 
@@ -200,19 +235,22 @@ Pneumonia requires treatment with antibiotics and frequently requires a longer h
 :::
 
 ::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_LungsArtboard.png)
 :::
 :::::
 
 ## Preventing Pneumonia
 
-In normal circumstances, secretions from the mouth and throat aren't able to enter the lungs because we clear our throat and if secretions do get into our airway, we tend to cough and keep those secretions out of our lungs. This happens constantly without our thinking about it.
-
-After esophagectomy, however, there is a tendency for secretions to enter the airway, and if you can't clear them, there is a risk that pneumonia will set in.
-
-There are two important ways that pneumonia can be prevented:
+There are several ways to help prevent pneumonia after surgery:
 
 -   Deep breathing
+-   Coughing
 -   Walking
+
+After surgery, this means:
+
+-   Sitting in a chair most of the day
+-   Walking in the halls as soon as possible
 
 ## Minimally-invasive Esophagectomy
 
@@ -266,8 +304,8 @@ Risks related to Surgery
 
 -   Arrive at 5am – nothing to eat or drink after midnight.
 -   OK to take medicines with a sip of water (or coffee) but no cream.
--   Surgery may be cancelled if you take even a sip of cream or milk the morning of surgery.
--   Waiting room on 5th floor
+-   Surgery will be cancelled if you have cream or milk in the morning.
+-   Waiting room for family and friends on 5th floor
 -   Post-operative care in STICU (11th floor)
 
 ## Anesthesia
@@ -312,20 +350,24 @@ Multiple lines and tubes:
 
 ## Feeding Jejunostomy - Typical Regimen
 
-/
-/
+\
 
-- Men: 75mL/hour x 16 hours (6pm to 10am)
-- Women: 60mL/hour x 16 hours (6pm to 10am)
+
+- Jejunostomy tube feeds for 16 hours (6pm to 10am)
+  - Men: 75mL/hour x 16 hours = 5 cartons
+  - Women: 60mL/hour x 16 hours = 4 cartons
 - Water 240ml (8oz) via syringe 4x/day
 
-The hospital nurses will teach you how to use the feeding tube pump once you leave the ICU.
+Hospital nurses will teach you how to use the feeding tube pump
+
+We want to make sure you can manage the pump before going home
 
 ## Feeding Jejunostomy - Diabetes
 
+\
 Jejunostomy feeding tend to elevate blood sugars: Insulin may be required
 
-Typical pattern
+Typical pattern:
 
 - Jejunostomy feeds 6pm to 10am
 - Insulin at 6pm (70/30)
@@ -351,24 +393,22 @@ You will lay on a flat x-ray table, which will then be tilted to the standing po
 
 ## Modified Barium Swallow
 
-Once the nasogastric tube has been removed, a barium swallow study will be performed in radiology.
+Barium swallow tests whether swallowing muscles are working properly
 
-You will be asked a drink a white chalky liquid (barium) while x-rays are taken.  
+- Performed after nasogastric (NG) tube removed
+- Drink a white chalky liquids in while x-rays are taken
 
-This test shows whether the swallowing muscles are working properly.
-
-70% of patients have good swallowling function and are started on 1oz of water every hour
+70% have good swallowing function $\rightarrow$ 1oz of water every hour
 
 ## Protein Shakes
 
+Most patients are taking protein shakes when they go home
 
--   Protein shakes are started once you are tolerating water by mouth
+Protein shakes are started once you are tolerating water by mouth
 \
 \
   -   2 oz per hour to start
-\
-\
-  -   4 oz per hour as tolerated
+  -   4 oz per hour if 2oz are tolerated well
 
 
 
