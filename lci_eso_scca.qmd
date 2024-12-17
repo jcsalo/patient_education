@@ -1,0 +1,501 @@
+---
+title: "Squamous Cell Carcinoma of the Esophagus"
+format: 
+  pptx: 
+    reference-doc: template.pptx
+  revealjs:
+    slide-number: c/t
+    width: 1280
+    height: 720
+    logo: "atriumlogo.jpg"
+    footer: "[LCI GI Oncology](https://jcsalo.github.io/patient_education/LCI.html)"
+    css: "lci_styles.css"
+    theme: [simple, lci.scss]
+    echo: false
+    transition: fade
+    #output-file: lci_esot3_slides.html
+    pdf-separate-fragments: true
+  html: default
+  docx:
+    number-sections: true
+    number-depth: 3
+editor: visual
+bibliography: zotero.bib
+---
+
+## Anatomy
+
+::::::: columns
+:::: {.column width="50%"}
+::: {style="font-size: 95%;"}
+Food moves from the throat
+
+$\rightarrow$ esophagus
+
+$\rightarrow$ stomach
+
+$\rightarrow$ small bowel (jejunum)
+:::
+::::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_Anatomy_Labels.png)\]
+:::
+::::
+:::::::
+
+::: {.content-hidden unless-format="docx"}
+We'll start with reviewing some anatomy about how the body digests food.
+
+Food moves from the throat to the esophagus, and from there to the stomach.
+
+From the stomach, food moved through a valve called the pylorus into the small intestines
+:::
+
+## Cancer Staging
+
+Staging refers to the tests to determine
+
+-   How large is the tumor?
+-   Has there been spread to lymph nodes?
+-   Has it spread to other parts of the body?
+
+**Treatment options depend upont the cancer stage**
+
+## Esophageal Cancer Staging {tbl-colwidths="[20,10,70]"}
+
+\
+\
+
+-   **T** = Tumor - Depth of growth into the wall of the esophagus\
+    \
+-   **N** = Nodes - Spread to the lymph nodes\
+    \
+-   **M** = Metastasis - Spread to liver, lungs, or bone
+
+## Layers of the Wall of the Esophagus
+
+::: {.content-hidden unless-format="docx"}
+If we look at the walls of the esophagus, we see several layers:
+:::
+
+:::::: columns
+::: {.column width="50%"}
+-   Mucosa - Inner layer\
+    \
+-   Muscle wall (muscularis)\
+    \
+-   Lymph nodes located in fat outside the muscle
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/tumor1_ai.png)
+:::
+::::
+::::::
+
+## Early Stage Cancers
+
+::: {.content-hidden unless-format="docx"}
+Early-stage cancers are those that are small and have not grown very far into the wall of the esophagus.
+:::
+
+:::::: columns
+::: {.column width="50%"}
+\
+\
+Cancers start on the very inside of the layer called the mucosa
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/tumor21_ai.png)
+:::
+::::
+::::::
+
+## Locally-advanced Cancers
+
+:::::: columns
+::: {.column width="50%"}
+\
+\
+Over time, cancers can grow into the muscular wall
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/tumor24_ai.png)
+:::
+::::
+::::::
+
+::: {.content-hidden unless-format="docx"}
+Locally-advanced cancers are those that have grown through the wall of the esophagus.
+:::
+
+## Lymph Nodes
+
+:::::: columns
+::: {.column width="50%"}
+\
+\
+In some cases, cancer cells can break off from the main tumor and spread to lymph nodes
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/tumor25b_ai.png)
+:::
+::::
+::::::
+
+::: {.content-hidden unless-format="docx"}
+If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
+:::
+
+## T Stage
+
+:::::: columns
+::: {.column width="50%"}
+\
+\
+Cancers are categorized based upon the thickness of the tumor, known as the T stage
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/tumor_t_full.png)
+:::
+::::
+::::::
+
+::: {.content-hidden unless-format="docx"}
+T1 tumors are early stage, and T4 tumors more advanced
+:::
+
+## N Stage
+
+:::::: columns
+::: {.column width="50%"}
+Cancers are categorized by whether there is spread to the lymph nodes.
+
+-   **N0** cancers have not spread to the lymph nodes\
+    \
+-   **N1** cancers have spread to the lymph nodes.
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/tumor_t3_nodes_labels.png)
+:::
+::::
+::::::
+
+## M Stage
+
+:::::: columns
+::: {.column width="50%"}
+Some cancers spread from the esophagus to other parts of the body
+
+-   **M0** cancers have not spread to other parts of the body
+-   **N1** cancers have spread lungs, liver, or bone
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_M_Stage.png)
+:::
+::::
+::::::
+
+## PET scan
+
+:::::: columns
+::: {.column width="40%"}
+A PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer.
+:::
+
+:::: {.column width="60%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/PetImage.png)
+:::
+::::
+::::::
+
+::: {.content-hidden unless-format="docx"}
+In some cases, the PET scan is not performed until a CT scans bas been done.
+:::
+
+## Endoscopic Ultrasound
+
+:::::: columns
+::: {.column width="50%"}
+-   Similar to upper endoscopy (EGD)
+-   Ultrasound probe in scope
+-   Evaluates T stage of cancer
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/EUSArtboard.png)
+:::
+::::
+::::::
+
+::: {.content-hidden unless-format="docx"}
+Endoscopic ultrasound is most helpful in early stage cancers.
+:::
+
+## Treatment Plan
+
+\
+\
+- Superficial (T1) $\Rightarrow$ Endoscopic Therapy\
+\
+- Localized (T1b/T2) $\Rightarrow$ Surgery\
+\
+- Locally-advanced (T3/N1) $\Rightarrow$ Chemo $\pm$ Radiation $\rightarrow$Surgery\
+\
+- Metastatic (M1) $\Rightarrow$ Chemotherapy
+
+::: {.content-hidden unless-format="docx"}
+This table summarizes four different treatment categories:
+
+-   Superficial cancers are T1 and can be treated by endoscopic therapy without the need for surgery
+-   Localized cancers are T1b or T2 and are frequently treated by surgery alone without the need for chemotherapy or radiation
+-   Locally-advanced cancers are T3 or N1 and are usually treated with some combination of chemotherapy and radiation prior to surgery
+-   Metastatic cancers are M1 and are treated primary by chemotherapy.
+:::
+
+## Locally-advanced cancers
+
+:::::: columns
+::: {.column width="50%"}
+Patients with locally-advanced esophageal cancer often have localized spread of cancer cells in the surrounding area
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor_100_1600.png)
+:::
+::::
+::::::
+
+## Locally-advanced cancers
+
+:::::: columns
+::: {.column width="50%"}
+If locally-advanced cancers are treated with surgery alone...
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor100_resection_intra.png)
+:::
+::::
+::::::
+
+## Locally-advanced cancers
+
+:::::: columns
+::: {.column width="50%"}
+If locally-advanced cancers are treated with surgery alone...
+
+There is a risk that cancer cells can be left behind
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor100_resection_post.png)
+:::
+::::
+::::::
+
+## Preoperative Therapy
+
+:::::: columns
+::: {.column width="50%"}
+It is helpful to start with therapy *before* surgery that will shrink the cancer.
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor_100_1600.png)
+:::
+::::
+::::::
+
+## Preoperative Therapy
+
+:::::: columns
+::: {.column width="50%"}
+It is helpful to start with therapy *before* surgery that will shrink the cancer.
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor40_1600.png)
+:::
+::::
+::::::
+
+## Preoperative Therapy
+
+:::::: columns
+::: {.column width="50%"}
+It is helpful to start with therapy *before* surgery that will shrink the cancer.
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_Tumor_00_1600.png)
+:::
+::::
+::::::
+
+## Surgery after Preoperative Therapy
+
+:::::: columns
+::: {.column width="50%"}
+When surgery is then performed...
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor00_resection1_1600.png)
+:::
+::::
+::::::
+
+## Preoperative Therapy
+
+:::::: columns
+::: {.column width="50%"}
+When surgery is then performed...
+
+The risk of cancer recurrence is minimized
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor00_resection2_1600.png)
+:::
+::::
+::::::
+
+## Chemotherapy + Radiation CROSS Trial
+
+Researchers studied 363 patients with esophageal cancer
+
+Patients were treated in two groups:
+
+\
+
+**Surgery Alone**
+
+vs
+
+**Chemotherapy + Radiation** $\rightarrow$ Surgery
+
+## Chemotherapy + Radiation CROSS Trial
+
+Chemotherapy and radiation were given together over six weeks\
+\
+\
+
+**Surgery Alone**
+
+vs
+
+**Chemotherapy + Radiation** $\rightarrow$ Surgery $\Rightarrow$ Longer Survival
+
+::: {.content-hidden unless-format="docx"}
+The results were quite dramatic: The group that was treated with all three therapies, chemotherapy and radiation and surgery, lived on average twice a long as patients who had surgery alone.
+:::
+
+## Chemotherapy + Radiation CROSS Trial
+
+Typical schedule for chemotherapy + radiation:
+
+-   Chemotherapy once per week for six weeks
+-   Radiation five days per week for six weeks (28 treatments)
+-   PET scan (or CT) 4 weeks after the end of radiation
+-   Surgery 8 weeks after the end of radiation
+
+## Chemotherapy + Radiation - Side Effects
+
+Kills cancer cells in the esophagus and lymph nodes
+
+Can also cause irritation of the lining of the esophagus.
+
+Swallowing can be difficult the last two weeks of therapy.
+
+Feeding tube may be needed for hydration and nutrition.
+
+
+## Chemotherapy
+
+Chemotherapy drugs are administered intravenously.
+
+There are several options for intravenous access:
+
+-   Peripheral IVs in the hand
+-   PICC line (Peripheral Inserted Central Catheter)
+-   Central Venous Port
+
+[Central Venous Port](lci_cvport.htm)
+
+## Restaging
+
+CT or PET scan will be performed after preoperative therapy
+
+\
+\
+
+-   Surgery performed after restaging
+-   Timing depends upon recovery from therapy
+
+## Restaging Endoscopy
+
+After chemotherapy + radiation, endoscopy is performed to look for signs of persistent cancer
+
+Biopsies are negative in approximately 75% of cases after chemo + radiation
+
+**However,** complete disappearance of cancer is only found in 40% of cases
+
+$\Rightarrow$ cancer cells can hide in the wall of the esophagus
+
+## Surgery for Squamous Cell Carcinoma
+
+Surgery is recommended for all patients who have:
+
+- Biopsies showing persistent cancer after chemo + radiation
+- No signs of spread of disease on PET/CT scan
+- Healthy enough to undergo surgery
+
+## Surgery for Squamous Cell Carcinoma
+
+Surgery is also recommended for patients who:
+
+- No signs of spread on disease on PET/CT scan
+- Cancer in the lower part of the esophagus
+- Healthy enough to undergo surgery
+
+## Surveillance for patients who don't undergo Surgery
+
+- Upper endoscopy (EGD) every 3-6 months
+- PET every 6 months
+
+$\Rightarrow$ Surgery may be considered if a recurrence in the esophagus is found
+
+
+## Nutrition
+
+[Nutrition Slideshow](lci_nutrition.htm)
+
+## Surgery
+
+[Surgery Slideshow](lci_surgery.htm)
