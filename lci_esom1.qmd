@@ -18,7 +18,7 @@ format:
   html: default
   docx:
     number-sections: true
-    number-depth: 3
+    number-depth: 2
 editor: visual
 bibliography: zotero.bib
 ---
@@ -56,15 +56,8 @@ From the stomach, food moved through a valve called the pylorus into the small i
 
 ## Esophageal Cancer Staging {tbl-colwidths="[20,10,70]"}
 
-
-
-
 -   **T** = Tumor - Depth of growth into the wall of the esophagus
-
-
 -   **N** = Nodes - Spread to the lymph nodes
-
-
 -   **M** = Metastasis - Spread to liver, lungs, or bone
 
 ## Metastatic Cancers
@@ -148,7 +141,7 @@ Radiation uses high-energy x-rays to kill cancer cells
 
 - Esophagus: Can shrink tumor and improve eating
 
-# Endoluminal Stent
+## Endoluminal Stent
 
 :::::: columns
 ::: {.column width="50%"}
@@ -163,7 +156,7 @@ An endoluminal stent can be placed inside an esophageal cancer to improve eating
 ::::::
 
 
-# Endoluminal Stent
+## Endoluminal Stent
 
 :::::: columns
 ::: {.column width="50%"}
@@ -181,14 +174,12 @@ An endoluminal stent can be placed inside an esophageal cancer to improve eating
 
 Advantages:
 
-- Outpatient procedure 
-- Does not require surgery
+- Outpatient endoscopic procedure (no surgery)
 - Can improve swallowing
 
 Disadvantages:
 
-- Discomfort
-- Reflux
+- Discomfort and reflux
 - Can make surgery to remove esophagus more complicated
 
 
@@ -197,17 +188,22 @@ Disadvantages:
 Radiation therapy to the esophagus can improve swallowing. There are two approaches:
 
 **Short Course**
+
 - 10 treatments over 2 weeks
 
 **Conventional Dosing**
+
 - 25-30 treatment over 5-6 weeks
+- Usually combined with low-dose chemo
 
 
 ## Radiation Therapy - Bone
 
+For patients with metastasis to bone causing pain
 
+- Radiation can provide pain relief 
+- Typically 10 daily treatments over two weeks
 
-For patients with metastasis to bone causing pain, radiation can provide pain relief wiht a relatively short (two week) treatment course
 
 ## Intravenous Drug Administration
 
