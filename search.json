@@ -550,7 +550,7 @@
     "href": "lci_eso_scca.htm#esophageal-cancer-staging",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Esophageal Cancer Staging",
-    "text": "Esophageal Cancer Staging\n\n\n\n\nT = Tumor - Depth of growth into the wall of the esophagus\n\n\nN = Nodes - Spread to the lymph nodes\n\n\nM = Metastasis - Spread to liver, lungs, or bone"
+    "text": "Esophageal Cancer Staging\n\nT = Tumor - Depth of growth into the wall\n\n\nN = Nodes - Spread to the lymph nodes\n\n\nM = Metastasis - Spread to liver, lungs, or bone"
   },
   {
     "objectID": "lci_eso_scca.htm#layers-of-the-wall-of-the-esophagus",
@@ -585,7 +585,7 @@
     "href": "lci_eso_scca.htm#t-stage",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "T Stage",
-    "text": "T Stage\n\n\n\n\nCancers are categorized based upon the thickness of the tumor, known as the T stage"
+    "text": "T Stage\n\n\n\nCancers are categorized based upon the thickness of the tumor, known as the T stage"
   },
   {
     "objectID": "lci_eso_scca.htm#n-stage",
@@ -620,7 +620,7 @@
     "href": "lci_eso_scca.htm#treatment-plan",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Treatment Plan",
-    "text": "Treatment Plan\n\n\n- Superficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\n- Localized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\n- Locally-advanced (T3/N1) \\(\\Rightarrow\\) Chemo \\(\\pm\\) Radiation \\(\\rightarrow\\)Surgery\n\n- Metastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
+    "text": "Treatment Plan\nSuperficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\nLocalized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\nLocally-advanced (T3) \\(\\Rightarrow\\) Chemo \\(\\pm\\) Radiation \\(\\rightarrow\\)Surgery\n\nMetastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
   },
   {
     "objectID": "lci_eso_scca.htm#locally-advanced-cancers-1",
@@ -683,28 +683,28 @@
     "href": "lci_eso_scca.htm#chemotherapy-radiation-cross-trial",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nResearchers studied 363 patients with esophageal cancer\nPatients were treated in two groups:\n\n\nSurgery Alone\nvs\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nPatients were treated in two groups:\n\n\nSurgery Alone\nvs\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery"
   },
   {
     "objectID": "lci_eso_scca.htm#chemotherapy-radiation-cross-trial-1",
     "href": "lci_eso_scca.htm#chemotherapy-radiation-cross-trial-1",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nChemotherapy and radiation were given together over six weeks\n\n\n\nSurgery Alone\nvs\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\nChemotherapy + radiation given together for 6 weeks\n\n\nSurgery Alone\nvs\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_eso_scca.htm#chemotherapy-radiation-cross-trial-2",
     "href": "lci_eso_scca.htm#chemotherapy-radiation-cross-trial-2",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28 treatments)\nPET scan (or CT) 4 weeks after the end of radiation\nSurgery 8 weeks after the end of radiation"
+    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for 6 weeks\nRadiation five days per week for 6 weeks (28)\nPET scan (or CT) 4 weeks after the end of radiation\nSurgery 8 weeks after the end of radiation"
   },
   {
     "objectID": "lci_eso_scca.htm#chemotherapy-radiation---side-effects",
     "href": "lci_eso_scca.htm#chemotherapy-radiation---side-effects",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also cause irritation of the lining of the esophagus.\nSwallowing can be difficult the last two weeks of therapy.\nFeeding tube may be needed for hydration and nutrition."
+    "text": "Chemotherapy + Radiation - Side Effects\n\nKills cancer cells in the esophagus and lymph nodes\nCan also cause irritation of the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks\nFeeding tube may be needed for nutrition"
   },
   {
     "objectID": "lci_eso_scca.htm#chemotherapy",
@@ -718,21 +718,21 @@
     "href": "lci_eso_scca.htm#restaging",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Restaging",
-    "text": "Restaging\nCT or PET scan will be performed after preoperative therapy\n\n\n\n\nSurgery performed after restaging\nTiming depends upon recovery from therapy"
+    "text": "Restaging\nCT or PET scan will be performed after preoperative therapy\n\n\n\nSurgery performed after restaging\nTiming depends upon recovery from therapy"
   },
   {
-    "objectID": "lci_eso_scca.htm#restaging-endoscopy",
-    "href": "lci_eso_scca.htm#restaging-endoscopy",
+    "objectID": "lci_eso_scca.htm#restaging-endoscopy-after-chemo-radiation",
+    "href": "lci_eso_scca.htm#restaging-endoscopy-after-chemo-radiation",
     "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "Restaging Endoscopy",
-    "text": "Restaging Endoscopy\nAfter chemotherapy + radiation, endoscopy is performed to look for signs of persistent cancer\nBiopsies are negative in approximately 75% of cases after chemo + radiation\nHowever, complete disappearance of cancer is only found in 40% of cases\n\\(\\Rightarrow\\) cancer cells can hide in the wall of the esophagus"
+    "section": "Restaging Endoscopy after Chemo + Radiation",
+    "text": "Restaging Endoscopy after Chemo + Radiation\nEndoscopy is performed to look for signs of persistent cancer\nBiopsies are negative in approximately 75% of cases\nComplete disappearance of cancer is only found in 40% of cases\n\\(\\Rightarrow\\) cancer cells can hide in the wall of the esophagus"
   },
   {
     "objectID": "lci_eso_scca.htm#surgery-for-squamous-cell-carcinoma",
     "href": "lci_eso_scca.htm#surgery-for-squamous-cell-carcinoma",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Surgery for Squamous Cell Carcinoma",
-    "text": "Surgery for Squamous Cell Carcinoma\nSurgery is recommended for all patients who have:\n\nBiopsies showing persistent cancer after chemo + radiation\nNo signs of spread of disease on PET/CT scan\nHealthy enough to undergo surgery"
+    "text": "Surgery for Squamous Cell Carcinoma\nSurgery is recommended for all patients who have:\n\nBiopsies showing cancer after chemo + radiation\nNo signs of spread of disease on PET/CT scan\nHealthy enough to undergo surgery"
   },
   {
     "objectID": "lci_eso_scca.htm#surgery-for-squamous-cell-carcinoma-1",
@@ -742,11 +742,11 @@
     "text": "Surgery for Squamous Cell Carcinoma\nSurgery is also recommended for patients who:\n\nNo signs of spread on disease on PET/CT scan\nCancer in the lower part of the esophagus\nHealthy enough to undergo surgery"
   },
   {
-    "objectID": "lci_eso_scca.htm#surveillance-for-patients-who-dont-undergo-surgery",
-    "href": "lci_eso_scca.htm#surveillance-for-patients-who-dont-undergo-surgery",
+    "objectID": "lci_eso_scca.htm#surveillance-if-surgery-not-performed",
+    "href": "lci_eso_scca.htm#surveillance-if-surgery-not-performed",
     "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "Surveillance for patients who don’t undergo Surgery",
-    "text": "Surveillance for patients who don’t undergo Surgery\n\nUpper endoscopy (EGD) every 3-6 months\nPET every 6 months\n\n\\(\\Rightarrow\\) Surgery may be considered if a recurrence in the esophagus is found"
+    "section": "Surveillance if Surgery Not Performed",
+    "text": "Surveillance if Surgery Not Performed\n\nUpper endoscopy (EGD) every 3-6 months\nPET every 6 months\n\n\\(\\Rightarrow\\) Surgery a recurrence in the esophagus is found"
   },
   {
     "objectID": "lci_eso_scca.htm#nutrition",
@@ -788,7 +788,7 @@
     "href": "lci_eso_scca.html#esophageal-cancer-staging",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Esophageal Cancer Staging",
-    "text": "Esophageal Cancer Staging\n\n\n\n\nT = Tumor - Depth of growth into the wall of the esophagus\n\n\nN = Nodes - Spread to the lymph nodes\n\n\nM = Metastasis - Spread to liver, lungs, or bone"
+    "text": "Esophageal Cancer Staging\n\nT = Tumor - Depth of growth into the wall\n\n\nN = Nodes - Spread to the lymph nodes\n\n\nM = Metastasis - Spread to liver, lungs, or bone"
   },
   {
     "objectID": "lci_eso_scca.html#layers-of-the-wall-of-the-esophagus",
@@ -823,7 +823,7 @@
     "href": "lci_eso_scca.html#t-stage",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "T Stage",
-    "text": "T Stage\n\n\n\n\nCancers are categorized based upon the thickness of the tumor, known as the T stage"
+    "text": "T Stage\n\n\n\nCancers are categorized based upon the thickness of the tumor, known as the T stage"
   },
   {
     "objectID": "lci_eso_scca.html#n-stage",
@@ -858,7 +858,7 @@
     "href": "lci_eso_scca.html#treatment-plan",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Treatment Plan",
-    "text": "Treatment Plan\n\n\n- Superficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\n- Localized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\n- Locally-advanced (T3/N1) \\(\\Rightarrow\\) Chemo \\(\\pm\\) Radiation \\(\\rightarrow\\)Surgery\n\n- Metastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
+    "text": "Treatment Plan\nSuperficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\nLocalized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\nLocally-advanced (T3) \\(\\Rightarrow\\) Chemo \\(\\pm\\) Radiation \\(\\rightarrow\\)Surgery\n\nMetastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
   },
   {
     "objectID": "lci_eso_scca.html#locally-advanced-cancers-1",
@@ -921,28 +921,28 @@
     "href": "lci_eso_scca.html#chemotherapy-radiation-cross-trial",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nResearchers studied 363 patients with esophageal cancer\nPatients were treated in two groups:\n\n\nSurgery Alone\nvs\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nPatients were treated in two groups:\n\n\nSurgery Alone\nvs\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery"
   },
   {
     "objectID": "lci_eso_scca.html#chemotherapy-radiation-cross-trial-1",
     "href": "lci_eso_scca.html#chemotherapy-radiation-cross-trial-1",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nChemotherapy and radiation were given together over six weeks\n\n\n\nSurgery Alone\nvs\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\nChemotherapy + radiation given together for 6 weeks\n\n\nSurgery Alone\nvs\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_eso_scca.html#chemotherapy-radiation-cross-trial-2",
     "href": "lci_eso_scca.html#chemotherapy-radiation-cross-trial-2",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28 treatments)\nPET scan (or CT) 4 weeks after the end of radiation\nSurgery 8 weeks after the end of radiation"
+    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for 6 weeks\nRadiation five days per week for 6 weeks (28)\nPET scan (or CT) 4 weeks after the end of radiation\nSurgery 8 weeks after the end of radiation"
   },
   {
     "objectID": "lci_eso_scca.html#chemotherapy-radiation---side-effects",
     "href": "lci_eso_scca.html#chemotherapy-radiation---side-effects",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also cause irritation of the lining of the esophagus.\nSwallowing can be difficult the last two weeks of therapy.\nFeeding tube may be needed for hydration and nutrition."
+    "text": "Chemotherapy + Radiation - Side Effects\n\nKills cancer cells in the esophagus and lymph nodes\nCan also cause irritation of the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks\nFeeding tube may be needed for nutrition"
   },
   {
     "objectID": "lci_eso_scca.html#chemotherapy",
@@ -956,21 +956,21 @@
     "href": "lci_eso_scca.html#restaging",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Restaging",
-    "text": "Restaging\nCT or PET scan will be performed after preoperative therapy\n\n\n\n\nSurgery performed after restaging\nTiming depends upon recovery from therapy"
+    "text": "Restaging\nCT or PET scan will be performed after preoperative therapy\n\n\n\nSurgery performed after restaging\nTiming depends upon recovery from therapy"
   },
   {
-    "objectID": "lci_eso_scca.html#restaging-endoscopy",
-    "href": "lci_eso_scca.html#restaging-endoscopy",
+    "objectID": "lci_eso_scca.html#restaging-endoscopy-after-chemo-radiation",
+    "href": "lci_eso_scca.html#restaging-endoscopy-after-chemo-radiation",
     "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "Restaging Endoscopy",
-    "text": "Restaging Endoscopy\nAfter chemotherapy + radiation, endoscopy is performed to look for signs of persistent cancer\nBiopsies are negative in approximately 75% of cases after chemo + radiation\nHowever, complete disappearance of cancer is only found in 40% of cases\n\\(\\Rightarrow\\) cancer cells can hide in the wall of the esophagus"
+    "section": "Restaging Endoscopy after Chemo + Radiation",
+    "text": "Restaging Endoscopy after Chemo + Radiation\nEndoscopy is performed to look for signs of persistent cancer\nBiopsies are negative in approximately 75% of cases\nComplete disappearance of cancer is only found in 40% of cases\n\\(\\Rightarrow\\) cancer cells can hide in the wall of the esophagus"
   },
   {
     "objectID": "lci_eso_scca.html#surgery-for-squamous-cell-carcinoma",
     "href": "lci_eso_scca.html#surgery-for-squamous-cell-carcinoma",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Surgery for Squamous Cell Carcinoma",
-    "text": "Surgery for Squamous Cell Carcinoma\nSurgery is recommended for all patients who have:\n\nBiopsies showing persistent cancer after chemo + radiation\nNo signs of spread of disease on PET/CT scan\nHealthy enough to undergo surgery"
+    "text": "Surgery for Squamous Cell Carcinoma\nSurgery is recommended for all patients who have:\n\nBiopsies showing cancer after chemo + radiation\nNo signs of spread of disease on PET/CT scan\nHealthy enough to undergo surgery"
   },
   {
     "objectID": "lci_eso_scca.html#surgery-for-squamous-cell-carcinoma-1",
@@ -980,11 +980,11 @@
     "text": "Surgery for Squamous Cell Carcinoma\nSurgery is also recommended for patients who:\n\nNo signs of spread on disease on PET/CT scan\nCancer in the lower part of the esophagus\nHealthy enough to undergo surgery"
   },
   {
-    "objectID": "lci_eso_scca.html#surveillance-for-patients-who-dont-undergo-surgery",
-    "href": "lci_eso_scca.html#surveillance-for-patients-who-dont-undergo-surgery",
+    "objectID": "lci_eso_scca.html#surveillance-if-surgery-not-performed",
+    "href": "lci_eso_scca.html#surveillance-if-surgery-not-performed",
     "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "Surveillance for patients who don’t undergo Surgery",
-    "text": "Surveillance for patients who don’t undergo Surgery\n\nUpper endoscopy (EGD) every 3-6 months\nPET every 6 months\n\n\\(\\Rightarrow\\) Surgery may be considered if a recurrence in the esophagus is found"
+    "section": "Surveillance if Surgery Not Performed",
+    "text": "Surveillance if Surgery Not Performed\n\nUpper endoscopy (EGD) every 3-6 months\nPET every 6 months\n\n\\(\\Rightarrow\\) Surgery a recurrence in the esophagus is found"
   },
   {
     "objectID": "lci_eso_scca.html#nutrition",
