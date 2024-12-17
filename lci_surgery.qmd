@@ -350,9 +350,6 @@ Multiple lines and tubes:
 
 ## Feeding Jejunostomy - Typical Regimen
 
-\
-
-
 - Jejunostomy tube feeds for 16 hours (6pm to 10am)
   - Men: 75mL/hour x 16 hours = 5 cartons
   - Women: 60mL/hour x 16 hours = 4 cartons
@@ -364,7 +361,6 @@ We want to make sure you can manage the pump before going home
 
 ## Feeding Jejunostomy - Diabetes
 
-\
 Jejunostomy feeding tend to elevate blood sugars: Insulin may be required
 
 Typical pattern:
@@ -383,17 +379,24 @@ Typical pattern:
     -   Improve lung function
     -   Prevent muscle loss
     
-## Nasogastric Tubes
+## Nasogastric Tube (NG)
 
-A nasogastric tube is placed trough the nose into the stomach at the time surgery to remove fluid from the stomach and allow healing.
+NG is placed trough the nose into the stomach to remove fluid from the stomach and allow healing.
 
-An x-ray is done on the 2nd to 4th day after surgery to determine when the nasogastric tube can be removed.
+NG tube is removed after confirmation by x-ray that the stomach is starting to empty properly
 
-You will lay on a flat x-ray table, which will then be tilted to the standing position.  Dye will then be injected into the tube and x-rays taken.  If the stomach is emptying properly, the nasogastric tube will be removed.
+## Nasogastric Tube (NG)
+
+X-ray on the 2nd to 4th day after surgery
+
+- Will require standing up for 5-10 minutes
+- Dye is injected into the NG tube
+- If stomach empties, NG tube is removed
+
 
 ## Modified Barium Swallow
 
-Barium swallow tests whether swallowing muscles are working properly
+Tests whether swallowing muscles are working properly
 
 - Performed after nasogastric (NG) tube removed
 - Drink a white chalky liquids in while x-rays are taken
@@ -402,10 +405,9 @@ Barium swallow tests whether swallowing muscles are working properly
 
 ## Protein Shakes
 
-Most patients are taking protein shakes when they go home
+Most are taking protein shakes when they go home
 
-Protein shakes are started once you are tolerating water by mouth
-\
+Protein shakes are started after tolerating water
 \
   -   2 oz per hour to start
   -   4 oz per hour if 2oz are tolerated well
@@ -432,9 +434,9 @@ Most patients go home with:
 
 ## Medicines at Home
 
-- Proton pump inhibitor (omeprazole, pantoprazole) for one year
-- Reglan (metoclopramide) - help stomach empty: 6 weeks
-- Lopressor (metoprolol) - helps prevent atrial fibrillation: 2 weeks
+- Proton pump inhibitor (acid blocker) for one year
+- Reglan (metoclopramide) - stomach emptying: 6 weeks
+- Lopressor (metoprolol) - prevent atrial fibrillation: 2 weeks
 
 ## Pain Medicines at Home
 
@@ -470,23 +472,31 @@ You will be seen in the office 7-10 days after discharge
 - Remove staples
 - Remove drains (if needed)
 
-## Jejunostomy Removal
+## Jejunostomy Removal (8 weeks after surgery)
 
-Jejunostomy tube is removed in the office once you can take in enough nutrients by mouth (usually 8 weeks after surgery)
+Jejunostomy tube is removed in the office once you can take in enough nutrients by mouth
 
-Depending upon this tube, then may take 30 minutes and some local anesthethic to loosen up the tube for removal.
+May take 30 minutes and some local anesthetic to loosen up the tube for removal.
 
-## Nutritional Monitoring
+## Nutritional Monitoring after Surgery
 
-After surgery, you may have some difficulty absorbing some nutrients:
+You may have some difficulty absorbing some nutrients:
 
 - Iron
 - Vitamin B12
 - Vitamin D
 
-About 3 months after the jejunostomy tube is removed, we will check blood levels of iron (ferritin), Vitamin B12, and Vitamin D.
+## Nutritional Monitoring after Surgery
 
-Vitamin or iron replacements can be ordered by your primary care physician, medical oncologist, or surgery.
+About 3 months after the jejunostomy tube is removed, we will check blood levels:
+
+- Iron (ferritin)
+- Vitamin B12
+- Vitamin D.
+
+## Nutritional Replacements after Surgery
+
+Vitamin or iron replacements can be ordered by your primary care physician, medical oncologist, or surgeon
 
 If levels are low, repeat testing in several months may be needed.
 
