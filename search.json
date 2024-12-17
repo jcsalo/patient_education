@@ -928,14 +928,14 @@
     "href": "lci_surgery.htm#feeding-jejunostomy---typical-regimen",
     "title": "Surgery of the Esophagus",
     "section": "Feeding Jejunostomy - Typical Regimen",
-    "text": "Feeding Jejunostomy - Typical Regimen\n\n\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach you how to use the feeding tube pump\nWe want to make sure you can manage the pump before going home"
+    "text": "Feeding Jejunostomy - Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach you how to use the feeding tube pump\nWe want to make sure you can manage the pump before going home"
   },
   {
     "objectID": "lci_surgery.htm#feeding-jejunostomy---diabetes",
     "href": "lci_surgery.htm#feeding-jejunostomy---diabetes",
     "title": "Surgery of the Esophagus",
     "section": "Feeding Jejunostomy - Diabetes",
-    "text": "Feeding Jejunostomy - Diabetes\n\nJejunostomy feeding tend to elevate blood sugars: Insulin may be required\nTypical pattern:\n\nJejunostomy feeds 6pm to 10am\nInsulin at 6pm (70/30)\nInsulin at MN (70/30)\nNo insulin if feedings are not run"
+    "text": "Feeding Jejunostomy - Diabetes\nJejunostomy feeding tend to elevate blood sugars: Insulin may be required\nTypical pattern:\n\nJejunostomy feeds 6pm to 10am\nInsulin at 6pm (70/30)\nInsulin at MN (70/30)\nNo insulin if feedings are not run"
   },
   {
     "objectID": "lci_surgery.htm#activity",
@@ -945,25 +945,32 @@
     "text": "Activity\n\nUp in chair most of the day\nWalking in hallway with help from nurse/Physical Therapist\nGoals:\n\nImprove lung function\nPrevent muscle loss"
   },
   {
-    "objectID": "lci_surgery.htm#nasogastric-tubes",
-    "href": "lci_surgery.htm#nasogastric-tubes",
+    "objectID": "lci_surgery.htm#nasogastric-tube-ng",
+    "href": "lci_surgery.htm#nasogastric-tube-ng",
     "title": "Surgery of the Esophagus",
-    "section": "Nasogastric Tubes",
-    "text": "Nasogastric Tubes\nA nasogastric tube is placed trough the nose into the stomach at the time surgery to remove fluid from the stomach and allow healing.\nAn x-ray is done on the 2nd to 4th day after surgery to determine when the nasogastric tube can be removed.\nYou will lay on a flat x-ray table, which will then be tilted to the standing position. Dye will then be injected into the tube and x-rays taken. If the stomach is emptying properly, the nasogastric tube will be removed."
+    "section": "Nasogastric Tube (NG)",
+    "text": "Nasogastric Tube (NG)\nNG is placed trough the nose into the stomach to remove fluid from the stomach and allow healing.\nNG tube is removed after confirmation by x-ray that the stomach is starting to empty properly"
+  },
+  {
+    "objectID": "lci_surgery.htm#nasogastric-tube-ng-1",
+    "href": "lci_surgery.htm#nasogastric-tube-ng-1",
+    "title": "Surgery of the Esophagus",
+    "section": "Nasogastric Tube (NG)",
+    "text": "Nasogastric Tube (NG)\nX-ray on the 2nd to 4th day after surgery\n\nWill require standing up for 5-10 minutes\nDye is injected into the NG tube\nIf stomach empties, NG tube is removed"
   },
   {
     "objectID": "lci_surgery.htm#modified-barium-swallow",
     "href": "lci_surgery.htm#modified-barium-swallow",
     "title": "Surgery of the Esophagus",
     "section": "Modified Barium Swallow",
-    "text": "Modified Barium Swallow\nBarium swallow tests whether swallowing muscles are working properly\n\nPerformed after nasogastric (NG) tube removed\nDrink a white chalky liquids in while x-rays are taken\n\n70% have good swallowing function \\(\\rightarrow\\) 1oz of water every hour"
+    "text": "Modified Barium Swallow\nTests whether swallowing muscles are working properly\n\nPerformed after nasogastric (NG) tube removed\nDrink a white chalky liquids in while x-rays are taken\n\n70% have good swallowing function \\(\\rightarrow\\) 1oz of water every hour"
   },
   {
     "objectID": "lci_surgery.htm#protein-shakes",
     "href": "lci_surgery.htm#protein-shakes",
     "title": "Surgery of the Esophagus",
     "section": "Protein Shakes",
-    "text": "Protein Shakes\nMost patients are taking protein shakes when they go home\nProtein shakes are started once you are tolerating water by mouth\n\n- 2 oz per hour to start - 4 oz per hour if 2oz are tolerated well"
+    "text": "Protein Shakes\nMost are taking protein shakes when they go home\nProtein shakes are started after tolerating water\n- 2 oz per hour to start - 4 oz per hour if 2oz are tolerated well"
   },
   {
     "objectID": "lci_surgery.htm#discharge",
@@ -984,7 +991,7 @@
     "href": "lci_surgery.htm#medicines-at-home",
     "title": "Surgery of the Esophagus",
     "section": "Medicines at Home",
-    "text": "Medicines at Home\n\nProton pump inhibitor (omeprazole, pantoprazole) for one year\nReglan (metoclopramide) - help stomach empty: 6 weeks\nLopressor (metoprolol) - helps prevent atrial fibrillation: 2 weeks"
+    "text": "Medicines at Home\n\nProton pump inhibitor (acid blocker) for one year\nReglan (metoclopramide) - stomach emptying: 6 weeks\nLopressor (metoprolol) - prevent atrial fibrillation: 2 weeks"
   },
   {
     "objectID": "lci_surgery.htm#pain-medicines-at-home",
@@ -1008,18 +1015,32 @@
     "text": "Postoperative Visit\nYou will be seen in the office 7-10 days after discharge\n\nAdjust medicines\nRemove staples\nRemove drains (if needed)"
   },
   {
-    "objectID": "lci_surgery.htm#jejunostomy-removal",
-    "href": "lci_surgery.htm#jejunostomy-removal",
+    "objectID": "lci_surgery.htm#jejunostomy-removal-8-weeks-after-surgery",
+    "href": "lci_surgery.htm#jejunostomy-removal-8-weeks-after-surgery",
     "title": "Surgery of the Esophagus",
-    "section": "Jejunostomy Removal",
-    "text": "Jejunostomy Removal\nJejunostomy tube is removed in the office once you can take in enough nutrients by mouth (usually 8 weeks after surgery)\nDepending upon this tube, then may take 30 minutes and some local anesthethic to loosen up the tube for removal."
+    "section": "Jejunostomy Removal (8 weeks after surgery)",
+    "text": "Jejunostomy Removal (8 weeks after surgery)\nJejunostomy tube is removed in the office once you can take in enough nutrients by mouth\nMay take 30 minutes and some local anesthetic to loosen up the tube for removal."
   },
   {
-    "objectID": "lci_surgery.htm#nutritional-monitoring",
-    "href": "lci_surgery.htm#nutritional-monitoring",
+    "objectID": "lci_surgery.htm#nutritional-monitoring-after-surgery",
+    "href": "lci_surgery.htm#nutritional-monitoring-after-surgery",
     "title": "Surgery of the Esophagus",
-    "section": "Nutritional Monitoring",
-    "text": "Nutritional Monitoring\nAfter surgery, you may have some difficulty absorbing some nutrients:\n\nIron\nVitamin B12\nVitamin D\n\nAbout 3 months after the jejunostomy tube is removed, we will check blood levels of iron (ferritin), Vitamin B12, and Vitamin D.\nVitamin or iron replacements can be ordered by your primary care physician, medical oncologist, or surgery.\nIf levels are low, repeat testing in several months may be needed."
+    "section": "Nutritional Monitoring after Surgery",
+    "text": "Nutritional Monitoring after Surgery\nYou may have some difficulty absorbing some nutrients:\n\nIron\nVitamin B12\nVitamin D"
+  },
+  {
+    "objectID": "lci_surgery.htm#nutritional-monitoring-after-surgery-1",
+    "href": "lci_surgery.htm#nutritional-monitoring-after-surgery-1",
+    "title": "Surgery of the Esophagus",
+    "section": "Nutritional Monitoring after Surgery",
+    "text": "Nutritional Monitoring after Surgery\nAbout 3 months after the jejunostomy tube is removed, we will check blood levels:\n\nIron (ferritin)\nVitamin B12\nVitamin D."
+  },
+  {
+    "objectID": "lci_surgery.htm#nutritional-replacements-after-surgery",
+    "href": "lci_surgery.htm#nutritional-replacements-after-surgery",
+    "title": "Surgery of the Esophagus",
+    "section": "Nutritional Replacements after Surgery",
+    "text": "Nutritional Replacements after Surgery\nVitamin or iron replacements can be ordered by your primary care physician, medical oncologist, or surgeon\nIf levels are low, repeat testing in several months may be needed."
   },
   {
     "objectID": "lci_surgery.htm#nutrition",
@@ -1236,14 +1257,14 @@
     "href": "lci_surgery.html#feeding-jejunostomy---typical-regimen",
     "title": "Surgery of the Esophagus",
     "section": "Feeding Jejunostomy - Typical Regimen",
-    "text": "Feeding Jejunostomy - Typical Regimen\n\n\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach you how to use the feeding tube pump\nWe want to make sure you can manage the pump before going home"
+    "text": "Feeding Jejunostomy - Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach you how to use the feeding tube pump\nWe want to make sure you can manage the pump before going home"
   },
   {
     "objectID": "lci_surgery.html#feeding-jejunostomy---diabetes",
     "href": "lci_surgery.html#feeding-jejunostomy---diabetes",
     "title": "Surgery of the Esophagus",
     "section": "Feeding Jejunostomy - Diabetes",
-    "text": "Feeding Jejunostomy - Diabetes\n\nJejunostomy feeding tend to elevate blood sugars: Insulin may be required\nTypical pattern:\n\nJejunostomy feeds 6pm to 10am\nInsulin at 6pm (70/30)\nInsulin at MN (70/30)\nNo insulin if feedings are not run"
+    "text": "Feeding Jejunostomy - Diabetes\nJejunostomy feeding tend to elevate blood sugars: Insulin may be required\nTypical pattern:\n\nJejunostomy feeds 6pm to 10am\nInsulin at 6pm (70/30)\nInsulin at MN (70/30)\nNo insulin if feedings are not run"
   },
   {
     "objectID": "lci_surgery.html#activity",
@@ -1253,25 +1274,32 @@
     "text": "Activity\n\nUp in chair most of the day\nWalking in hallway with help from nurse/Physical Therapist\nGoals:\n\nImprove lung function\nPrevent muscle loss"
   },
   {
-    "objectID": "lci_surgery.html#nasogastric-tubes",
-    "href": "lci_surgery.html#nasogastric-tubes",
+    "objectID": "lci_surgery.html#nasogastric-tube-ng",
+    "href": "lci_surgery.html#nasogastric-tube-ng",
     "title": "Surgery of the Esophagus",
-    "section": "Nasogastric Tubes",
-    "text": "Nasogastric Tubes\nA nasogastric tube is placed trough the nose into the stomach at the time surgery to remove fluid from the stomach and allow healing.\nAn x-ray is done on the 2nd to 4th day after surgery to determine when the nasogastric tube can be removed.\nYou will lay on a flat x-ray table, which will then be tilted to the standing position. Dye will then be injected into the tube and x-rays taken. If the stomach is emptying properly, the nasogastric tube will be removed."
+    "section": "Nasogastric Tube (NG)",
+    "text": "Nasogastric Tube (NG)\nNG is placed trough the nose into the stomach to remove fluid from the stomach and allow healing.\nNG tube is removed after confirmation by x-ray that the stomach is starting to empty properly"
+  },
+  {
+    "objectID": "lci_surgery.html#nasogastric-tube-ng-1",
+    "href": "lci_surgery.html#nasogastric-tube-ng-1",
+    "title": "Surgery of the Esophagus",
+    "section": "Nasogastric Tube (NG)",
+    "text": "Nasogastric Tube (NG)\nX-ray on the 2nd to 4th day after surgery\n\nWill require standing up for 5-10 minutes\nDye is injected into the NG tube\nIf stomach empties, NG tube is removed"
   },
   {
     "objectID": "lci_surgery.html#modified-barium-swallow",
     "href": "lci_surgery.html#modified-barium-swallow",
     "title": "Surgery of the Esophagus",
     "section": "Modified Barium Swallow",
-    "text": "Modified Barium Swallow\nBarium swallow tests whether swallowing muscles are working properly\n\nPerformed after nasogastric (NG) tube removed\nDrink a white chalky liquids in while x-rays are taken\n\n70% have good swallowing function \\(\\rightarrow\\) 1oz of water every hour"
+    "text": "Modified Barium Swallow\nTests whether swallowing muscles are working properly\n\nPerformed after nasogastric (NG) tube removed\nDrink a white chalky liquids in while x-rays are taken\n\n70% have good swallowing function \\(\\rightarrow\\) 1oz of water every hour"
   },
   {
     "objectID": "lci_surgery.html#protein-shakes",
     "href": "lci_surgery.html#protein-shakes",
     "title": "Surgery of the Esophagus",
     "section": "Protein Shakes",
-    "text": "Protein Shakes\nMost patients are taking protein shakes when they go home\nProtein shakes are started once you are tolerating water by mouth\n\n- 2 oz per hour to start - 4 oz per hour if 2oz are tolerated well"
+    "text": "Protein Shakes\nMost are taking protein shakes when they go home\nProtein shakes are started after tolerating water\n- 2 oz per hour to start - 4 oz per hour if 2oz are tolerated well"
   },
   {
     "objectID": "lci_surgery.html#discharge",
@@ -1292,7 +1320,7 @@
     "href": "lci_surgery.html#medicines-at-home",
     "title": "Surgery of the Esophagus",
     "section": "Medicines at Home",
-    "text": "Medicines at Home\n\nProton pump inhibitor (omeprazole, pantoprazole) for one year\nReglan (metoclopramide) - help stomach empty: 6 weeks\nLopressor (metoprolol) - helps prevent atrial fibrillation: 2 weeks"
+    "text": "Medicines at Home\n\nProton pump inhibitor (acid blocker) for one year\nReglan (metoclopramide) - stomach emptying: 6 weeks\nLopressor (metoprolol) - prevent atrial fibrillation: 2 weeks"
   },
   {
     "objectID": "lci_surgery.html#pain-medicines-at-home",
@@ -1316,18 +1344,32 @@
     "text": "Postoperative Visit\nYou will be seen in the office 7-10 days after discharge\n\nAdjust medicines\nRemove staples\nRemove drains (if needed)"
   },
   {
-    "objectID": "lci_surgery.html#jejunostomy-removal",
-    "href": "lci_surgery.html#jejunostomy-removal",
+    "objectID": "lci_surgery.html#jejunostomy-removal-8-weeks-after-surgery",
+    "href": "lci_surgery.html#jejunostomy-removal-8-weeks-after-surgery",
     "title": "Surgery of the Esophagus",
-    "section": "Jejunostomy Removal",
-    "text": "Jejunostomy Removal\nJejunostomy tube is removed in the office once you can take in enough nutrients by mouth (usually 8 weeks after surgery)\nDepending upon this tube, then may take 30 minutes and some local anesthethic to loosen up the tube for removal."
+    "section": "Jejunostomy Removal (8 weeks after surgery)",
+    "text": "Jejunostomy Removal (8 weeks after surgery)\nJejunostomy tube is removed in the office once you can take in enough nutrients by mouth\nMay take 30 minutes and some local anesthetic to loosen up the tube for removal."
   },
   {
-    "objectID": "lci_surgery.html#nutritional-monitoring",
-    "href": "lci_surgery.html#nutritional-monitoring",
+    "objectID": "lci_surgery.html#nutritional-monitoring-after-surgery",
+    "href": "lci_surgery.html#nutritional-monitoring-after-surgery",
     "title": "Surgery of the Esophagus",
-    "section": "Nutritional Monitoring",
-    "text": "Nutritional Monitoring\nAfter surgery, you may have some difficulty absorbing some nutrients:\n\nIron\nVitamin B12\nVitamin D\n\nAbout 3 months after the jejunostomy tube is removed, we will check blood levels of iron (ferritin), Vitamin B12, and Vitamin D.\nVitamin or iron replacements can be ordered by your primary care physician, medical oncologist, or surgery.\nIf levels are low, repeat testing in several months may be needed."
+    "section": "Nutritional Monitoring after Surgery",
+    "text": "Nutritional Monitoring after Surgery\nYou may have some difficulty absorbing some nutrients:\n\nIron\nVitamin B12\nVitamin D"
+  },
+  {
+    "objectID": "lci_surgery.html#nutritional-monitoring-after-surgery-1",
+    "href": "lci_surgery.html#nutritional-monitoring-after-surgery-1",
+    "title": "Surgery of the Esophagus",
+    "section": "Nutritional Monitoring after Surgery",
+    "text": "Nutritional Monitoring after Surgery\nAbout 3 months after the jejunostomy tube is removed, we will check blood levels:\n\nIron (ferritin)\nVitamin B12\nVitamin D."
+  },
+  {
+    "objectID": "lci_surgery.html#nutritional-replacements-after-surgery",
+    "href": "lci_surgery.html#nutritional-replacements-after-surgery",
+    "title": "Surgery of the Esophagus",
+    "section": "Nutritional Replacements after Surgery",
+    "text": "Nutritional Replacements after Surgery\nVitamin or iron replacements can be ordered by your primary care physician, medical oncologist, or surgeon\nIf levels are low, repeat testing in several months may be needed."
   },
   {
     "objectID": "lci_surgery.html#nutrition",
