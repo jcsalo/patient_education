@@ -5502,6 +5502,181 @@
     "text": "flowchart LR\nA[LCI Introduction] --&gt;B(GastroEsophageal Dx Staging)\nA--&gt;nutrition(Nutrition)\n\nB--&gt; C[Gastric Rx Options]\nB--&gt; D[Eso Rx Options]\n\nD--&gt;E[Eso Early Stage]\nD--&gt;F[Eso Advanced]\n\n\nE--&gt;eso_surgery[Esophagectomy]\nE--&gt;J[Eso ACA Locally Advanced]\n\nF--&gt;I[GE Metastatic]\nF--&gt;J\nF--&gt;K[Eso SCCA Locally Advanced]\n\nnutrition--&gt; jejunostomy[Jejunostomy]\nnutrition--&gt; gastrostomy[Gastrostomy]\n\nI--&gt;L[CV Port]\n\nK--&gt;L\nK--&gt;nutrition\n\nJ --&gt;eso_surgery[Esophagectomy]\nJ --&gt;nutrition\n\nexercise[Exercise]\n\neso_surgery--&gt;surgeon(surgeon)\neso_surgery--&gt;exercise\n\nclick A \"lci_intro.html\"\nclick B \"ge_dx_staging.html\"\nclick C \"gastric_rx_options.html\"\nclick D \"eso_rx_options.html\"\nclick E \"eso_advanced.html\"\nclick F \"eso_advanced.html\"\nclick G \"endoscopic_rx.html\"\nclick eso_surgery \"eso_surgery.html\"\nclick I \"ge_metastatic.html\"\nclick J \"eso_aca_locally_advanced.html\"\nclick K \"eso_scca_locally_advanced.html\"\nclick L \"cv_port.html\"\nclick nutrition \"nutrition.html\"\nclick jejunostomy \"jejunostomy.html\"\nclick gastrostomy \"gastrostomy.html\"\nclick exercise \"exercise.html\""
   },
   {
+    "objectID": "christmas2004.html",
+    "href": "christmas2004.html",
+    "title": "Christmas 2024",
+    "section": "",
+    "text": "Mary a young women who is about to deliver a baby\nJoseph - Her husband - faithful but a bit puzzled\nInnkeeper - Small business owner in Bethleham\nChief Sheep - Extroverted leader sheep\nUnder-sheep - Junior, but not used to following the crowd\nAngels - God’s “shock and awe” messengers"
+  },
+  {
+    "objectID": "christmas2004.html#cast",
+    "href": "christmas2004.html#cast",
+    "title": "Christmas 2024",
+    "section": "",
+    "text": "Mary a young women who is about to deliver a baby\nJoseph - Her husband - faithful but a bit puzzled\nInnkeeper - Small business owner in Bethleham\nChief Sheep - Extroverted leader sheep\nUnder-sheep - Junior, but not used to following the crowd\nAngels - God’s “shock and awe” messengers"
+  },
+  {
+    "objectID": "christmas2004.html#section",
+    "href": "christmas2004.html#section",
+    "title": "Christmas 2024",
+    "section": "",
+    "text": "She was very happy\nShe was a virgin Promised to be married\nMary and Joseph had to take a trip\nThey looked for a place to sleep as she was expecting a child\nFinally, the inkeeper said that they could at\nMany people, but no room for them at the inn\nStable with animals\nJoseph made a soft bed for Mary\nGod’s son was born that night\nMary wrapped him in soft cloths and laid him in a manger. She named her baby Jesus"
+  },
+  {
+    "objectID": "christmas2004.html#away-in-an-manger",
+    "href": "christmas2004.html#away-in-an-manger",
+    "title": "Christmas 2024",
+    "section": "Away in an Manger",
+    "text": "Away in an Manger\n\nAway in a manger, no crib for a bed\nThe little Lord Jesus laid down His sweet head\nThe stars in the bright sky looked down where He lay\nThe little Lord Jesus asleep on the hay"
+  },
+  {
+    "objectID": "christmas2004.html#section-1",
+    "href": "christmas2004.html#section-1",
+    "title": "Christmas 2024",
+    "section": "",
+    "text": "A savior is born in Bethleham. You will find him wrapped in swaddling clothes and lying in a manger"
+  },
+  {
+    "objectID": "christmas2004.html#first-noel",
+    "href": "christmas2004.html#first-noel",
+    "title": "Christmas 2024",
+    "section": "First Noel",
+    "text": "First Noel\n\nThe first Noel the angel did say\nwas to certain poor shepherds in fields as they lay;\nIn fields where they lay tending their sheep,\nOn a cold win­ter’s night that was so deep.\n\nNoel, Noel, Noel, Noel.\nBorn is the King of Israel"
+  },
+  {
+    "objectID": "christmas2004.html#section-2",
+    "href": "christmas2004.html#section-2",
+    "title": "Christmas 2024",
+    "section": "",
+    "text": "“Let’s see if we can find this baby”\nThey told everyone what\nSuddenly thousands of angels appeared in the sky\nPeace, Goodwill toward manking\nThey praise God for sending Jesus to be our savior, saying “Glory to God in the highest. And on earth peace, goodwill toward men.”"
+  },
+  {
+    "objectID": "christmas2004.html#hark-the-herald-angels-sing",
+    "href": "christmas2004.html#hark-the-herald-angels-sing",
+    "title": "Christmas 2024",
+    "section": "Hark the Herald Angels Sing",
+    "text": "Hark the Herald Angels Sing\nHark! the herald angels sing, “Glory to the newborn King:\npeace on earth, and mercy mild, God and sinners reconciled!”\nJoyful, all ye nations, rise, join the triumph of the skies;\nwith th’angelic hosts proclaim, “Christ is born in Bethlehem!”\n\nHark! the herald angels sing, “Glory to the newborn King”"
+  },
+  {
+    "objectID": "christmas2004.html#section-3",
+    "href": "christmas2004.html#section-3",
+    "title": "Christmas 2024",
+    "section": "",
+    "text": "They told everyone the good news. They praised God all the way back to their fields."
+  },
+  {
+    "objectID": "christmas2004.html#o-come-all-ye-faithful",
+    "href": "christmas2004.html#o-come-all-ye-faithful",
+    "title": "Christmas 2024",
+    "section": "O Come All ye Faithful",
+    "text": "O Come All ye Faithful\nO come, all ye faithful, joyful and triumphant\nO come ye, o come ye to Bethlehem\nO come and behold Him, born the King of Angels\nO come, let us adore Him x2\nO come, let us adore Him, Christ the Lord\n\n\nO come, all ye faithful x2\nO come, all ye faithful to Bethlehem"
+  },
+  {
+    "objectID": "christmas2004.html#coda",
+    "href": "christmas2004.html#coda",
+    "title": "Christmas 2024",
+    "section": "Coda",
+    "text": "Coda\n\nWhen Jesus was about 2 years old\n\n\nWise men gave gifts to Jesus and worshiped him. They knew he was to be a great king."
+  },
+  {
+    "objectID": "christmas2004.html#we-three-kings-of-orient-are",
+    "href": "christmas2004.html#we-three-kings-of-orient-are",
+    "title": "Christmas 2024",
+    "section": "We Three Kings of Orient Are",
+    "text": "We Three Kings of Orient Are"
+  },
+  {
+    "objectID": "christmas2004.html#god-rest-ye-merry-gentlemen",
+    "href": "christmas2004.html#god-rest-ye-merry-gentlemen",
+    "title": "Christmas 2024",
+    "section": "God Rest Ye Merry Gentlemen",
+    "text": "God Rest Ye Merry Gentlemen\nGod rest ye merry gentlemen Let nothing you dismay Remember Christ our Savior Was born on Christmas Day To save us all from Satan’s pow’r When we were gone astray Oh tidings of comfort and joy Comfort and joy Oh tidings of comfort and joy God rest ye merry gentlemen Let nothing you dismay Remember Christ our Savior Was born on Christmas Day To save us all from Satan’s pow’r When we were gone astray Oh tidings of comfort and joy Comfort and joy Oh tidings of comfort and joy In Bethlehem, in Israel This blessed Babe was born And laid within a manger Upon this blessed morn The which His Mother Mary Did nothing take in scorn Oh tidings of comfort and joy Comfort and joy Oh tidings of comfort and joy Fear not then, said the Angel Let nothing you affright This day is born a Savior Of a pure Virgin bright To free all those who trust in Him From Satan’s pow’r and might Oh tidings of comfort and joy Comfort and joy Oh tidings of comfort and joy God rest ye merry gentlemen Let nothing you dismay Remember Christ our Savior Was born on Christmas Day To save us all from Satan’s pow’r When we were gone astray Oh tidings of comfort and joy Comfort and joy Oh tidings of comfort and joy"
+  },
+  {
+    "objectID": "christmas2004.htm#cast",
+    "href": "christmas2004.htm#cast",
+    "title": "Christmas 2024",
+    "section": "Cast",
+    "text": "Cast\n\nMary a young women who is about to deliver a baby\nJoseph - Her husband - faithful but a bit puzzled\nInnkeeper - Small business owner in Bethleham\nChief Sheep - Extroverted leader sheep\nUnder-sheep - Junior, but not used to following the crowd\nAngels - God’s “shock and awe” messengers"
+  },
+  {
+    "objectID": "christmas2004.htm#section",
+    "href": "christmas2004.htm#section",
+    "title": "Christmas 2024",
+    "section": "",
+    "text": "She was very happy\nShe was a virgin Promised to be married\nMary and Joseph had to take a trip\nThey looked for a place to sleep as she was expecting a child\nFinally, the inkeeper said that they could at\nMany people, but no room for them at the inn\nStable with animals\nJoseph made a soft bed for Mary\nGod’s son was born that night\nMary wrapped him in soft cloths and laid him in a manger. She named her baby Jesus"
+  },
+  {
+    "objectID": "christmas2004.htm#away-in-an-manger",
+    "href": "christmas2004.htm#away-in-an-manger",
+    "title": "Christmas 2024",
+    "section": "Away in an Manger",
+    "text": "Away in an Manger\n\nAway in a manger, no crib for a bed\nThe little Lord Jesus laid down His sweet head\nThe stars in the bright sky looked down where He lay\nThe little Lord Jesus asleep on the hay"
+  },
+  {
+    "objectID": "christmas2004.htm#section-1",
+    "href": "christmas2004.htm#section-1",
+    "title": "Christmas 2024",
+    "section": "",
+    "text": "A savior is born in Bethleham. You will find him wrapped in swaddling clothes and lying in a manger"
+  },
+  {
+    "objectID": "christmas2004.htm#first-noel",
+    "href": "christmas2004.htm#first-noel",
+    "title": "Christmas 2024",
+    "section": "First Noel",
+    "text": "First Noel\n\nThe first Noel the angel did say\nwas to certain poor shepherds in fields as they lay;\nIn fields where they lay tending their sheep,\nOn a cold win­ter’s night that was so deep.\n\nNoel, Noel, Noel, Noel.\nBorn is the King of Israel"
+  },
+  {
+    "objectID": "christmas2004.htm#section-2",
+    "href": "christmas2004.htm#section-2",
+    "title": "Christmas 2024",
+    "section": "",
+    "text": "“Let’s see if we can find this baby”\nThey told everyone what\nSuddenly thousands of angels appeared in the sky\nPeace, Goodwill toward manking\nThey praise God for sending Jesus to be our savior, saying “Glory to God in the highest. And on earth peace, goodwill toward men.”"
+  },
+  {
+    "objectID": "christmas2004.htm#hark-the-herald-angels-sing",
+    "href": "christmas2004.htm#hark-the-herald-angels-sing",
+    "title": "Christmas 2024",
+    "section": "Hark the Herald Angels Sing",
+    "text": "Hark the Herald Angels Sing\nHark! the herald angels sing, “Glory to the newborn King:\npeace on earth, and mercy mild, God and sinners reconciled!”\nJoyful, all ye nations, rise, join the triumph of the skies;\nwith th’angelic hosts proclaim, “Christ is born in Bethlehem!”\n\nHark! the herald angels sing, “Glory to the newborn King”"
+  },
+  {
+    "objectID": "christmas2004.htm#section-3",
+    "href": "christmas2004.htm#section-3",
+    "title": "Christmas 2024",
+    "section": "",
+    "text": "They told everyone the good news. They praised God all the way back to their fields."
+  },
+  {
+    "objectID": "christmas2004.htm#o-come-all-ye-faithful",
+    "href": "christmas2004.htm#o-come-all-ye-faithful",
+    "title": "Christmas 2024",
+    "section": "O Come All ye Faithful",
+    "text": "O Come All ye Faithful\nO come, all ye faithful, joyful and triumphant\nO come ye, o come ye to Bethlehem\nO come and behold Him, born the King of Angels\nO come, let us adore Him x2\nO come, let us adore Him, Christ the Lord\n\n\nO come, all ye faithful x2\nO come, all ye faithful to Bethlehem"
+  },
+  {
+    "objectID": "christmas2004.htm#coda",
+    "href": "christmas2004.htm#coda",
+    "title": "Christmas 2024",
+    "section": "Coda",
+    "text": "Coda\n\nWhen Jesus was about 2 years old\n\n\nWise men gave gifts to Jesus and worshiped him. They knew he was to be a great king."
+  },
+  {
+    "objectID": "christmas2004.htm#we-three-kings-of-orient-are",
+    "href": "christmas2004.htm#we-three-kings-of-orient-are",
+    "title": "Christmas 2024",
+    "section": "We Three Kings of Orient Are",
+    "text": "We Three Kings of Orient Are"
+  },
+  {
+    "objectID": "christmas2004.htm#god-rest-ye-merry-gentlemen",
+    "href": "christmas2004.htm#god-rest-ye-merry-gentlemen",
+    "title": "Christmas 2024",
+    "section": "God Rest Ye Merry Gentlemen",
+    "text": "God Rest Ye Merry Gentlemen\nGod rest ye merry gentlemen Let nothing you dismay Remember Christ our Savior Was born on Christmas Day To save us all from Satan’s pow’r When we were gone astray Oh tidings of comfort and joy Comfort and joy Oh tidings of comfort and joy God rest ye merry gentlemen Let nothing you dismay Remember Christ our Savior Was born on Christmas Day To save us all from Satan’s pow’r When we were gone astray Oh tidings of comfort and joy Comfort and joy Oh tidings of comfort and joy In Bethlehem, in Israel This blessed Babe was born And laid within a manger Upon this blessed morn The which His Mother Mary Did nothing take in scorn Oh tidings of comfort and joy Comfort and joy Oh tidings of comfort and joy Fear not then, said the Angel Let nothing you affright This day is born a Savior Of a pure Virgin bright To free all those who trust in Him From Satan’s pow’r and might Oh tidings of comfort and joy Comfort and joy Oh tidings of comfort and joy God rest ye merry gentlemen Let nothing you dismay Remember Christ our Savior Was born on Christmas Day To save us all from Satan’s pow’r When we were gone astray Oh tidings of comfort and joy Comfort and joy Oh tidings of comfort and joy"
+  },
+  {
     "objectID": "LCI.html",
     "href": "LCI.html",
     "title": "LCI Clinic Resources",
