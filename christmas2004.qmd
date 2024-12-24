@@ -32,7 +32,7 @@ bibliography: zotero.bib
 
 ## 
 
-THis is how the birth of Jesus came about:
+This is how the birth of Jesus came about:
 
 Many years ago, God sent the angel Gabriel to a town called Nazareth to tell Mary something important.
 
@@ -148,9 +148,11 @@ O come, all ye faithful to Bethlehem
 
 ## Coda
 
->When Jesus was about 2 years old
+When Jesus was about 1 or 2 years old, some wise man followed a special star in the sky.
 
->Wise men gave gifts to Jesus and worshiped him. They knew he was to be a great king.
+It led them to the house where the little boy Jesus liver. 
+
+The Wwise men gave gifts to Jesus: gold, frankinsense, and myrrh.  They got down on their knees  and worshiped him. They knew he was to be a great king.
 
 ## We Three Kings of Orient Are
 
