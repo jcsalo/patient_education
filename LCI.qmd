@@ -13,3 +13,4 @@ output: html_document
 | Nutrition | [HTML Slides](lci_nutrition.htm) | [Handout](lci_nutrition.html) | [PPTx](lci_nutrition.pptx) | [Script](lci_nutrition.docx) |
 | Surgery | [HTML Slides](lci_surgery.htm) | [Handout](lci_surgery.html) | [PPTx](lci_surgery.pptx) | [Script](lci_surgery.docx) |
 | CV Port | [HTML Slides](lci_cvport.htm) | [Handout](lci_cvport.html) | [PPTx](lci_cvport.pptx) | [Script](lci_cvport.docx) |
+| X2024 | [HTML Slides](christmas2024.htm) | [Handdocs/christmas2024.html) | [PPTx](christmas2024.pptx) | [Script](christmas2024.docx) |
