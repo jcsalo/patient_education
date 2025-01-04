@@ -14,4 +14,5 @@ output: html_document
 | Surgery | [HTML Slides](lci_surgery.htm) | [Handout](lci_surgery.html) | [PPTx](lci_surgery.pptx) | [Script](lci_surgery.docx) |
 | CV Port | [HTML Slides](lci_cvport.htm) | [Handout](lci_cvport.html) | [PPTx](lci_cvport.pptx) | [Script](lci_cvport.docx) |
 | Gastric T3 | [HTML Slides](lci_gastrict3.htm) | [Handout](lci_gastrict3.html) | [PPTx](lci_gastrict3.pptx) | [Script](lci_gastrict3.docx) |
+| Gastric GIST | [HTML Slides](lci_gist.htm) | [Handout](lci_gist.html) | [PPTx](lci_gist.pptx) | [Script](lci_gist.docx) |
 | Gastrectomy | [HTML Sliddes](lci_gastrectomy.htm) | [Handout](lci_gastrectomy.html) | [PPTx](lci_gastrectomy.pptx) | [Script](lci_gastrectomy.docx) |
