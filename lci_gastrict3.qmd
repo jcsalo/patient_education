@@ -53,7 +53,6 @@ Food moves from the throat to the esophagus, and from there to the stomach.
 From the stomach, food moved through a valve called the pylorus into the small intestines
 :::
 
-
 ## Cancer Staging
 
 Staging refers to the tests to determine
@@ -67,12 +66,11 @@ Staging refers to the tests to determine
 ## Esophageal Cancer Staging {tbl-colwidths="[20,10,70]"}
 
 \
-\
 
 -   **T** = Tumor - Depth of growth into the wall of the esophagus\
-    \
+    
 -   **N** = Nodes - Spread to the lymph nodes\
-    \
+    
 -   **M** = Metastasis - Spread to liver, lungs, or bone
 
 ## Layers of the Wall of the Stomach
@@ -83,9 +81,11 @@ If we look at the walls of the esophagus, we see several layers:
 
 :::::: columns
 ::: {.column width="50%"}
--   Mucosa - Inner layer\
+
+\
+-   Mucosa - Inner layer
     \
--   Muscle wall (muscularis)\
+-   Muscle wall (muscularis)
     \
 -   Lymph nodes located in fat outside the muscle
 :::
@@ -185,7 +185,7 @@ Cancers are categorized by whether there is spread to the lymph nodes.
 
 -   **N0** cancers have not spread to the lymph nodes\
     \
--   **N1** cancers have spread to the lymph nodes.
+-   **M1** cancers have spread to the lymph nodes.
 :::
 
 :::: {.column width="50%"}
@@ -199,10 +199,12 @@ Cancers are categorized by whether there is spread to the lymph nodes.
 
 :::::: columns
 ::: {.column width="50%"}
-Some cancers spread from the esophagus to other parts of the body
+Some cancers spread to other parts of the body
 
 -   **M0** cancers have not spread to other parts of the body
 -   **N1** cancers have spread lungs, liver, or bone
+
+M1 cancers are considered Stage 4
 :::
 
 :::: {.column width="50%"}
@@ -216,7 +218,10 @@ Some cancers spread from the esophagus to other parts of the body
 
 :::::: columns
 ::: {.column width="40%"}
-A PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer.
+
+- Similar to CT scan
+- Tracer lights up areas of cancer
+- Preparation: Water (only) for 6 hours before
 :::
 
 :::: {.column width="60%"}
@@ -239,7 +244,7 @@ In some cases, the PET scan is not performed until a CT scans bas been done.
 -   Evaluates T stage of cancer
 :::
 
-:::: {.column width="50%"}
+:::: {.column width="45%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/EUSArtboard.png)
 :::
@@ -254,7 +259,7 @@ Endoscopic ultrasound is most helpful in early stage cancers.
 
 :::::: columns
 ::: {.column width="50%"}
--   Some esophageal cancers can spread inside the abdomen
+-   Some cancers can spread inside the abdomen
 -   Areas of spread can be very small (grain of rice)
 -   Laparoscopy can detect spread inside the abdomen
 :::
@@ -279,7 +284,7 @@ In general, laparoscopy is considered for cancers that invade from the esophagus
 A laparoscopy is performed under a general anesthetic.
 
 -   Several incisions 1/4" long
--   A telescope is inserted to look inside the abdominal cavity.
+-   Telescope looks inside the abdominal cavity.
 -   Biopsies can be performed.
 :::
 
@@ -292,7 +297,6 @@ A laparoscopy is performed under a general anesthetic.
 
 ## Treatment Plan
 
-\
 \
 - Superficial (T1) $\Rightarrow$ Endoscopic Therapy\
 \
@@ -311,18 +315,17 @@ This table summarizes four different treatment categories:
 -   Metastatic cancers are M1 and are treated primary by chemotherapy.
 :::
 
-
 ## Locally-advanced Adenocarcinoma
 
-"Sandwich" chemotherapy given before and after surgery:
+"Sandwich" chemotherapy before and after surgery:
 
-Chemotherapy (8 weeks) $\rightarrow$ Surgery $\rightarrow$ Chemotherapy (8 weeks)
+Chemotherapy (8 wks) $\rightarrow$ Surgery $\rightarrow$ Chemotherapy (8 wks)
 
 Two different drug combinations:
 
-- FLOT (more effective)
-- FOLFOX (better tolerated)
-- ECF 
+-   FLOT (more effective)
+-   FOLFOX (better tolerated)
+-   ECF (less commonly used)
 
 ## "Sandwich" Chemotherapy Drugs
 
@@ -349,11 +352,11 @@ Two different drug combinations:
 
 Surface proteins found on cancers which may show that additional drugs may be helpful:
 
-- HER-2 $\rightarrow$ Herceptin can be helpful
-- PD-L1  $\rightarrow$ Immunotherapy can be helpful
-- MMR  $\rightarrow$ Immunotherapy can be helpful
+-   HER-2 $\rightarrow$ Herceptin can be helpful
+-   PD-L1 $\rightarrow$ Immunotherapy can be helpful
+-   MMR $\rightarrow$ Immunotherapy can be helpful
 
-The biomarkers are reported in a separate pathology report
+Biomarkers reported in a separate pathology report
 
 Your medical oncologist will review these with you
 
@@ -366,12 +369,12 @@ There are several options for intravenous access:
 -   Peripheral IVs in the hand
 -   PICC line (Peripheral Inserted Central Catheter)
 -   Central Venous Port
-
+\
 [Central Venous Port](lci_cvport.htm)
 
 ## Restaging
 
-CT or PET scan will be performed after preoperative therapy
+CT or PET scan performed after preoperative therapy
 
 \
 \
@@ -379,10 +382,10 @@ CT or PET scan will be performed after preoperative therapy
 -   Surgery performed after restaging
 -   Timing depends upon recovery from therapy
 
-## Nutrition
+## Additional Slides
 
 [Nutrition Slideshow](lci_nutrition.htm)
-
-## Surgery
-
-[Gastrectomy Slideshow](lci_gsurgery.htm)
+\
+[Gastrectomy Slideshow](lci_gasgtrectomy.htm)
+\
+[Central Venous Port](lci_cvport.htm)

@@ -1,5 +1,5 @@
 ---
-title: "T3 Cancer of the Stomach"
+title: "Surgery of the Stomach"
 format: 
   pptx: 
     reference-doc: template.pptx
@@ -23,79 +23,17 @@ editor: visual
 bibliography: zotero.bib
 ---
 
-## Anatomy
-
-::::::: columns
-:::: {.column width="50%"}
-::: {style="font-size: 95%;"}
-Food moves from the throat
-
-$\rightarrow$ esophagus
-
-$\rightarrow$ stomach
-
-$\rightarrow$ small bowel (jejunum)
-:::
-::::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Anatomy_Labels.png)\]
-:::
-::::
-:::::::
-
-::: {.content-hidden unless-format="docx"}
-We'll start with reviewing some anatomy about how the body digests food.
-
-Food moves from the throat to the esophagus, and from there to the stomach.
-
-From the stomach, food moved through a valve called the pylorus into the small intestines
-:::
-
-
 ## Stomach Cancer Surgery Goals
 
 Staging refers to the tests to determine
 
--   How large is the tumor?
--   Has there been spread to lymph nodes?
--   Has it spread to other parts of the body?
+- Remove the tumor
+- Remove lymph nodes (depends upon tumor type)
+- Preserve stomach function
+- Reconstruct GI tract
 
 **Treatment options depend upont the cancer stage**
 
-## Esophageal Cancer Staging {tbl-colwidths="[20,10,70]"}
-
-\
-\
-
--   **T** = Tumor - Depth of growth into the wall of the esophagus\
-    \
--   **N** = Nodes - Spread to the lymph nodes\
-    \
--   **M** = Metastasis - Spread to liver, lungs, or bone
-
-## Layers of the Wall of the Stomach
-
-::: {.content-hidden unless-format="docx"}
-If we look at the walls of the esophagus, we see several layers:
-:::
-
-:::::: columns
-::: {.column width="50%"}
--   Mucosa - Inner layer\
-    \
--   Muscle wall (muscularis)\
-    \
--   Lymph nodes located in fat outside the muscle
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor1_ai.png)
-:::
-::::
-::::::
 
 ## Distal Cancers
 
@@ -112,7 +50,7 @@ Distal cancers are those in the lower part of the stomach
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_distal.png)
+![](https://deidt7p41jzcy.cloudfront.net/gast_distal_tumor.png)
 :::
 ::::
 ::::::
@@ -125,8 +63,13 @@ Distal cancers are those in the lower part of the stomach
 :::::: columns
 ::: {.column width="50%"}
 \
-\
-Distal gastrectomy removes the bottom portion of the stomach and performs a reconstruction
+- Removes the tumor
+- Does not remove lymph nodes
+- Best suited for:
+  - Small adenocarcinoma
+  - GI Stromal Tumors
+
+
 :::
 
 :::: {.column width="50%"}
@@ -141,12 +84,12 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 :::
 
 
-## Distal Gastrectomy
+## Partial Gastrectomy
 
 :::::: columns
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_distal.png)
+![](https://deidt7p41jzcy.cloudfront.net/gast_distal_tumor.png)
 :::
 ::::
 
@@ -172,7 +115,10 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 ::: {.column width="50%"}
 \
 \
-Distal gastrectomy removes the bottom portion of the stomach and performs a reconstruction
+
+- Removes bottom half of the stomach
+- Does not remove all lymph nodes
+- Suitable for small tumors or GIST
 :::
 
 :::: {.column width="50%"}
@@ -192,7 +138,7 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 :::::: columns
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_distal.png)
+![](https://deidt7p41jzcy.cloudfront.net/gast_distal_tumor.png)
 :::
 ::::
 
@@ -213,14 +159,16 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 ## Body Cancers
 
 ::: {.content-hidden unless-format="docx"}
-Early-stage cancers are those that are small and have not grown very far into the wall of the stomach.
+
+Some cancers are found in the body of the stomach
+
 :::
 
 :::::: columns
 ::: {.column width="50%"}
 \
 \
-Cancers start on the very inside of the layer called the mucosa
+Body is the mid-portion of the stomach
 :::
 
 :::: {.column width="50%"}
@@ -282,8 +230,8 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 :::::: columns
 ::: {.column width="50%"}
 \
-\
-In some cases, cancer cells can break off from the main tumor and spread to lymph nodes
+- Located near the top of the stomach
+- Challenging area for surgery
 :::
 
 :::: {.column width="50%"}
@@ -304,8 +252,9 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 :::::: columns
 ::: {.column width="50%"}
 \
-\
-In some cases, cancer cells can break off from the main tumor and spread to lymph nodes
+- Removes all of the stomach
+- Reconstruction with small intestine
+- Needed for those with CDH1 mutations
 :::
 
 :::: {.column width="50%"}
@@ -349,8 +298,7 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 :::::: columns
 ::: {.column width="50%"}
 \
-\
-In some cases, cancer cells can break off from the main tumor and spread to lymph nodes
+Alternative surgical approach for small tumors near the top of the stomach
 :::
 
 :::: {.column width="50%"}
@@ -388,100 +336,6 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 :::
 
 
-
-
-## T Stage
-
-:::::: columns
-::: {.column width="50%"}
-\
-\
-Cancers are categorized based upon the thickness of the tumor, known as the T stage
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor_t_full.png)
-:::
-::::
-::::::
-
-::: {.content-hidden unless-format="docx"}
-T1 tumors are early stage, and T4 tumors more advanced
-:::
-
-## N Stage
-
-:::::: columns
-::: {.column width="50%"}
-Cancers are categorized by whether there is spread to the lymph nodes.
-
--   **N0** cancers have not spread to the lymph nodes\
-    \
--   **N1** cancers have spread to the lymph nodes.
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor_t3_nodes_labels.png)
-:::
-::::
-::::::
-
-## M Stage
-
-:::::: columns
-::: {.column width="50%"}
-Some cancers spread from the esophagus to other parts of the body
-
--   **M0** cancers have not spread to other parts of the body
--   **N1** cancers have spread lungs, liver, or bone
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_M_Stage.png)
-:::
-::::
-::::::
-
-## PET scan
-
-:::::: columns
-::: {.column width="40%"}
-A PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer.
-:::
-
-:::: {.column width="60%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/PetImage.png)
-:::
-::::
-::::::
-
-::: {.content-hidden unless-format="docx"}
-In some cases, the PET scan is not performed until a CT scans bas been done.
-:::
-
-## Endoscopic Ultrasound
-
-:::::: columns
-::: {.column width="50%"}
--   Similar to upper endoscopy (EGD)
--   Ultrasound probe in scope
--   Evaluates T stage of cancer
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/EUSArtboard.png)
-:::
-::::
-::::::
-
-::: {.content-hidden unless-format="docx"}
-Endoscopic ultrasound is most helpful in early stage cancers.
-:::
 
 ## Laparoscopy
 
@@ -523,99 +377,9 @@ A laparoscopy is performed under a general anesthetic.
 ::::
 ::::::
 
-## Treatment Plan
 
-\
-\
-- Superficial (T1) $\Rightarrow$ Endoscopic Therapy\
-\
-- Localized (T1b/T2) $\Rightarrow$ Surgery\
-\
-- Locally-advanced (T3/N1) $\Rightarrow$ Chemo $\rightarrow$Surgery\
-\
-- Metastatic (M1) $\Rightarrow$ Chemotherapy
-
-::: {.content-hidden unless-format="docx"}
-This table summarizes four different treatment categories:
-
--   Superficial cancers are T1 and can be treated by endoscopic therapy without the need for surgery
--   Localized cancers are T1b or T2 and are frequently treated by surgery alone without the need for chemotherapy or radiation
--   Locally-advanced cancers are T3 or N1 and are usually treated with chemotherapy prior to surgery
--   Metastatic cancers are M1 and are treated primary by chemotherapy.
-:::
-
-
-## Locally-advanced Adenocarcinoma
-
-"Sandwich" chemotherapy given before and after surgery:
-
-Chemotherapy (8 weeks) $\rightarrow$ Surgery $\rightarrow$ Chemotherapy (8 weeks)
-
-Two different drug combinations:
-
-- FLOT (more effective)
-- FOLFOX (better tolerated)
-- ECF 
-
-## "Sandwich" Chemotherapy Drugs
-
-::::: columns
-::: {.column width="40%"}
-**FLOT**
-
--   5-FU
--   Leucovorion
--   Oxaliplatin
--   Taxotere
-:::
-
-::: {.column width="60%"}
-**FOLFOX**
-
--   5-FU
--   Leucovorin
--   Oxaliplatin
-:::
-:::::
-
-## Tumor Biomarkers
-
-Surface proteins found on cancers which may show that additional drugs may be helpful:
-
-- HER-2 $\rightarrow$ Herceptin can be helpful
-- PD-L1  $\rightarrow$ Immunotherapy can be helpful
-- MMR  $\rightarrow$ Immunotherapy can be helpful
-
-The biomarkers are reported in a separate pathology report
-
-Your medical oncologist will review these with you
-
-## Chemotherapy
-
-Chemotherapy drugs are administered intravenously.
-
-There are several options for intravenous access:
-
--   Peripheral IVs in the hand
--   PICC line (Peripheral Inserted Central Catheter)
--   Central Venous Port
-
-[Central Venous Port](lci_cvport.htm)
-
-## Restaging
-
-CT or PET scan will be performed after preoperative therapy
-
-\
-\
-
--   Surgery performed after restaging
--   Timing depends upon recovery from therapy
-
-## Nutrition
+## Other Presentations
 
 [Nutrition Slideshow](lci_nutrition.htm)
-
-## Surgery
 
 [Gastrectomy Slideshow](lci_gsurgery.htm)
