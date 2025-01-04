@@ -75,7 +75,7 @@ Staging refers to the tests to determine
 -   Has there been spread to lymph nodes?
 -   Has it spread to other parts of the body?
 
-**Treatment options depend upont the cancer stage**
+**Treatment options depend upon the cancer stage**
 
 ## Esophageal Cancer Staging {tbl-colwidths="[20,10,70]"}
 

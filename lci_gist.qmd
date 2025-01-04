@@ -23,16 +23,39 @@ editor: visual
 bibliography: zotero.bib
 ---
 
-## Stomach Cancer Surgery Goals
+## GI Stromal Tumors
 
-Staging refers to the tests to determine
-
-- Remove the tumor
+- Arise from the wall of the stomach
 - Remove lymph nodes (depends upon tumor type)
 - Preserve stomach function
 - Reconstruct GI tract
 
-**Treatment options depend upont the cancer stage**
+**Treatment options depend upon the cancer stage**
+
+
+
+
+## GIST vs Adenocarcinoma
+
+::::: columns
+::: {.column width="40%"}
+**FLOT**
+
+-   5-FU
+-   Leucovorion
+-   Oxaliplatin
+-   Taxotere
+:::
+
+::: {.column width="60%"}
+**FOLFOX**
+
+-   5-FU
+-   Leucovorin
+-   Oxaliplatin
+:::
+:::::
+
 
 
 ## Distal Cancers
