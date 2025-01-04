@@ -3444,11 +3444,11 @@
     "text": "Cancer Staging\nStaging refers to the tests to determine\n\nHow large is the tumor?\nHas there been spread to lymph nodes?\nHas it spread to other parts of the body?\n\nTreatment options depend upon the cancer stage"
   },
   {
-    "objectID": "lci_gastrict3.htm#esophageal-cancer-staging",
-    "href": "lci_gastrict3.htm#esophageal-cancer-staging",
+    "objectID": "lci_gastrict3.htm#gastric-cancer-staging",
+    "href": "lci_gastrict3.htm#gastric-cancer-staging",
     "title": "T3 Cancer of the Stomach",
-    "section": "Esophageal Cancer Staging",
-    "text": "Esophageal Cancer Staging\n\n\n\nT = Tumor - Depth of growth into the wall of the esophagus\n\nN = Nodes - Spread to the lymph nodes\n\nM = Metastasis - Spread to liver, lungs, or bone"
+    "section": "Gastric Cancer Staging",
+    "text": "Gastric Cancer Staging\n\n\n\nT = Tumor - Depth of growth into the wall of the stomach\n\nN = Nodes - Spread to the lymph nodes\n\nM = Metastasis - Spread to liver, lungs, or bone"
   },
   {
     "objectID": "lci_gastrict3.htm#layers-of-the-wall-of-the-stomach",
@@ -3598,11 +3598,11 @@
     "text": "Cancer Staging\nStaging refers to the tests to determine\n\nHow large is the tumor?\nHas there been spread to lymph nodes?\nHas it spread to other parts of the body?\n\nTreatment options depend upon the cancer stage"
   },
   {
-    "objectID": "lci_gastrict3.html#esophageal-cancer-staging",
-    "href": "lci_gastrict3.html#esophageal-cancer-staging",
+    "objectID": "lci_gastrict3.html#gastric-cancer-staging",
+    "href": "lci_gastrict3.html#gastric-cancer-staging",
     "title": "T3 Cancer of the Stomach",
-    "section": "Esophageal Cancer Staging",
-    "text": "Esophageal Cancer Staging\n\n\n\nT = Tumor - Depth of growth into the wall of the esophagus\n\nN = Nodes - Spread to the lymph nodes\n\nM = Metastasis - Spread to liver, lungs, or bone"
+    "section": "Gastric Cancer Staging",
+    "text": "Gastric Cancer Staging\n\n\n\nT = Tumor - Depth of growth into the wall of the stomach\n\nN = Nodes - Spread to the lymph nodes\n\nM = Metastasis - Spread to liver, lungs, or bone"
   },
   {
     "objectID": "lci_gastrict3.html#layers-of-the-wall-of-the-stomach",
@@ -3840,7 +3840,7 @@
     "href": "lci_gastrectomy.htm#laparoscopy",
     "title": "Surgery of the Stomach",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nSome esophageal cancers can spread inside the abdomen\nAreas of spread can be very small (grain of rice)\nLaparoscopy can detect spread inside the abdomen"
+    "text": "Laparoscopy\n\n\n\nSome stomach cancers can spread inside the abdomen\nAreas of spread can be very small (grain of rice)\nLaparoscopy can detect spread inside the abdomen"
   },
   {
     "objectID": "lci_gastrectomy.htm#laparoscopy-1",
@@ -3973,7 +3973,7 @@
     "href": "lci_gastrectomy.html#laparoscopy",
     "title": "Surgery of the Stomach",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nSome esophageal cancers can spread inside the abdomen\nAreas of spread can be very small (grain of rice)\nLaparoscopy can detect spread inside the abdomen"
+    "text": "Laparoscopy\n\n\n\nSome stomach cancers can spread inside the abdomen\nAreas of spread can be very small (grain of rice)\nLaparoscopy can detect spread inside the abdomen"
   },
   {
     "objectID": "lci_gastrectomy.html#laparoscopy-1",
@@ -4519,35 +4519,35 @@
     "href": "lci_gist.html",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "",
-    "text": "Arise from the wall of the stomach\nRemove lymph nodes (depends upon tumor type)\nPreserve stomach function\nReconstruct GI tract\n\nTreatment options depend upon the cancer stage"
+    "text": "Arise from the wall of the stomach\nGrow slowly over time\nLymph nodes rarely involved\nNot conventional stomach cancer"
   },
   {
     "objectID": "lci_gist.html#gi-stromal-tumors",
     "href": "lci_gist.html#gi-stromal-tumors",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "",
-    "text": "Arise from the wall of the stomach\nRemove lymph nodes (depends upon tumor type)\nPreserve stomach function\nReconstruct GI tract\n\nTreatment options depend upon the cancer stage"
+    "text": "Arise from the wall of the stomach\nGrow slowly over time\nLymph nodes rarely involved\nNot conventional stomach cancer"
   },
   {
     "objectID": "lci_gist.html#gist-vs-adenocarcinoma",
     "href": "lci_gist.html#gist-vs-adenocarcinoma",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "GIST vs Adenocarcinoma",
-    "text": "GIST vs Adenocarcinoma\n\n\nFLOT\n\n5-FU\nLeucovorion\nOxaliplatin\nTaxotere\n\n\nFOLFOX\n\n5-FU\nLeucovorin\nOxaliplatin"
+    "text": "GIST vs Adenocarcinoma\n\n\nGIST\n\nStarts from wall of stomach\nSlow growing\nRarely spreads to lymph nodes\n\n\nAdenocarcinoma\n\nConventional “stomach cancer”\nStarts from lining of stomach\nCan spread to lymph nodes\nMore aggressive"
   },
   {
-    "objectID": "lci_gist.html#distal-cancers",
-    "href": "lci_gist.html#distal-cancers",
+    "objectID": "lci_gist.html#patial-gastrectomy",
+    "href": "lci_gist.html#patial-gastrectomy",
     "title": "GI Stromal Tumors of the Stomach",
-    "section": "Distal Cancers",
-    "text": "Distal Cancers\n\n\n\n\nDistal cancers are those in the lower part of the stomach"
+    "section": "Patial Gastrectomy",
+    "text": "Patial Gastrectomy\n\n\n\n\nGI Stromal Tumor can come in a variety of sizes"
   },
   {
     "objectID": "lci_gist.html#partial-gastrectomy",
     "href": "lci_gist.html#partial-gastrectomy",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "Partial Gastrectomy",
-    "text": "Partial Gastrectomy\n\n\n\n- Removes the tumor - Does not remove lymph nodes - Best suited for: - Small adenocarcinoma - GI Stromal Tumors"
+    "text": "Partial Gastrectomy\n\n\n\n- Tumor removed from wall - Stomach wall closed - Lymph nodes not removed"
   },
   {
     "objectID": "lci_gist.html#partial-gastrectomy-1",
@@ -4557,11 +4557,18 @@
     "text": "Partial Gastrectomy"
   },
   {
+    "objectID": "lci_gist.html#risks-of-partial-gastrectomy",
+    "href": "lci_gist.html#risks-of-partial-gastrectomy",
+    "title": "GI Stromal Tumors of the Stomach",
+    "section": "Risks of Partial Gastrectomy",
+    "text": "Risks of Partial Gastrectomy\n\n\n\n- Leakage from closure of wall - Bleeding requiring return to surgery - Delayed stomach emptying"
+  },
+  {
     "objectID": "lci_gist.html#distal-gastrectomy",
     "href": "lci_gist.html#distal-gastrectomy",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "Distal Gastrectomy",
-    "text": "Distal Gastrectomy\n\n\n\n\n\n\nRemoves bottom half of the stomach\nDoes not remove all lymph nodes\nSuitable for small tumors or GIST"
+    "text": "Distal Gastrectomy\n\n\n\n\n\n\nRemoves bottom half of the stomach\nRarely required for GI Stromal Tumors"
   },
   {
     "objectID": "lci_gist.html#distal-gastrectomy-1",
@@ -4571,18 +4578,11 @@
     "text": "Distal Gastrectomy"
   },
   {
-    "objectID": "lci_gist.html#body-cancers",
-    "href": "lci_gist.html#body-cancers",
-    "title": "GI Stromal Tumors of the Stomach",
-    "section": "Body Cancers",
-    "text": "Body Cancers\n\n\n\n\nBody is the mid-portion of the stomach"
-  },
-  {
     "objectID": "lci_gist.html#subtotal-gastrectomy",
     "href": "lci_gist.html#subtotal-gastrectomy",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "Subtotal Gastrectomy",
-    "text": "Subtotal Gastrectomy\n\n\n\n\n- Removes bottom 2/3 of stomach - Removes nearby lymph nodes - Reconstruction with small intestine"
+    "text": "Subtotal Gastrectomy\n\n\n\n\n- Removes bottom 2/3 of stomach - Rarely required for GI Stromal Tumors"
   },
   {
     "objectID": "lci_gist.html#subtotal-gastrectomy-1",
@@ -4603,7 +4603,7 @@
     "href": "lci_gist.html#total-gastrectomy",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "Total Gastrectomy",
-    "text": "Total Gastrectomy\n\n\n\n- Removes all of the stomach - Reconstruction with small intestine - Needed for those with CDH1 mutations"
+    "text": "Total Gastrectomy\n\n\n\n- Removes all of the stomach - Very rarely required for GI Stromal Tumors"
   },
   {
     "objectID": "lci_gist.html#total-gastrectomy-1",
@@ -4638,7 +4638,7 @@
     "href": "lci_gist.html#laparoscopy",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nSome esophageal cancers can spread inside the abdomen\nAreas of spread can be very small (grain of rice)\nLaparoscopy can detect spread inside the abdomen"
+    "text": "Laparoscopy\n\n\n\nSome stomach cancers can spread inside the abdomen\nAreas of spread can be very small (grain of rice)\nLaparoscopy can detect spread inside the abdomen"
   },
   {
     "objectID": "lci_gist.html#laparoscopy-1",
@@ -4659,28 +4659,28 @@
     "href": "lci_gist.htm#gi-stromal-tumors",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "GI Stromal Tumors",
-    "text": "GI Stromal Tumors\n\nArise from the wall of the stomach\nRemove lymph nodes (depends upon tumor type)\nPreserve stomach function\nReconstruct GI tract\n\nTreatment options depend upon the cancer stage"
+    "text": "GI Stromal Tumors\n\nArise from the wall of the stomach\nGrow slowly over time\nLymph nodes rarely involved\nNot conventional stomach cancer"
   },
   {
     "objectID": "lci_gist.htm#gist-vs-adenocarcinoma",
     "href": "lci_gist.htm#gist-vs-adenocarcinoma",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "GIST vs Adenocarcinoma",
-    "text": "GIST vs Adenocarcinoma\n\n\nFLOT\n\n5-FU\nLeucovorion\nOxaliplatin\nTaxotere\n\n\nFOLFOX\n\n5-FU\nLeucovorin\nOxaliplatin"
+    "text": "GIST vs Adenocarcinoma\n\n\nGIST\n\nStarts from wall of stomach\nSlow growing\nRarely spreads to lymph nodes\n\n\nAdenocarcinoma\n\nConventional “stomach cancer”\nStarts from lining of stomach\nCan spread to lymph nodes\nMore aggressive"
   },
   {
-    "objectID": "lci_gist.htm#distal-cancers",
-    "href": "lci_gist.htm#distal-cancers",
+    "objectID": "lci_gist.htm#patial-gastrectomy",
+    "href": "lci_gist.htm#patial-gastrectomy",
     "title": "GI Stromal Tumors of the Stomach",
-    "section": "Distal Cancers",
-    "text": "Distal Cancers\n\n\n\n\nDistal cancers are those in the lower part of the stomach"
+    "section": "Patial Gastrectomy",
+    "text": "Patial Gastrectomy\n\n\n\n\nGI Stromal Tumor can come in a variety of sizes"
   },
   {
     "objectID": "lci_gist.htm#partial-gastrectomy",
     "href": "lci_gist.htm#partial-gastrectomy",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "Partial Gastrectomy",
-    "text": "Partial Gastrectomy\n\n\n\n- Removes the tumor - Does not remove lymph nodes - Best suited for: - Small adenocarcinoma - GI Stromal Tumors"
+    "text": "Partial Gastrectomy\n\n\n\n- Tumor removed from wall - Stomach wall closed - Lymph nodes not removed"
   },
   {
     "objectID": "lci_gist.htm#partial-gastrectomy-1",
@@ -4690,11 +4690,18 @@
     "text": "Partial Gastrectomy"
   },
   {
+    "objectID": "lci_gist.htm#risks-of-partial-gastrectomy",
+    "href": "lci_gist.htm#risks-of-partial-gastrectomy",
+    "title": "GI Stromal Tumors of the Stomach",
+    "section": "Risks of Partial Gastrectomy",
+    "text": "Risks of Partial Gastrectomy\n\n\n\n- Leakage from closure of wall - Bleeding requiring return to surgery - Delayed stomach emptying"
+  },
+  {
     "objectID": "lci_gist.htm#distal-gastrectomy",
     "href": "lci_gist.htm#distal-gastrectomy",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "Distal Gastrectomy",
-    "text": "Distal Gastrectomy\n\n\n\n\n\n\nRemoves bottom half of the stomach\nDoes not remove all lymph nodes\nSuitable for small tumors or GIST"
+    "text": "Distal Gastrectomy\n\n\n\n\n\n\nRemoves bottom half of the stomach\nRarely required for GI Stromal Tumors"
   },
   {
     "objectID": "lci_gist.htm#distal-gastrectomy-1",
@@ -4704,18 +4711,11 @@
     "text": "Distal Gastrectomy"
   },
   {
-    "objectID": "lci_gist.htm#body-cancers",
-    "href": "lci_gist.htm#body-cancers",
-    "title": "GI Stromal Tumors of the Stomach",
-    "section": "Body Cancers",
-    "text": "Body Cancers\n\n\n\n\nBody is the mid-portion of the stomach"
-  },
-  {
     "objectID": "lci_gist.htm#subtotal-gastrectomy",
     "href": "lci_gist.htm#subtotal-gastrectomy",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "Subtotal Gastrectomy",
-    "text": "Subtotal Gastrectomy\n\n\n\n\n- Removes bottom 2/3 of stomach - Removes nearby lymph nodes - Reconstruction with small intestine"
+    "text": "Subtotal Gastrectomy\n\n\n\n\n- Removes bottom 2/3 of stomach - Rarely required for GI Stromal Tumors"
   },
   {
     "objectID": "lci_gist.htm#subtotal-gastrectomy-1",
@@ -4736,7 +4736,7 @@
     "href": "lci_gist.htm#total-gastrectomy",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "Total Gastrectomy",
-    "text": "Total Gastrectomy\n\n\n\n- Removes all of the stomach - Reconstruction with small intestine - Needed for those with CDH1 mutations"
+    "text": "Total Gastrectomy\n\n\n\n- Removes all of the stomach - Very rarely required for GI Stromal Tumors"
   },
   {
     "objectID": "lci_gist.htm#total-gastrectomy-1",
@@ -4771,7 +4771,7 @@
     "href": "lci_gist.htm#laparoscopy",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nSome esophageal cancers can spread inside the abdomen\nAreas of spread can be very small (grain of rice)\nLaparoscopy can detect spread inside the abdomen"
+    "text": "Laparoscopy\n\n\n\nSome stomach cancers can spread inside the abdomen\nAreas of spread can be very small (grain of rice)\nLaparoscopy can detect spread inside the abdomen"
   },
   {
     "objectID": "lci_gist.htm#laparoscopy-1",
