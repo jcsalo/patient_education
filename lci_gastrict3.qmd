@@ -63,31 +63,28 @@ Staging refers to the tests to determine
 
 **Treatment options depend upon the cancer stage**
 
-## Esophageal Cancer Staging {tbl-colwidths="[20,10,70]"}
+## Gastric Cancer Staging {tbl-colwidths="[20,10,70]"}
 
 \
 
--   **T** = Tumor - Depth of growth into the wall of the esophagus\
-    
+-   **T** = Tumor - Depth of growth into the wall of the stomach\
+
 -   **N** = Nodes - Spread to the lymph nodes\
-    
+
 -   **M** = Metastasis - Spread to liver, lungs, or bone
 
 ## Layers of the Wall of the Stomach
 
 ::: {.content-hidden unless-format="docx"}
-If we look at the walls of the esophagus, we see several layers:
+If we look at the walls of the stomach, we see several layers:
 :::
 
 :::::: columns
 ::: {.column width="50%"}
-
 \
--   Mucosa - Inner layer
-    \
--   Muscle wall (muscularis)
-    \
--   Lymph nodes located in fat outside the muscle
+- Mucosa - Inner layer\
+- Muscle wall (muscularis)\
+- Lymph nodes located in fat outside the muscle
 :::
 
 :::: {.column width="50%"}
@@ -218,10 +215,9 @@ M1 cancers are considered Stage 4
 
 :::::: columns
 ::: {.column width="40%"}
-
-- Similar to CT scan
-- Tracer lights up areas of cancer
-- Preparation: Water (only) for 6 hours before
+-   Similar to CT scan
+-   Tracer lights up areas of cancer
+-   Preparation: Water (only) for 6 hours before
 :::
 
 :::: {.column width="60%"}
@@ -272,9 +268,8 @@ Endoscopic ultrasound is most helpful in early stage cancers.
 ::::::
 
 ::: {.content-hidden unless-format="docx"}
-Not all patients with esophageal cancer need a laparoscopy.
+Not all patients with stoach cancer need a laparoscopy.
 
-In general, laparoscopy is considered for cancers that invade from the esophagus into the stomach.
 :::
 
 ## Laparoscopy
@@ -368,9 +363,8 @@ There are several options for intravenous access:
 
 -   Peripheral IVs in the hand
 -   PICC line (Peripheral Inserted Central Catheter)
--   Central Venous Port
-\
-[Central Venous Port](lci_cvport.htm)
+-   Central Venous Port\
+    [Central Venous Port](lci_cvport.htm)
 
 ## Restaging
 
@@ -384,8 +378,6 @@ CT or PET scan performed after preoperative therapy
 
 ## Additional Slides
 
-[Nutrition Slideshow](lci_nutrition.htm)
-\
-[Gastrectomy Slideshow](lci_gasgtrectomy.htm)
-\
+[Nutrition Slideshow](lci_nutrition.htm)\
+[Gastrectomy Slideshow](lci_gasgtrectomy.htm)\
 [Central Venous Port](lci_cvport.htm)

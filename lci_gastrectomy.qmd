@@ -27,13 +27,12 @@ bibliography: zotero.bib
 
 Staging refers to the tests to determine
 
-- Remove the tumor
-- Remove lymph nodes (depends upon tumor type)
-- Preserve stomach function
-- Reconstruct GI tract
+-   Remove the tumor
+-   Remove lymph nodes (depends upon tumor type)
+-   Preserve stomach function
+-   Reconstruct GI tract
 
 **Treatment options depend upon the cancer stage**
-
 
 ## Distal Cancers
 
@@ -55,21 +54,12 @@ Distal cancers are those in the lower part of the stomach
 ::::
 ::::::
 
-
-
-
 ## Partial Gastrectomy
 
 :::::: columns
 ::: {.column width="50%"}
 \
-- Removes the tumor
-- Does not remove lymph nodes
-- Best suited for:
-  - Small adenocarcinoma
-  - GI Stromal Tumors
-
-
+- Removes the tumor - Does not remove lymph nodes - Best suited for: - Small adenocarcinoma - GI Stromal Tumors
 :::
 
 :::: {.column width="50%"}
@@ -83,10 +73,9 @@ Distal cancers are those in the lower part of the stomach
 Locally-advanced cancers are those that have grown through the wall of the stomach
 :::
 
-
 ## Partial Gastrectomy
 
-:::::: columns
+::::::: columns
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/gast_distal_tumor.png)
@@ -98,16 +87,11 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 ![](https://deidt7p41jzcy.cloudfront.net/gast_partial.png)
 :::
 ::::
-::::::
+:::::::
 
 ::: {.content-hidden unless-format="docx"}
 Locally-advanced cancers are those that have grown through the wall of the stomach
 :::
-
-
-
-
-
 
 ## Distal Gastrectomy
 
@@ -116,9 +100,9 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 \
 \
 
-- Removes bottom half of the stomach
-- Does not remove all lymph nodes
-- Suitable for small tumors or GIST
+-   Removes bottom half of the stomach
+-   Does not remove all lymph nodes
+-   Suitable for small tumors or GIST
 :::
 
 :::: {.column width="50%"}
@@ -132,10 +116,9 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 Locally-advanced cancers are those that have grown through the wall of the stomach
 :::
 
-
 ## Distal Gastrectomy
 
-:::::: columns
+::::::: columns
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/gast_distal_tumor.png)
@@ -147,21 +130,16 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 ![](https://deidt7p41jzcy.cloudfront.net/gast_distal_gastrectomy.png)
 :::
 ::::
-::::::
+:::::::
 
 ::: {.content-hidden unless-format="docx"}
 Locally-advanced cancers are those that have grown through the wall of the stomach
 :::
-
-
-
 
 ## Body Cancers
 
 ::: {.content-hidden unless-format="docx"}
-
 Some cancers are found in the body of the stomach
-
 :::
 
 :::::: columns
@@ -178,17 +156,13 @@ Body is the mid-portion of the stomach
 ::::
 ::::::
 
-
-
 ## Subtotal Gastrectomy
 
 :::::: columns
 ::: {.column width="50%"}
 \
 \
-- Removes bottom 2/3 of stomach
-- Removes nearby lymph nodes
-- Reconstruction with small intestine
+- Removes bottom 2/3 of stomach - Removes nearby lymph nodes - Reconstruction with small intestine
 :::
 
 :::: {.column width="50%"}
@@ -202,10 +176,9 @@ Body is the mid-portion of the stomach
 Locally-advanced cancers are those that have grown through the wall of the stomach
 :::
 
-
 ## Subtotal Gastrectomy
 
-:::::: columns
+::::::: columns
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/gast_body.png)
@@ -217,21 +190,18 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 ![](https://deidt7p41jzcy.cloudfront.net/gast_subtotal.png)
 :::
 ::::
-::::::
+:::::::
 
 ::: {.content-hidden unless-format="docx"}
 Locally-advanced cancers are those that have grown through the wall of the stomach
 :::
-
-
 
 ## Proximal Tumors
 
 :::::: columns
 ::: {.column width="50%"}
 \
-- Located near the top of the stomach
-- Challenging area for surgery
+- Located near the top of the stomach - Challenging area for surgery
 :::
 
 :::: {.column width="50%"}
@@ -244,17 +214,13 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 ::: {.content-hidden unless-format="docx"}
 If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
 :::
-
-
 
 ## Total Gastrectomy
 
 :::::: columns
 ::: {.column width="50%"}
 \
-- Removes all of the stomach
-- Reconstruction with small intestine
-- Needed for those with CDH1 mutations
+- Removes all of the stomach - Reconstruction with small intestine - Needed for those with CDH1 mutations
 :::
 
 :::: {.column width="50%"}
@@ -268,12 +234,9 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
 :::
 
-
-
-
 ## Total Gastrectomy
 
-:::::: columns
+::::::: columns
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/gast_proximal_tumor.png)
@@ -285,22 +248,20 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 ![](https://deidt7p41jzcy.cloudfront.net/gast_total.png)
 :::
 ::::
-::::::
+:::::::
 
 ::: {.content-hidden unless-format="docx"}
 If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
 :::
 
-
 ## Dual Tract Gastrectomy
-
 
 :::::: columns
 ::: {.column width="50%"}
 \
 Alternative surgical approach for small tumors near the top of the stomach
 
-- Preserves the bottom of the stomach as a reservoir
+-   Preserves the bottom of the stomach as a reservoir
 :::
 
 :::: {.column width="50%"}
@@ -314,12 +275,9 @@ Alternative surgical approach for small tumors near the top of the stomach
 If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
 :::
 
-
-
-
 ## Dual Tract Gastrectomy
 
-:::::: columns
+::::::: columns
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/gast_proximal_tumor.png)
@@ -331,26 +289,24 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 ![](https://deidt7p41jzcy.cloudfront.net/gast_dualtract.png)
 :::
 ::::
-::::::
+:::::::
 
 ::: {.content-hidden unless-format="docx"}
 If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
 :::
 
-
 ## Risks of Surgery
 
-- Leak where bowel is joined together (anastomosis)
-- Bleeding requiring reoperation
-- Delayed stomach function
-- Infection in the abdomen
-
+-   Leak where bowel is joined together (anastomosis)
+-   Bleeding requiring reoperation
+-   Delayed stomach function
+-   Infection in the abdomen
 
 ## Laparoscopy
 
 :::::: columns
 ::: {.column width="50%"}
--   Some esophageal cancers can spread inside the abdomen
+-   Some stomach cancers can spread inside the abdomen
 -   Areas of spread can be very small (grain of rice)
 -   Laparoscopy can detect spread inside the abdomen
 :::
@@ -363,9 +319,7 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 ::::::
 
 ::: {.content-hidden unless-format="docx"}
-Not all patients with esophageal cancer need a laparoscopy.
-
-In general, laparoscopy is considered for cancers that invade from the esophagus into the stomach.
+Not all patients with gastric cancer need a laparoscopy.
 :::
 
 ## Laparoscopy
@@ -385,7 +339,6 @@ A laparoscopy is performed under a general anesthetic.
 :::
 ::::
 ::::::
-
 
 ## Other Presentations
 
