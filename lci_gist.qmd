@@ -53,6 +53,20 @@ bibliography: zotero.bib
 :::::
 
 
+## Benign or Malignant?
+
+
+GIST tumors have a range of behavior:
+
+- Small tumors tend to behave in a benign manner but can grow over time
+- Larger tumors tend to behave in a malignant (cancerous) manner
+
+## GIST Treatment
+
+- Initial treatment usually surgery
+- Gleevec pills after surgery for patients at high risk of recurrence
+  - 1 to 3 years depending upon risk
+- Large tumors treated with Gleevec before surgery
 
 ## Patial Gastrectomy
 
@@ -129,6 +143,7 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 :::::: columns
 ::: {.column width="50%"}
 \
+
 - Leakage from closure of wall
 - Bleeding requiring return to surgery
 - Delayed stomach emptying
@@ -154,7 +169,7 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 :::::: columns
 ::: {.column width="50%"}
 \
-\
+
 
 - Removes bottom half of the stomach
 - Rarely required for GI Stromal Tumors
@@ -202,6 +217,7 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 ::: {.column width="50%"}
 \
 \
+
 - Removes bottom 2/3 of stomach
 - Rarely required for GI Stromal Tumors
 :::
@@ -245,6 +261,7 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 :::::: columns
 ::: {.column width="50%"}
 \
+
 - Located near the top of the stomach
 - Challenging area for surgery
 :::
