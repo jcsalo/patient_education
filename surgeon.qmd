@@ -63,24 +63,19 @@ We're going to start by talking about outcomes after surgery and how statistics 
 
 ## Baseball
 
-
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
-If you go to a baseball game and want to know how a team is doing, you look at the scoreboard 
+If you go to a baseball game and want to know how a team is doing, you look at the scoreboard
 :::
 
 ::: {.column .fragment width="50%"}
-![](images/action-1850887_1920.jpg)
-![](images/sports-4341729_1920.jpg)
+![](images/action-1850887_1920.jpg) ![](images/sports-4341729_1920.jpg)
 :::
-:::
-
-
+:::::
 
 ## Baseball
 
-
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
 If you want to evaluate an individual baseball player, or you want to compare one baseball player to another, you want to know more than just how they did in one game: you would look at their *batting average*
 :::
@@ -88,26 +83,23 @@ If you want to evaluate an individual baseball player, or you want to compare on
 ::: {.column .fragment width="50%"}
 ![](images/hit-1407826_1920.jpg)
 :::
-:::
+:::::
 
 ## Baseball
 
-
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
 Micky Mantle is regarded as one of baseball's greatest players, and this baseball card from 1952 is one of the most valuable in history
 :::
 
 ::: {.column .fragment width="50%"}
 ![](images/mickey.jpg)
-
 :::
-:::
+:::::
 
+## 
 
-##
-
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
 If you look at the back of his card, you'll find lots of statistics, including his ... batting average
 :::
@@ -115,36 +107,33 @@ If you look at the back of his card, you'll find lots of statistics, including h
 ::: {.column .fragment width="50%"}
 ![](images/mickey.jpg)
 :::
-:::
+:::::
 
-
-##
+## 
 
 The batting average allows fans to compare players. A player with a high batting average may not hit a home run every time, but a player with a high batting average is certainly going to help win more games. The batting average won't absolutely predict what will happen with every time a player goes to bat, but it shows an *average* over the season or over a career.
 
-##
+## 
 
-Something which the batting average doesn't show, however, is the difficulty level of the games.  One can assume that in the major leagues the competitions is pretty high.
+Something which the batting average doesn't show, however, is the difficulty level of the games. One can assume that in the major leagues the competitions is pretty high.
 
-##
+## 
 
-::: columns
+::::: columns
 ::: {.column .fragment width="50%"}
 We can imagine that any given batter is going to have a lower batting average against a top notch pitcher like Sandy Kofax, than against a little league pitcher
 :::
 
 ::: {.column .fragment width="50%"}
-!!! Photo of Sandy Kofax!!!
-!!! Photo of Little League Pitcher!!!
+!!! Photo of Sandy Kofax!!! !!! Photo of Little League Pitcher!!!
 :::
-:::
+:::::
 
-##
+## 
 
 When you choose a surgeon or a hospital for your cancer surgery, you want to find the best chance of success. You want to make sure you have the best players on the field, and you want to maximize your chances of winning.
 
 Unfortunately, there aren't baseball cards for hospitals and surgeons, and finding the statistics for a hospital or surgeon can be a challenge, but it's still important that you have all the information you need to make a good decision.
-
 
 ## Hospital Volume
 
