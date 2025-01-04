@@ -299,6 +299,8 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 ::: {.column width="50%"}
 \
 Alternative surgical approach for small tumors near the top of the stomach
+
+- Preserves the bottom of the stomach as a reservoir
 :::
 
 :::: {.column width="50%"}
@@ -335,6 +337,13 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
 :::
 
+
+## Risks of Surgery
+
+- Leak where bowel is joined together (anastomosis)
+- Bleeding requiring reoperation
+- Delayed stomach function
+- Infection in the abdomen
 
 
 ## Laparoscopy
