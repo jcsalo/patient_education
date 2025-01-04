@@ -3448,14 +3448,14 @@
     "href": "lci_gastrict3.htm#esophageal-cancer-staging",
     "title": "T3 Cancer of the Stomach",
     "section": "Esophageal Cancer Staging",
-    "text": "Esophageal Cancer Staging\n\n\n\n\nT = Tumor - Depth of growth into the wall of the esophagus\n\n\nN = Nodes - Spread to the lymph nodes\n\n\nM = Metastasis - Spread to liver, lungs, or bone"
+    "text": "Esophageal Cancer Staging\n\n\n\nT = Tumor - Depth of growth into the wall of the esophagus\n\nN = Nodes - Spread to the lymph nodes\n\nM = Metastasis - Spread to liver, lungs, or bone"
   },
   {
     "objectID": "lci_gastrict3.htm#layers-of-the-wall-of-the-stomach",
     "href": "lci_gastrict3.htm#layers-of-the-wall-of-the-stomach",
     "title": "T3 Cancer of the Stomach",
     "section": "Layers of the Wall of the Stomach",
-    "text": "Layers of the Wall of the Stomach\n\n\n\nMucosa - Inner layer\n\n\nMuscle wall (muscularis)\n\n\nLymph nodes located in fat outside the muscle"
+    "text": "Layers of the Wall of the Stomach\n\n\n\n- Mucosa - Inner layer\n- Muscle wall (muscularis)\n- Lymph nodes located in fat outside the muscle"
   },
   {
     "objectID": "lci_gastrict3.htm#early-stage-cancers",
@@ -3490,21 +3490,21 @@
     "href": "lci_gastrict3.htm#n-stage",
     "title": "T3 Cancer of the Stomach",
     "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\n\n\nN1 cancers have spread to the lymph nodes."
+    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\n\n\nM1 cancers have spread to the lymph nodes."
   },
   {
     "objectID": "lci_gastrict3.htm#m-stage",
     "href": "lci_gastrict3.htm#m-stage",
     "title": "T3 Cancer of the Stomach",
     "section": "M Stage",
-    "text": "M Stage\n\n\nSome cancers spread from the esophagus to other parts of the body\n\nM0 cancers have not spread to other parts of the body\nN1 cancers have spread lungs, liver, or bone"
+    "text": "M Stage\n\n\nSome cancers spread to other parts of the body\n\nM0 cancers have not spread to other parts of the body\nN1 cancers have spread lungs, liver, or bone\n\nM1 cancers are considered Stage 4"
   },
   {
     "objectID": "lci_gastrict3.htm#pet-scan",
     "href": "lci_gastrict3.htm#pet-scan",
     "title": "T3 Cancer of the Stomach",
     "section": "PET scan",
-    "text": "PET scan\n\n\nA PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer."
+    "text": "PET scan\n\n\n\nSimilar to CT scan\nTracer lights up areas of cancer\nPreparation: Water (only) for 6 hours before"
   },
   {
     "objectID": "lci_gastrict3.htm#endoscopic-ultrasound",
@@ -3518,28 +3518,28 @@
     "href": "lci_gastrict3.htm#laparoscopy",
     "title": "T3 Cancer of the Stomach",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nSome esophageal cancers can spread inside the abdomen\nAreas of spread can be very small (grain of rice)\nLaparoscopy can detect spread inside the abdomen"
+    "text": "Laparoscopy\n\n\n\nSome cancers can spread inside the abdomen\nAreas of spread can be very small (grain of rice)\nLaparoscopy can detect spread inside the abdomen"
   },
   {
     "objectID": "lci_gastrict3.htm#laparoscopy-1",
     "href": "lci_gastrict3.htm#laparoscopy-1",
     "title": "T3 Cancer of the Stomach",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\nA laparoscopy is performed under a general anesthetic.\n\nSeveral incisions 1/4” long\nA telescope is inserted to look inside the abdominal cavity.\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\nA laparoscopy is performed under a general anesthetic.\n\nSeveral incisions 1/4” long\nTelescope looks inside the abdominal cavity.\nBiopsies can be performed."
   },
   {
     "objectID": "lci_gastrict3.htm#treatment-plan",
     "href": "lci_gastrict3.htm#treatment-plan",
     "title": "T3 Cancer of the Stomach",
     "section": "Treatment Plan",
-    "text": "Treatment Plan\n\n\n- Superficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\n- Localized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\n- Locally-advanced (T3/N1) \\(\\Rightarrow\\) Chemo \\(\\rightarrow\\)Surgery\n\n- Metastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
+    "text": "Treatment Plan\n\n- Superficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\n- Localized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\n- Locally-advanced (T3/N1) \\(\\Rightarrow\\) Chemo \\(\\rightarrow\\)Surgery\n\n- Metastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
   },
   {
     "objectID": "lci_gastrict3.htm#locally-advanced-adenocarcinoma",
     "href": "lci_gastrict3.htm#locally-advanced-adenocarcinoma",
     "title": "T3 Cancer of the Stomach",
     "section": "Locally-advanced Adenocarcinoma",
-    "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy given before and after surgery:\nChemotherapy (8 weeks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemotherapy (8 weeks)\nTwo different drug combinations:\n\nFLOT (more effective)\nFOLFOX (better tolerated)\nECF"
+    "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy before and after surgery:\nChemotherapy (8 wks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemotherapy (8 wks)\nTwo different drug combinations:\n\nFLOT (more effective)\nFOLFOX (better tolerated)\nECF (less commonly used)"
   },
   {
     "objectID": "lci_gastrict3.htm#sandwich-chemotherapy-drugs",
@@ -3553,35 +3553,28 @@
     "href": "lci_gastrict3.htm#tumor-biomarkers",
     "title": "T3 Cancer of the Stomach",
     "section": "Tumor Biomarkers",
-    "text": "Tumor Biomarkers\nSurface proteins found on cancers which may show that additional drugs may be helpful:\n\nHER-2 \\(\\rightarrow\\) Herceptin can be helpful\nPD-L1 \\(\\rightarrow\\) Immunotherapy can be helpful\nMMR \\(\\rightarrow\\) Immunotherapy can be helpful\n\nThe biomarkers are reported in a separate pathology report\nYour medical oncologist will review these with you"
+    "text": "Tumor Biomarkers\nSurface proteins found on cancers which may show that additional drugs may be helpful:\n\nHER-2 \\(\\rightarrow\\) Herceptin can be helpful\nPD-L1 \\(\\rightarrow\\) Immunotherapy can be helpful\nMMR \\(\\rightarrow\\) Immunotherapy can be helpful\n\nBiomarkers reported in a separate pathology report\nYour medical oncologist will review these with you"
   },
   {
     "objectID": "lci_gastrict3.htm#chemotherapy",
     "href": "lci_gastrict3.htm#chemotherapy",
     "title": "T3 Cancer of the Stomach",
     "section": "Chemotherapy",
-    "text": "Chemotherapy\nChemotherapy drugs are administered intravenously.\nThere are several options for intravenous access:\n\nPeripheral IVs in the hand\nPICC line (Peripheral Inserted Central Catheter)\nCentral Venous Port\n\nCentral Venous Port"
+    "text": "Chemotherapy\nChemotherapy drugs are administered intravenously.\nThere are several options for intravenous access:\n\nPeripheral IVs in the hand\nPICC line (Peripheral Inserted Central Catheter)\nCentral Venous Port\nCentral Venous Port"
   },
   {
     "objectID": "lci_gastrict3.htm#restaging",
     "href": "lci_gastrict3.htm#restaging",
     "title": "T3 Cancer of the Stomach",
     "section": "Restaging",
-    "text": "Restaging\nCT or PET scan will be performed after preoperative therapy\n\n\n\n\nSurgery performed after restaging\nTiming depends upon recovery from therapy"
+    "text": "Restaging\nCT or PET scan performed after preoperative therapy\n\n\n\n\nSurgery performed after restaging\nTiming depends upon recovery from therapy"
   },
   {
-    "objectID": "lci_gastrict3.htm#nutrition",
-    "href": "lci_gastrict3.htm#nutrition",
+    "objectID": "lci_gastrict3.htm#additional-slides",
+    "href": "lci_gastrict3.htm#additional-slides",
     "title": "T3 Cancer of the Stomach",
-    "section": "Nutrition",
-    "text": "Nutrition\nNutrition Slideshow"
-  },
-  {
-    "objectID": "lci_gastrict3.htm#surgery",
-    "href": "lci_gastrict3.htm#surgery",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Surgery",
-    "text": "Surgery\nGastrectomy Slideshow"
+    "section": "Additional Slides",
+    "text": "Additional Slides\nNutrition Slideshow\nGastrectomy Slideshow\nCentral Venous Port"
   },
   {
     "objectID": "lci_gastrict3.html",
@@ -3609,14 +3602,14 @@
     "href": "lci_gastrict3.html#esophageal-cancer-staging",
     "title": "T3 Cancer of the Stomach",
     "section": "Esophageal Cancer Staging",
-    "text": "Esophageal Cancer Staging\n\n\n\n\nT = Tumor - Depth of growth into the wall of the esophagus\n\n\nN = Nodes - Spread to the lymph nodes\n\n\nM = Metastasis - Spread to liver, lungs, or bone"
+    "text": "Esophageal Cancer Staging\n\n\n\nT = Tumor - Depth of growth into the wall of the esophagus\n\nN = Nodes - Spread to the lymph nodes\n\nM = Metastasis - Spread to liver, lungs, or bone"
   },
   {
     "objectID": "lci_gastrict3.html#layers-of-the-wall-of-the-stomach",
     "href": "lci_gastrict3.html#layers-of-the-wall-of-the-stomach",
     "title": "T3 Cancer of the Stomach",
     "section": "Layers of the Wall of the Stomach",
-    "text": "Layers of the Wall of the Stomach\n\n\n\nMucosa - Inner layer\n\n\nMuscle wall (muscularis)\n\n\nLymph nodes located in fat outside the muscle"
+    "text": "Layers of the Wall of the Stomach\n\n\n\n- Mucosa - Inner layer\n- Muscle wall (muscularis)\n- Lymph nodes located in fat outside the muscle"
   },
   {
     "objectID": "lci_gastrict3.html#early-stage-cancers",
@@ -3651,21 +3644,21 @@
     "href": "lci_gastrict3.html#n-stage",
     "title": "T3 Cancer of the Stomach",
     "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\n\n\nN1 cancers have spread to the lymph nodes."
+    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\n\n\nM1 cancers have spread to the lymph nodes."
   },
   {
     "objectID": "lci_gastrict3.html#m-stage",
     "href": "lci_gastrict3.html#m-stage",
     "title": "T3 Cancer of the Stomach",
     "section": "M Stage",
-    "text": "M Stage\n\n\nSome cancers spread from the esophagus to other parts of the body\n\nM0 cancers have not spread to other parts of the body\nN1 cancers have spread lungs, liver, or bone"
+    "text": "M Stage\n\n\nSome cancers spread to other parts of the body\n\nM0 cancers have not spread to other parts of the body\nN1 cancers have spread lungs, liver, or bone\n\nM1 cancers are considered Stage 4"
   },
   {
     "objectID": "lci_gastrict3.html#pet-scan",
     "href": "lci_gastrict3.html#pet-scan",
     "title": "T3 Cancer of the Stomach",
     "section": "PET scan",
-    "text": "PET scan\n\n\nA PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer."
+    "text": "PET scan\n\n\n\nSimilar to CT scan\nTracer lights up areas of cancer\nPreparation: Water (only) for 6 hours before"
   },
   {
     "objectID": "lci_gastrict3.html#endoscopic-ultrasound",
@@ -3679,28 +3672,28 @@
     "href": "lci_gastrict3.html#laparoscopy",
     "title": "T3 Cancer of the Stomach",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nSome esophageal cancers can spread inside the abdomen\nAreas of spread can be very small (grain of rice)\nLaparoscopy can detect spread inside the abdomen"
+    "text": "Laparoscopy\n\n\n\nSome cancers can spread inside the abdomen\nAreas of spread can be very small (grain of rice)\nLaparoscopy can detect spread inside the abdomen"
   },
   {
     "objectID": "lci_gastrict3.html#laparoscopy-1",
     "href": "lci_gastrict3.html#laparoscopy-1",
     "title": "T3 Cancer of the Stomach",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\nA laparoscopy is performed under a general anesthetic.\n\nSeveral incisions 1/4” long\nA telescope is inserted to look inside the abdominal cavity.\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\nA laparoscopy is performed under a general anesthetic.\n\nSeveral incisions 1/4” long\nTelescope looks inside the abdominal cavity.\nBiopsies can be performed."
   },
   {
     "objectID": "lci_gastrict3.html#treatment-plan",
     "href": "lci_gastrict3.html#treatment-plan",
     "title": "T3 Cancer of the Stomach",
     "section": "Treatment Plan",
-    "text": "Treatment Plan\n\n\n- Superficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\n- Localized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\n- Locally-advanced (T3/N1) \\(\\Rightarrow\\) Chemo \\(\\rightarrow\\)Surgery\n\n- Metastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
+    "text": "Treatment Plan\n\n- Superficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\n- Localized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\n- Locally-advanced (T3/N1) \\(\\Rightarrow\\) Chemo \\(\\rightarrow\\)Surgery\n\n- Metastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
   },
   {
     "objectID": "lci_gastrict3.html#locally-advanced-adenocarcinoma",
     "href": "lci_gastrict3.html#locally-advanced-adenocarcinoma",
     "title": "T3 Cancer of the Stomach",
     "section": "Locally-advanced Adenocarcinoma",
-    "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy given before and after surgery:\nChemotherapy (8 weeks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemotherapy (8 weeks)\nTwo different drug combinations:\n\nFLOT (more effective)\nFOLFOX (better tolerated)\nECF"
+    "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy before and after surgery:\nChemotherapy (8 wks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemotherapy (8 wks)\nTwo different drug combinations:\n\nFLOT (more effective)\nFOLFOX (better tolerated)\nECF (less commonly used)"
   },
   {
     "objectID": "lci_gastrict3.html#sandwich-chemotherapy-drugs",
@@ -3714,35 +3707,28 @@
     "href": "lci_gastrict3.html#tumor-biomarkers",
     "title": "T3 Cancer of the Stomach",
     "section": "Tumor Biomarkers",
-    "text": "Tumor Biomarkers\nSurface proteins found on cancers which may show that additional drugs may be helpful:\n\nHER-2 \\(\\rightarrow\\) Herceptin can be helpful\nPD-L1 \\(\\rightarrow\\) Immunotherapy can be helpful\nMMR \\(\\rightarrow\\) Immunotherapy can be helpful\n\nThe biomarkers are reported in a separate pathology report\nYour medical oncologist will review these with you"
+    "text": "Tumor Biomarkers\nSurface proteins found on cancers which may show that additional drugs may be helpful:\n\nHER-2 \\(\\rightarrow\\) Herceptin can be helpful\nPD-L1 \\(\\rightarrow\\) Immunotherapy can be helpful\nMMR \\(\\rightarrow\\) Immunotherapy can be helpful\n\nBiomarkers reported in a separate pathology report\nYour medical oncologist will review these with you"
   },
   {
     "objectID": "lci_gastrict3.html#chemotherapy",
     "href": "lci_gastrict3.html#chemotherapy",
     "title": "T3 Cancer of the Stomach",
     "section": "Chemotherapy",
-    "text": "Chemotherapy\nChemotherapy drugs are administered intravenously.\nThere are several options for intravenous access:\n\nPeripheral IVs in the hand\nPICC line (Peripheral Inserted Central Catheter)\nCentral Venous Port\n\nCentral Venous Port"
+    "text": "Chemotherapy\nChemotherapy drugs are administered intravenously.\nThere are several options for intravenous access:\n\nPeripheral IVs in the hand\nPICC line (Peripheral Inserted Central Catheter)\nCentral Venous Port\nCentral Venous Port"
   },
   {
     "objectID": "lci_gastrict3.html#restaging",
     "href": "lci_gastrict3.html#restaging",
     "title": "T3 Cancer of the Stomach",
     "section": "Restaging",
-    "text": "Restaging\nCT or PET scan will be performed after preoperative therapy\n\n\n\n\nSurgery performed after restaging\nTiming depends upon recovery from therapy"
+    "text": "Restaging\nCT or PET scan performed after preoperative therapy\n\n\n\n\nSurgery performed after restaging\nTiming depends upon recovery from therapy"
   },
   {
-    "objectID": "lci_gastrict3.html#nutrition",
-    "href": "lci_gastrict3.html#nutrition",
+    "objectID": "lci_gastrict3.html#additional-slides",
+    "href": "lci_gastrict3.html#additional-slides",
     "title": "T3 Cancer of the Stomach",
-    "section": "Nutrition",
-    "text": "Nutrition\nNutrition Slideshow"
-  },
-  {
-    "objectID": "lci_gastrict3.html#surgery",
-    "href": "lci_gastrict3.html#surgery",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Surgery",
-    "text": "Surgery\nGastrectomy Slideshow"
+    "section": "Additional Slides",
+    "text": "Additional Slides\nNutrition Slideshow\nGastrectomy Slideshow\nCentral Venous Port"
   },
   {
     "objectID": "gastric_rx_options_slides.html.htm#early-stage",
@@ -4272,457 +4258,261 @@
   {
     "objectID": "lci_gastrectomy.html",
     "href": "lci_gastrectomy.html",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "",
-    "text": "Food moves from the throat\n\\(\\rightarrow\\) esophagus\n\\(\\rightarrow\\) stomach\n\\(\\rightarrow\\) small bowel (jejunum)\n\n\n]"
-  },
-  {
-    "objectID": "lci_gastrectomy.html#anatomy",
-    "href": "lci_gastrectomy.html#anatomy",
-    "title": "T3 Cancer of the Stomach",
-    "section": "",
-    "text": "Food moves from the throat\n\\(\\rightarrow\\) esophagus\n\\(\\rightarrow\\) stomach\n\\(\\rightarrow\\) small bowel (jejunum)\n\n\n]"
+    "text": "Staging refers to the tests to determine\n\nRemove the tumor\nRemove lymph nodes (depends upon tumor type)\nPreserve stomach function\nReconstruct GI tract\n\nTreatment options depend upont the cancer stage"
   },
   {
     "objectID": "lci_gastrectomy.html#stomach-cancer-surgery-goals",
     "href": "lci_gastrectomy.html#stomach-cancer-surgery-goals",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Stomach Cancer Surgery Goals",
-    "text": "Stomach Cancer Surgery Goals\nStaging refers to the tests to determine\n\nHow large is the tumor?\nHas there been spread to lymph nodes?\nHas it spread to other parts of the body?\n\nTreatment options depend upont the cancer stage"
-  },
-  {
-    "objectID": "lci_gastrectomy.html#esophageal-cancer-staging",
-    "href": "lci_gastrectomy.html#esophageal-cancer-staging",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Esophageal Cancer Staging",
-    "text": "Esophageal Cancer Staging\n\n\n\n\nT = Tumor - Depth of growth into the wall of the esophagus\n\n\nN = Nodes - Spread to the lymph nodes\n\n\nM = Metastasis - Spread to liver, lungs, or bone"
-  },
-  {
-    "objectID": "lci_gastrectomy.html#layers-of-the-wall-of-the-stomach",
-    "href": "lci_gastrectomy.html#layers-of-the-wall-of-the-stomach",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Layers of the Wall of the Stomach",
-    "text": "Layers of the Wall of the Stomach\n\n\n\nMucosa - Inner layer\n\n\nMuscle wall (muscularis)\n\n\nLymph nodes located in fat outside the muscle"
+    "title": "Surgery of the Stomach",
+    "section": "",
+    "text": "Staging refers to the tests to determine\n\nRemove the tumor\nRemove lymph nodes (depends upon tumor type)\nPreserve stomach function\nReconstruct GI tract\n\nTreatment options depend upont the cancer stage"
   },
   {
     "objectID": "lci_gastrectomy.html#distal-cancers",
     "href": "lci_gastrectomy.html#distal-cancers",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Distal Cancers",
     "text": "Distal Cancers\n\n\n\n\nDistal cancers are those in the lower part of the stomach"
   },
   {
     "objectID": "lci_gastrectomy.html#partial-gastrectomy",
     "href": "lci_gastrectomy.html#partial-gastrectomy",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Partial Gastrectomy",
-    "text": "Partial Gastrectomy\n\n\n\n\nDistal gastrectomy removes the bottom portion of the stomach and performs a reconstruction"
+    "text": "Partial Gastrectomy\n\n\n\n- Removes the tumor - Does not remove lymph nodes - Best suited for: - Small adenocarcinoma - GI Stromal Tumors"
+  },
+  {
+    "objectID": "lci_gastrectomy.html#partial-gastrectomy-1",
+    "href": "lci_gastrectomy.html#partial-gastrectomy-1",
+    "title": "Surgery of the Stomach",
+    "section": "Partial Gastrectomy",
+    "text": "Partial Gastrectomy"
   },
   {
     "objectID": "lci_gastrectomy.html#distal-gastrectomy",
     "href": "lci_gastrectomy.html#distal-gastrectomy",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Distal Gastrectomy",
-    "text": "Distal Gastrectomy"
+    "text": "Distal Gastrectomy\n\n\n\n\n\n\nRemoves bottom half of the stomach\nDoes not remove all lymph nodes\nSuitable for small tumors or GIST"
   },
   {
     "objectID": "lci_gastrectomy.html#distal-gastrectomy-1",
     "href": "lci_gastrectomy.html#distal-gastrectomy-1",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Distal Gastrectomy",
-    "text": "Distal Gastrectomy\n\n\n\n\nDistal gastrectomy removes the bottom portion of the stomach and performs a reconstruction"
-  },
-  {
-    "objectID": "lci_gastrectomy.html#distal-gastrectomy-2",
-    "href": "lci_gastrectomy.html#distal-gastrectomy-2",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Distal Gastrectomy",
     "text": "Distal Gastrectomy"
   },
   {
     "objectID": "lci_gastrectomy.html#body-cancers",
     "href": "lci_gastrectomy.html#body-cancers",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Body Cancers",
-    "text": "Body Cancers\n\n\n\n\nCancers start on the very inside of the layer called the mucosa"
+    "text": "Body Cancers\n\n\n\n\nBody is the mid-portion of the stomach"
   },
   {
     "objectID": "lci_gastrectomy.html#subtotal-gastrectomy",
     "href": "lci_gastrectomy.html#subtotal-gastrectomy",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Subtotal Gastrectomy",
     "text": "Subtotal Gastrectomy\n\n\n\n\n- Removes bottom 2/3 of stomach - Removes nearby lymph nodes - Reconstruction with small intestine"
   },
   {
     "objectID": "lci_gastrectomy.html#subtotal-gastrectomy-1",
     "href": "lci_gastrectomy.html#subtotal-gastrectomy-1",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Subtotal Gastrectomy",
     "text": "Subtotal Gastrectomy"
   },
   {
     "objectID": "lci_gastrectomy.html#proximal-tumors",
     "href": "lci_gastrectomy.html#proximal-tumors",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Proximal Tumors",
-    "text": "Proximal Tumors\n\n\n\n\nIn some cases, cancer cells can break off from the main tumor and spread to lymph nodes"
+    "text": "Proximal Tumors\n\n\n\n- Located near the top of the stomach - Challenging area for surgery"
   },
   {
     "objectID": "lci_gastrectomy.html#total-gastrectomy",
     "href": "lci_gastrectomy.html#total-gastrectomy",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Total Gastrectomy",
-    "text": "Total Gastrectomy\n\n\n\n\nIn some cases, cancer cells can break off from the main tumor and spread to lymph nodes"
+    "text": "Total Gastrectomy\n\n\n\n- Removes all of the stomach - Reconstruction with small intestine - Needed for those with CDH1 mutations"
   },
   {
     "objectID": "lci_gastrectomy.html#total-gastrectomy-1",
     "href": "lci_gastrectomy.html#total-gastrectomy-1",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Total Gastrectomy",
     "text": "Total Gastrectomy"
   },
   {
     "objectID": "lci_gastrectomy.html#dual-tract-gastrectomy",
     "href": "lci_gastrectomy.html#dual-tract-gastrectomy",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Dual Tract Gastrectomy",
-    "text": "Dual Tract Gastrectomy\n\n\n\n\nIn some cases, cancer cells can break off from the main tumor and spread to lymph nodes"
+    "text": "Dual Tract Gastrectomy\n\n\n\nAlternative surgical approach for small tumors near the top of the stomach\n\nPreserves the bottom of the stomach as a reservoir"
   },
   {
     "objectID": "lci_gastrectomy.html#dual-tract-gastrectomy-1",
     "href": "lci_gastrectomy.html#dual-tract-gastrectomy-1",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Dual Tract Gastrectomy",
     "text": "Dual Tract Gastrectomy"
   },
   {
-    "objectID": "lci_gastrectomy.html#t-stage",
-    "href": "lci_gastrectomy.html#t-stage",
-    "title": "T3 Cancer of the Stomach",
-    "section": "T Stage",
-    "text": "T Stage\n\n\n\n\nCancers are categorized based upon the thickness of the tumor, known as the T stage"
-  },
-  {
-    "objectID": "lci_gastrectomy.html#n-stage",
-    "href": "lci_gastrectomy.html#n-stage",
-    "title": "T3 Cancer of the Stomach",
-    "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\n\n\nN1 cancers have spread to the lymph nodes."
-  },
-  {
-    "objectID": "lci_gastrectomy.html#m-stage",
-    "href": "lci_gastrectomy.html#m-stage",
-    "title": "T3 Cancer of the Stomach",
-    "section": "M Stage",
-    "text": "M Stage\n\n\nSome cancers spread from the esophagus to other parts of the body\n\nM0 cancers have not spread to other parts of the body\nN1 cancers have spread lungs, liver, or bone"
-  },
-  {
-    "objectID": "lci_gastrectomy.html#pet-scan",
-    "href": "lci_gastrectomy.html#pet-scan",
-    "title": "T3 Cancer of the Stomach",
-    "section": "PET scan",
-    "text": "PET scan\n\n\nA PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer."
-  },
-  {
-    "objectID": "lci_gastrectomy.html#endoscopic-ultrasound",
-    "href": "lci_gastrectomy.html#endoscopic-ultrasound",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Endoscopic Ultrasound",
-    "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound probe in scope\nEvaluates T stage of cancer"
+    "objectID": "lci_gastrectomy.html#risks-of-surgery",
+    "href": "lci_gastrectomy.html#risks-of-surgery",
+    "title": "Surgery of the Stomach",
+    "section": "Risks of Surgery",
+    "text": "Risks of Surgery\n\nLeak where bowel is joined together (anastomosis)\nBleeding requiring reoperation\nDelayed stomach function\nInfection in the abdomen"
   },
   {
     "objectID": "lci_gastrectomy.html#laparoscopy",
     "href": "lci_gastrectomy.html#laparoscopy",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Laparoscopy",
     "text": "Laparoscopy\n\n\n\nSome esophageal cancers can spread inside the abdomen\nAreas of spread can be very small (grain of rice)\nLaparoscopy can detect spread inside the abdomen"
   },
   {
     "objectID": "lci_gastrectomy.html#laparoscopy-1",
     "href": "lci_gastrectomy.html#laparoscopy-1",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Laparoscopy",
     "text": "Laparoscopy\n\n\nA laparoscopy is performed under a general anesthetic.\n\nSeveral incisions 1/4” long\nA telescope is inserted to look inside the abdominal cavity.\nBiopsies can be performed."
   },
   {
-    "objectID": "lci_gastrectomy.html#treatment-plan",
-    "href": "lci_gastrectomy.html#treatment-plan",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Treatment Plan",
-    "text": "Treatment Plan\n\n\n- Superficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\n- Localized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\n- Locally-advanced (T3/N1) \\(\\Rightarrow\\) Chemo \\(\\rightarrow\\)Surgery\n\n- Metastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
-  },
-  {
-    "objectID": "lci_gastrectomy.html#locally-advanced-adenocarcinoma",
-    "href": "lci_gastrectomy.html#locally-advanced-adenocarcinoma",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Locally-advanced Adenocarcinoma",
-    "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy given before and after surgery:\nChemotherapy (8 weeks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemotherapy (8 weeks)\nTwo different drug combinations:\n\nFLOT (more effective)\nFOLFOX (better tolerated)\nECF"
-  },
-  {
-    "objectID": "lci_gastrectomy.html#sandwich-chemotherapy-drugs",
-    "href": "lci_gastrectomy.html#sandwich-chemotherapy-drugs",
-    "title": "T3 Cancer of the Stomach",
-    "section": "“Sandwich” Chemotherapy Drugs",
-    "text": "“Sandwich” Chemotherapy Drugs\n\n\nFLOT\n\n5-FU\nLeucovorion\nOxaliplatin\nTaxotere\n\n\nFOLFOX\n\n5-FU\nLeucovorin\nOxaliplatin"
-  },
-  {
-    "objectID": "lci_gastrectomy.html#tumor-biomarkers",
-    "href": "lci_gastrectomy.html#tumor-biomarkers",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Tumor Biomarkers",
-    "text": "Tumor Biomarkers\nSurface proteins found on cancers which may show that additional drugs may be helpful:\n\nHER-2 \\(\\rightarrow\\) Herceptin can be helpful\nPD-L1 \\(\\rightarrow\\) Immunotherapy can be helpful\nMMR \\(\\rightarrow\\) Immunotherapy can be helpful\n\nThe biomarkers are reported in a separate pathology report\nYour medical oncologist will review these with you"
-  },
-  {
-    "objectID": "lci_gastrectomy.html#chemotherapy",
-    "href": "lci_gastrectomy.html#chemotherapy",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Chemotherapy",
-    "text": "Chemotherapy\nChemotherapy drugs are administered intravenously.\nThere are several options for intravenous access:\n\nPeripheral IVs in the hand\nPICC line (Peripheral Inserted Central Catheter)\nCentral Venous Port\n\nCentral Venous Port"
-  },
-  {
-    "objectID": "lci_gastrectomy.html#restaging",
-    "href": "lci_gastrectomy.html#restaging",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Restaging",
-    "text": "Restaging\nCT or PET scan will be performed after preoperative therapy\n\n\n\n\nSurgery performed after restaging\nTiming depends upon recovery from therapy"
-  },
-  {
-    "objectID": "lci_gastrectomy.html#nutrition",
-    "href": "lci_gastrectomy.html#nutrition",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Nutrition",
-    "text": "Nutrition\nNutrition Slideshow"
-  },
-  {
-    "objectID": "lci_gastrectomy.html#surgery",
-    "href": "lci_gastrectomy.html#surgery",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Surgery",
-    "text": "Surgery\nGastrectomy Slideshow"
-  },
-  {
-    "objectID": "lci_gastrectomy.htm#anatomy",
-    "href": "lci_gastrectomy.htm#anatomy",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Anatomy",
-    "text": "Anatomy\n\n\n\nFood moves from the throat\n\\(\\rightarrow\\) esophagus\n\\(\\rightarrow\\) stomach\n\\(\\rightarrow\\) small bowel (jejunum)\n\n\n]"
+    "objectID": "lci_gastrectomy.html#other-presentations",
+    "href": "lci_gastrectomy.html#other-presentations",
+    "title": "Surgery of the Stomach",
+    "section": "Other Presentations",
+    "text": "Other Presentations\nNutrition Slideshow\nGastrectomy Slideshow"
   },
   {
     "objectID": "lci_gastrectomy.htm#stomach-cancer-surgery-goals",
     "href": "lci_gastrectomy.htm#stomach-cancer-surgery-goals",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Stomach Cancer Surgery Goals",
-    "text": "Stomach Cancer Surgery Goals\nStaging refers to the tests to determine\n\nHow large is the tumor?\nHas there been spread to lymph nodes?\nHas it spread to other parts of the body?\n\nTreatment options depend upont the cancer stage"
-  },
-  {
-    "objectID": "lci_gastrectomy.htm#esophageal-cancer-staging",
-    "href": "lci_gastrectomy.htm#esophageal-cancer-staging",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Esophageal Cancer Staging",
-    "text": "Esophageal Cancer Staging\n\n\n\n\nT = Tumor - Depth of growth into the wall of the esophagus\n\n\nN = Nodes - Spread to the lymph nodes\n\n\nM = Metastasis - Spread to liver, lungs, or bone"
-  },
-  {
-    "objectID": "lci_gastrectomy.htm#layers-of-the-wall-of-the-stomach",
-    "href": "lci_gastrectomy.htm#layers-of-the-wall-of-the-stomach",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Layers of the Wall of the Stomach",
-    "text": "Layers of the Wall of the Stomach\n\n\n\nMucosa - Inner layer\n\n\nMuscle wall (muscularis)\n\n\nLymph nodes located in fat outside the muscle"
+    "text": "Stomach Cancer Surgery Goals\nStaging refers to the tests to determine\n\nRemove the tumor\nRemove lymph nodes (depends upon tumor type)\nPreserve stomach function\nReconstruct GI tract\n\nTreatment options depend upont the cancer stage"
   },
   {
     "objectID": "lci_gastrectomy.htm#distal-cancers",
     "href": "lci_gastrectomy.htm#distal-cancers",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Distal Cancers",
     "text": "Distal Cancers\n\n\n\n\nDistal cancers are those in the lower part of the stomach"
   },
   {
     "objectID": "lci_gastrectomy.htm#partial-gastrectomy",
     "href": "lci_gastrectomy.htm#partial-gastrectomy",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Partial Gastrectomy",
-    "text": "Partial Gastrectomy\n\n\n\n\nDistal gastrectomy removes the bottom portion of the stomach and performs a reconstruction"
+    "text": "Partial Gastrectomy\n\n\n\n- Removes the tumor - Does not remove lymph nodes - Best suited for: - Small adenocarcinoma - GI Stromal Tumors"
+  },
+  {
+    "objectID": "lci_gastrectomy.htm#partial-gastrectomy-1",
+    "href": "lci_gastrectomy.htm#partial-gastrectomy-1",
+    "title": "Surgery of the Stomach",
+    "section": "Partial Gastrectomy",
+    "text": "Partial Gastrectomy"
   },
   {
     "objectID": "lci_gastrectomy.htm#distal-gastrectomy",
     "href": "lci_gastrectomy.htm#distal-gastrectomy",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Distal Gastrectomy",
-    "text": "Distal Gastrectomy"
+    "text": "Distal Gastrectomy\n\n\n\n\n\n\nRemoves bottom half of the stomach\nDoes not remove all lymph nodes\nSuitable for small tumors or GIST"
   },
   {
     "objectID": "lci_gastrectomy.htm#distal-gastrectomy-1",
     "href": "lci_gastrectomy.htm#distal-gastrectomy-1",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Distal Gastrectomy",
-    "text": "Distal Gastrectomy\n\n\n\n\nDistal gastrectomy removes the bottom portion of the stomach and performs a reconstruction"
-  },
-  {
-    "objectID": "lci_gastrectomy.htm#distal-gastrectomy-2",
-    "href": "lci_gastrectomy.htm#distal-gastrectomy-2",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Distal Gastrectomy",
     "text": "Distal Gastrectomy"
   },
   {
     "objectID": "lci_gastrectomy.htm#body-cancers",
     "href": "lci_gastrectomy.htm#body-cancers",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Body Cancers",
-    "text": "Body Cancers\n\n\n\n\nCancers start on the very inside of the layer called the mucosa"
+    "text": "Body Cancers\n\n\n\n\nBody is the mid-portion of the stomach"
   },
   {
     "objectID": "lci_gastrectomy.htm#subtotal-gastrectomy",
     "href": "lci_gastrectomy.htm#subtotal-gastrectomy",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Subtotal Gastrectomy",
     "text": "Subtotal Gastrectomy\n\n\n\n\n- Removes bottom 2/3 of stomach - Removes nearby lymph nodes - Reconstruction with small intestine"
   },
   {
     "objectID": "lci_gastrectomy.htm#subtotal-gastrectomy-1",
     "href": "lci_gastrectomy.htm#subtotal-gastrectomy-1",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Subtotal Gastrectomy",
     "text": "Subtotal Gastrectomy"
   },
   {
     "objectID": "lci_gastrectomy.htm#proximal-tumors",
     "href": "lci_gastrectomy.htm#proximal-tumors",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Proximal Tumors",
-    "text": "Proximal Tumors\n\n\n\n\nIn some cases, cancer cells can break off from the main tumor and spread to lymph nodes"
+    "text": "Proximal Tumors\n\n\n\n- Located near the top of the stomach - Challenging area for surgery"
   },
   {
     "objectID": "lci_gastrectomy.htm#total-gastrectomy",
     "href": "lci_gastrectomy.htm#total-gastrectomy",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Total Gastrectomy",
-    "text": "Total Gastrectomy\n\n\n\n\nIn some cases, cancer cells can break off from the main tumor and spread to lymph nodes"
+    "text": "Total Gastrectomy\n\n\n\n- Removes all of the stomach - Reconstruction with small intestine - Needed for those with CDH1 mutations"
   },
   {
     "objectID": "lci_gastrectomy.htm#total-gastrectomy-1",
     "href": "lci_gastrectomy.htm#total-gastrectomy-1",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Total Gastrectomy",
     "text": "Total Gastrectomy"
   },
   {
     "objectID": "lci_gastrectomy.htm#dual-tract-gastrectomy",
     "href": "lci_gastrectomy.htm#dual-tract-gastrectomy",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Dual Tract Gastrectomy",
-    "text": "Dual Tract Gastrectomy\n\n\n\n\nIn some cases, cancer cells can break off from the main tumor and spread to lymph nodes"
+    "text": "Dual Tract Gastrectomy\n\n\n\nAlternative surgical approach for small tumors near the top of the stomach\n\nPreserves the bottom of the stomach as a reservoir"
   },
   {
     "objectID": "lci_gastrectomy.htm#dual-tract-gastrectomy-1",
     "href": "lci_gastrectomy.htm#dual-tract-gastrectomy-1",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Dual Tract Gastrectomy",
     "text": "Dual Tract Gastrectomy"
   },
   {
-    "objectID": "lci_gastrectomy.htm#t-stage",
-    "href": "lci_gastrectomy.htm#t-stage",
-    "title": "T3 Cancer of the Stomach",
-    "section": "T Stage",
-    "text": "T Stage\n\n\n\n\nCancers are categorized based upon the thickness of the tumor, known as the T stage"
-  },
-  {
-    "objectID": "lci_gastrectomy.htm#n-stage",
-    "href": "lci_gastrectomy.htm#n-stage",
-    "title": "T3 Cancer of the Stomach",
-    "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\n\n\nN1 cancers have spread to the lymph nodes."
-  },
-  {
-    "objectID": "lci_gastrectomy.htm#m-stage",
-    "href": "lci_gastrectomy.htm#m-stage",
-    "title": "T3 Cancer of the Stomach",
-    "section": "M Stage",
-    "text": "M Stage\n\n\nSome cancers spread from the esophagus to other parts of the body\n\nM0 cancers have not spread to other parts of the body\nN1 cancers have spread lungs, liver, or bone"
-  },
-  {
-    "objectID": "lci_gastrectomy.htm#pet-scan",
-    "href": "lci_gastrectomy.htm#pet-scan",
-    "title": "T3 Cancer of the Stomach",
-    "section": "PET scan",
-    "text": "PET scan\n\n\nA PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer."
-  },
-  {
-    "objectID": "lci_gastrectomy.htm#endoscopic-ultrasound",
-    "href": "lci_gastrectomy.htm#endoscopic-ultrasound",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Endoscopic Ultrasound",
-    "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound probe in scope\nEvaluates T stage of cancer"
+    "objectID": "lci_gastrectomy.htm#risks-of-surgery",
+    "href": "lci_gastrectomy.htm#risks-of-surgery",
+    "title": "Surgery of the Stomach",
+    "section": "Risks of Surgery",
+    "text": "Risks of Surgery\n\nLeak where bowel is joined together (anastomosis)\nBleeding requiring reoperation\nDelayed stomach function\nInfection in the abdomen"
   },
   {
     "objectID": "lci_gastrectomy.htm#laparoscopy",
     "href": "lci_gastrectomy.htm#laparoscopy",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Laparoscopy",
     "text": "Laparoscopy\n\n\n\nSome esophageal cancers can spread inside the abdomen\nAreas of spread can be very small (grain of rice)\nLaparoscopy can detect spread inside the abdomen"
   },
   {
     "objectID": "lci_gastrectomy.htm#laparoscopy-1",
     "href": "lci_gastrectomy.htm#laparoscopy-1",
-    "title": "T3 Cancer of the Stomach",
+    "title": "Surgery of the Stomach",
     "section": "Laparoscopy",
     "text": "Laparoscopy\n\n\nA laparoscopy is performed under a general anesthetic.\n\nSeveral incisions 1/4” long\nA telescope is inserted to look inside the abdominal cavity.\nBiopsies can be performed."
   },
   {
-    "objectID": "lci_gastrectomy.htm#treatment-plan",
-    "href": "lci_gastrectomy.htm#treatment-plan",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Treatment Plan",
-    "text": "Treatment Plan\n\n\n- Superficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\n- Localized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\n- Locally-advanced (T3/N1) \\(\\Rightarrow\\) Chemo \\(\\rightarrow\\)Surgery\n\n- Metastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
-  },
-  {
-    "objectID": "lci_gastrectomy.htm#locally-advanced-adenocarcinoma",
-    "href": "lci_gastrectomy.htm#locally-advanced-adenocarcinoma",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Locally-advanced Adenocarcinoma",
-    "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy given before and after surgery:\nChemotherapy (8 weeks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemotherapy (8 weeks)\nTwo different drug combinations:\n\nFLOT (more effective)\nFOLFOX (better tolerated)\nECF"
-  },
-  {
-    "objectID": "lci_gastrectomy.htm#sandwich-chemotherapy-drugs",
-    "href": "lci_gastrectomy.htm#sandwich-chemotherapy-drugs",
-    "title": "T3 Cancer of the Stomach",
-    "section": "“Sandwich” Chemotherapy Drugs",
-    "text": "“Sandwich” Chemotherapy Drugs\n\n\nFLOT\n\n5-FU\nLeucovorion\nOxaliplatin\nTaxotere\n\n\nFOLFOX\n\n5-FU\nLeucovorin\nOxaliplatin"
-  },
-  {
-    "objectID": "lci_gastrectomy.htm#tumor-biomarkers",
-    "href": "lci_gastrectomy.htm#tumor-biomarkers",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Tumor Biomarkers",
-    "text": "Tumor Biomarkers\nSurface proteins found on cancers which may show that additional drugs may be helpful:\n\nHER-2 \\(\\rightarrow\\) Herceptin can be helpful\nPD-L1 \\(\\rightarrow\\) Immunotherapy can be helpful\nMMR \\(\\rightarrow\\) Immunotherapy can be helpful\n\nThe biomarkers are reported in a separate pathology report\nYour medical oncologist will review these with you"
-  },
-  {
-    "objectID": "lci_gastrectomy.htm#chemotherapy",
-    "href": "lci_gastrectomy.htm#chemotherapy",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Chemotherapy",
-    "text": "Chemotherapy\nChemotherapy drugs are administered intravenously.\nThere are several options for intravenous access:\n\nPeripheral IVs in the hand\nPICC line (Peripheral Inserted Central Catheter)\nCentral Venous Port\n\nCentral Venous Port"
-  },
-  {
-    "objectID": "lci_gastrectomy.htm#restaging",
-    "href": "lci_gastrectomy.htm#restaging",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Restaging",
-    "text": "Restaging\nCT or PET scan will be performed after preoperative therapy\n\n\n\n\nSurgery performed after restaging\nTiming depends upon recovery from therapy"
-  },
-  {
-    "objectID": "lci_gastrectomy.htm#nutrition",
-    "href": "lci_gastrectomy.htm#nutrition",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Nutrition",
-    "text": "Nutrition\nNutrition Slideshow"
-  },
-  {
-    "objectID": "lci_gastrectomy.htm#surgery",
-    "href": "lci_gastrectomy.htm#surgery",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Surgery",
-    "text": "Surgery\nGastrectomy Slideshow"
+    "objectID": "lci_gastrectomy.htm#other-presentations",
+    "href": "lci_gastrectomy.htm#other-presentations",
+    "title": "Surgery of the Stomach",
+    "section": "Other Presentations",
+    "text": "Other Presentations\nNutrition Slideshow\nGastrectomy Slideshow"
   },
   {
     "objectID": "ge_metastatic.html",
@@ -6493,7 +6283,7 @@
     "href": "LCI.html",
     "title": "LCI Clinic Resources",
     "section": "",
-    "text": "Esophagus T3\nHTML Slides\nHandout\nPPTx\nScript\n\n\nEsophagus T2\nHTML Slides\nHandout\nPPTx\nScript\n\n\nEsophagus T1\nHTML Slides\nHandout\nPPTx\nScript\n\n\nEsophagus M1\nHTML Slides\nHandout\nPPTx\nScript\n\n\nEsophagus SCCA\nHTML Slides\nHandout\nPPTx\nScript\n\n\nNutrition\nHTML Slides\nHandout\nPPTx\nScript\n\n\nSurgery\nHTML Slides\nHandout\nPPTx\nScript\n\n\nCV Port\nHTML Slides\nHandout\nPPTx\nScript\n\n\nGastric T3\nHTML Slides\nHandout\nPPTx\nScript\n\n\nGastrectomy\n[HTML Sliddocs/lci_gastrectomy.htm)\nHandout\nPPTx\nScript"
+    "text": "Esophagus T3\nHTML Slides\nHandout\nPPTx\nScript\n\n\nEsophagus T2\nHTML Slides\nHandout\nPPTx\nScript\n\n\nEsophagus T1\nHTML Slides\nHandout\nPPTx\nScript\n\n\nEsophagus M1\nHTML Slides\nHandout\nPPTx\nScript\n\n\nEsophagus SCCA\nHTML Slides\nHandout\nPPTx\nScript\n\n\nNutrition\nHTML Slides\nHandout\nPPTx\nScript\n\n\nSurgery\nHTML Slides\nHandout\nPPTx\nScript\n\n\nCV Port\nHTML Slides\nHandout\nPPTx\nScript\n\n\nGastric T3\nHTML Slides\nHandout\nPPTx\nScript\n\n\nGastrectomy\nHTML Sliddes\nHandout\nPPTx\nScript"
   },
   {
     "objectID": "eso_rx_options.html",
