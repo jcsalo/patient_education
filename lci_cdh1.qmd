@@ -53,10 +53,50 @@ Food moves from the throat to the esophagus, and from there to the stomach.
 From the stomach, food moved through a valve called the pylorus into the small intestines
 :::
 
-## Genetic Testin
+## Hereditary Diffuse Gastric Cancer
 
-Patients with stomach adenocarcinoma OR those with strong family history of stomach cancer (or other cancers) should consider genetic counseling to determine whether or not testing would be helpful.
-In some families, a gene can be passed on which causes and increased susceptibility to stomach cancer
+- Genetic condition in which family members have high rates of gastric cancer
+- Most affected members develop gastric cancer by age 40
+- Affected family members pass the susceptibility to half their children
+
+
+## Genetics of Hereditary Diffuse Gastric Cancer
+
+- Altered copy of the CDH1 gene found to be responsible
+- We each carry two copies of the CDH1 gene
+  - Altered copy is passed on to half of children
+- Family members with the altered CDH1 gene tend to develop cancer
+
+## Clinically Apparent Gastric Cancer
+
+Among patients with HDGC who have visible stomach cancer, this is termed "clinically apparent"
+
+
+## Cancer Risk in HDGCd
+
+Among family members in HDGC families with an altered CDH1 gene:
+
+- Men have 70% risk of stomach cancer by age 80
+- Women have 50-80% risk of stomach cancer by age 80
+  - Increased risk of endometrial cancer
+
+## Genetic Testing
+
+- Blood test can detect copies of the altered CDH1 gene
+- Recommended in all patients under age 50 with stomach cancer
+- Requires meeting with a genetic counselor
+
+## Prophylactic Gastrectomy in HDGC
+
+- Preventive surgery to remove the stomach can be performed
+- Surgery dramatically reduces risk of gastric cancer
+- Surgery is usually done before age 40
+
+## Prophylactic Gastrectomy in HDGC
+
+Among family members with HDGC who carry the CDH1 gene
+
+If preventive surgery is performed, 90-95% of cases have 
 
 
 ## Hereditary Diffuse Gastric Cancer
@@ -77,12 +117,11 @@ By age 80, 70% of men and 56-83% of women are estimated to be at risk to  develo
 CDH1 carriers with visible cancer are termed “clinically apparent”
 CDH1 carriers with clinically apparent cancers which are large enough to cause symptoms generally are likely to have spread to lymph nodes
 
-## HDGC
+## Prophylactic Gastrectomy
 
-Prophylactic (preventive) gastrectomy is recommended for CDH1 carriers between ages 18-40
-CDH1 carriers who undergo prophylactic gastrectomy rarely have cancer spread to lymph nodes
-Prophylactic surgery requires total gastrectomy (removing all of stomach)
-
+- Recommended for CDH1 carriers between ages 18-40
+- Cancer rarely is found to have spread to lymph nodes
+- Requires removing all of stomach tissue
 
 ## CH1 and Family History
 
@@ -90,15 +129,10 @@ Among patients with CDH1 mutation and a family history of gastric cancer who und
 
 Among patients with CDH1 mutation without a family history of gastric cancer, 2 out of 3 (67%) are estimated to have early stages of gastric cancer
 
-## Treatment Options
-
-- Total Gastrectomy
-  - Surgical removal of all of stomach
-  - Permanent alteration in eating
-  - Requires Small Frequent meals
 
 
-## "Sandwich" Chemotherapy Drugs
+
+## Treatment options for CDH1 Carriers
 
 ::::: columns
 ::: {.column width="40%"}
