@@ -4081,15 +4081,57 @@
     "text": "Anatomy\n\n\n\nFood moves from the throat\n\\(\\rightarrow\\) esophagus\n\\(\\rightarrow\\) stomach\n\\(\\rightarrow\\) small bowel (jejunum)\n\n\n]"
   },
   {
-    "objectID": "lci_cdh1.htm#genetic-testin",
-    "href": "lci_cdh1.htm#genetic-testin",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Genetic Testin",
-    "text": "Genetic Testin\nPatients with stomach adenocarcinoma OR those with strong family history of stomach cancer (or other cancers) should consider genetic counseling to determine whether or not testing would be helpful. In some families, a gene can be passed on which causes and increased susceptibility to stomach cancer"
-  },
-  {
     "objectID": "lci_cdh1.htm#hereditary-diffuse-gastric-cancer",
     "href": "lci_cdh1.htm#hereditary-diffuse-gastric-cancer",
+    "title": "T3 Cancer of the Stomach",
+    "section": "Hereditary Diffuse Gastric Cancer",
+    "text": "Hereditary Diffuse Gastric Cancer\n\nGenetic condition in which family members have high rates of gastric cancer\nMost affected members develop gastric cancer by age 40\nAffected family members pass the susceptibility to half their children"
+  },
+  {
+    "objectID": "lci_cdh1.htm#genetics-of-hereditary-diffuse-gastric-cancer",
+    "href": "lci_cdh1.htm#genetics-of-hereditary-diffuse-gastric-cancer",
+    "title": "T3 Cancer of the Stomach",
+    "section": "Genetics of Hereditary Diffuse Gastric Cancer",
+    "text": "Genetics of Hereditary Diffuse Gastric Cancer\n\nAltered copy of the CDH1 gene found to be responsible\nWe each carry two copies of the CDH1 gene\n\nAltered copy is passed on to half of children\n\nFamily members with the altered CDH1 gene tend to develop cancer"
+  },
+  {
+    "objectID": "lci_cdh1.htm#clinically-apparent-gastric-cancer",
+    "href": "lci_cdh1.htm#clinically-apparent-gastric-cancer",
+    "title": "T3 Cancer of the Stomach",
+    "section": "Clinically Apparent Gastric Cancer",
+    "text": "Clinically Apparent Gastric Cancer\nAmong patients with HDGC who have visible stomach cancer, this is termed “clinically apparent”"
+  },
+  {
+    "objectID": "lci_cdh1.htm#cancer-risk-in-hdgcd",
+    "href": "lci_cdh1.htm#cancer-risk-in-hdgcd",
+    "title": "T3 Cancer of the Stomach",
+    "section": "Cancer Risk in HDGCd",
+    "text": "Cancer Risk in HDGCd\nAmong family members in HDGC families with an altered CDH1 gene:\n\nMen have 70% risk of stomach cancer by age 80\nWomen have 50-80% risk of stomach cancer by age 80\n\nIncreased risk of endometrial cancer"
+  },
+  {
+    "objectID": "lci_cdh1.htm#genetic-testing",
+    "href": "lci_cdh1.htm#genetic-testing",
+    "title": "T3 Cancer of the Stomach",
+    "section": "Genetic Testing",
+    "text": "Genetic Testing\n\nBlood test can detect copies of the altered CDH1 gene\nRecommended in all patients under age 50 with stomach cancer\nRequires meeting with a genetic counselor"
+  },
+  {
+    "objectID": "lci_cdh1.htm#prophylactic-gastrectomy-in-hdgc",
+    "href": "lci_cdh1.htm#prophylactic-gastrectomy-in-hdgc",
+    "title": "T3 Cancer of the Stomach",
+    "section": "Prophylactic Gastrectomy in HDGC",
+    "text": "Prophylactic Gastrectomy in HDGC\n\nPreventive surgery to remove the stomach can be performed\nSurgery dramatically reduces risk of gastric cancer\nSurgery is usually done before age 40"
+  },
+  {
+    "objectID": "lci_cdh1.htm#prophylactic-gastrectomy-in-hdgc-1",
+    "href": "lci_cdh1.htm#prophylactic-gastrectomy-in-hdgc-1",
+    "title": "T3 Cancer of the Stomach",
+    "section": "Prophylactic Gastrectomy in HDGC",
+    "text": "Prophylactic Gastrectomy in HDGC\nAmong family members with HDGC who carry the CDH1 gene\nIf preventive surgery is performed, 90-95% of cases have"
+  },
+  {
+    "objectID": "lci_cdh1.htm#hereditary-diffuse-gastric-cancer-1",
+    "href": "lci_cdh1.htm#hereditary-diffuse-gastric-cancer-1",
     "title": "T3 Cancer of the Stomach",
     "section": "Hereditary Diffuse Gastric Cancer",
     "text": "Hereditary Diffuse Gastric Cancer\nInherited condition in which an altered copy of the CDH1 gene is passed from generation to generation Presence of the gene can be detected by genetic testing Affected person can pass the gene to (on average) half of their children Affected persons carry the CDH1"
@@ -4109,11 +4151,11 @@
     "text": "CDH1\nCDH1 carriers with visible cancer are termed “clinically apparent” CDH1 carriers with clinically apparent cancers which are large enough to cause symptoms generally are likely to have spread to lymph nodes"
   },
   {
-    "objectID": "lci_cdh1.htm#hdgc",
-    "href": "lci_cdh1.htm#hdgc",
+    "objectID": "lci_cdh1.htm#prophylactic-gastrectomy",
+    "href": "lci_cdh1.htm#prophylactic-gastrectomy",
     "title": "T3 Cancer of the Stomach",
-    "section": "HDGC",
-    "text": "HDGC\nProphylactic (preventive) gastrectomy is recommended for CDH1 carriers between ages 18-40 CDH1 carriers who undergo prophylactic gastrectomy rarely have cancer spread to lymph nodes Prophylactic surgery requires total gastrectomy (removing all of stomach)"
+    "section": "Prophylactic Gastrectomy",
+    "text": "Prophylactic Gastrectomy\n\nRecommended for CDH1 carriers between ages 18-40\nCancer rarely is found to have spread to lymph nodes\nRequires removing all of stomach tissue"
   },
   {
     "objectID": "lci_cdh1.htm#ch1-and-family-history",
@@ -4123,18 +4165,11 @@
     "text": "CH1 and Family History\nAmong patients with CDH1 mutation and a family history of gastric cancer who undergo preventive total gastrectomy, 90% have early stages of gastric cancer\nAmong patients with CDH1 mutation without a family history of gastric cancer, 2 out of 3 (67%) are estimated to have early stages of gastric cancer"
   },
   {
-    "objectID": "lci_cdh1.htm#treatment-options",
-    "href": "lci_cdh1.htm#treatment-options",
+    "objectID": "lci_cdh1.htm#treatment-options-for-cdh1-carriers",
+    "href": "lci_cdh1.htm#treatment-options-for-cdh1-carriers",
     "title": "T3 Cancer of the Stomach",
-    "section": "Treatment Options",
-    "text": "Treatment Options\n\nTotal Gastrectomy\n\nSurgical removal of all of stomach\nPermanent alteration in eating\nRequires Small Frequent meals"
-  },
-  {
-    "objectID": "lci_cdh1.htm#sandwich-chemotherapy-drugs",
-    "href": "lci_cdh1.htm#sandwich-chemotherapy-drugs",
-    "title": "T3 Cancer of the Stomach",
-    "section": "“Sandwich” Chemotherapy Drugs",
-    "text": "“Sandwich” Chemotherapy Drugs\n\n\nTotal Gastrectomy\n\nSurgical removal of all of stomach\nPermanent alteration in eating\nRequires Small Frequent meals\nFeeding jejunostomy (temporary)\n\n\nSurveillance\n\nEndoscopy every 6-12 months\nUnknown how long this is required."
+    "section": "Treatment options for CDH1 Carriers",
+    "text": "Treatment options for CDH1 Carriers\n\n\nTotal Gastrectomy\n\nSurgical removal of all of stomach\nPermanent alteration in eating\nRequires Small Frequent meals\nFeeding jejunostomy (temporary)\n\n\nSurveillance\n\nEndoscopy every 6-12 months\nUnknown how long this is required."
   },
   {
     "objectID": "lci_cdh1.htm#layers-of-the-wall-of-the-stomach",
@@ -4228,8 +4263,8 @@
     "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy before and after surgery:\nChemotherapy (8 wks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemotherapy (8 wks)\nTwo different drug combinations:\n\nFLOT (more effective)\nFOLFOX (better tolerated)\nECF (less commonly used)"
   },
   {
-    "objectID": "lci_cdh1.htm#sandwich-chemotherapy-drugs-1",
-    "href": "lci_cdh1.htm#sandwich-chemotherapy-drugs-1",
+    "objectID": "lci_cdh1.htm#sandwich-chemotherapy-drugs",
+    "href": "lci_cdh1.htm#sandwich-chemotherapy-drugs",
     "title": "T3 Cancer of the Stomach",
     "section": "“Sandwich” Chemotherapy Drugs",
     "text": "“Sandwich” Chemotherapy Drugs\n\n\nFLOT\n\n5-FU\nLeucovorion\nOxaliplatin\nTaxotere\n\n\nFOLFOX\n\n5-FU\nLeucovorin\nOxaliplatin"
@@ -4277,15 +4312,57 @@
     "text": "Food moves from the throat\n\\(\\rightarrow\\) esophagus\n\\(\\rightarrow\\) stomach\n\\(\\rightarrow\\) small bowel (jejunum)\n\n\n]"
   },
   {
-    "objectID": "lci_cdh1.html#genetic-testin",
-    "href": "lci_cdh1.html#genetic-testin",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Genetic Testin",
-    "text": "Genetic Testin\nPatients with stomach adenocarcinoma OR those with strong family history of stomach cancer (or other cancers) should consider genetic counseling to determine whether or not testing would be helpful. In some families, a gene can be passed on which causes and increased susceptibility to stomach cancer"
-  },
-  {
     "objectID": "lci_cdh1.html#hereditary-diffuse-gastric-cancer",
     "href": "lci_cdh1.html#hereditary-diffuse-gastric-cancer",
+    "title": "T3 Cancer of the Stomach",
+    "section": "Hereditary Diffuse Gastric Cancer",
+    "text": "Hereditary Diffuse Gastric Cancer\n\nGenetic condition in which family members have high rates of gastric cancer\nMost affected members develop gastric cancer by age 40\nAffected family members pass the susceptibility to half their children"
+  },
+  {
+    "objectID": "lci_cdh1.html#genetics-of-hereditary-diffuse-gastric-cancer",
+    "href": "lci_cdh1.html#genetics-of-hereditary-diffuse-gastric-cancer",
+    "title": "T3 Cancer of the Stomach",
+    "section": "Genetics of Hereditary Diffuse Gastric Cancer",
+    "text": "Genetics of Hereditary Diffuse Gastric Cancer\n\nAltered copy of the CDH1 gene found to be responsible\nWe each carry two copies of the CDH1 gene\n\nAltered copy is passed on to half of children\n\nFamily members with the altered CDH1 gene tend to develop cancer"
+  },
+  {
+    "objectID": "lci_cdh1.html#clinically-apparent-gastric-cancer",
+    "href": "lci_cdh1.html#clinically-apparent-gastric-cancer",
+    "title": "T3 Cancer of the Stomach",
+    "section": "Clinically Apparent Gastric Cancer",
+    "text": "Clinically Apparent Gastric Cancer\nAmong patients with HDGC who have visible stomach cancer, this is termed “clinically apparent”"
+  },
+  {
+    "objectID": "lci_cdh1.html#cancer-risk-in-hdgcd",
+    "href": "lci_cdh1.html#cancer-risk-in-hdgcd",
+    "title": "T3 Cancer of the Stomach",
+    "section": "Cancer Risk in HDGCd",
+    "text": "Cancer Risk in HDGCd\nAmong family members in HDGC families with an altered CDH1 gene:\n\nMen have 70% risk of stomach cancer by age 80\nWomen have 50-80% risk of stomach cancer by age 80\n\nIncreased risk of endometrial cancer"
+  },
+  {
+    "objectID": "lci_cdh1.html#genetic-testing",
+    "href": "lci_cdh1.html#genetic-testing",
+    "title": "T3 Cancer of the Stomach",
+    "section": "Genetic Testing",
+    "text": "Genetic Testing\n\nBlood test can detect copies of the altered CDH1 gene\nRecommended in all patients under age 50 with stomach cancer\nRequires meeting with a genetic counselor"
+  },
+  {
+    "objectID": "lci_cdh1.html#prophylactic-gastrectomy-in-hdgc",
+    "href": "lci_cdh1.html#prophylactic-gastrectomy-in-hdgc",
+    "title": "T3 Cancer of the Stomach",
+    "section": "Prophylactic Gastrectomy in HDGC",
+    "text": "Prophylactic Gastrectomy in HDGC\n\nPreventive surgery to remove the stomach can be performed\nSurgery dramatically reduces risk of gastric cancer\nSurgery is usually done before age 40"
+  },
+  {
+    "objectID": "lci_cdh1.html#prophylactic-gastrectomy-in-hdgc-1",
+    "href": "lci_cdh1.html#prophylactic-gastrectomy-in-hdgc-1",
+    "title": "T3 Cancer of the Stomach",
+    "section": "Prophylactic Gastrectomy in HDGC",
+    "text": "Prophylactic Gastrectomy in HDGC\nAmong family members with HDGC who carry the CDH1 gene\nIf preventive surgery is performed, 90-95% of cases have"
+  },
+  {
+    "objectID": "lci_cdh1.html#hereditary-diffuse-gastric-cancer-1",
+    "href": "lci_cdh1.html#hereditary-diffuse-gastric-cancer-1",
     "title": "T3 Cancer of the Stomach",
     "section": "Hereditary Diffuse Gastric Cancer",
     "text": "Hereditary Diffuse Gastric Cancer\nInherited condition in which an altered copy of the CDH1 gene is passed from generation to generation Presence of the gene can be detected by genetic testing Affected person can pass the gene to (on average) half of their children Affected persons carry the CDH1"
@@ -4305,11 +4382,11 @@
     "text": "CDH1\nCDH1 carriers with visible cancer are termed “clinically apparent” CDH1 carriers with clinically apparent cancers which are large enough to cause symptoms generally are likely to have spread to lymph nodes"
   },
   {
-    "objectID": "lci_cdh1.html#hdgc",
-    "href": "lci_cdh1.html#hdgc",
+    "objectID": "lci_cdh1.html#prophylactic-gastrectomy",
+    "href": "lci_cdh1.html#prophylactic-gastrectomy",
     "title": "T3 Cancer of the Stomach",
-    "section": "HDGC",
-    "text": "HDGC\nProphylactic (preventive) gastrectomy is recommended for CDH1 carriers between ages 18-40 CDH1 carriers who undergo prophylactic gastrectomy rarely have cancer spread to lymph nodes Prophylactic surgery requires total gastrectomy (removing all of stomach)"
+    "section": "Prophylactic Gastrectomy",
+    "text": "Prophylactic Gastrectomy\n\nRecommended for CDH1 carriers between ages 18-40\nCancer rarely is found to have spread to lymph nodes\nRequires removing all of stomach tissue"
   },
   {
     "objectID": "lci_cdh1.html#ch1-and-family-history",
@@ -4319,18 +4396,11 @@
     "text": "CH1 and Family History\nAmong patients with CDH1 mutation and a family history of gastric cancer who undergo preventive total gastrectomy, 90% have early stages of gastric cancer\nAmong patients with CDH1 mutation without a family history of gastric cancer, 2 out of 3 (67%) are estimated to have early stages of gastric cancer"
   },
   {
-    "objectID": "lci_cdh1.html#treatment-options",
-    "href": "lci_cdh1.html#treatment-options",
+    "objectID": "lci_cdh1.html#treatment-options-for-cdh1-carriers",
+    "href": "lci_cdh1.html#treatment-options-for-cdh1-carriers",
     "title": "T3 Cancer of the Stomach",
-    "section": "Treatment Options",
-    "text": "Treatment Options\n\nTotal Gastrectomy\n\nSurgical removal of all of stomach\nPermanent alteration in eating\nRequires Small Frequent meals"
-  },
-  {
-    "objectID": "lci_cdh1.html#sandwich-chemotherapy-drugs",
-    "href": "lci_cdh1.html#sandwich-chemotherapy-drugs",
-    "title": "T3 Cancer of the Stomach",
-    "section": "“Sandwich” Chemotherapy Drugs",
-    "text": "“Sandwich” Chemotherapy Drugs\n\n\nTotal Gastrectomy\n\nSurgical removal of all of stomach\nPermanent alteration in eating\nRequires Small Frequent meals\nFeeding jejunostomy (temporary)\n\n\nSurveillance\n\nEndoscopy every 6-12 months\nUnknown how long this is required."
+    "section": "Treatment options for CDH1 Carriers",
+    "text": "Treatment options for CDH1 Carriers\n\n\nTotal Gastrectomy\n\nSurgical removal of all of stomach\nPermanent alteration in eating\nRequires Small Frequent meals\nFeeding jejunostomy (temporary)\n\n\nSurveillance\n\nEndoscopy every 6-12 months\nUnknown how long this is required."
   },
   {
     "objectID": "lci_cdh1.html#layers-of-the-wall-of-the-stomach",
@@ -4424,8 +4494,8 @@
     "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy before and after surgery:\nChemotherapy (8 wks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemotherapy (8 wks)\nTwo different drug combinations:\n\nFLOT (more effective)\nFOLFOX (better tolerated)\nECF (less commonly used)"
   },
   {
-    "objectID": "lci_cdh1.html#sandwich-chemotherapy-drugs-1",
-    "href": "lci_cdh1.html#sandwich-chemotherapy-drugs-1",
+    "objectID": "lci_cdh1.html#sandwich-chemotherapy-drugs",
+    "href": "lci_cdh1.html#sandwich-chemotherapy-drugs",
     "title": "T3 Cancer of the Stomach",
     "section": "“Sandwich” Chemotherapy Drugs",
     "text": "“Sandwich” Chemotherapy Drugs\n\n\nFLOT\n\n5-FU\nLeucovorion\nOxaliplatin\nTaxotere\n\n\nFOLFOX\n\n5-FU\nLeucovorin\nOxaliplatin"
