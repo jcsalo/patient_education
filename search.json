@@ -385,11 +385,18 @@
     "text": "GI Tract Anatomy\n\n\n\nEsophagus delivers food to the stomach\nStomach stores food and delivers it in small quantities to the jejunum\nJejunum begins digestion in the small intestines"
   },
   {
+    "objectID": "lci_nutrition.htm#protein-needs",
+    "href": "lci_nutrition.htm#protein-needs",
+    "title": "Nutrition",
+    "section": "Protein Needs",
+    "text": "Protein Needs\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day"
+  },
+  {
     "objectID": "lci_nutrition.htm#protein-shakes",
     "href": "lci_nutrition.htm#protein-shakes",
     "title": "Nutrition",
     "section": "Protein Shakes",
-    "text": "Protein Shakes\n\n\nProtein Shakes can provide protein with minimal sugar\n\nPortein Shakes"
+    "text": "Protein Shakes\n\n\nProtein Shakes can provide protein with minimal sugar\n\nProtein Shakes"
   },
   {
     "objectID": "lci_nutrition.htm#feeding-tubes",
@@ -448,11 +455,18 @@
     "text": "Esophagus delivers food to the stomach\nStomach stores food and delivers it in small quantities to the jejunum\nJejunum begins digestion in the small intestines"
   },
   {
+    "objectID": "lci_nutrition.html#protein-needs",
+    "href": "lci_nutrition.html#protein-needs",
+    "title": "Nutrition",
+    "section": "Protein Needs",
+    "text": "Protein Needs\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day"
+  },
+  {
     "objectID": "lci_nutrition.html#protein-shakes",
     "href": "lci_nutrition.html#protein-shakes",
     "title": "Nutrition",
     "section": "Protein Shakes",
-    "text": "Protein Shakes\n\n\nProtein Shakes can provide protein with minimal sugar\n\nPortein Shakes"
+    "text": "Protein Shakes\n\n\nProtein Shakes can provide protein with minimal sugar\n\nProtein Shakes"
   },
   {
     "objectID": "lci_nutrition.html#feeding-tubes",
@@ -2767,511 +2781,721 @@
   {
     "objectID": "lci_esot3.htm#anatomy",
     "href": "lci_esot3.htm#anatomy",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Anatomy",
     "text": "Anatomy\n\n\n\nFood moves from the throat\n\\(\\rightarrow\\) esophagus\n\\(\\rightarrow\\) stomach\n\\(\\rightarrow\\) small bowel (jejunum)\n\n\n]"
   },
   {
     "objectID": "lci_esot3.htm#types-of-esophageal-cancer",
     "href": "lci_esot3.htm#types-of-esophageal-cancer",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Types of Esophageal Cancer",
     "text": "Types of Esophageal Cancer\nThere are two common types of esophageal cancer\n\nAdenocarcinoma\nSquamous Cell Carcinoma"
   },
   {
     "objectID": "lci_esot3.htm#cancer-staging",
     "href": "lci_esot3.htm#cancer-staging",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Cancer Staging",
     "text": "Cancer Staging\nStaging refers to the tests to determine\n\nHow large is the tumor?\nHas there been spread to lymph nodes?\nHas it spread to other parts of the body?\n\nTreatment options depend upon the cancer stage"
   },
   {
     "objectID": "lci_esot3.htm#esophageal-cancer-staging",
     "href": "lci_esot3.htm#esophageal-cancer-staging",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Esophageal Cancer Staging",
     "text": "Esophageal Cancer Staging\n\n\n\n\nT = Tumor - Depth of growth into the wall of the esophagus\n\n\nN = Nodes - Spread to the lymph nodes\n\n\nM = Metastasis - Spread to liver, lungs, or bone"
   },
   {
     "objectID": "lci_esot3.htm#layers-of-the-wall-of-the-esophagus",
     "href": "lci_esot3.htm#layers-of-the-wall-of-the-esophagus",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Layers of the Wall of the Esophagus",
     "text": "Layers of the Wall of the Esophagus\n\n\n\nMucosa - Inner layer\n\n\nMuscle wall (muscularis)\n\n\nLymph nodes located in fat outside the muscle"
   },
   {
     "objectID": "lci_esot3.htm#early-stage-cancers",
     "href": "lci_esot3.htm#early-stage-cancers",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Early Stage Cancers",
     "text": "Early Stage Cancers\n\n\n\n\nCancers start on the very inside of the layer called the mucosa"
   },
   {
     "objectID": "lci_esot3.htm#locally-advanced-cancers",
     "href": "lci_esot3.htm#locally-advanced-cancers",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Locally-advanced Cancers",
     "text": "Locally-advanced Cancers\n\n\n\n\nOver time, cancers can grow into the muscular wall"
   },
   {
     "objectID": "lci_esot3.htm#lymph-nodes",
     "href": "lci_esot3.htm#lymph-nodes",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Lymph Nodes",
     "text": "Lymph Nodes\n\n\n\n\nIn some cases, cancer cells can break off from the main tumor and spread to lymph nodes"
   },
   {
     "objectID": "lci_esot3.htm#t-stage",
     "href": "lci_esot3.htm#t-stage",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "T Stage",
     "text": "T Stage\n\n\n\n\nCancers are categorized based upon the thickness of the tumor, known as the T stage"
   },
   {
     "objectID": "lci_esot3.htm#n-stage",
     "href": "lci_esot3.htm#n-stage",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "N Stage",
     "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\n\n\nN1 cancers have spread to the lymph nodes."
   },
   {
     "objectID": "lci_esot3.htm#m-stage",
     "href": "lci_esot3.htm#m-stage",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "M Stage",
     "text": "M Stage\n\n\nSome cancers spread from the esophagus to other parts of the body\n\nM0 cancers have not spread to other parts of the body\nN1 cancers have spread lungs, liver, or bone"
   },
   {
     "objectID": "lci_esot3.htm#pet-scan",
     "href": "lci_esot3.htm#pet-scan",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "PET scan",
     "text": "PET scan\n\n\nA PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer."
   },
   {
     "objectID": "lci_esot3.htm#endoscopic-ultrasound",
     "href": "lci_esot3.htm#endoscopic-ultrasound",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Endoscopic Ultrasound",
     "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound probe in scope\nEvaluates T stage of cancer"
   },
   {
     "objectID": "lci_esot3.htm#laparoscopy",
     "href": "lci_esot3.htm#laparoscopy",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Laparoscopy",
     "text": "Laparoscopy\n\n\n\nSome esophageal cancers can spread inside the abdomen\nAreas of spread can be very small (grain of rice)\nLaparoscopy can detect spread inside the abdomen"
   },
   {
     "objectID": "lci_esot3.htm#laparoscopy-1",
     "href": "lci_esot3.htm#laparoscopy-1",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Laparoscopy",
     "text": "Laparoscopy\n\n\nA laparoscopy is performed under a general anesthetic.\n\nSeveral incisions 1/4” long\nA telescope is inserted to look inside the abdominal cavity.\nBiopsies can be performed."
   },
   {
     "objectID": "lci_esot3.htm#treatment-plan",
     "href": "lci_esot3.htm#treatment-plan",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Treatment Plan",
     "text": "Treatment Plan\n\n\n- Superficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\n- Localized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\n- Locally-advanced (T3/N1) \\(\\Rightarrow\\) Chemo \\(\\pm\\) Radiation \\(\\rightarrow\\)Surgery\n\n- Metastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
   },
   {
     "objectID": "lci_esot3.htm#locally-advanced-cancers-1",
     "href": "lci_esot3.htm#locally-advanced-cancers-1",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Locally-advanced cancers",
     "text": "Locally-advanced cancers\n\n\nPatients with locally-advanced esophageal cancer often have localized spread of cancer cells in the surrounding area"
   },
   {
     "objectID": "lci_esot3.htm#locally-advanced-cancers-2",
     "href": "lci_esot3.htm#locally-advanced-cancers-2",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Locally-advanced cancers",
     "text": "Locally-advanced cancers\n\n\nIf locally-advanced cancers are treated with surgery alone…"
   },
   {
     "objectID": "lci_esot3.htm#locally-advanced-cancers-3",
     "href": "lci_esot3.htm#locally-advanced-cancers-3",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Locally-advanced cancers",
     "text": "Locally-advanced cancers\n\n\nIf locally-advanced cancers are treated with surgery alone…\nThere is a risk that cancer cells can be left behind"
   },
   {
     "objectID": "lci_esot3.htm#preoperative-therapy",
     "href": "lci_esot3.htm#preoperative-therapy",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Preoperative Therapy",
     "text": "Preoperative Therapy\n\n\nIt is helpful to start with therapy before surgery that will shrink the cancer."
   },
   {
     "objectID": "lci_esot3.htm#preoperative-therapy-1",
     "href": "lci_esot3.htm#preoperative-therapy-1",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Preoperative Therapy",
     "text": "Preoperative Therapy\n\n\nIt is helpful to start with therapy before surgery that will shrink the cancer."
   },
   {
     "objectID": "lci_esot3.htm#preoperative-therapy-2",
     "href": "lci_esot3.htm#preoperative-therapy-2",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Preoperative Therapy",
     "text": "Preoperative Therapy\n\n\nIt is helpful to start with therapy before surgery that will shrink the cancer."
   },
   {
     "objectID": "lci_esot3.htm#surgery-after-preoperative-therapy",
     "href": "lci_esot3.htm#surgery-after-preoperative-therapy",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Surgery after Preoperative Therapy",
     "text": "Surgery after Preoperative Therapy\n\n\nWhen surgery is then performed…"
   },
   {
     "objectID": "lci_esot3.htm#preoperative-therapy-3",
     "href": "lci_esot3.htm#preoperative-therapy-3",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Preoperative Therapy",
     "text": "Preoperative Therapy\n\n\nWhen surgery is then performed…\nThe risk of cancer recurrence is minimized"
   },
   {
     "objectID": "lci_esot3.htm#chemotherapy-radiation-cross-trial",
     "href": "lci_esot3.htm#chemotherapy-radiation-cross-trial",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Chemotherapy + Radiation CROSS Trial",
     "text": "Chemotherapy + Radiation CROSS Trial\nResearchers studied 363 patients with esophageal cancer\nPatients were treated in two groups:\n\n\nSurgery Alone\nvs\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery"
   },
   {
     "objectID": "lci_esot3.htm#chemotherapy-radiation-cross-trial-1",
     "href": "lci_esot3.htm#chemotherapy-radiation-cross-trial-1",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Chemotherapy + Radiation CROSS Trial",
     "text": "Chemotherapy + Radiation CROSS Trial\nChemotherapy and radiation were given together over six weeks\n\n\n\nSurgery Alone\nvs\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_esot3.htm#chemotherapy-radiation-cross-trial-2",
     "href": "lci_esot3.htm#chemotherapy-radiation-cross-trial-2",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Chemotherapy + Radiation CROSS Trial",
     "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28 treatments)\nPET scan (or CT) 4 weeks after the end of radiation\nSurgery 8 weeks after the end of radiation"
   },
   {
     "objectID": "lci_esot3.htm#chemotherapy-radiation---side-effects",
     "href": "lci_esot3.htm#chemotherapy-radiation---side-effects",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Chemotherapy + Radiation - Side Effects",
     "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also cause irritation of the lining of the esophagus.\nSwallowing can be difficult the last two weeks of therapy.\nFeeding tube may be needed for hydration and nutrition."
   },
   {
     "objectID": "lci_esot3.htm#locally-advanced-adenocarcinoma",
     "href": "lci_esot3.htm#locally-advanced-adenocarcinoma",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Locally-advanced Adenocarcinoma",
     "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy given before and after surgery:\nChemotherapy (8 weeks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemotherapy (8 weeks)\nTwo different drug combinations:\n\nFLOT (more effective)\nFOLFOX (better tolerated)"
   },
   {
     "objectID": "lci_esot3.htm#sandwich-chemotherapy-drugs",
     "href": "lci_esot3.htm#sandwich-chemotherapy-drugs",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "“Sandwich” Chemotherapy Drugs",
     "text": "“Sandwich” Chemotherapy Drugs\n\n\nFLOT\n\n5-FU\nLeucovorion\nOxaliplatin\nTaxotere\n\n\nFOLFOX\n\n5-FU\nLeucovorin\nOxaliplatin"
   },
   {
     "objectID": "lci_esot3.htm#adenocarcinoma-treatment-options",
     "href": "lci_esot3.htm#adenocarcinoma-treatment-options",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Adenocarcinoma Treatment Options",
     "text": "Adenocarcinoma Treatment Options\n\n\nChemo + Radiation\n\nChemo + Radiation (6 weeks)\nSurgery\n\n\nChemotherapy\n\nChemotherapy (8 weeks)\nSurgery\nChemotherapy (8 weeks)"
   },
   {
     "objectID": "lci_esot3.htm#adenocarcinoma-treatment-options-1",
     "href": "lci_esot3.htm#adenocarcinoma-treatment-options-1",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Adenocarcinoma Treatment Options",
     "text": "Adenocarcinoma Treatment Options\n\n\nCROSS Chemo + Radiation\n\nLonger track record (14 years)\nBetter tolerated\nPort usually placed\nEating gets worse \\(\\rightarrow\\) better\nMay need feeding tube\n\n\nFLOT Chemotherapy\n\nMore effective than CROSS\nMore side effects\nPort always required\nEating gets slowly better\nLess likely to need feeding tube"
   },
   {
     "objectID": "lci_esot3.htm#chemotherapy",
     "href": "lci_esot3.htm#chemotherapy",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Chemotherapy",
-    "text": "Chemotherapy\nChemotherapy drugs are administered intravenously.\nThere are several options for intravenous access:\n\nPeripheral IVs in the hand\nPICC line (Peripheral Inserted Central Catheter)\nCentral Venous Port\n\nCentral Venous Port"
+    "text": "Chemotherapy\nChemotherapy drugs are administered intravenously.\nThere are several options for intravenous access:\n\nPeripheral IVs in the hand\nPICC line (Peripheral Inserted Central Catheter)\nCentral Venous Port"
+  },
+  {
+    "objectID": "lci_esot3.htm#chemotherapy-administration",
+    "href": "lci_esot3.htm#chemotherapy-administration",
+    "title": "Nutrition",
+    "section": "Chemotherapy Administration",
+    "text": "Chemotherapy Administration\nMost chemotherapy is administered by vein.\nSeveral options exist to administer chemotherapy through veins:\n\nIntravenous catheter in peripheral veins\nPeripheral Intravenous Central Catheter (PICC)\nCentral Venous port"
+  },
+  {
+    "objectID": "lci_esot3.htm#peripheral-iv-catheter",
+    "href": "lci_esot3.htm#peripheral-iv-catheter",
+    "title": "Nutrition",
+    "section": "Peripheral IV catheter",
+    "text": "Peripheral IV catheter\nA peripheral IV catheter involves placing a small tube into the veins, which is then used to give fluids or chemotherapy\nA new catheter is placed for each dose of chemotherapy"
+  },
+  {
+    "objectID": "lci_esot3.htm#intravenous-catheter-in-peripheral-vein-iv",
+    "href": "lci_esot3.htm#intravenous-catheter-in-peripheral-vein-iv",
+    "title": "Nutrition",
+    "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced at the beginning of each dose\nRemoved that day at the end of treatment\nNot suitable for FLOT chemotherapy"
+  },
+  {
+    "objectID": "lci_esot3.htm#picc-lines",
+    "href": "lci_esot3.htm#picc-lines",
+    "title": "Nutrition",
+    "section": "PICC Lines",
+    "text": "PICC Lines\n\n\n\nPlaced in Radiology\nStay in place during all of treatment\nCan stay in place for weeks\nSpecial care is needed at home to keep it clean and dry\nSuitable for FLOT chemotherapy\n\nSpecial care needed at home to keep catheter and dressing clean and dry"
+  },
+  {
+    "objectID": "lci_esot3.htm#central-venous-port",
+    "href": "lci_esot3.htm#central-venous-port",
+    "title": "Nutrition",
+    "section": "Central Venous Port",
+    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower within 24 hours\nNo special care at home\nSuitable for FLOT chemotherapy\nAllows for blood draws"
+  },
+  {
+    "objectID": "lci_esot3.htm#central-venous-port-1",
+    "href": "lci_esot3.htm#central-venous-port-1",
+    "title": "Nutrition",
+    "section": "Central Venous Port",
+    "text": "Central Venous Port\n\n\n\nPlaced underneath the skin below the right collarbone\nIncision in the neck (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+  },
+  {
+    "objectID": "lci_esot3.htm#central-venous-port-2",
+    "href": "lci_esot3.htm#central-venous-port-2",
+    "title": "Nutrition",
+    "section": "Central Venous Port",
+    "text": "Central Venous Port\n\n\nWhen it is time for chemotherapy, a needle is inserted through the skin into the port"
   },
   {
     "objectID": "lci_esot3.htm#restaging",
     "href": "lci_esot3.htm#restaging",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Restaging",
     "text": "Restaging\nCT or PET scan will be performed after preoperative therapy\n\n\n\n\nSurgery performed after restaging\nTiming depends upon recovery from therapy"
   },
   {
-    "objectID": "lci_esot3.htm#nutrition",
-    "href": "lci_esot3.htm#nutrition",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "Nutrition",
-    "text": "Nutrition\nNutrition Slideshow"
+    "objectID": "lci_esot3.htm#gi-tract-anatomy",
+    "href": "lci_esot3.htm#gi-tract-anatomy",
+    "title": "Nutrition",
+    "section": "GI Tract Anatomy",
+    "text": "GI Tract Anatomy\n\n\n\nEsophagus delivers food to the stomach\nStomach stores food and delivers it in small quantities to the jejunum\nJejunum begins digestion in the small intestines"
+  },
+  {
+    "objectID": "lci_esot3.htm#protein-needs",
+    "href": "lci_esot3.htm#protein-needs",
+    "title": "Nutrition",
+    "section": "Protein Needs",
+    "text": "Protein Needs\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day"
+  },
+  {
+    "objectID": "lci_esot3.htm#protein-shakes",
+    "href": "lci_esot3.htm#protein-shakes",
+    "title": "Nutrition",
+    "section": "Protein Shakes",
+    "text": "Protein Shakes\n\n\nProtein Shakes can provide protein with minimal sugar\n\nProtein Shakes"
+  },
+  {
+    "objectID": "lci_esot3.htm#feeding-tubes",
+    "href": "lci_esot3.htm#feeding-tubes",
+    "title": "Nutrition",
+    "section": "Feeding Tubes",
+    "text": "Feeding Tubes\n\n\nJejunostomy = Small Intestine \n\nGastrostomy = Stomach"
+  },
+  {
+    "objectID": "lci_esot3.htm#gastrostomy-tube",
+    "href": "lci_esot3.htm#gastrostomy-tube",
+    "title": "Nutrition",
+    "section": "Gastrostomy Tube",
+    "text": "Gastrostomy Tube\nFeeding Gastrostomy\nA gastrostomy tube allows feeding with a syringe, which can be done several times per day.\nWhen it’s not being used, the gastrostomy tube can be hidden underneath clothing.\nFor patient who later need surgery on the esophagus, it will be necessary to remove the\ngastrostomy tube and place a jejunostomy tube, as the stomach frequently used to create a new\nesophagus"
+  },
+  {
+    "objectID": "lci_esot3.htm#gastrostomy-tube-methods",
+    "href": "lci_esot3.htm#gastrostomy-tube-methods",
+    "title": "Nutrition",
+    "section": "Gastrostomy Tube Methods",
+    "text": "Gastrostomy Tube Methods\nA gastrostomy tube can be placed either by endoscopy, which is called a PEG tube\nA gastrostomy tube can also be placed by laparoscopy, which is usually preferred if surgery on the esophagus is planned in the future.\nYour surgeon will help you decide which kind of tube is best for you. This is especially important if you will need esophageal surgery in the future, as the stomach is frequently used to make a new esophagus"
+  },
+  {
+    "objectID": "lci_esot3.htm#gastrostomy-tube-1",
+    "href": "lci_esot3.htm#gastrostomy-tube-1",
+    "title": "Nutrition",
+    "section": "Gastrostomy Tube",
+    "text": "Gastrostomy Tube\n\nOutpatient Placement (go home the same day)\nCentral venous port can be placed at the same time (if needed)"
+  },
+  {
+    "objectID": "lci_esot3.htm#jejunostomy-tube",
+    "href": "lci_esot3.htm#jejunostomy-tube",
+    "title": "Nutrition",
+    "section": "Jejunostomy tube",
+    "text": "Jejunostomy tube\nThe other type of feeding tube is a jejunostomy.\nA jejunostomy tube tube is placed into the small intestines. Because the small intestine is used to receiving food in small quantities, a jejunostomy tube requires the use of a pump to deliver feedings gradually over a matter of hours.\nIn general, feedings are done at night in order to allow you to be active during the day"
+  },
+  {
+    "objectID": "lci_esot3.htm#jejunostomy",
+    "href": "lci_esot3.htm#jejunostomy",
+    "title": "Nutrition",
+    "section": "Jejunostomy",
+    "text": "Jejunostomy\nA jejunostomy tube is used in cases where it’s not possible to place a gastrostomy tube, such as when there is a tumor in the stomach. A jejunostomy tube is routinely used after esophageal surgery, so in patients who need help with nutrition prior to surgery, it makes sense to put in a jejunostomy tube before surgery. The same tube can then be used for nutrition both before and after surgery."
   },
   {
     "objectID": "lci_esot3.htm#surgery",
     "href": "lci_esot3.htm#surgery",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Surgery",
     "text": "Surgery\nSurgery Slideshow"
   },
   {
     "objectID": "lci_esot3.html",
     "href": "lci_esot3.html",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "",
     "text": "Food moves from the throat\n\\(\\rightarrow\\) esophagus\n\\(\\rightarrow\\) stomach\n\\(\\rightarrow\\) small bowel (jejunum)\n\n\n]"
   },
   {
     "objectID": "lci_esot3.html#anatomy",
     "href": "lci_esot3.html#anatomy",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "",
     "text": "Food moves from the throat\n\\(\\rightarrow\\) esophagus\n\\(\\rightarrow\\) stomach\n\\(\\rightarrow\\) small bowel (jejunum)\n\n\n]"
   },
   {
     "objectID": "lci_esot3.html#types-of-esophageal-cancer",
     "href": "lci_esot3.html#types-of-esophageal-cancer",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Types of Esophageal Cancer",
     "text": "Types of Esophageal Cancer\nThere are two common types of esophageal cancer\n\nAdenocarcinoma\nSquamous Cell Carcinoma"
   },
   {
     "objectID": "lci_esot3.html#cancer-staging",
     "href": "lci_esot3.html#cancer-staging",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Cancer Staging",
     "text": "Cancer Staging\nStaging refers to the tests to determine\n\nHow large is the tumor?\nHas there been spread to lymph nodes?\nHas it spread to other parts of the body?\n\nTreatment options depend upon the cancer stage"
   },
   {
     "objectID": "lci_esot3.html#esophageal-cancer-staging",
     "href": "lci_esot3.html#esophageal-cancer-staging",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Esophageal Cancer Staging",
     "text": "Esophageal Cancer Staging\n\n\n\n\nT = Tumor - Depth of growth into the wall of the esophagus\n\n\nN = Nodes - Spread to the lymph nodes\n\n\nM = Metastasis - Spread to liver, lungs, or bone"
   },
   {
     "objectID": "lci_esot3.html#layers-of-the-wall-of-the-esophagus",
     "href": "lci_esot3.html#layers-of-the-wall-of-the-esophagus",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Layers of the Wall of the Esophagus",
     "text": "Layers of the Wall of the Esophagus\n\n\n\nMucosa - Inner layer\n\n\nMuscle wall (muscularis)\n\n\nLymph nodes located in fat outside the muscle"
   },
   {
     "objectID": "lci_esot3.html#early-stage-cancers",
     "href": "lci_esot3.html#early-stage-cancers",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Early Stage Cancers",
     "text": "Early Stage Cancers\n\n\n\n\nCancers start on the very inside of the layer called the mucosa"
   },
   {
     "objectID": "lci_esot3.html#locally-advanced-cancers",
     "href": "lci_esot3.html#locally-advanced-cancers",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Locally-advanced Cancers",
     "text": "Locally-advanced Cancers\n\n\n\n\nOver time, cancers can grow into the muscular wall"
   },
   {
     "objectID": "lci_esot3.html#lymph-nodes",
     "href": "lci_esot3.html#lymph-nodes",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Lymph Nodes",
     "text": "Lymph Nodes\n\n\n\n\nIn some cases, cancer cells can break off from the main tumor and spread to lymph nodes"
   },
   {
     "objectID": "lci_esot3.html#t-stage",
     "href": "lci_esot3.html#t-stage",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "T Stage",
     "text": "T Stage\n\n\n\n\nCancers are categorized based upon the thickness of the tumor, known as the T stage"
   },
   {
     "objectID": "lci_esot3.html#n-stage",
     "href": "lci_esot3.html#n-stage",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "N Stage",
     "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\n\n\nN1 cancers have spread to the lymph nodes."
   },
   {
     "objectID": "lci_esot3.html#m-stage",
     "href": "lci_esot3.html#m-stage",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "M Stage",
     "text": "M Stage\n\n\nSome cancers spread from the esophagus to other parts of the body\n\nM0 cancers have not spread to other parts of the body\nN1 cancers have spread lungs, liver, or bone"
   },
   {
     "objectID": "lci_esot3.html#pet-scan",
     "href": "lci_esot3.html#pet-scan",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "PET scan",
     "text": "PET scan\n\n\nA PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer."
   },
   {
     "objectID": "lci_esot3.html#endoscopic-ultrasound",
     "href": "lci_esot3.html#endoscopic-ultrasound",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Endoscopic Ultrasound",
     "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound probe in scope\nEvaluates T stage of cancer"
   },
   {
     "objectID": "lci_esot3.html#laparoscopy",
     "href": "lci_esot3.html#laparoscopy",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Laparoscopy",
     "text": "Laparoscopy\n\n\n\nSome esophageal cancers can spread inside the abdomen\nAreas of spread can be very small (grain of rice)\nLaparoscopy can detect spread inside the abdomen"
   },
   {
     "objectID": "lci_esot3.html#laparoscopy-1",
     "href": "lci_esot3.html#laparoscopy-1",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Laparoscopy",
     "text": "Laparoscopy\n\n\nA laparoscopy is performed under a general anesthetic.\n\nSeveral incisions 1/4” long\nA telescope is inserted to look inside the abdominal cavity.\nBiopsies can be performed."
   },
   {
     "objectID": "lci_esot3.html#treatment-plan",
     "href": "lci_esot3.html#treatment-plan",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Treatment Plan",
     "text": "Treatment Plan\n\n\n- Superficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\n- Localized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\n- Locally-advanced (T3/N1) \\(\\Rightarrow\\) Chemo \\(\\pm\\) Radiation \\(\\rightarrow\\)Surgery\n\n- Metastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
   },
   {
     "objectID": "lci_esot3.html#locally-advanced-cancers-1",
     "href": "lci_esot3.html#locally-advanced-cancers-1",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Locally-advanced cancers",
     "text": "Locally-advanced cancers\n\n\nPatients with locally-advanced esophageal cancer often have localized spread of cancer cells in the surrounding area"
   },
   {
     "objectID": "lci_esot3.html#locally-advanced-cancers-2",
     "href": "lci_esot3.html#locally-advanced-cancers-2",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Locally-advanced cancers",
     "text": "Locally-advanced cancers\n\n\nIf locally-advanced cancers are treated with surgery alone…"
   },
   {
     "objectID": "lci_esot3.html#locally-advanced-cancers-3",
     "href": "lci_esot3.html#locally-advanced-cancers-3",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Locally-advanced cancers",
     "text": "Locally-advanced cancers\n\n\nIf locally-advanced cancers are treated with surgery alone…\nThere is a risk that cancer cells can be left behind"
   },
   {
     "objectID": "lci_esot3.html#preoperative-therapy",
     "href": "lci_esot3.html#preoperative-therapy",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Preoperative Therapy",
     "text": "Preoperative Therapy\n\n\nIt is helpful to start with therapy before surgery that will shrink the cancer."
   },
   {
     "objectID": "lci_esot3.html#preoperative-therapy-1",
     "href": "lci_esot3.html#preoperative-therapy-1",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Preoperative Therapy",
     "text": "Preoperative Therapy\n\n\nIt is helpful to start with therapy before surgery that will shrink the cancer."
   },
   {
     "objectID": "lci_esot3.html#preoperative-therapy-2",
     "href": "lci_esot3.html#preoperative-therapy-2",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Preoperative Therapy",
     "text": "Preoperative Therapy\n\n\nIt is helpful to start with therapy before surgery that will shrink the cancer."
   },
   {
     "objectID": "lci_esot3.html#surgery-after-preoperative-therapy",
     "href": "lci_esot3.html#surgery-after-preoperative-therapy",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Surgery after Preoperative Therapy",
     "text": "Surgery after Preoperative Therapy\n\n\nWhen surgery is then performed…"
   },
   {
     "objectID": "lci_esot3.html#preoperative-therapy-3",
     "href": "lci_esot3.html#preoperative-therapy-3",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Preoperative Therapy",
     "text": "Preoperative Therapy\n\n\nWhen surgery is then performed…\nThe risk of cancer recurrence is minimized"
   },
   {
     "objectID": "lci_esot3.html#chemotherapy-radiation-cross-trial",
     "href": "lci_esot3.html#chemotherapy-radiation-cross-trial",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Chemotherapy + Radiation CROSS Trial",
     "text": "Chemotherapy + Radiation CROSS Trial\nResearchers studied 363 patients with esophageal cancer\nPatients were treated in two groups:\n\n\nSurgery Alone\nvs\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery"
   },
   {
     "objectID": "lci_esot3.html#chemotherapy-radiation-cross-trial-1",
     "href": "lci_esot3.html#chemotherapy-radiation-cross-trial-1",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Chemotherapy + Radiation CROSS Trial",
     "text": "Chemotherapy + Radiation CROSS Trial\nChemotherapy and radiation were given together over six weeks\n\n\n\nSurgery Alone\nvs\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_esot3.html#chemotherapy-radiation-cross-trial-2",
     "href": "lci_esot3.html#chemotherapy-radiation-cross-trial-2",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Chemotherapy + Radiation CROSS Trial",
     "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28 treatments)\nPET scan (or CT) 4 weeks after the end of radiation\nSurgery 8 weeks after the end of radiation"
   },
   {
     "objectID": "lci_esot3.html#chemotherapy-radiation---side-effects",
     "href": "lci_esot3.html#chemotherapy-radiation---side-effects",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Chemotherapy + Radiation - Side Effects",
     "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also cause irritation of the lining of the esophagus.\nSwallowing can be difficult the last two weeks of therapy.\nFeeding tube may be needed for hydration and nutrition."
   },
   {
     "objectID": "lci_esot3.html#locally-advanced-adenocarcinoma",
     "href": "lci_esot3.html#locally-advanced-adenocarcinoma",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Locally-advanced Adenocarcinoma",
     "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy given before and after surgery:\nChemotherapy (8 weeks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemotherapy (8 weeks)\nTwo different drug combinations:\n\nFLOT (more effective)\nFOLFOX (better tolerated)"
   },
   {
     "objectID": "lci_esot3.html#sandwich-chemotherapy-drugs",
     "href": "lci_esot3.html#sandwich-chemotherapy-drugs",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "“Sandwich” Chemotherapy Drugs",
     "text": "“Sandwich” Chemotherapy Drugs\n\n\nFLOT\n\n5-FU\nLeucovorion\nOxaliplatin\nTaxotere\n\n\nFOLFOX\n\n5-FU\nLeucovorin\nOxaliplatin"
   },
   {
     "objectID": "lci_esot3.html#adenocarcinoma-treatment-options",
     "href": "lci_esot3.html#adenocarcinoma-treatment-options",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Adenocarcinoma Treatment Options",
     "text": "Adenocarcinoma Treatment Options\n\n\nChemo + Radiation\n\nChemo + Radiation (6 weeks)\nSurgery\n\n\nChemotherapy\n\nChemotherapy (8 weeks)\nSurgery\nChemotherapy (8 weeks)"
   },
   {
     "objectID": "lci_esot3.html#adenocarcinoma-treatment-options-1",
     "href": "lci_esot3.html#adenocarcinoma-treatment-options-1",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Adenocarcinoma Treatment Options",
     "text": "Adenocarcinoma Treatment Options\n\n\nCROSS Chemo + Radiation\n\nLonger track record (14 years)\nBetter tolerated\nPort usually placed\nEating gets worse \\(\\rightarrow\\) better\nMay need feeding tube\n\n\nFLOT Chemotherapy\n\nMore effective than CROSS\nMore side effects\nPort always required\nEating gets slowly better\nLess likely to need feeding tube"
   },
   {
     "objectID": "lci_esot3.html#chemotherapy",
     "href": "lci_esot3.html#chemotherapy",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Chemotherapy",
-    "text": "Chemotherapy\nChemotherapy drugs are administered intravenously.\nThere are several options for intravenous access:\n\nPeripheral IVs in the hand\nPICC line (Peripheral Inserted Central Catheter)\nCentral Venous Port\n\nCentral Venous Port"
+    "text": "Chemotherapy\nChemotherapy drugs are administered intravenously.\nThere are several options for intravenous access:\n\nPeripheral IVs in the hand\nPICC line (Peripheral Inserted Central Catheter)\nCentral Venous Port"
+  },
+  {
+    "objectID": "lci_esot3.html#chemotherapy-administration",
+    "href": "lci_esot3.html#chemotherapy-administration",
+    "title": "Nutrition",
+    "section": "Chemotherapy Administration",
+    "text": "Chemotherapy Administration\nMost chemotherapy is administered by vein.\nSeveral options exist to administer chemotherapy through veins:\n\nIntravenous catheter in peripheral veins\nPeripheral Intravenous Central Catheter (PICC)\nCentral Venous port"
+  },
+  {
+    "objectID": "lci_esot3.html#peripheral-iv-catheter",
+    "href": "lci_esot3.html#peripheral-iv-catheter",
+    "title": "Nutrition",
+    "section": "Peripheral IV catheter",
+    "text": "Peripheral IV catheter\nA peripheral IV catheter involves placing a small tube into the veins, which is then used to give fluids or chemotherapy\nA new catheter is placed for each dose of chemotherapy"
+  },
+  {
+    "objectID": "lci_esot3.html#intravenous-catheter-in-peripheral-vein-iv",
+    "href": "lci_esot3.html#intravenous-catheter-in-peripheral-vein-iv",
+    "title": "Nutrition",
+    "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced at the beginning of each dose\nRemoved that day at the end of treatment\nNot suitable for FLOT chemotherapy"
+  },
+  {
+    "objectID": "lci_esot3.html#picc-lines",
+    "href": "lci_esot3.html#picc-lines",
+    "title": "Nutrition",
+    "section": "PICC Lines",
+    "text": "PICC Lines\n\n\n\nPlaced in Radiology\nStay in place during all of treatment\nCan stay in place for weeks\nSpecial care is needed at home to keep it clean and dry\nSuitable for FLOT chemotherapy\n\nSpecial care needed at home to keep catheter and dressing clean and dry"
+  },
+  {
+    "objectID": "lci_esot3.html#central-venous-port",
+    "href": "lci_esot3.html#central-venous-port",
+    "title": "Nutrition",
+    "section": "Central Venous Port",
+    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower within 24 hours\nNo special care at home\nSuitable for FLOT chemotherapy\nAllows for blood draws"
+  },
+  {
+    "objectID": "lci_esot3.html#central-venous-port-1",
+    "href": "lci_esot3.html#central-venous-port-1",
+    "title": "Nutrition",
+    "section": "Central Venous Port",
+    "text": "Central Venous Port\n\n\n\nPlaced underneath the skin below the right collarbone\nIncision in the neck (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+  },
+  {
+    "objectID": "lci_esot3.html#central-venous-port-2",
+    "href": "lci_esot3.html#central-venous-port-2",
+    "title": "Nutrition",
+    "section": "Central Venous Port",
+    "text": "Central Venous Port\n\n\nWhen it is time for chemotherapy, a needle is inserted through the skin into the port"
   },
   {
     "objectID": "lci_esot3.html#restaging",
     "href": "lci_esot3.html#restaging",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Restaging",
     "text": "Restaging\nCT or PET scan will be performed after preoperative therapy\n\n\n\n\nSurgery performed after restaging\nTiming depends upon recovery from therapy"
   },
   {
-    "objectID": "lci_esot3.html#nutrition",
-    "href": "lci_esot3.html#nutrition",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "Nutrition",
-    "text": "Nutrition\nNutrition Slideshow"
+    "objectID": "lci_esot3.html#gi-tract-anatomy",
+    "href": "lci_esot3.html#gi-tract-anatomy",
+    "title": "Nutrition",
+    "section": "GI Tract Anatomy",
+    "text": "GI Tract Anatomy\n\n\n\nEsophagus delivers food to the stomach\nStomach stores food and delivers it in small quantities to the jejunum\nJejunum begins digestion in the small intestines"
+  },
+  {
+    "objectID": "lci_esot3.html#protein-needs",
+    "href": "lci_esot3.html#protein-needs",
+    "title": "Nutrition",
+    "section": "Protein Needs",
+    "text": "Protein Needs\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day"
+  },
+  {
+    "objectID": "lci_esot3.html#protein-shakes",
+    "href": "lci_esot3.html#protein-shakes",
+    "title": "Nutrition",
+    "section": "Protein Shakes",
+    "text": "Protein Shakes\n\n\nProtein Shakes can provide protein with minimal sugar\n\nProtein Shakes"
+  },
+  {
+    "objectID": "lci_esot3.html#feeding-tubes",
+    "href": "lci_esot3.html#feeding-tubes",
+    "title": "Nutrition",
+    "section": "Feeding Tubes",
+    "text": "Feeding Tubes\n\n\nJejunostomy = Small Intestine \n\nGastrostomy = Stomach"
+  },
+  {
+    "objectID": "lci_esot3.html#gastrostomy-tube",
+    "href": "lci_esot3.html#gastrostomy-tube",
+    "title": "Nutrition",
+    "section": "Gastrostomy Tube",
+    "text": "Gastrostomy Tube\nFeeding Gastrostomy\nA gastrostomy tube allows feeding with a syringe, which can be done several times per day.\nWhen it’s not being used, the gastrostomy tube can be hidden underneath clothing.\nFor patient who later need surgery on the esophagus, it will be necessary to remove the\ngastrostomy tube and place a jejunostomy tube, as the stomach frequently used to create a new\nesophagus"
+  },
+  {
+    "objectID": "lci_esot3.html#gastrostomy-tube-methods",
+    "href": "lci_esot3.html#gastrostomy-tube-methods",
+    "title": "Nutrition",
+    "section": "Gastrostomy Tube Methods",
+    "text": "Gastrostomy Tube Methods\nA gastrostomy tube can be placed either by endoscopy, which is called a PEG tube\nA gastrostomy tube can also be placed by laparoscopy, which is usually preferred if surgery on the esophagus is planned in the future.\nYour surgeon will help you decide which kind of tube is best for you. This is especially important if you will need esophageal surgery in the future, as the stomach is frequently used to make a new esophagus"
+  },
+  {
+    "objectID": "lci_esot3.html#gastrostomy-tube-1",
+    "href": "lci_esot3.html#gastrostomy-tube-1",
+    "title": "Nutrition",
+    "section": "Gastrostomy Tube",
+    "text": "Gastrostomy Tube\n\nOutpatient Placement (go home the same day)\nCentral venous port can be placed at the same time (if needed)"
+  },
+  {
+    "objectID": "lci_esot3.html#jejunostomy-tube",
+    "href": "lci_esot3.html#jejunostomy-tube",
+    "title": "Nutrition",
+    "section": "Jejunostomy tube",
+    "text": "Jejunostomy tube\nThe other type of feeding tube is a jejunostomy.\nA jejunostomy tube tube is placed into the small intestines. Because the small intestine is used to receiving food in small quantities, a jejunostomy tube requires the use of a pump to deliver feedings gradually over a matter of hours.\nIn general, feedings are done at night in order to allow you to be active during the day"
+  },
+  {
+    "objectID": "lci_esot3.html#jejunostomy",
+    "href": "lci_esot3.html#jejunostomy",
+    "title": "Nutrition",
+    "section": "Jejunostomy",
+    "text": "Jejunostomy\nA jejunostomy tube is used in cases where it’s not possible to place a gastrostomy tube, such as when there is a tumor in the stomach. A jejunostomy tube is routinely used after esophageal surgery, so in patients who need help with nutrition prior to surgery, it makes sense to put in a jejunostomy tube before surgery. The same tube can then be used for nutrition both before and after surgery."
   },
   {
     "objectID": "lci_esot3.html#surgery",
     "href": "lci_esot3.html#surgery",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "title": "Nutrition",
     "section": "Surgery",
     "text": "Surgery\nSurgery Slideshow"
   },
@@ -3864,6 +4088,20 @@
     "text": "Laparoscopy\n\n\nA laparoscopy is performed under a general anesthetic.\n\nSeveral incisions 1/4” long\nA telescope is inserted to look inside the abdominal cavity.\nBiopsies can be performed."
   },
   {
+    "objectID": "lci_gastrectomy.htm#exercise",
+    "href": "lci_gastrectomy.htm#exercise",
+    "title": "Surgery of the Stomach",
+    "section": "Exercise",
+    "text": "Exercise"
+  },
+  {
+    "objectID": "lci_gastrectomy.htm#smoking",
+    "href": "lci_gastrectomy.htm#smoking",
+    "title": "Surgery of the Stomach",
+    "section": "Smoking",
+    "text": "Smoking"
+  },
+  {
     "objectID": "lci_gastrectomy.htm#other-presentations",
     "href": "lci_gastrectomy.htm#other-presentations",
     "title": "Surgery of the Stomach",
@@ -3995,6 +4233,20 @@
     "title": "Surgery of the Stomach",
     "section": "Laparoscopy",
     "text": "Laparoscopy\n\n\nA laparoscopy is performed under a general anesthetic.\n\nSeveral incisions 1/4” long\nA telescope is inserted to look inside the abdominal cavity.\nBiopsies can be performed."
+  },
+  {
+    "objectID": "lci_gastrectomy.html#exercise",
+    "href": "lci_gastrectomy.html#exercise",
+    "title": "Surgery of the Stomach",
+    "section": "Exercise",
+    "text": "Exercise"
+  },
+  {
+    "objectID": "lci_gastrectomy.html#smoking",
+    "href": "lci_gastrectomy.html#smoking",
+    "title": "Surgery of the Stomach",
+    "section": "Smoking",
+    "text": "Smoking"
   },
   {
     "objectID": "lci_gastrectomy.html#other-presentations",
