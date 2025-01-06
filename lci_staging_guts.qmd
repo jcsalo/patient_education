@@ -1,4 +1,3 @@
-
 ## Cancer Staging
 
 Staging refers to the tests to determine
@@ -14,13 +13,13 @@ Staging refers to the tests to determine
 \
 \
 
--   **T** = Tumor - Depth of growth into the wall of the esophagus\
+-   **T** = Tumor - Depth of growth into the wall\
     \
 -   **N** = Nodes - Spread to the lymph nodes\
     \
 -   **M** = Metastasis - Spread to liver, lungs, or bone
 
-## Layers of the Wall 
+## Layers of the Wall
 
 ::: {.content-hidden unless-format="docx"}
 If we look at the walls of digestive tract, we see several layers:
@@ -144,7 +143,7 @@ Cancers are categorized by whether there is spread to the lymph nodes.
 
 :::::: columns
 ::: {.column width="50%"}
-Some cancers spread from the esophagus to other parts of the body
+Some cancers spread to other parts of the body
 
 -   **M0** cancers have not spread to other parts of the body
 -   **M1** cancers have spread lungs, liver, or bone
@@ -178,13 +177,13 @@ In some cases, the PET scan is not performed until a CT scans bas been done.
 ## Endoscopic Ultrasound
 
 :::::: columns
-::: {.column width="50%"}
+::: {.column width="55%"}
 -   Similar to upper endoscopy (EGD)
 -   Ultrasound probe in scope
 -   Evaluates T stage of cancer
 :::
 
-:::: {.column width="50%"}
+:::: {.column width="45%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/EUSArtboard.png)
 :::
@@ -194,43 +193,3 @@ In some cases, the PET scan is not performed until a CT scans bas been done.
 ::: {.content-hidden unless-format="docx"}
 Endoscopic ultrasound is most helpful in early stage cancers.
 :::
-
-## Laparoscopy
-
-:::::: columns
-::: {.column width="50%"}
--   Some esophageal cancers can spread inside the abdomen
--   Areas of spread can be very small (grain of rice)
--   Laparoscopy can detect spread inside the abdomen
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
-:::
-::::
-::::::
-
-::: {.content-hidden unless-format="docx"}
-Not all patients with esophageal cancer need a laparoscopy.
-
-In general, laparoscopy is considered for cancers that invade from the esophagus into the stomach.
-:::
-
-## Laparoscopy
-
-:::::: columns
-::: {.column width="50%"}
-A laparoscopy is performed under a general anesthetic.
-
--   Several incisions 1/4" long
--   A telescope is inserted to look inside the abdominal cavity.
--   Biopsies can be performed.
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
-:::
-::::
-::::::
