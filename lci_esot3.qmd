@@ -25,9 +25,9 @@ bibliography: zotero.bib
 
 ## Anatomy
 
-:::::: columns
-::: {.column width="50%"}
-:::{style="font-size: 95%;"}
+::::::: columns
+:::: {.column width="50%"}
+::: {style="font-size: 95%;"}
 Food moves from the throat
 
 $\rightarrow$ esophagus
@@ -36,23 +36,22 @@ $\rightarrow$ stomach
 
 $\rightarrow$ small bowel (jejunum)
 :::
-:::
+::::
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_Anatomy_Labels.png)\]
 :::
 ::::
-::::::
+:::::::
 
 ::: {.content-hidden unless-format="docx"}
 We'll start with reviewing some anatomy about how the body digests food.
 
-Food moves from the throat to the esophagus, and from there to the stomach.  
+Food moves from the throat to the esophagus, and from there to the stomach.
 
 From the stomach, food moved through a valve called the pylorus into the small intestines
 :::
-
 
 ## Types of Esophageal Cancer
 
@@ -82,12 +81,10 @@ Staging refers to the tests to determine
 \
 \
 
--   **T** = Tumor - Depth of growth into the wall of the esophagus
-\
-\
--   **N** = Nodes - Spread to the lymph nodes
-\
-\
+-   **T** = Tumor - Depth of growth into the wall of the esophagus\
+    \
+-   **N** = Nodes - Spread to the lymph nodes\
+    \
 -   **M** = Metastasis - Spread to liver, lungs, or bone
 
 ## Layers of the Wall of the Esophagus
@@ -98,12 +95,10 @@ If we look at the walls of the esophagus, we see several layers:
 
 :::::: columns
 ::: {.column width="50%"}
--   Mucosa - Inner layer
-\
-\
--   Muscle wall (muscularis)
-\
-\
+-   Mucosa - Inner layer\
+    \
+-   Muscle wall (muscularis)\
+    \
 -   Lymph nodes located in fat outside the muscle
 :::
 
@@ -200,9 +195,8 @@ T1 tumors are early stage, and T4 tumors more advanced
 ::: {.column width="50%"}
 Cancers are categorized by whether there is spread to the lymph nodes.
 
--   **N0** cancers have not spread to the lymph nodes
-\
-\
+-   **N0** cancers have not spread to the lymph nodes\
+    \
 -   **N1** cancers have spread to the lymph nodes.
 :::
 
@@ -252,9 +246,9 @@ In some cases, the PET scan is not performed until a CT scans bas been done.
 
 :::::: columns
 ::: {.column width="50%"}
-- Similar to upper endoscopy (EGD) 
-- Ultrasound probe in scope
-- Evaluates T stage of cancer
+-   Similar to upper endoscopy (EGD)
+-   Ultrasound probe in scope
+-   Evaluates T stage of cancer
 :::
 
 :::: {.column width="50%"}
@@ -272,10 +266,9 @@ Endoscopic ultrasound is most helpful in early stage cancers.
 
 :::::: columns
 ::: {.column width="50%"}
-
-- Some esophageal cancers can spread inside the abdomen
-- Areas of spread can be very small (grain of rice)
-- Laparoscopy can detect spread inside the abdomen
+-   Some esophageal cancers can spread inside the abdomen
+-   Areas of spread can be very small (grain of rice)
+-   Laparoscopy can detect spread inside the abdomen
 :::
 
 :::: {.column width="50%"}
@@ -310,18 +303,16 @@ A laparoscopy is performed under a general anesthetic.
 ::::::
 
 ## Treatment Plan
+
 \
 \
--   Superficial (T1) $\Rightarrow$ Endoscopic Therapy
+- Superficial (T1) $\Rightarrow$ Endoscopic Therapy\
 \
+- Localized (T1b/T2) $\Rightarrow$ Surgery\
 \
--   Localized (T1b/T2) $\Rightarrow$ Surgery
+- Locally-advanced (T3/N1) $\Rightarrow$ Chemo $\pm$ Radiation $\rightarrow$Surgery\
 \
-\
--   Locally-advanced (T3/N1) $\Rightarrow$ Chemo $\pm$ Radiation $\rightarrow$Surgery
-\
-\
--   Metastatic (M1) $\Rightarrow$ Chemotherapy
+- Metastatic (M1) $\Rightarrow$ Chemotherapy
 
 ::: {.content-hidden unless-format="docx"}
 This table summarizes four different treatment categories:
@@ -472,7 +463,7 @@ Chemotherapy and radiation were given together over six weeks\
 
 vs
 
-**Chemotherapy + Radiation** $\rightarrow$ Surgery $\Rightarrow$ Longer Survival 
+**Chemotherapy + Radiation** $\rightarrow$ Surgery $\Rightarrow$ Longer Survival
 
 ::: {.content-hidden unless-format="docx"}
 The results were quite dramatic: The group that was treated with all three therapies, chemotherapy and radiation and surgery, lived on average twice a long as patients who had surgery alone.
@@ -548,28 +539,27 @@ Two different drug combinations:
 :::
 :::::
 
-
 ## Adenocarcinoma Treatment Options
 
 ::::: columns
 ::: {.column width="50%"}
 **CROSS Chemo + Radiation**
 
-- Longer track record (14 years)
-- Better tolerated
-- Port usually placed
-- Eating gets worse $\rightarrow$ better
-- May need feeding tube
+-   Longer track record (14 years)
+-   Better tolerated
+-   Port usually placed
+-   Eating gets worse $\rightarrow$ better
+-   May need feeding tube
 :::
 
 ::: {.column width="50%"}
 **FLOT Chemotherapy**
 
-- More effective than CROSS
-- More side effects
-- Port always required
-- Eating gets slowly better
-- Less likely to need feeding tube
+-   More effective than CROSS
+-   More side effects
+-   Port always required
+-   Eating gets slowly better
+-   Less likely to need feeding tube
 :::
 :::::
 
@@ -583,8 +573,8 @@ There are several options for intravenous access:
 -   PICC line (Peripheral Inserted Central Catheter)
 -   Central Venous Port
 
-[Central Venous Port](lci_cvport.htm)
 
+{{< include lci_cvport.qmd >}}
 
 
 ## Restaging
@@ -594,12 +584,10 @@ CT or PET scan will be performed after preoperative therapy
 \
 \
 
-- Surgery performed after restaging
-- Timing depends upon recovery from therapy
+-   Surgery performed after restaging
+-   Timing depends upon recovery from therapy
 
-## Nutrition
-
-[Nutrition Slideshow](lci_nutrition.htm)
+{{< include lci_nutrition.qmd >}}
 
 ## Surgery
 
