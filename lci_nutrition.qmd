@@ -42,6 +42,36 @@ bibliography: zotero.bib
 Normally, food passes from the mouth into the esophagus, and then into the stomach. The stomach serves as a reservoir for food, to allow you to eat a big Thanksgiving. The stomach starts digestion, and then after the meal slowly allows small portions of food to pass into the small intestines, where most of the digestion occurs.
 :::
 
+## Protein Shakes
+
+
+::::::: columns
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+Protein Shakes can provide protein with minimal sugar
+:::
+::::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+Portein Shakes ![](https://deidt7p41jzcy.cloudfront.net/protein_shakes.png)
+:::
+::::
+:::::::
+
+::: {.content-hidden unless-format="docx"}
+There are two types of feeding tubes:
+
+Jejunostomy tubes are placed in the small intestine
+
+Gastrostomy tubes are placed in the stomach
+
+Your dietitian and physician will help you decide which tube is best for your situation
+:::
+
+
+
+
 ## Feeding Tubes
 
 ::::::: columns
