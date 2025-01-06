@@ -576,7 +576,6 @@ There are several options for intravenous access:
 
 {{< include lci_cvport.qmd >}}
 
-
 ## Restaging
 
 CT or PET scan will be performed after preoperative therapy

@@ -269,7 +269,6 @@ Endoscopic ultrasound is most helpful in early stage cancers.
 
 ::: {.content-hidden unless-format="docx"}
 Not all patients with stoach cancer need a laparoscopy.
-
 :::
 
 ## Laparoscopy
@@ -375,6 +374,15 @@ CT or PET scan performed after preoperative therapy
 
 -   Surgery performed after restaging
 -   Timing depends upon recovery from therapy
+
+## Preparing for Cancer Treatment
+
+- Primary Care Physician
+- 
+
+## Primary Care Physician
+
+## My Atrium Patient Portal
 
 ## Additional Slides
 
