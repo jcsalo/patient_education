@@ -1,0 +1,20 @@
+
+
+## Preparing for Cancer Treatment
+
+- Primary Care Physician
+- MyAtrium Portal
+- Exercise
+- Smoking Cessation
+- Nutrition
+
+## Primary Care Physician
+
+## My Atrium Patient Portal
+
+## Exercise
+
+## Smoking Cessation
+
+{{< include lci_nutrition_guts.qmd >}}
+

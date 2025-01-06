@@ -1,0 +1,38 @@
+
+## Laparoscopy
+
+:::::: columns
+::: {.column width="50%"}
+-   Some stomach cancers can spread inside the abdomen
+-   Areas of spread can be very small (grain of rice)
+-   Laparoscopy can detect spread inside the abdomen
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
+:::
+::::
+::::::
+
+::: {.content-hidden unless-format="docx"}
+Not all patients with gastric cancer need a laparoscopy.
+:::
+
+## Laparoscopy
+
+:::::: columns
+::: {.column width="50%"}
+A laparoscopy is performed under a general anesthetic.
+
+-   Several incisions 1/4" long
+-   A telescope is inserted to look inside the abdominal cavity.
+-   Biopsies can be performed.
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
+:::
+::::
+::::::

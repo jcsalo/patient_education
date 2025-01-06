@@ -1,0 +1,173 @@
+
+## Chemotherapy Administration
+
+Most chemotherapy is administered by vein. 
+
+Several options exist to administer chemotherapy through veins:
+
+- Intravenous catheter in peripheral veins
+- Peripheral Intravenous Central Catheter (PICC)
+- Central Venous port
+
+## Peripheral IV catheter
+
+A peripheral IV catheter involves placing a small tube into the veins, which is then used to give fluids or chemotherapy
+
+A new catheter is placed for each dose of chemotherapy
+
+## Intravenous Catheter in Peripheral Vein ("IV")
+
+:::::: columns
+::: {.column width="60%"}
+
+- IV catheter placed into a vein in the hand or arm
+- Allows administration of chemotherapy and fluids
+- Placed at the beginning of each dose
+- Removed that day at the end of treatment
+- Not suitable for FLOT chemotherapy
+
+
+:::
+
+:::: {.column width="40%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/peripheral-venous-catheter-427167-7_960_720-pixabay.jpg)
+:::
+::::
+::::::
+
+
+
+::: {.content-hidden unless-format="docx"}
+A peripheral IV catheter involves placing a small tube into the veins, which is then used to give fluids or chemotherapy
+
+A new catheter is placed for each dose of chemotherapy
+
+FLOT chemotherapy requires a home infusion pump, got which a peripheral IV won't work
+:::
+
+
+
+
+
+
+
+## PICC Lines
+
+:::::: columns
+::: {.column width="60%"}
+- Placed in Radiology
+- Stay in place during all of treatment
+- Can stay in place for weeks
+- Special care is needed at home to keep it clean and dry
+- Suitable for FLOT chemotherapy
+
+Special care needed at home to keep catheter and dressing clean and dry
+
+:::
+
+:::: {.column width="40%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/comm_picc.jpeg)
+:::
+::::
+::::::
+
+
+::: {.content-hidden unless-format="docx"}
+A PICC line is placed in Radiology and stays in place during the treatment course
+Special care is needed at home to keep the catheter and it's dressing clean and dry
+:::
+
+
+
+## Central Venous Port
+
+:::::: columns
+::: {.column width="50%"}
+- Implantable device that makes the administration of chemotherapy easier
+- May shower within 24 hours
+- No special care at home
+- Suitable for FLOT chemotherapy
+- Allows for blood draws
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/cv_port.png)
+:::
+::::
+::::::
+
+
+::: {.content-hidden unless-format="docx"}
+A central venous port is an implantable device that makes the administration of chemotherapy easier.
+
+Once it is in place, it requires no special care at home
+
+With a port, you can shower, bathe, and swim without restriction
+
+A central venous port is suitable for FLOT chemotherapy
+
+A port can be used for blood draws for blood tests as well. 
+:::
+
+
+
+
+
+## Central Venous Port
+
+:::::: columns
+::: {.column width="50%"}
+- Placed underneath the skin below the right collarbone
+- Incision in the neck (1/4")
+- Incision below the collarbone
+- Sutures dissolve on their own
+- "Superglue" on incisions
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/cv_port_1700.png)
+:::
+::::
+::::::
+
+
+
+::: {.content-hidden unless-format="docx"}
+A port is placed underneath the skin and usually below the right collarbone.
+
+Two incisions are made for placement: a quarter-inch incision over the neck,
+and a one-inch incision below the collarbone.
+
+Sutures are under the skin and dissolve on their own
+
+Surgical "Super Glue" covers the incisions and flakes off after a week or so
+:::
+
+
+
+## Central Venous Port
+
+:::::: columns
+::: {.column width="50%"}
+When it is time for chemotherapy, a needle is inserted through the skin into the port
+
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/cv_port_detail_1700.png)
+:::
+::::
+::::::
+
+::: {.content-hidden unless-format="docx"}
+When it comes time for chemotherapy, the nurses can easily access the port with a needle that goes through the skin into the port, rather than placing an intravenous needle in a vein. The drugs can then be administered directly into the bloodstream. If blood needs to be drawn for tests, this can also be done through the port.
+
+:::
+
+
+

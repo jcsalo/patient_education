@@ -1,5 +1,5 @@
 ---
-title: "Squamous Cell Carcinoma of the Esophagus"
+title: "Adenocarcinoma of the Esophagus and GE Junction"
 format: 
   pptx: 
     reference-doc: template.pptx
@@ -55,15 +55,19 @@ From the stomach, food moved through a valve called the pylorus into the small i
 
 {{< include lci_staging_guts.qmd >}}
 
+{{< include lci_laparoscopy_guts.qmd >}}
+
 ## Treatment Plan
 
-Superficial (T1) $\Rightarrow$ Endoscopic Therapy\
 \
-Localized (T1b/T2) $\Rightarrow$ Surgery\
 \
-Locally-advanced (T3) $\Rightarrow$ Chemo $\pm$ Radiation $\rightarrow$Surgery\
+- Superficial (T1) $\Rightarrow$ Endoscopic Therapy\
 \
-Metastatic (M1) $\Rightarrow$ Chemotherapy
+- Localized (T1b/T2) $\Rightarrow$ Surgery\
+\
+- Locally-advanced (T3/N1) $\Rightarrow$ Chemo $\pm$ Radiation $\rightarrow$Surgery\
+\
+- Metastatic (M1) $\Rightarrow$ Chemotherapy
 
 ::: {.content-hidden unless-format="docx"}
 This table summarizes four different treatment categories:
@@ -192,7 +196,7 @@ The risk of cancer recurrence is minimized
 
 ## Chemotherapy + Radiation CROSS Trial
 
-363 patients with esophageal cancer studied
+Researchers studied 363 patients with esophageal cancer
 
 Patients were treated in two groups:
 
@@ -206,7 +210,8 @@ vs
 
 ## Chemotherapy + Radiation CROSS Trial
 
-Chemotherapy + radiation given together for 6 weeks\
+Chemotherapy and radiation were given together over six weeks\
+\
 \
 
 **Surgery Alone**
@@ -223,74 +228,107 @@ The results were quite dramatic: The group that was treated with all three thera
 
 Typical schedule for chemotherapy + radiation:
 
--   Chemotherapy once per week for 6 weeks
--   Radiation five days per week for 6 weeks (28)
+-   Chemotherapy once per week for six weeks
+-   Radiation five days per week for six weeks (28 treatments)
 -   PET scan (or CT) 4 weeks after the end of radiation
 -   Surgery 8 weeks after the end of radiation
 
 ## Chemotherapy + Radiation - Side Effects
 
--   Kills cancer cells in the esophagus and lymph nodes
+Kills cancer cells in the esophagus and lymph nodes
 
--   Can also cause irritation of the lining of the esophagus.
+Can also cause irritation of the lining of the esophagus.
 
--   Swallowing can be difficult the last 2 weeks
+Swallowing can be difficult the last two weeks of therapy.
 
--   Feeding tube may be needed for nutrition
+Feeding tube may be needed for hydration and nutrition.
 
-## Chemotherapy
+## Locally-advanced Adenocarcinoma
 
-Chemotherapy drugs are administered intravenously.
+"Sandwich" chemotherapy given before and after surgery:
 
-There are several options for intravenous access:
+Chemotherapy (8 weeks) $\rightarrow$ Surgery $\rightarrow$ Chemotherapy (8 weeks)
 
--   Peripheral IVs in the hand
--   PICC line (Peripheral Inserted Central Catheter)
--   Central Venous Port
+Two different drug combinations:
 
-[Central Venous Port](lci_cvport.htm)
+-   FLOT (more effective)
+-   FOLFOX (better tolerated)
+
+## "Sandwich" Chemotherapy Drugs
+
+::::: columns
+::: {.column width="40%"}
+**FLOT**
+
+-   5-FU
+-   Leucovorion
+-   Oxaliplatin
+-   Taxotere
+:::
+
+::: {.column width="60%"}
+**FOLFOX**
+
+-   5-FU
+-   Leucovorin
+-   Oxaliplatin
+:::
+:::::
+
+## Adenocarcinoma Treatment Options
+
+::::: columns
+::: {.column width="50%"}
+**Chemo + Radiation**
+
+-   Chemo + Radiation (6 weeks)
+-   Surgery
+:::
+
+::: {.column width="50%"}
+**Chemotherapy**
+
+-   Chemotherapy (8 weeks)
+-   Surgery
+-   Chemotherapy (8 weeks)
+:::
+:::::
+
+## Adenocarcinoma Treatment Options
+
+::::: columns
+::: {.column width="50%"}
+**CROSS Chemo + Radiation**
+
+-   Longer track record (14 years)
+-   Better tolerated
+-   Port usually placed
+-   Eating gets worse $\rightarrow$ better
+-   May need feeding tube
+:::
+
+::: {.column width="50%"}
+**FLOT Chemotherapy**
+
+-   More effective than CROSS
+-   More side effects
+-   Port always required
+-   Eating gets slowly better
+-   Less likely to need feeding tube
+:::
+:::::
+
+{{< include lci_cvport_guts.qmd >}}
 
 ## Restaging
 
 CT or PET scan will be performed after preoperative therapy
 
 \
+\
 
 -   Surgery performed after restaging
 -   Timing depends upon recovery from therapy
-
-## Restaging Endoscopy after Chemo + Radiation
-
-Endoscopy is performed to look for signs of persistent cancer
-
-Biopsies are negative in approximately 75% of cases
-
-Complete disappearance of cancer is only found in 40% of cases
-
-$\Rightarrow$ cancer cells can hide in the wall of the esophagus
-
-## Surgery for Squamous Cell Carcinoma
-
-Surgery is recommended for all patients who have:
-
--   Biopsies showing cancer after chemo + radiation
--   No signs of spread of disease on PET/CT scan
--   Healthy enough to undergo surgery
-
-## Surgery for Squamous Cell Carcinoma
-
-Surgery is also recommended for patients who:
-
--   No signs of spread on disease on PET/CT scan
--   Cancer in the lower part of the esophagus
--   Healthy enough to undergo surgery
-
-## Surveillance if Surgery Not Performed
-
--   Upper endoscopy (EGD) every 3-6 months
--   PET every 6 months
-
-$\Rightarrow$ Surgery if a recurrence in the esophagus is found
 
 {{< include lci_treatment_prep_guts.qmd >}}
 

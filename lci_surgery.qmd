@@ -500,8 +500,5 @@ Vitamin or iron replacements can be ordered by your primary care physician, medi
 
 If levels are low, repeat testing in several months may be needed.
 
-
-## Nutrition
-
-[Nutrition Slideshow](lci_nutrition.htm)
+{{< include lci_treatment_prep_guts.qmd >}}
 

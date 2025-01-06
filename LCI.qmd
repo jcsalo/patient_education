@@ -6,10 +6,11 @@ output: html_document
 |  |  |  |  |  |
 |---------------|---------------|---------------|---------------|---------------|
 | Esophagus T3 | [HTML Slides](lci_esot3.htm) | [Handout](lci_esot3.html) | [PPTx](lci_esot3.pptx) | [Script](lci_esot3.docx) |
+| Esophagus ACA | [HTML Slides](lci_esot3_aca.htm) | [Handout](lci_esot3_aca.html) | [PPTx](lci_esot3_aca.pptx) | [Script](lci_esot3_aca.docx) |
+| Esophagus SCCA | [HTML Slides](lci_eso_scca.htm) | [Handout](lci_eso_scca.html) | [PPTx](lci_eso_scca.pptx) | [Script](lci_eso_scca.docx) |
 | Esophagus T2 | [HTML Slides](lci_esot2.htm) | [Handout](lci_esot2.html) | [PPTx](lci_esot2.pptx) | [Script](lci_esot2.docx) |
 | Esophagus T1 | [HTML Slides](lci_esot1.htm) | [Handout](lci_esot1.html) | [PPTx](lci_esot1.pptx) | [Script](lci_esot1.docx) |
 | Esophagus M1 | [HTML Slides](lci_esom1.htm) | [Handout](lci_esom1.html) | [PPTx](lci_esom1.pptx) | [Script](lci_esom1.docx) |
-| Esophagus SCCA | [HTML Slides](lci_eso_scca.htm) | [Handout](lci_eso_scca.html) | [PPTx](lci_eso_scca.pptx) | [Script](lci_eso_scca.docx) |
 | Nutrition | [HTML Slides](lci_nutrition.htm) | [Handout](lci_nutrition.html) | [PPTx](lci_nutrition.pptx) | [Script](lci_nutrition.docx) |
 | Surgery | [HTML Slides](lci_surgery.htm) | [Handout](lci_surgery.html) | [PPTx](lci_surgery.pptx) | [Script](lci_surgery.docx) |
 | CV Port | [HTML Slides](lci_cvport.htm) | [Handout](lci_cvport.html) | [PPTx](lci_cvport.pptx) | [Script](lci_cvport.docx) |

@@ -25,9 +25,9 @@ bibliography: zotero.bib
 
 ## Anatomy
 
-:::::: columns
-::: {.column width="50%"}
-:::{style="font-size: 95%;"}
+::::::: columns
+:::: {.column width="50%"}
+::: {style="font-size: 95%;"}
 Food moves from the throat
 
 $\rightarrow$ esophagus
@@ -36,23 +36,22 @@ $\rightarrow$ stomach
 
 $\rightarrow$ small bowel (jejunum)
 :::
-:::
+::::
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Anatomy_Labels.png)]
+![](https://deidt7p41jzcy.cloudfront.net/Eso_Anatomy_Labels.png)\]
 :::
 ::::
-::::::
+:::::::
 
 ::: {.content-hidden unless-format="docx"}
 We'll start with reviewing some anatomy about how the body digests food.
 
-Food moves from the throat to the esophagus, and from there to the stomach.  
+Food moves from the throat to the esophagus, and from there to the stomach.
 
 From the stomach, food moved through a valve called the pylorus into the small intestines
 :::
-
 
 ## Esophageal Cancer Staging {tbl-colwidths="[20,10,70]"}
 
@@ -69,7 +68,6 @@ Metastatic cancers spread from the esophagus to other parts of the body
 -   **M0** cancers have not spread to other parts of the body
 -   **M1** cancers have spread lungs, liver, or bone
 
-
 M1 cancers is also known as Stage 4
 :::
 
@@ -82,12 +80,9 @@ M1 cancers is also known as Stage 4
 
 ## Treatment Plan
 
-
 -   Superficial (T1) $Rightarrow$ Endoscopic Therapy
 
-
 -   Localized (T1b/T2) $Rightarrow$ Surgery
-
 
 -   Locally-advanced (T3/N1) $\Rightarrow$ Chemo $\pm$ Radiation $\rightarrow$Surgery
 
@@ -106,40 +101,37 @@ This table summarizes four different treatment categories:
 
 Systemic therapy is administered intravenously (or by mouth) and circulates to kill cancer cells anywhere in the body.
 
-- Chemotherapy (FOLFOX)
-- Immunotherapy (nivolumab, pembrolizumab)
-- Hormone therapy (herceptin)
+-   Chemotherapy (FOLFOX)
+-   Immunotherapy (nivolumab, pembrolizumab)
+-   Hormone therapy (herceptin)
 
 ## Goals of Therapy
 
+-   Symptom control
 
-- Symptom control
+-   Prolong life
 
-
-- Prolong life
-
-
-- Minimize symptoms due to treatment
+-   Minimize symptoms due to treatment
 
 ## Systemic Therapy
 
 By shrinking tumor and decreasing cancer burden
 
-- Can improve symptoms
-- Can prolong life
+-   Can improve symptoms
+-   Can prolong life
 
 Goals:
 
-- Maximize cancer shrinkage
-- Minimize side-effects due to therapy
+-   Maximize cancer shrinkage
+-   Minimize side-effects due to therapy
 
 ## Radiation Therapy
 
 Radiation uses high-energy x-rays to kill cancer cells
 
-- Bone metastasis: Can relieve pain
+-   Bone metastasis: Can relieve pain
 
-- Esophagus: Can shrink tumor and improve eating
+-   Esophagus: Can shrink tumor and improve eating
 
 ## Endoluminal Stent
 
@@ -154,7 +146,6 @@ An endoluminal stent can be placed inside an esophageal cancer to improve eating
 :::
 ::::
 ::::::
-
 
 ## Endoluminal Stent
 
@@ -174,14 +165,13 @@ An endoluminal stent can be placed inside an esophageal cancer to improve eating
 
 Advantages:
 
-- Outpatient endoscopic procedure (no surgery)
-- Can improve swallowing
+-   Outpatient endoscopic procedure (no surgery)
+-   Can improve swallowing
 
 Disadvantages:
 
-- Discomfort and reflux
-- Can make surgery to remove esophagus more complicated
-
+-   Discomfort and reflux
+-   Can make surgery to remove esophagus more complicated
 
 ## Radiation Therapy - Esophagus
 
@@ -189,43 +179,27 @@ Radiation therapy to the esophagus can improve swallowing. There are two approac
 
 **Short Course**
 
-- 10 treatments over 2 weeks
+-   10 treatments over 2 weeks
 
 **Conventional Dosing**
 
-- 25-30 treatment over 5-6 weeks
-- Usually combined with low-dose chemo
-
+-   25-30 treatment over 5-6 weeks
+-   Usually combined with low-dose chemo
 
 ## Radiation Therapy - Bone
 
 For patients with metastasis to bone causing pain
 
-- Radiation can provide pain relief 
-- Typically 10 daily treatments over two weeks
+-   Radiation can provide pain relief
+-   Typically 10 daily treatments over two weeks
 
-
-## Intravenous Drug Administration
-
-Systemic Therapy drugs are administered intravenously.
-
-There are several options for intravenous access:
-
--   Peripheral IVs in the hand
--   PICC line (Peripheral Inserted Central Catheter)
--   Central Venous Port
-
-[Central Venous Port](lci_cvport.htm)
+{{< include lci_treatment_prep_guts.qmd >}}
 
 
 ## Hospice
 
 Hospice provides end-of-life care for patients whose priority is treatment of symptoms rather than systemic therapy of the cancer.
 
-- Usually provided in the home
-- Residential hospice is available as an alternative
-- Hospice team manages symptoms including pain managemnt
-
-## Nutrition
-
-[Nutrition Slideshow](lci_nutrition.htm)
+-   Usually provided in the home
+-   Residential hospice is available as an alternative
+-   Hospice team manages symptoms including pain managemnt
