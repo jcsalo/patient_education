@@ -60,12 +60,11 @@ From the stomach, food moved through a valve called the pylorus into the small i
 ## Treatment Plan
 
 \
-\
 - Superficial (T1) $\Rightarrow$ Endoscopic Therapy\
 \
 - Localized (T1b/T2) $\Rightarrow$ Surgery\
 \
-- Locally-advanced (T3/N1) $\Rightarrow$ Chemo $\pm$ Radiation $\rightarrow$Surgery\
+- Locally-advanced (T3/N1) $\Rightarrow$ Chemo$\pm$Radiation $\rightarrow$Surgery\
 \
 - Metastatic (M1) $\Rightarrow$ Chemotherapy
 
@@ -210,8 +209,8 @@ vs
 
 ## Chemotherapy + Radiation CROSS Trial
 
-Chemotherapy and radiation were given together over six weeks\
-\
+Chemotherapy and radiation given together over 6 weeks\
+
 \
 
 **Surgery Alone**
@@ -229,7 +228,7 @@ The results were quite dramatic: The group that was treated with all three thera
 Typical schedule for chemotherapy + radiation:
 
 -   Chemotherapy once per week for six weeks
--   Radiation five days per week for six weeks (28 treatments)
+-   Radiation five days per week for six weeks (28)
 -   PET scan (or CT) 4 weeks after the end of radiation
 -   Surgery 8 weeks after the end of radiation
 
@@ -247,7 +246,7 @@ Feeding tube may be needed for hydration and nutrition.
 
 "Sandwich" chemotherapy given before and after surgery:
 
-Chemotherapy (8 weeks) $\rightarrow$ Surgery $\rightarrow$ Chemotherapy (8 weeks)
+Chemotherapy (8 wks) $\rightarrow$ Surgery $\rightarrow$ Chemotherapy (8 wks)
 
 Two different drug combinations:
 
@@ -278,14 +277,14 @@ Two different drug combinations:
 ## Adenocarcinoma Treatment Options
 
 ::::: columns
-::: {.column width="50%"}
+::: {.column width="45%"}
 **Chemo + Radiation**
 
 -   Chemo + Radiation (6 weeks)
 -   Surgery
 :::
 
-::: {.column width="50%"}
+::: {.column width="55%"}
 **Chemotherapy**
 
 -   Chemotherapy (8 weeks)
@@ -300,7 +299,7 @@ Two different drug combinations:
 ::: {.column width="50%"}
 **CROSS Chemo + Radiation**
 
--   Longer track record (14 years)
+-   Longer track record (2010)
 -   Better tolerated
 -   Port usually placed
 -   Eating gets worse $\rightarrow$ better
@@ -324,7 +323,6 @@ Two different drug combinations:
 
 CT or PET scan will be performed after preoperative therapy
 
-\
 \
 
 -   Surgery performed after restaging
