@@ -70,18 +70,16 @@ We will see later that the treatment **can** be different depending upon whether
 
 {{< include lci_laparoscopy_guts.qmd >}}
 
-
 ## Treatment Plan
 
 \
+Superficial (T1) $\Rightarrow$ Endoscopic Therapy\
 \
-- Superficial (T1) $\Rightarrow$ Endoscopic Therapy\
+Localized (T1b/T2) $\Rightarrow$ Surgery\
 \
-- Localized (T1b/T2) $\Rightarrow$ Surgery\
+Locally-advanced (T3/N1) $\Rightarrow$ Chemo$\pm$Radiation $\rightarrow$Surgery\
 \
-- Locally-advanced (T3/N1) $\Rightarrow$ Chemo $\pm$ Radiation $\rightarrow$Surgery\
-\
-- Metastatic (M1) $\Rightarrow$ Chemotherapy
+Metastatic (M1) $\Rightarrow$ Chemotherapy
 
 ::: {.content-hidden unless-format="docx"}
 This table summarizes four different treatment categories:
@@ -210,7 +208,7 @@ The risk of cancer recurrence is minimized
 
 ## Chemotherapy + Radiation CROSS Trial
 
-Researchers studied 363 patients with esophageal cancer
+363 patients with esophageal cancer studied
 
 Patients were treated in two groups:
 
@@ -224,15 +222,15 @@ vs
 
 ## Chemotherapy + Radiation CROSS Trial
 
-Chemotherapy and radiation were given together over six weeks\
-\
+Chemotherapy + radiation given together over 6 weeks\
+
 \
 
 **Surgery Alone**
 
 vs
 
-**Chemotherapy + Radiation** $\rightarrow$ Surgery $\Rightarrow$ Longer Survival
+**Chemotherapy + Radiation$\rightarrow$Surgery** $\Rightarrow$ Longer Survival
 
 ::: {.content-hidden unless-format="docx"}
 The results were quite dramatic: The group that was treated with all three therapies, chemotherapy and radiation and surgery, lived on average twice a long as patients who had surgery alone.
@@ -243,7 +241,7 @@ The results were quite dramatic: The group that was treated with all three thera
 Typical schedule for chemotherapy + radiation:
 
 -   Chemotherapy once per week for six weeks
--   Radiation five days per week for six weeks (28 treatments)
+-   Radiation five days per week for six weeks (28)
 -   PET scan (or CT) 4 weeks after the end of radiation
 -   Surgery 8 weeks after the end of radiation
 
@@ -253,15 +251,15 @@ Kills cancer cells in the esophagus and lymph nodes
 
 Can also cause irritation of the lining of the esophagus.
 
-Swallowing can be difficult the last two weeks of therapy.
+Swallowing can be difficult the last 2 weeks.
 
-Feeding tube may be needed for hydration and nutrition.
+Feeding tube may be needed for hydration/nutrition.
 
 ## Locally-advanced Adenocarcinoma
 
-"Sandwich" chemotherapy given before and after surgery:
+"Sandwich" chemotherapy before + after surgery:
 
-Chemotherapy (8 weeks) $\rightarrow$ Surgery $\rightarrow$ Chemotherapy (8 weeks)
+Chemotherapy (8 wks) $\rightarrow$ Surgery $\rightarrow$ Chemotherapy (8 wks)
 
 Two different drug combinations:
 
@@ -292,14 +290,14 @@ Two different drug combinations:
 ## Adenocarcinoma Treatment Options
 
 ::::: columns
-::: {.column width="50%"}
+::: {.column width="55%"}
 **Chemo + Radiation**
 
 -   Chemo + Radiation (6 weeks)
 -   Surgery
 :::
 
-::: {.column width="50%"}
+::: {.column width="45%"}
 **Chemotherapy**
 
 -   Chemotherapy (8 weeks)
@@ -314,7 +312,7 @@ Two different drug combinations:
 ::: {.column width="50%"}
 **CROSS Chemo + Radiation**
 
--   Longer track record (14 years)
+-   Longer track record (2010)
 -   Better tolerated
 -   Port usually placed
 -   Eating gets worse $\rightarrow$ better
@@ -346,7 +344,7 @@ There are several options for intravenous access:
 
 ## Restaging
 
-CT or PET scan will be performed after preoperative therapy
+CT (or PET) scan performed after preoperative therapy
 
 \
 \
@@ -355,7 +353,6 @@ CT or PET scan will be performed after preoperative therapy
 -   Timing depends upon recovery from therapy
 
 {{< include lci_treatment_prep_guts.qmd >}}
-
 
 ## Surgery
 

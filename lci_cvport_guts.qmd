@@ -3,7 +3,7 @@
 
 Most chemotherapy is administered by vein. 
 
-Several options exist to administer chemotherapy through veins:
+Several options exist to administer chemotherapy:
 
 - Intravenous catheter in peripheral veins
 - Peripheral Intravenous Central Catheter (PICC)
@@ -55,7 +55,7 @@ FLOT chemotherapy requires a home infusion pump, got which a peripheral IV won't
 ## PICC Lines
 
 :::::: columns
-::: {.column width="60%"}
+::: {.column width="65%"}
 - Placed in Radiology
 - Stay in place during all of treatment
 - Can stay in place for weeks
@@ -66,7 +66,7 @@ Special care needed at home to keep catheter and dressing clean and dry
 
 :::
 
-:::: {.column width="40%"}
+:::: {.column width="35%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/comm_picc.jpeg)
 :::
