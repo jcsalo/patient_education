@@ -1,20 +1,42 @@
-
-
 ## Preparing for Cancer Treatment
 
-- Primary Care Physician
-- MyAtrium Portal
-- Exercise
-- Smoking Cessation
-- Nutrition
+-   Primary Care Physician
+-   MyAtrium Portal
+-   Exercise
+-   Smoking Cessation
 
-## Primary Care Physician
+## Primary Care Practitioner (PCP)
 
-## My Atrium Patient Portal
+A PCP is critical to coordinate care between specialists.
+
+We will update your PCP after each visit
+
+If you do not have a PCP, call our referral line at (844) 235-6998
+
+## My Atrium Patient Portal\
+\
+
+- Critical to good communication with your cancer care team
+- Available for desktop or laptop or phone
+- Sign up at my.atriumhealth.org
 
 ## Exercise
 
+- Important to reduce the risk of complications from cancer treatment
+- Goal is 30min/day of vigorous exercise 6 days/week
+  - Working hard enough that you can't carry a conversation
+  - Start slow an build up
+  - Every day counts! (Aim for some activity every day)
+
 ## Smoking Cessation
 
-{{< include lci_nutrition_guts.qmd >}}
+- Smoking makes it more difficult to get through cancer treatment
+  - Increases risk of complications after surgery
+- Options for help with smoking cessation:
+  - NC Quit Line 1-800-QUIT-NOW (1-800-784-8669)
+  - American Lung Asssociation fredomfromsmoking.org
+  - 1:1 Smoking Cessation Counseling Clinics (Metro Charlotte)
+  
 
+
+{{< include lci_nutrition_guts.qmd >}}
