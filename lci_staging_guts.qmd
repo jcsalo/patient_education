@@ -10,7 +10,6 @@ Staging refers to the tests to determine
 
 ## Cancer Staging {tbl-colwidths="[20,10,70]"}
 
-\
 
 -   **T** = Tumor - Depth of growth into the wall\
     \
@@ -127,7 +126,6 @@ T1 tumors are early stage, and T4 tumors more advanced
 Cancers are categorized by whether there is spread to the lymph nodes.
 
 -   **N0** cancers have not spread to the lymph nodes\
-    \
 -   **N1** cancers have spread to the lymph nodes.
 :::
 
@@ -176,13 +174,13 @@ In some cases, the PET scan is not performed until a CT scans bas been done.
 ## Endoscopic Ultrasound
 
 :::::: columns
-::: {.column width="55%"}
+::: {.column width="60%"}
 -   Similar to upper endoscopy (EGD)
 -   Ultrasound probe in scope
 -   Evaluates T stage of cancer
 :::
 
-:::: {.column width="45%"}
+:::: {.column width="40%"}
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/EUSArtboard.png)
 :::

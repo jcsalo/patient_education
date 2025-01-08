@@ -1,0 +1,33 @@
+
+
+## Locally-advanced Adenocarcinoma
+
+"Sandwich" chemotherapy before + after surgery:
+
+Chemo (8 wks) $\rightarrow$ Surgery $\rightarrow$ Chemo (8 wks)
+
+Two different drug combinations:
+
+-   FLOT (more effective)
+-   FOLFOX (better tolerated)
+
+## "Sandwich" Chemotherapy Drugs
+
+::::: columns
+::: {.column width="40%"}
+**FLOT**
+
+-   5-FU
+-   Leucovorion
+-   Oxaliplatin
+-   Taxotere
+:::
+
+::: {.column width="60%"}
+**FOLFOX**
+
+-   5-FU
+-   Leucovorin
+-   Oxaliplatin
+:::
+:::::

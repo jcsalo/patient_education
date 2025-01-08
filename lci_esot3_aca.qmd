@@ -193,86 +193,11 @@ The risk of cancer recurrence is minimized
 ::::
 ::::::
 
-## Chemotherapy + Radiation CROSS Trial
+{{< include lci_cross_guts.qmd >}}
 
-Researchers studied 363 patients with esophageal cancer
 
-Patients were treated in two groups:
+{{< include lci_flot_guts.qmd >}}
 
-\
-
-**Surgery Alone**
-
-vs
-
-**Chemotherapy + Radiation** $\rightarrow$ Surgery
-
-## Chemotherapy + Radiation CROSS Trial
-
-Chemotherapy and radiation given together over 6 weeks\
-
-\
-
-**Surgery Alone**
-
-vs
-
-**Chemotherapy + Radiation** $\rightarrow$ Surgery $\Rightarrow$ Longer Survival
-
-::: {.content-hidden unless-format="docx"}
-The results were quite dramatic: The group that was treated with all three therapies, chemotherapy and radiation and surgery, lived on average twice a long as patients who had surgery alone.
-:::
-
-## Chemotherapy + Radiation CROSS Trial
-
-Typical schedule for chemotherapy + radiation:
-
--   Chemotherapy once per week for six weeks
--   Radiation five days per week for six weeks (28)
--   PET scan (or CT) 4 weeks after the end of radiation
--   Surgery 8 weeks after the end of radiation
-
-## Chemotherapy + Radiation - Side Effects
-
-Kills cancer cells in the esophagus and lymph nodes
-
-Can also cause irritation of the lining of the esophagus.
-
-Swallowing can be difficult the last two weeks of therapy.
-
-Feeding tube may be needed for hydration and nutrition.
-
-## Locally-advanced Adenocarcinoma
-
-"Sandwich" chemotherapy given before and after surgery:
-
-Chemotherapy (8 wks) $\rightarrow$ Surgery $\rightarrow$ Chemotherapy (8 wks)
-
-Two different drug combinations:
-
--   FLOT (more effective)
--   FOLFOX (better tolerated)
-
-## "Sandwich" Chemotherapy Drugs
-
-::::: columns
-::: {.column width="40%"}
-**FLOT**
-
--   5-FU
--   Leucovorion
--   Oxaliplatin
--   Taxotere
-:::
-
-::: {.column width="60%"}
-**FOLFOX**
-
--   5-FU
--   Leucovorin
--   Oxaliplatin
-:::
-:::::
 
 ## Adenocarcinoma Treatment Options
 
