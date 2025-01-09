@@ -10014,7 +10014,133 @@
     "href": "lci_nutrition.html",
     "title": "Nutrition",
     "section": "",
-    "text": "{{ &lt; include lci_nutrition_guts.qmd &gt; }}"
+    "text": "Esophagus delivers food to the stomach\nStomach stores food and delivers it in small quantities to the jejunum\nJejunum begins digestion in the small intestines"
+  },
+  {
+    "objectID": "lci_nutrition.html#gi-tract-anatomy",
+    "href": "lci_nutrition.html#gi-tract-anatomy",
+    "title": "Nutrition",
+    "section": "",
+    "text": "Esophagus delivers food to the stomach\nStomach stores food and delivers it in small quantities to the jejunum\nJejunum begins digestion in the small intestines"
+  },
+  {
+    "objectID": "lci_nutrition.html#protein-needs",
+    "href": "lci_nutrition.html#protein-needs",
+    "title": "Nutrition",
+    "section": "Protein Needs",
+    "text": "Protein Needs\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day"
+  },
+  {
+    "objectID": "lci_nutrition.html#protein-shakes",
+    "href": "lci_nutrition.html#protein-shakes",
+    "title": "Nutrition",
+    "section": "Protein Shakes",
+    "text": "Protein Shakes\n\n\nProtein Shakes can provide protein with minimal sugar\n\nProtein Shakes"
+  },
+  {
+    "objectID": "lci_nutrition.html#feeding-tubes",
+    "href": "lci_nutrition.html#feeding-tubes",
+    "title": "Nutrition",
+    "section": "Feeding Tubes",
+    "text": "Feeding Tubes\n\n\nJejunostomy = Small Intestine \n\nGastrostomy = Stomach"
+  },
+  {
+    "objectID": "lci_nutrition.html#gastrostomy-tube",
+    "href": "lci_nutrition.html#gastrostomy-tube",
+    "title": "Nutrition",
+    "section": "Gastrostomy Tube",
+    "text": "Gastrostomy Tube\nFeeding Gastrostomy\n\nFeeding with a syringe several times per day.\nTube can be hidden underneath clothing\nTube does not interfere with eating by mouth\nRemoved easily in the office when no longer needed"
+  },
+  {
+    "objectID": "lci_nutrition.html#gastrostomy-tube-methods",
+    "href": "lci_nutrition.html#gastrostomy-tube-methods",
+    "title": "Nutrition",
+    "section": "Gastrostomy Tube Methods",
+    "text": "Gastrostomy Tube Methods\nA gastrostomy tube can be placed either by endoscopy, which is called a PEG tube\nA gastrostomy tube can also be placed by laparoscopy, which is usually preferred if surgery on the esophagus is planned in the future.\nYour surgeon will help you decide which kind of tube is best for you. This is especially important if you will need esophageal surgery in the future, as the stomach is frequently used to make a new esophagus"
+  },
+  {
+    "objectID": "lci_nutrition.html#gastrostomy-tube-1",
+    "href": "lci_nutrition.html#gastrostomy-tube-1",
+    "title": "Nutrition",
+    "section": "Gastrostomy Tube",
+    "text": "Gastrostomy Tube\n\nOutpatient Placement (go home the same day)\nCentral venous port can be placed at the same time (if needed)"
+  },
+  {
+    "objectID": "lci_nutrition.html#jejunostomy-tube",
+    "href": "lci_nutrition.html#jejunostomy-tube",
+    "title": "Nutrition",
+    "section": "Jejunostomy tube",
+    "text": "Jejunostomy tube\nThe other type of feeding tube is a jejunostomy.\nA jejunostomy tube tube is placed into the small intestines. Because the small intestine is used to receiving food in small quantities, a jejunostomy tube requires the use of a pump to deliver feedings gradually over a matter of hours.\nIn general, feedings are done at night in order to allow you to be active during the day"
+  },
+  {
+    "objectID": "lci_nutrition.html#jejunostomy-video",
+    "href": "lci_nutrition.html#jejunostomy-video",
+    "title": "Nutrition",
+    "section": "Jejunostomy Video",
+    "text": "Jejunostomy Video\n\n\nA video is available to help become familiar with the feeding jejunostomy\n\nGastrostomy = Stomach"
+  },
+  {
+    "objectID": "lci_nutrition.htm#gi-tract-anatomy",
+    "href": "lci_nutrition.htm#gi-tract-anatomy",
+    "title": "Nutrition",
+    "section": "GI Tract Anatomy",
+    "text": "GI Tract Anatomy\n\n\n\nEsophagus delivers food to the stomach\nStomach stores food and delivers it in small quantities to the jejunum\nJejunum begins digestion in the small intestines"
+  },
+  {
+    "objectID": "lci_nutrition.htm#protein-needs",
+    "href": "lci_nutrition.htm#protein-needs",
+    "title": "Nutrition",
+    "section": "Protein Needs",
+    "text": "Protein Needs\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day"
+  },
+  {
+    "objectID": "lci_nutrition.htm#protein-shakes",
+    "href": "lci_nutrition.htm#protein-shakes",
+    "title": "Nutrition",
+    "section": "Protein Shakes",
+    "text": "Protein Shakes\n\n\nProtein Shakes can provide protein with minimal sugar\n\nProtein Shakes"
+  },
+  {
+    "objectID": "lci_nutrition.htm#feeding-tubes",
+    "href": "lci_nutrition.htm#feeding-tubes",
+    "title": "Nutrition",
+    "section": "Feeding Tubes",
+    "text": "Feeding Tubes\n\n\nJejunostomy = Small Intestine \n\nGastrostomy = Stomach"
+  },
+  {
+    "objectID": "lci_nutrition.htm#gastrostomy-tube",
+    "href": "lci_nutrition.htm#gastrostomy-tube",
+    "title": "Nutrition",
+    "section": "Gastrostomy Tube",
+    "text": "Gastrostomy Tube\nFeeding Gastrostomy\n\nFeeding with a syringe several times per day.\nTube can be hidden underneath clothing\nTube does not interfere with eating by mouth\nRemoved easily in the office when no longer needed"
+  },
+  {
+    "objectID": "lci_nutrition.htm#gastrostomy-tube-methods",
+    "href": "lci_nutrition.htm#gastrostomy-tube-methods",
+    "title": "Nutrition",
+    "section": "Gastrostomy Tube Methods",
+    "text": "Gastrostomy Tube Methods\nA gastrostomy tube can be placed either by endoscopy, which is called a PEG tube\nA gastrostomy tube can also be placed by laparoscopy, which is usually preferred if surgery on the esophagus is planned in the future.\nYour surgeon will help you decide which kind of tube is best for you. This is especially important if you will need esophageal surgery in the future, as the stomach is frequently used to make a new esophagus"
+  },
+  {
+    "objectID": "lci_nutrition.htm#gastrostomy-tube-1",
+    "href": "lci_nutrition.htm#gastrostomy-tube-1",
+    "title": "Nutrition",
+    "section": "Gastrostomy Tube",
+    "text": "Gastrostomy Tube\n\nOutpatient Placement (go home the same day)\nCentral venous port can be placed at the same time (if needed)"
+  },
+  {
+    "objectID": "lci_nutrition.htm#jejunostomy-tube",
+    "href": "lci_nutrition.htm#jejunostomy-tube",
+    "title": "Nutrition",
+    "section": "Jejunostomy tube",
+    "text": "Jejunostomy tube\nThe other type of feeding tube is a jejunostomy.\nA jejunostomy tube tube is placed into the small intestines. Because the small intestine is used to receiving food in small quantities, a jejunostomy tube requires the use of a pump to deliver feedings gradually over a matter of hours.\nIn general, feedings are done at night in order to allow you to be active during the day"
+  },
+  {
+    "objectID": "lci_nutrition.htm#jejunostomy-video",
+    "href": "lci_nutrition.htm#jejunostomy-video",
+    "title": "Nutrition",
+    "section": "Jejunostomy Video",
+    "text": "Jejunostomy Video\n\n\nA video is available to help become familiar with the feeding jejunostomy\n\nGastrostomy = Stomach"
   },
   {
     "objectID": "LCI.html",
