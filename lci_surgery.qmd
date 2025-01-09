@@ -178,17 +178,15 @@ The anastomosis is surgical connection between the esophagus and the stomach.
 ::: {.column width="50%"}
 If anastomosis does not heal properly:
 
-- Leakage of fluid from the esophagus
-- Infection in the space between the lungs
-- Requires additional time in the hospital
-
+-   Leakage of fluid from the esophagus
+-   Infection in the space between the lungs
+-   Requires additional time in the hospital
 :::
 
 ::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Leak.png)
 :::
 :::::
-
 
 ## Anastomotic Leak
 
@@ -196,10 +194,9 @@ If anastomosis does not heal properly:
 ::: {.column width="50%"}
 If an anastomotic leak does occur:
 
-- Some leaks will seal on their own
-- A stent may be required to help healing
-- Occasionally additional surgey is required
-
+-   Some leaks will seal on their own
+-   A stent may be required to help healing
+-   Occasionally additional surgey is required
 :::
 
 ::: {.column width="50%"}
@@ -207,17 +204,15 @@ If an anastomotic leak does occur:
 :::
 :::::
 
-
 ## Anastomotic Leak
 
 ::::: columns
 ::: {.column width="50%"}
 Risk of a leak depends upon:
 
-- Type of operation performed
-- Overall nutritional status of patient
-- Experience of the surgeon
-
+-   Type of operation performed
+-   Overall nutritional status of patient
+-   Experience of the surgeon
 :::
 
 ::: {.column width="50%"}
@@ -350,10 +345,10 @@ Multiple lines and tubes:
 
 ## Feeding Jejunostomy - Typical Regimen
 
-- Jejunostomy tube feeds for 16 hours (6pm to 10am)
-  - Men: 75mL/hour x 16 hours = 5 cartons
-  - Women: 60mL/hour x 16 hours = 4 cartons
-- Water 240ml (8oz) via syringe 4x/day
+-   Jejunostomy tube feeds for 16 hours (6pm to 10am)
+    -   Men: 75mL/hour x 16 hours = 5 cartons
+    -   Women: 60mL/hour x 16 hours = 4 cartons
+-   Water 240ml (8oz) via syringe 4x/day
 
 Hospital nurses will teach you how to use the feeding tube pump
 
@@ -365,11 +360,10 @@ Jejunostomy feeding tend to elevate blood sugars: Insulin may be required
 
 Typical pattern:
 
-- Jejunostomy feeds 6pm to 10am
-- Insulin at 6pm (70/30)
-- Insulin at MN (70/30)
-- No insulin if feedings are not run
-
+-   Jejunostomy feeds 6pm to 10am
+-   Insulin at 6pm (70/30)
+-   Insulin at MN (70/30)
+-   No insulin if feedings are not run
 
 ## Activity
 
@@ -378,7 +372,7 @@ Typical pattern:
 -   Goals:
     -   Improve lung function
     -   Prevent muscle loss
-    
+
 ## Nasogastric Tube (NG)
 
 NG is placed trough the nose into the stomach to remove fluid from the stomach and allow healing.
@@ -389,17 +383,16 @@ NG tube is removed after confirmation by x-ray that the stomach is starting to e
 
 X-ray on the 2nd to 4th day after surgery
 
-- Will require standing up for 5-10 minutes
-- Dye is injected into the NG tube
-- If stomach empties, NG tube is removed
-
+-   Will require standing up for 5-10 minutes
+-   Dye is injected into the NG tube
+-   If stomach empties, NG tube is removed
 
 ## Modified Barium Swallow
 
 Tests whether swallowing muscles are working properly
 
-- Performed after nasogastric (NG) tube removed
-- Drink a white chalky liquids in while x-rays are taken
+-   Performed after nasogastric (NG) tube removed
+-   Drink a white chalky liquids in while x-rays are taken
 
 70% have good swallowing function $\rightarrow$ 1oz of water every hour
 
@@ -407,13 +400,8 @@ Tests whether swallowing muscles are working properly
 
 Most are taking protein shakes when they go home
 
-Protein shakes are started after tolerating water
-\
-  -   2 oz per hour to start
-  -   4 oz per hour if 2oz are tolerated well
-
-
-
+Protein shakes are started after tolerating water\
+- 2 oz per hour to start - 4 oz per hour if 2oz are tolerated well
 
 ## Discharge
 
@@ -428,27 +416,25 @@ Goal: Ready to leave hospital day #6/7 after surgery
 
 Most patients go home with:
 
-- Protein shakes by mouth 4oz at a time
-- Tube feeds at night (4-5 cartons)
-- Water through the feeding tube 8oz 4 times per day
+-   Protein shakes by mouth 4oz at a time
+-   Tube feeds at night (4-5 cartons)
+-   Water through the feeding tube 8oz 4 times per day
 
 ## Medicines at Home
 
-- Proton pump inhibitor (acid blocker) for one year
-- Reglan (metoclopramide) - stomach emptying: 6 weeks
-- Lopressor (metoprolol) - prevent atrial fibrillation: 2 weeks
+-   Proton pump inhibitor (acid blocker) for one year
+-   Reglan (metoclopramide) - stomach emptying: 6 weeks
+-   Lopressor (metoprolol) - prevent atrial fibrillation: 2 weeks
 
 ## Pain Medicines at Home
 
-- Acetaminophen 1000mg every 6 hours
-- Gabapentin 300mg every 8 hours
-- Oxycodone 5mg every 6 hours
+-   Acetaminophen 1000mg every 6 hours
+-   Gabapentin 300mg every 8 hours
+-   Oxycodone 5mg every 6 hours
 
 In most cases, oxycodone is no longer needed by 6 weeks after surgery
 
-
 ## Sleeping
-
 
 ::::: columns
 ::: {.column width="50%"}
@@ -468,9 +454,9 @@ A wedge pillow can be helpful for sleep
 
 You will be seen in the office 7-10 days after discharge
 
-- Adjust medicines
-- Remove staples
-- Remove drains (if needed)
+-   Adjust medicines
+-   Remove staples
+-   Remove drains (if needed)
 
 ## Jejunostomy Removal (8 weeks after surgery)
 
@@ -482,17 +468,17 @@ May take 30 minutes and some local anesthetic to loosen up the tube for removal.
 
 You may have some difficulty absorbing some nutrients:
 
-- Iron
-- Vitamin B12
-- Vitamin D
+-   Iron
+-   Vitamin B12
+-   Vitamin D
 
 ## Nutritional Monitoring after Surgery
 
 About 3 months after the jejunostomy tube is removed, we will check blood levels:
 
-- Iron (ferritin)
-- Vitamin B12
-- Vitamin D.
+-   Iron (ferritin)
+-   Vitamin B12
+-   Vitamin D.
 
 ## Nutritional Replacements after Surgery
 
@@ -502,3 +488,4 @@ If levels are low, repeat testing in several months may be needed.
 
 {{< include lci_treatment_prep_guts.qmd >}}
 
+{{< include lci_mie_guts.qmd >}}

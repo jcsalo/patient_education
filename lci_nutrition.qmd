@@ -151,7 +151,7 @@ A jejunostomy tube is used in cases where it’s not possible to place a gastros
 ::::::: columns
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-Jejunostomy = Small Intestine ![](https://deidt7p41jzcy.cloudfront.net/jtube_ai.png)
+This video provides more information about feeding jejunostomy
 :::
 ::::
 
@@ -174,4 +174,4 @@ Your dietitian and physician will help you decide which tube is best for your si
 
 
 
-{{< qrcode https://jmbuhr.de width = 400 height = 400 >}}
+
