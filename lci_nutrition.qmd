@@ -23,4 +23,4 @@ bibliography: zotero.bib
 ---
 
 
-{{ < include lci_nutrition_guts.qmd > }}
+{{< include lci_nutrition_guts.qmd >}}
