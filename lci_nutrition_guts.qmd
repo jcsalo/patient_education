@@ -1,4 +1,3 @@
-
 ## GI Tract Anatomy
 
 :::::: columns
@@ -21,11 +20,10 @@ Normally, food passes from the mouth into the esophagus, and then into the stoma
 
 ## Protein Needs
 
-- Men: Average 75 grams/day
-- Women: Average 60 grams/day
+-   Men: Average 75 grams/day
+-   Women: Average 60 grams/day
 
 ## Protein Shakes
-
 
 ::::::: columns
 :::: {.column width="50%"}
@@ -50,9 +48,6 @@ Gastrostomy tubes are placed in the stomach
 
 Your dietitian and physician will help you decide which tube is best for your situation
 :::
-
-
-
 
 ## Feeding Tubes
 
