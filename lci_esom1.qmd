@@ -125,6 +125,8 @@ Goals:
 -   Maximize cancer shrinkage
 -   Minimize side-effects due to therapy
 
+{{< include lci_cvport_guts.qmd >}}
+
 ## Radiation Therapy
 
 Radiation uses high-energy x-rays to kill cancer cells
@@ -194,7 +196,6 @@ For patients with metastasis to bone causing pain
 -   Typically 10 daily treatments over two weeks
 
 {{< include lci_treatment_prep_guts.qmd >}}
-
 
 ## Hospice
 
