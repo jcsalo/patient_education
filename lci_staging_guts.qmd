@@ -49,7 +49,7 @@ Early-stage cancers are those that are small and have not grown very far into th
 ::: {.column width="50%"}
 \
 \
-Cancers start on the very inside of the layer called the mucosa
+Cancers start on the very inside layer called the mucosa
 :::
 
 :::: {.column width="50%"}

@@ -84,3 +84,133 @@ Goal: ready to leave day #6 after surgery
 - Home care nursing (feeding tube teaching)
 - Home infusion (tube feeding supplies)
 
+## Medicines at Home - Pain
+
+Acetaminophen (Tylenol) 4000mg/day (1000mg 4 times/day)
+Gabapentin 300mg 3 times/day (works best if taken every day)
+Oxycodone
+- Take as needed in addition to Tylenol and gabapentin
+- Will begin reducing dosage at first postoperative visit
+- Most patients can discontinue by 4 weeks after surgery
+- NO DRIVING WHILE ON OXYCODONE
+Non-steroidal anti-inflammatories (Celebrex)
+- 200 mg every 12 hours starting 2 weeks after surgery
+NO GOODY POWDERS OR BCs (Can cause permanent scarring at the surgery site)
+
+## Medicines at Home - Acid Blockers
+
+Acid blocker (Omeprazole, Nexium,etc)
+- Will stay on for at 1-2 years to prevent acid reflux
+- Important in preventing scarring at anastomosis (new connection between esophagus and stomach)
+- To administer through feeding tube, open capsule and resuspend beads in 60mL (2oz) of water
+
+
+## Medicines at Home
+
+Reglan – Helps stomach empty
+- Will plan to stop after six weeks
+- 0.1% risk of tardive dyskinesia (nervous tic)
+Remeron – Helps improve appetite
+- Can cause vivid dreams
+- Used for several weeks after surgery
+- Will stop within first three months of surgery
+
+
+## Medicines at Home - Beta Blockers
+
+Metroprolol – Beta Blocker
+- Slows heart rate and lowers blood pressure	
+- Used around the time of surgery to prevent fast heart rhythms
+- In patients who were not taking a beta blocker prior to surgery, will plan to wean over a few weeks after surgery
+- For patients who were taking a beta blocker medicine prior to surgery, will return to prior dosage and drug after surgery
+
+## Nutrition after Surgery
+
+At discharge home: 
+- Protein shakes 4oz every 2 hrs
+- Tube feeds 4-5 cans at night (6pm-10am)
+10-12 Days: Increase protein shakes
+- Tube feeds 3-4 cans at night
+Three weeks: Post-esophagectomy Diet
+8-12 weeks: Remove feeding tube (in office)
+
+## Transition from Tube Feeds $\rightarrow$ Eating
+
+Dietitian will calculate daily protein goal
+- Typically 60-75 grams protein/day
+- Each carton of tube feeding has 15 grams
+  - 75 grams protein = 5 cartons/night
+- As protein intake by mouth increases, tube feeds can be reduced
+Important that protein intake be spread out during the day (20gm/meal)
+Three meals + 2-3 high-protein snacks
+
+## Post-esophagectomy Diet
+
+Soft Consistency
+High Protein
+Avoid sugary liquids (can cause ‘dumping’)
+Avoid raw vegetables (and salads)
+Eating
+- Small, frequent meals
+- Sit up for 30-45 minutes after eating
+- Avoid eating within 2 hours of bedtime
+
+## Wedge Pillow
+
+
+::: {.content-hidden unless-format="docx"}
+Early-stage cancers are those that are small and have not grown very far into the wall
+:::
+
+:::::: columns
+::: {.column width="50%"}
+\
+Surgery to remove the esophageal tumor will lead to a tendency for reflux. The most helpful strategy is a 30 degree wedge pillow. This should be half as high as it is long.
+Available at Walmart.com
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/wedge_pillow_comm.jpg)
+:::
+::::
+::::::
+
+## Postoperative Visit
+
+Check surgical site
+- Remove staples (if needed)
+Adjust medicines as needed
+- Insulin (for diabetic patients on insulin)
+- Reduce beta blocker medicines
+Advance diet
+Reduce tube feeds
+
+## After surgery
+
+Wean off medicines added after surgery
+- Pain medicines
+- Beta-blockers
+- Reglan
+- Remeron
+
+Continue acid blockers for at least 1 year
+
+May need additional systemic therapy afterwards
+- Chemotherapy
+- Immunotherapy (Optive = nivolumab)
+
+## Team Members
+
+Primary Care Provider
+Gastroenterologist
+Medical Oncologist (chemotherapy)
+Radiation Oncologist (radiation)
+Surgeons
+  - Jonathan Salo
+  - Jeffrey Hagen
+  - Michael Roach
+Dietitian - Liz Koch
+Nurses - Brandon Galloway & Kit Sluder
+Schedulers - Stacey Singleton & Toney Bethea
+

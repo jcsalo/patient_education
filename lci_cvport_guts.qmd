@@ -40,9 +40,8 @@ FLOT chemotherapy requires a home infusion pump, got which a peripheral IV won't
 ::: {.column width="65%"}
 -   Placed in Radiology
 -   Stay in place during all of treatment
--   Special care needed to keep it clean and dry
+-   Needs to be kept clean and dry
 -   Suitable for FLOT chemotherapy
-
 :::
 
 :::: {.column width="35%"}
