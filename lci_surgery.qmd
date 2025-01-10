@@ -10,13 +10,15 @@ format:
     logo: "atriumlogo.jpg"
     footer: "[LCI GI Oncology](https://jcsalo.github.io/patient_education/LCI.html)"
     css: "lci_styles.css"
-    theme: default
+    theme: [simple, lci.scss]
     echo: false
-    #output-file: lci_esot3_slides.html
+    transition: fade
+    #output-file: lci_surgery_slides.html
     pdf-separate-fragments: true
-  pdf:
-    documentclass: scrartcl
   html: default
+  docx:
+    number-sections: true
+    number-depth: 2
 editor: visual
 bibliography: zotero.bib
 ---
