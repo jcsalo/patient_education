@@ -10,8 +10,8 @@
 ## Day of Surgery
 
 -   Arrive at 5am – nothing to eat or drink after midnight.
--   OK to take medicines with a sip of water (or coffee) but no cream.
--   Surgery will be cancelled if you have cream or milk in the morning.
+-   Medicines with a sip of water (or black coffee) but no cream.
+-   Surgery will be cancelled if you have cream/milk in the am.
 -   Waiting room for family and friends on 5th floor
 -   Post-operative care in STICU (11th floor)
 
@@ -36,7 +36,7 @@
 
 ## ICU
 
--   Catheter in bladder removed → make certain the bladder empties properly
+-   Bladder catheter removed → check that bladder empties properly
 -   Chest tube removed (day 2-4) → follow-up chest x-ray
 -   Fluid emptied from drains every few hours
 -   Start tube feedings by feeding
@@ -46,15 +46,11 @@
 ## Ward - 6Tower
 
 - Jejunostomy feeds started
-  - Nurses will instruct you and family how to operate the pump
 - Up in a chair most of the day
 - Walking in the halls
   - Start with assistance
   - Improves lung function
-  - Prevents loss of muscle
-
-
-
+  - Prevents loss of muscle strength
 
 ## Jejunostomy Feeds
 
@@ -75,14 +71,13 @@ Water administered through feeding tube
     -   Women: 60mL/hour x 16 hours = 4 cartons
 -   Water 240ml (8oz) via syringe 4x/day
 
-Hospital nurses will teach you how to use the feeding tube pump
+Hospital nurses will teach use of the feeding tube pump
 
-We want to make sure you can manage the pump before going home
 
 
 ## Jejunostomy Feeds with Diabetes
 
-Jejunostomy feedings may cause blood sugars to be elevated
+Jejunostomy feedings elevate blood sugars
 
 - Insulin may be required along with feeds
 
@@ -108,7 +103,7 @@ Video shows how to set up and run the jejunostomy tube pump
 ## Activity
 
 -   Up in chair most of the day
--   Walking in hallway with help from nurse/Physical Therapist
+-   Walking with help from nurse/Physical Therapist
 -   Goals:
     -   Improve lung function
     -   Prevent muscle loss
@@ -152,23 +147,12 @@ Protein shakes are started after tolerating water\
 Goal: ready to leave day #6/7 after surgery
 
 - Night-time tube feedings (6pm to 10am)
-- Some nutrition by mouth (70% of patients)
+- Nutrition by mouth (70% of patients)
   - 1 oz of water per hour by mouth OR
   - Protein shakes 4oz every 2 hours
 - Water through tube 8oz four times per day
 - Home care nursing (feeding tube teaching)
 - Home infusion (tube feeding supplies)
-
-
-
-## Nutrition at Home
-
-Most patients go home with:
-
--   Protein shakes by mouth 4oz at a time
--   Tube feeds at night (4-5 cartons)
--   Water through the feeding tube 8oz 4 times per day
-
 
 
 ## Nutrition after Surgery
@@ -195,7 +179,7 @@ Dietitian will calculate daily protein goal
   - 75 grams protein = 5 cartons/night
 - As intake by mouth increases, tube feeds are reduced
 
-Important that protein is spread out during the day (20gm/meal)
+Spread out protein during the day (20gm/meal)
 
 - Three meals + 2-3 high-protein snacks
 
@@ -212,9 +196,9 @@ Important that protein is spread out during the day (20gm/meal)
 
 ## Medicines at Home - Pain
 
-Acetaminophen (Tylenol) 4000mg/day (1000mg 4 times/day)
+Acetaminophen (Tylenol) 4000mg/day (1000mg 4x/day)
 
-Gabapentin 300mg 3 times/day (works best if taken every day)
+Gabapentin 300mg 3 times/day (works best if taken daily)
 
 Oxycodone
 
@@ -256,14 +240,12 @@ Remeron – Helps improve appetite
 - Will stop within first three months of surgery
 
 
-## Medicines at Home - Beta Blockers
-
-Metroprolol – Beta Blocker
+## Medicines at Home - Metoprolol = Beta Blockers
 
 - Slows heart rate and lowers blood pressure	
-- Used around the time of surgery to prevent fast heart rhythms
-- In patients who were not taking a beta blocker prior to surgery, will plan to wean over a few weeks after surgery
-- For patients who were taking a beta blocker medicine prior to surgery, will return to prior dosage and drug after surgery
+- Used around the time of surgery to prevent rapid heart rate
+- Patients not taking a beta blocker prior to surgery $\rightarrow$ wean after after surgery
+- Patients taking a beta blocker  prior to surgery $\rightarrow$ return to prior dose and drug after surgery
 
 
 ## Sleeping
@@ -304,15 +286,9 @@ Wean off medicines added after surgery
 
 - Pain medicines
 - Beta-blockers
-- Reglan
-- Remeron
+- Reglan and Remeron
 
 Continue acid blockers for at least 1 year
-
-May need additional systemic therapy afterwards
-
-- Chemotherapy
-- Immunotherapy (Optive = nivolumab)
 
 
 ## Jejunostomy Removal (8 weeks after surgery)
