@@ -25,7 +25,7 @@
     "href": "lci_cvport_guts.html#picc-lines",
     "title": "Patient Education",
     "section": "PICC Lines",
-    "text": "PICC Lines\n\n\n\nPlaced in Radiology\nStay in place during all of treatment\nSpecial care needed to keep it clean and dry\nSuitable for FLOT chemotherapy"
+    "text": "PICC Lines\n\n\n\nPlaced in Radiology\nStay in place during all of treatment\nNeeds to be kept clean and dry\nSuitable for FLOT chemotherapy"
   },
   {
     "objectID": "lci_cvport_guts.html#central-venous-port",
@@ -67,7 +67,7 @@
     "href": "lci_cvport_guts.htm#picc-lines",
     "title": "Patient Education",
     "section": "PICC Lines",
-    "text": "PICC Lines\n\n\n\nPlaced in Radiology\nStay in place during all of treatment\nSpecial care needed to keep it clean and dry\nSuitable for FLOT chemotherapy"
+    "text": "PICC Lines\n\n\n\nPlaced in Radiology\nStay in place during all of treatment\nNeeds to be kept clean and dry\nSuitable for FLOT chemotherapy"
   },
   {
     "objectID": "lci_cvport_guts.htm#central-venous-port",
@@ -802,7 +802,7 @@
     "href": "lci_eso_scca.htm#early-stage-cancers",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Early Stage Cancers",
-    "text": "Early Stage Cancers\n\n\n\n\nCancers start on the very inside of the layer called the mucosa"
+    "text": "Early Stage Cancers\n\n\n\n\nCancers start on the very inside layer called the mucosa"
   },
   {
     "objectID": "lci_eso_scca.htm#locally-advanced-cancers",
@@ -928,7 +928,7 @@
     "href": "lci_eso_scca.htm#chemotherapy-radiation-cross-trial-1",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nChemotherapy + radiation given together over 6 weeks\n\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\n\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_eso_scca.htm#chemotherapy-radiation-cross-trial-2",
@@ -1131,7 +1131,7 @@
     "href": "lci_eso_scca.html#early-stage-cancers",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Early Stage Cancers",
-    "text": "Early Stage Cancers\n\n\n\n\nCancers start on the very inside of the layer called the mucosa"
+    "text": "Early Stage Cancers\n\n\n\n\nCancers start on the very inside layer called the mucosa"
   },
   {
     "objectID": "lci_eso_scca.html#locally-advanced-cancers",
@@ -1257,7 +1257,7 @@
     "href": "lci_eso_scca.html#chemotherapy-radiation-cross-trial-1",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nChemotherapy + radiation given together over 6 weeks\n\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\n\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_eso_scca.html#chemotherapy-radiation-cross-trial-2",
@@ -1999,119 +1999,287 @@
     "href": "lci_mie_guts.html",
     "title": "Patient Education",
     "section": "",
-    "text": "Epidural catheter usually placed for pain control\n\nRemains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
+    "text": "Remains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
   },
   {
-    "objectID": "lci_mie_guts.html#anesthesia",
-    "href": "lci_mie_guts.html#anesthesia",
+    "objectID": "lci_mie_guts.html#epidural-catheter-for-pain-control",
+    "href": "lci_mie_guts.html#epidural-catheter-for-pain-control",
     "title": "Patient Education",
     "section": "",
-    "text": "Epidural catheter usually placed for pain control\n\nRemains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
+    "text": "Remains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
   },
   {
-    "objectID": "lci_mie_guts.html#icu-stay",
-    "href": "lci_mie_guts.html#icu-stay",
+    "objectID": "lci_mie_guts.html#icu-stay-2-4-days",
+    "href": "lci_mie_guts.html#icu-stay-2-4-days",
     "title": "Patient Education",
-    "section": "ICU Stay",
-    "text": "ICU Stay\nMultiple lines and tubes:\n\nNG tube in nose to drain stomach and esophagus\nCatheter in bladder\nChest tube right chest\nAbdominal drains (usually 2)\nFeeding jejunostomy (usually says in 8 wks)"
+    "section": "ICU Stay (2-4 days)",
+    "text": "ICU Stay (2-4 days)\n\nNG tube in nose to drain stomach and esophagus\nCatheter in bladder\nChest tube right chest\nAbdominal drains (usually 2)\nFeeding jejunostomy (usually stays in 8 wks)"
   },
   {
     "objectID": "lci_mie_guts.html#ward---6tower",
     "href": "lci_mie_guts.html#ward---6tower",
     "title": "Patient Education",
     "section": "Ward - 6Tower",
-    "text": "Ward - 6Tower\n\nJejunostomy feeding\nUp in a chair most of the day\nWalking in the halls\n\nStart with assistance\nImproves lung function\nPrevents loss of muscle"
+    "text": "Ward - 6Tower\n\nJejunostomy feeds started\n\nNurses will instruct you and family how to operate the pump\n\nUp in a chair most of the day\nWalking in the halls\n\nStart with assistance\nImproves lung function\nPrevents loss of muscle"
   },
   {
     "objectID": "lci_mie_guts.html#jejunostomy-feeds",
     "href": "lci_mie_guts.html#jejunostomy-feeds",
     "title": "Patient Education",
     "section": "Jejunostomy Feeds",
-    "text": "Jejunostomy Feeds\nJejunostomy tube feeds - Start continuous (24 hours) - Convert to night-time only (16 hours)\nWater administered through feeding tube - Usually 8oz 4 times/day - Important to prevent dehydration\nDiabetic patients may need insulin"
+    "text": "Jejunostomy Feeds\nJejunostomy tube feeds\n\nStart continuous (24 hours)\nConvert to night-time only (16 hours)\n\nWater administered through feeding tube\n\nUsually 8oz 4 times/day\nImportant to prevent dehydration\n\nDiabetic patients may need insulin"
   },
   {
     "objectID": "lci_mie_guts.html#jejunostomy-feeds-with-diabetes",
     "href": "lci_mie_guts.html#jejunostomy-feeds-with-diabetes",
     "title": "Patient Education",
     "section": "Jejunostomy Feeds with Diabetes",
-    "text": "Jejunostomy Feeds with Diabetes\nJejunostomy feedings may cause blood sugars to be elevated - Insulin may be required along with feeds\nTypical Pattern for tube feeds - Feeds run via pump from 6pm to 10am - Insulin at 6pm (70/30 insulin) - Insulin at Midnight (70/30 insulin) - No insulin if tube feedings are not run"
+    "text": "Jejunostomy Feeds with Diabetes\nJejunostomy feedings may cause blood sugars to be elevated\n\nInsulin may be required along with feeds\n\nTypical Pattern for tube feeds\n\nFeeds run via pump from 6pm to 10am\nInsulin at 6pm (70/30 insulin)\nInsulin at Midnight (70/30 insulin)\nNo insulin if tube feedings are not run"
   },
   {
     "objectID": "lci_mie_guts.html#nasogastric-ng-tube",
     "href": "lci_mie_guts.html#nasogastric-ng-tube",
     "title": "Patient Education",
     "section": "Nasogastric (NG) Tube",
-    "text": "Nasogastric (NG) Tube\nTube passed through nose into stomach - Drains fluid from stomach - Prevents vomiting\nUpper GI X-ray on 2nd or 3rd day after surgery - If stomach empties well \\(\\rightarrow\\) NG tube removed - Otherwise, X-ray repeated 2-3 days later"
+    "text": "Nasogastric (NG) Tube\nTube passed through nose into stomach\n\nDrains fluid from stomach\nPrevents vomiting\n\nUpper GI X-ray on 2nd or 3rd day after surgery\n\nIf stomach empties well \\(\\rightarrow\\) NG tube removed\nOtherwise, X-ray repeated 2-3 days later"
   },
   {
     "objectID": "lci_mie_guts.html#swallowing-evaluation",
     "href": "lci_mie_guts.html#swallowing-evaluation",
     "title": "Patient Education",
     "section": "Swallowing Evaluation",
-    "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology\n\n70% of patients \\(\\Rightarrow\\) liquids started by mouth"
+    "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology Drink a white chalky liquid (barium) Look for proper swallowing function\n\n70% of patients \\(\\Rightarrow\\) liquids started by mouth"
   },
   {
     "objectID": "lci_mie_guts.html#discharge",
     "href": "lci_mie_guts.html#discharge",
     "title": "Patient Education",
     "section": "Discharge",
-    "text": "Discharge\nGoal: ready to leave day #6 after surgery\n\nNight-time tube feedings (6pm to 10am)\nSome nutrition by mouth (70% of patients)\n\n1 oz of water per hour by mouth  OR\nProtein shakes 4oz every 2 hours in some\n\nWater through tube 8oz four times per day\nHome care nursing (feeding tube teaching)\nHome infusion (tube feeding supplies)"
+    "text": "Discharge\nGoal: ready to leave day #6/7 after surgery\n\nNight-time tube feedings (6pm to 10am)\nSome nutrition by mouth (70% of patients)\n\n1 oz of water per hour by mouth OR\nProtein shakes 4oz every 2 hours\n\nWater through tube 8oz four times per day\nHome care nursing (feeding tube teaching)\nHome infusion (tube feeding supplies)"
   },
   {
-    "objectID": "lci_mie_guts.htm#anesthesia",
-    "href": "lci_mie_guts.htm#anesthesia",
+    "objectID": "lci_mie_guts.html#medicines-at-home---pain",
+    "href": "lci_mie_guts.html#medicines-at-home---pain",
     "title": "Patient Education",
-    "section": "Anesthesia",
-    "text": "Anesthesia\nEpidural catheter usually placed for pain control\n\nRemains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
+    "section": "Medicines at Home - Pain",
+    "text": "Medicines at Home - Pain\nAcetaminophen (Tylenol) 4000mg/day (1000mg 4 times/day)\nGabapentin 300mg 3 times/day (works best if taken every day)\nOxycodone\n\nTake as needed in addition to Tylenol and gabapentin\nWill begin reducing dosage at first postoperative visit\nMost patients can discontinue by 4 weeks after surgery\nNO DRIVING WHILE ON OXYCODONE"
   },
   {
-    "objectID": "lci_mie_guts.htm#icu-stay",
-    "href": "lci_mie_guts.htm#icu-stay",
+    "objectID": "lci_mie_guts.html#medicines-at-home---non-steroidals",
+    "href": "lci_mie_guts.html#medicines-at-home---non-steroidals",
     "title": "Patient Education",
-    "section": "ICU Stay",
-    "text": "ICU Stay\nMultiple lines and tubes:\n\nNG tube in nose to drain stomach and esophagus\nCatheter in bladder\nChest tube right chest\nAbdominal drains (usually 2)\nFeeding jejunostomy (usually says in 8 wks)"
+    "section": "Medicines at Home - Non-steroidals",
+    "text": "Medicines at Home - Non-steroidals\nNon-steroidal anti-inflammatories (Celebrex)\n\n200 mg every 12 hours starting 2 weeks after surgery\n\nNO GOODY POWDERS OR BCs\n\n(Can cause permanent scarring at the surgery site)"
+  },
+  {
+    "objectID": "lci_mie_guts.html#medicines-at-home---acid-blockers",
+    "href": "lci_mie_guts.html#medicines-at-home---acid-blockers",
+    "title": "Patient Education",
+    "section": "Medicines at Home - Acid Blockers",
+    "text": "Medicines at Home - Acid Blockers\nAcid blocker (Omeprazole, Nexium,etc)\n\nWill stay on for at 1-2 years to prevent acid reflux\nImportant in preventing scarring at anastomosis (new connection between esophagus and stomach)\nTo administer through feeding tube, open capsule and resuspend beads in 60mL (2oz) of water"
+  },
+  {
+    "objectID": "lci_mie_guts.html#medicines-at-home",
+    "href": "lci_mie_guts.html#medicines-at-home",
+    "title": "Patient Education",
+    "section": "Medicines at Home",
+    "text": "Medicines at Home\nReglan – Helps stomach empty\n\nWill plan to stop after six weeks\n0.1% risk of tardive dyskinesia (nervous tic)\n\nRemeron – Helps improve appetite\n\nCan cause vivid dreams\nUsed for several weeks after surgery\nWill stop within first three months of surgery"
+  },
+  {
+    "objectID": "lci_mie_guts.html#medicines-at-home---beta-blockers",
+    "href": "lci_mie_guts.html#medicines-at-home---beta-blockers",
+    "title": "Patient Education",
+    "section": "Medicines at Home - Beta Blockers",
+    "text": "Medicines at Home - Beta Blockers\nMetroprolol – Beta Blocker\n\nSlows heart rate and lowers blood pressure\n\nUsed around the time of surgery to prevent fast heart rhythms\nIn patients who were not taking a beta blocker prior to surgery, will plan to wean over a few weeks after surgery\nFor patients who were taking a beta blocker medicine prior to surgery, will return to prior dosage and drug after surgery"
+  },
+  {
+    "objectID": "lci_mie_guts.html#nutrition-after-surgery",
+    "href": "lci_mie_guts.html#nutrition-after-surgery",
+    "title": "Patient Education",
+    "section": "Nutrition after Surgery",
+    "text": "Nutrition after Surgery\nAt discharge home:\n\nProtein shakes 4oz every 2 hrs\nTube feeds 4-5 cans at night (6pm-10am)\n\n10-12 Days: Increase protein shakes\n\nTube feeds 3-4 cans at night\n\nThree weeks: Post-esophagectomy Diet\n8-12 weeks: Remove feeding tube (in office)"
+  },
+  {
+    "objectID": "lci_mie_guts.html#transition-from-tube-feeds-rightarrow-eating",
+    "href": "lci_mie_guts.html#transition-from-tube-feeds-rightarrow-eating",
+    "title": "Patient Education",
+    "section": "Transition from Tube Feeds \\(\\rightarrow\\) Eating",
+    "text": "Transition from Tube Feeds \\(\\rightarrow\\) Eating\nDietitian will calculate daily protein goal\n\nTypically 60-75 grams protein/day\nEach carton of tube feeding has 15 grams\n\n75 grams protein = 5 cartons/night\n\nAs intake by mouth increases, tube feeds are reduced\n\nImportant that protein is spread out during the day (20gm/meal)\n\nThree meals + 2-3 high-protein snacks"
+  },
+  {
+    "objectID": "lci_mie_guts.html#post-esophagectomy-diet",
+    "href": "lci_mie_guts.html#post-esophagectomy-diet",
+    "title": "Patient Education",
+    "section": "Post-esophagectomy Diet",
+    "text": "Post-esophagectomy Diet\n\nSoft Consistency\nHigh Protein\nAvoid sugary liquids (can cause ‘dumping’)\nAvoid raw vegetables (and salads)\nEating\n\nSmall, frequent meals\nSit up for 30-45 minutes after eating\nAvoid eating within 2 hours of bedtime"
+  },
+  {
+    "objectID": "lci_mie_guts.html#wedge-pillow",
+    "href": "lci_mie_guts.html#wedge-pillow",
+    "title": "Patient Education",
+    "section": "Wedge Pillow",
+    "text": "Wedge Pillow\n\n\n\nSurgery to remove the esophageal tumor will lead to a tendency for reflux.\nThe most helpful strategy is a 30 degree wedge pillow. T\nhis should be half as high as it is long.\nAvailable at Walmart.com"
+  },
+  {
+    "objectID": "lci_mie_guts.html#postoperative-visit",
+    "href": "lci_mie_guts.html#postoperative-visit",
+    "title": "Patient Education",
+    "section": "Postoperative Visit",
+    "text": "Postoperative Visit\nCheck surgical site\n\nRemove staples (if needed)\n\nAdjust medicines as needed\n\nInsulin (for diabetic patients on insulin)\nReduce beta blocker medicines\n\nAdvance diet\nReduce tube feeds"
+  },
+  {
+    "objectID": "lci_mie_guts.html#after-surgery",
+    "href": "lci_mie_guts.html#after-surgery",
+    "title": "Patient Education",
+    "section": "After surgery",
+    "text": "After surgery\nWean off medicines added after surgery\n\nPain medicines\nBeta-blockers\nReglan\nRemeron\n\nContinue acid blockers for at least 1 year\nMay need additional systemic therapy afterwards\n\nChemotherapy\nImmunotherapy (Optive = nivolumab)"
+  },
+  {
+    "objectID": "lci_mie_guts.html#team-members",
+    "href": "lci_mie_guts.html#team-members",
+    "title": "Patient Education",
+    "section": "Team Members",
+    "text": "Team Members\nPrimary Care Provider\nGastroenterologist\nMedical Oncologist (chemotherapy)\nRadiation Oncologist (radiation)\nSurgeons\n\nJonathan Salo\nJeffrey Hagen\nMichael Roach\n\nDietitian - Liz Koch\nNurses - Brandon Galloway & Kit Sluder\nSchedulers - Stacey Singleton & Toney Bethea"
+  },
+  {
+    "objectID": "lci_mie_guts.htm#epidural-catheter-for-pain-control",
+    "href": "lci_mie_guts.htm#epidural-catheter-for-pain-control",
+    "title": "Patient Education",
+    "section": "Epidural Catheter for Pain Control",
+    "text": "Epidural Catheter for Pain Control\n\nRemains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
+  },
+  {
+    "objectID": "lci_mie_guts.htm#icu-stay-2-4-days",
+    "href": "lci_mie_guts.htm#icu-stay-2-4-days",
+    "title": "Patient Education",
+    "section": "ICU Stay (2-4 days)",
+    "text": "ICU Stay (2-4 days)\n\nNG tube in nose to drain stomach and esophagus\nCatheter in bladder\nChest tube right chest\nAbdominal drains (usually 2)\nFeeding jejunostomy (usually stays in 8 wks)"
   },
   {
     "objectID": "lci_mie_guts.htm#ward---6tower",
     "href": "lci_mie_guts.htm#ward---6tower",
     "title": "Patient Education",
     "section": "Ward - 6Tower",
-    "text": "Ward - 6Tower\n\nJejunostomy feeding\nUp in a chair most of the day\nWalking in the halls\n\nStart with assistance\nImproves lung function\nPrevents loss of muscle"
+    "text": "Ward - 6Tower\n\nJejunostomy feeds started\n\nNurses will instruct you and family how to operate the pump\n\nUp in a chair most of the day\nWalking in the halls\n\nStart with assistance\nImproves lung function\nPrevents loss of muscle"
   },
   {
     "objectID": "lci_mie_guts.htm#jejunostomy-feeds",
     "href": "lci_mie_guts.htm#jejunostomy-feeds",
     "title": "Patient Education",
     "section": "Jejunostomy Feeds",
-    "text": "Jejunostomy Feeds\nJejunostomy tube feeds - Start continuous (24 hours) - Convert to night-time only (16 hours)\nWater administered through feeding tube - Usually 8oz 4 times/day - Important to prevent dehydration\nDiabetic patients may need insulin"
+    "text": "Jejunostomy Feeds\nJejunostomy tube feeds\n\nStart continuous (24 hours)\nConvert to night-time only (16 hours)\n\nWater administered through feeding tube\n\nUsually 8oz 4 times/day\nImportant to prevent dehydration\n\nDiabetic patients may need insulin"
   },
   {
     "objectID": "lci_mie_guts.htm#jejunostomy-feeds-with-diabetes",
     "href": "lci_mie_guts.htm#jejunostomy-feeds-with-diabetes",
     "title": "Patient Education",
     "section": "Jejunostomy Feeds with Diabetes",
-    "text": "Jejunostomy Feeds with Diabetes\nJejunostomy feedings may cause blood sugars to be elevated - Insulin may be required along with feeds\nTypical Pattern for tube feeds - Feeds run via pump from 6pm to 10am - Insulin at 6pm (70/30 insulin) - Insulin at Midnight (70/30 insulin) - No insulin if tube feedings are not run"
+    "text": "Jejunostomy Feeds with Diabetes\nJejunostomy feedings may cause blood sugars to be elevated\n\nInsulin may be required along with feeds\n\nTypical Pattern for tube feeds\n\nFeeds run via pump from 6pm to 10am\nInsulin at 6pm (70/30 insulin)\nInsulin at Midnight (70/30 insulin)\nNo insulin if tube feedings are not run"
   },
   {
     "objectID": "lci_mie_guts.htm#nasogastric-ng-tube",
     "href": "lci_mie_guts.htm#nasogastric-ng-tube",
     "title": "Patient Education",
     "section": "Nasogastric (NG) Tube",
-    "text": "Nasogastric (NG) Tube\nTube passed through nose into stomach - Drains fluid from stomach - Prevents vomiting\nUpper GI X-ray on 2nd or 3rd day after surgery - If stomach empties well \\(\\rightarrow\\) NG tube removed - Otherwise, X-ray repeated 2-3 days later"
+    "text": "Nasogastric (NG) Tube\nTube passed through nose into stomach\n\nDrains fluid from stomach\nPrevents vomiting\n\nUpper GI X-ray on 2nd or 3rd day after surgery\n\nIf stomach empties well \\(\\rightarrow\\) NG tube removed\nOtherwise, X-ray repeated 2-3 days later"
   },
   {
     "objectID": "lci_mie_guts.htm#swallowing-evaluation",
     "href": "lci_mie_guts.htm#swallowing-evaluation",
     "title": "Patient Education",
     "section": "Swallowing Evaluation",
-    "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology\n\n70% of patients \\(\\Rightarrow\\) liquids started by mouth"
+    "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology Drink a white chalky liquid (barium) Look for proper swallowing function\n\n70% of patients \\(\\Rightarrow\\) liquids started by mouth"
   },
   {
     "objectID": "lci_mie_guts.htm#discharge",
     "href": "lci_mie_guts.htm#discharge",
     "title": "Patient Education",
     "section": "Discharge",
-    "text": "Discharge\nGoal: ready to leave day #6 after surgery\n\nNight-time tube feedings (6pm to 10am)\nSome nutrition by mouth (70% of patients)\n\n1 oz of water per hour by mouth  OR\nProtein shakes 4oz every 2 hours in some\n\nWater through tube 8oz four times per day\nHome care nursing (feeding tube teaching)\nHome infusion (tube feeding supplies)"
+    "text": "Discharge\nGoal: ready to leave day #6/7 after surgery\n\nNight-time tube feedings (6pm to 10am)\nSome nutrition by mouth (70% of patients)\n\n1 oz of water per hour by mouth OR\nProtein shakes 4oz every 2 hours\n\nWater through tube 8oz four times per day\nHome care nursing (feeding tube teaching)\nHome infusion (tube feeding supplies)"
+  },
+  {
+    "objectID": "lci_mie_guts.htm#medicines-at-home---pain",
+    "href": "lci_mie_guts.htm#medicines-at-home---pain",
+    "title": "Patient Education",
+    "section": "Medicines at Home - Pain",
+    "text": "Medicines at Home - Pain\nAcetaminophen (Tylenol) 4000mg/day (1000mg 4 times/day)\nGabapentin 300mg 3 times/day (works best if taken every day)\nOxycodone\n\nTake as needed in addition to Tylenol and gabapentin\nWill begin reducing dosage at first postoperative visit\nMost patients can discontinue by 4 weeks after surgery\nNO DRIVING WHILE ON OXYCODONE"
+  },
+  {
+    "objectID": "lci_mie_guts.htm#medicines-at-home---non-steroidals",
+    "href": "lci_mie_guts.htm#medicines-at-home---non-steroidals",
+    "title": "Patient Education",
+    "section": "Medicines at Home - Non-steroidals",
+    "text": "Medicines at Home - Non-steroidals\nNon-steroidal anti-inflammatories (Celebrex)\n\n200 mg every 12 hours starting 2 weeks after surgery\n\nNO GOODY POWDERS OR BCs\n\n(Can cause permanent scarring at the surgery site)"
+  },
+  {
+    "objectID": "lci_mie_guts.htm#medicines-at-home---acid-blockers",
+    "href": "lci_mie_guts.htm#medicines-at-home---acid-blockers",
+    "title": "Patient Education",
+    "section": "Medicines at Home - Acid Blockers",
+    "text": "Medicines at Home - Acid Blockers\nAcid blocker (Omeprazole, Nexium,etc)\n\nWill stay on for at 1-2 years to prevent acid reflux\nImportant in preventing scarring at anastomosis (new connection between esophagus and stomach)\nTo administer through feeding tube, open capsule and resuspend beads in 60mL (2oz) of water"
+  },
+  {
+    "objectID": "lci_mie_guts.htm#medicines-at-home",
+    "href": "lci_mie_guts.htm#medicines-at-home",
+    "title": "Patient Education",
+    "section": "Medicines at Home",
+    "text": "Medicines at Home\nReglan – Helps stomach empty\n\nWill plan to stop after six weeks\n0.1% risk of tardive dyskinesia (nervous tic)\n\nRemeron – Helps improve appetite\n\nCan cause vivid dreams\nUsed for several weeks after surgery\nWill stop within first three months of surgery"
+  },
+  {
+    "objectID": "lci_mie_guts.htm#medicines-at-home---beta-blockers",
+    "href": "lci_mie_guts.htm#medicines-at-home---beta-blockers",
+    "title": "Patient Education",
+    "section": "Medicines at Home - Beta Blockers",
+    "text": "Medicines at Home - Beta Blockers\nMetroprolol – Beta Blocker\n\nSlows heart rate and lowers blood pressure\n\nUsed around the time of surgery to prevent fast heart rhythms\nIn patients who were not taking a beta blocker prior to surgery, will plan to wean over a few weeks after surgery\nFor patients who were taking a beta blocker medicine prior to surgery, will return to prior dosage and drug after surgery"
+  },
+  {
+    "objectID": "lci_mie_guts.htm#nutrition-after-surgery",
+    "href": "lci_mie_guts.htm#nutrition-after-surgery",
+    "title": "Patient Education",
+    "section": "Nutrition after Surgery",
+    "text": "Nutrition after Surgery\nAt discharge home:\n\nProtein shakes 4oz every 2 hrs\nTube feeds 4-5 cans at night (6pm-10am)\n\n10-12 Days: Increase protein shakes\n\nTube feeds 3-4 cans at night\n\nThree weeks: Post-esophagectomy Diet\n8-12 weeks: Remove feeding tube (in office)"
+  },
+  {
+    "objectID": "lci_mie_guts.htm#transition-from-tube-feeds-rightarrow-eating",
+    "href": "lci_mie_guts.htm#transition-from-tube-feeds-rightarrow-eating",
+    "title": "Patient Education",
+    "section": "Transition from Tube Feeds \\(\\rightarrow\\) Eating",
+    "text": "Transition from Tube Feeds \\(\\rightarrow\\) Eating\nDietitian will calculate daily protein goal\n\nTypically 60-75 grams protein/day\nEach carton of tube feeding has 15 grams\n\n75 grams protein = 5 cartons/night\n\nAs intake by mouth increases, tube feeds are reduced\n\nImportant that protein is spread out during the day (20gm/meal)\n\nThree meals + 2-3 high-protein snacks"
+  },
+  {
+    "objectID": "lci_mie_guts.htm#post-esophagectomy-diet",
+    "href": "lci_mie_guts.htm#post-esophagectomy-diet",
+    "title": "Patient Education",
+    "section": "Post-esophagectomy Diet",
+    "text": "Post-esophagectomy Diet\n\nSoft Consistency\nHigh Protein\nAvoid sugary liquids (can cause ‘dumping’)\nAvoid raw vegetables (and salads)\nEating\n\nSmall, frequent meals\nSit up for 30-45 minutes after eating\nAvoid eating within 2 hours of bedtime"
+  },
+  {
+    "objectID": "lci_mie_guts.htm#wedge-pillow",
+    "href": "lci_mie_guts.htm#wedge-pillow",
+    "title": "Patient Education",
+    "section": "Wedge Pillow",
+    "text": "Wedge Pillow\n\n\n\nSurgery to remove the esophageal tumor will lead to a tendency for reflux.\nThe most helpful strategy is a 30 degree wedge pillow. T\nhis should be half as high as it is long.\nAvailable at Walmart.com"
+  },
+  {
+    "objectID": "lci_mie_guts.htm#postoperative-visit",
+    "href": "lci_mie_guts.htm#postoperative-visit",
+    "title": "Patient Education",
+    "section": "Postoperative Visit",
+    "text": "Postoperative Visit\nCheck surgical site\n\nRemove staples (if needed)\n\nAdjust medicines as needed\n\nInsulin (for diabetic patients on insulin)\nReduce beta blocker medicines\n\nAdvance diet\nReduce tube feeds"
+  },
+  {
+    "objectID": "lci_mie_guts.htm#after-surgery",
+    "href": "lci_mie_guts.htm#after-surgery",
+    "title": "Patient Education",
+    "section": "After surgery",
+    "text": "After surgery\nWean off medicines added after surgery\n\nPain medicines\nBeta-blockers\nReglan\nRemeron\n\nContinue acid blockers for at least 1 year\nMay need additional systemic therapy afterwards\n\nChemotherapy\nImmunotherapy (Optive = nivolumab)"
+  },
+  {
+    "objectID": "lci_mie_guts.htm#team-members",
+    "href": "lci_mie_guts.htm#team-members",
+    "title": "Patient Education",
+    "section": "Team Members",
+    "text": "Team Members\nPrimary Care Provider\nGastroenterologist\nMedical Oncologist (chemotherapy)\nRadiation Oncologist (radiation)\nSurgeons\n\nJonathan Salo\nJeffrey Hagen\nMichael Roach\n\nDietitian - Liz Koch\nNurses - Brandon Galloway & Kit Sluder\nSchedulers - Stacey Singleton & Toney Bethea"
   },
   {
     "objectID": "lci_esot3_aca.htm#anatomy",
@@ -2146,7 +2314,7 @@
     "href": "lci_esot3_aca.htm#early-stage-cancers",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Early Stage Cancers",
-    "text": "Early Stage Cancers\n\n\n\n\nCancers start on the very inside of the layer called the mucosa"
+    "text": "Early Stage Cancers\n\n\n\n\nCancers start on the very inside layer called the mucosa"
   },
   {
     "objectID": "lci_esot3_aca.htm#locally-advanced-cancers",
@@ -2286,7 +2454,7 @@
     "href": "lci_esot3_aca.htm#chemotherapy-radiation-cross-trial-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nChemotherapy + radiation given together over 6 weeks\n\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\n\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_esot3_aca.htm#chemotherapy-radiation-cross-trial-2",
@@ -2349,7 +2517,7 @@
     "href": "lci_esot3_aca.htm#picc-lines",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "PICC Lines",
-    "text": "PICC Lines\n\n\n\nPlaced in Radiology\nStay in place during all of treatment\nSpecial care needed to keep it clean and dry\nSuitable for FLOT chemotherapy"
+    "text": "PICC Lines\n\n\n\nPlaced in Radiology\nStay in place during all of treatment\nNeeds to be kept clean and dry\nSuitable for FLOT chemotherapy"
   },
   {
     "objectID": "lci_esot3_aca.htm#central-venous-port",
@@ -2524,7 +2692,7 @@
     "href": "lci_esot3_aca.html#early-stage-cancers",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Early Stage Cancers",
-    "text": "Early Stage Cancers\n\n\n\n\nCancers start on the very inside of the layer called the mucosa"
+    "text": "Early Stage Cancers\n\n\n\n\nCancers start on the very inside layer called the mucosa"
   },
   {
     "objectID": "lci_esot3_aca.html#locally-advanced-cancers",
@@ -2664,7 +2832,7 @@
     "href": "lci_esot3_aca.html#chemotherapy-radiation-cross-trial-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nChemotherapy + radiation given together over 6 weeks\n\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\n\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_esot3_aca.html#chemotherapy-radiation-cross-trial-2",
@@ -2727,7 +2895,7 @@
     "href": "lci_esot3_aca.html#picc-lines",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "PICC Lines",
-    "text": "PICC Lines\n\n\n\nPlaced in Radiology\nStay in place during all of treatment\nSpecial care needed to keep it clean and dry\nSuitable for FLOT chemotherapy"
+    "text": "PICC Lines\n\n\n\nPlaced in Radiology\nStay in place during all of treatment\nNeeds to be kept clean and dry\nSuitable for FLOT chemotherapy"
   },
   {
     "objectID": "lci_esot3_aca.html#central-venous-port",
@@ -3189,7 +3357,7 @@
     "href": "lci_esot3.htm#early-stage-cancers",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Early Stage Cancers",
-    "text": "Early Stage Cancers\n\n\n\n\nCancers start on the very inside of the layer called the mucosa"
+    "text": "Early Stage Cancers\n\n\n\n\nCancers start on the very inside layer called the mucosa"
   },
   {
     "objectID": "lci_esot3.htm#locally-advanced-cancers",
@@ -3329,7 +3497,7 @@
     "href": "lci_esot3.htm#chemotherapy-radiation-cross-trial-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nChemotherapy + radiation given together over 6 weeks\n\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\n\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_esot3.htm#chemotherapy-radiation-cross-trial-2",
@@ -3413,7 +3581,7 @@
     "href": "lci_esot3.htm#picc-lines",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "PICC Lines",
-    "text": "PICC Lines\n\n\n\nPlaced in Radiology\nStay in place during all of treatment\nSpecial care needed to keep it clean and dry\nSuitable for FLOT chemotherapy"
+    "text": "PICC Lines\n\n\n\nPlaced in Radiology\nStay in place during all of treatment\nNeeds to be kept clean and dry\nSuitable for FLOT chemotherapy"
   },
   {
     "objectID": "lci_esot3.htm#central-venous-port",
@@ -3595,7 +3763,7 @@
     "href": "lci_esot3.html#early-stage-cancers",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Early Stage Cancers",
-    "text": "Early Stage Cancers\n\n\n\n\nCancers start on the very inside of the layer called the mucosa"
+    "text": "Early Stage Cancers\n\n\n\n\nCancers start on the very inside layer called the mucosa"
   },
   {
     "objectID": "lci_esot3.html#locally-advanced-cancers",
@@ -3735,7 +3903,7 @@
     "href": "lci_esot3.html#chemotherapy-radiation-cross-trial-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nChemotherapy + radiation given together over 6 weeks\n\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\n\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_esot3.html#chemotherapy-radiation-cross-trial-2",
@@ -3819,7 +3987,7 @@
     "href": "lci_esot3.html#picc-lines",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "PICC Lines",
-    "text": "PICC Lines\n\n\n\nPlaced in Radiology\nStay in place during all of treatment\nSpecial care needed to keep it clean and dry\nSuitable for FLOT chemotherapy"
+    "text": "PICC Lines\n\n\n\nPlaced in Radiology\nStay in place during all of treatment\nNeeds to be kept clean and dry\nSuitable for FLOT chemotherapy"
   },
   {
     "objectID": "lci_esot3.html#central-venous-port",
@@ -4155,7 +4323,7 @@
     "href": "lci_gastrict3.htm#early-stage-cancers",
     "title": "T3 Cancer of the Stomach",
     "section": "Early Stage Cancers",
-    "text": "Early Stage Cancers\n\n\n\n\nCancers start on the very inside of the layer called the mucosa"
+    "text": "Early Stage Cancers\n\n\n\n\nCancers start on the very inside layer called the mucosa"
   },
   {
     "objectID": "lci_gastrict3.htm#locally-advanced-cancers",
@@ -4267,7 +4435,7 @@
     "href": "lci_gastrict3.htm#picc-lines",
     "title": "T3 Cancer of the Stomach",
     "section": "PICC Lines",
-    "text": "PICC Lines\n\n\n\nPlaced in Radiology\nStay in place during all of treatment\nSpecial care needed to keep it clean and dry\nSuitable for FLOT chemotherapy"
+    "text": "PICC Lines\n\n\n\nPlaced in Radiology\nStay in place during all of treatment\nNeeds to be kept clean and dry\nSuitable for FLOT chemotherapy"
   },
   {
     "objectID": "lci_gastrict3.htm#central-venous-port",
@@ -4435,7 +4603,7 @@
     "href": "lci_gastrict3.html#early-stage-cancers",
     "title": "T3 Cancer of the Stomach",
     "section": "Early Stage Cancers",
-    "text": "Early Stage Cancers\n\n\n\n\nCancers start on the very inside of the layer called the mucosa"
+    "text": "Early Stage Cancers\n\n\n\n\nCancers start on the very inside layer called the mucosa"
   },
   {
     "objectID": "lci_gastrict3.html#locally-advanced-cancers",
@@ -4547,7 +4715,7 @@
     "href": "lci_gastrict3.html#picc-lines",
     "title": "T3 Cancer of the Stomach",
     "section": "PICC Lines",
-    "text": "PICC Lines\n\n\n\nPlaced in Radiology\nStay in place during all of treatment\nSpecial care needed to keep it clean and dry\nSuitable for FLOT chemotherapy"
+    "text": "PICC Lines\n\n\n\nPlaced in Radiology\nStay in place during all of treatment\nNeeds to be kept clean and dry\nSuitable for FLOT chemotherapy"
   },
   {
     "objectID": "lci_gastrict3.html#central-venous-port",
@@ -4995,7 +5163,7 @@
     "href": "lci_staging_guts.html#early-stage-cancers",
     "title": "Patient Education",
     "section": "Early Stage Cancers",
-    "text": "Early Stage Cancers\n\n\n\n\nCancers start on the very inside of the layer called the mucosa"
+    "text": "Early Stage Cancers\n\n\n\n\nCancers start on the very inside layer called the mucosa"
   },
   {
     "objectID": "lci_staging_guts.html#locally-advanced-cancers",
@@ -5072,7 +5240,7 @@
     "href": "lci_staging_guts.htm#early-stage-cancers",
     "title": "Patient Education",
     "section": "Early Stage Cancers",
-    "text": "Early Stage Cancers\n\n\n\n\nCancers start on the very inside of the layer called the mucosa"
+    "text": "Early Stage Cancers\n\n\n\n\nCancers start on the very inside layer called the mucosa"
   },
   {
     "objectID": "lci_staging_guts.htm#locally-advanced-cancers",
@@ -7095,7 +7263,7 @@
     "href": "lci_cross_guts.htm#chemotherapy-radiation-cross-trial-1",
     "title": "Patient Education",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nChemotherapy + radiation given together over 6 weeks\n\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\n\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_cross_guts.htm#chemotherapy-radiation-cross-trial-2",
@@ -7130,7 +7298,7 @@
     "href": "lci_cross_guts.html#chemotherapy-radiation-cross-trial-1",
     "title": "Patient Education",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nChemotherapy + radiation given together over 6 weeks\n\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\n\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_cross_guts.html#chemotherapy-radiation-cross-trial-2",
@@ -8225,60 +8393,144 @@
     "text": "Jejunostomy Video\n\n\nA video is available to help become familiar with the feeding jejunostomy\n\nGastrostomy = Stomach"
   },
   {
-    "objectID": "lci_surgery.html#anesthesia-1",
-    "href": "lci_surgery.html#anesthesia-1",
+    "objectID": "lci_surgery.html#epidural-catheter-for-pain-control",
+    "href": "lci_surgery.html#epidural-catheter-for-pain-control",
     "title": "Surgery of the Esophagus",
-    "section": "Anesthesia",
-    "text": "Anesthesia\nEpidural catheter usually placed for pain control\n\nRemains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
+    "section": "Epidural Catheter for Pain Control",
+    "text": "Epidural Catheter for Pain Control\n\nRemains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
   },
   {
-    "objectID": "lci_surgery.html#icu-stay",
-    "href": "lci_surgery.html#icu-stay",
+    "objectID": "lci_surgery.html#icu-stay-2-4-days",
+    "href": "lci_surgery.html#icu-stay-2-4-days",
     "title": "Surgery of the Esophagus",
-    "section": "ICU Stay",
-    "text": "ICU Stay\nMultiple lines and tubes:\n\nNG tube in nose to drain stomach and esophagus\nCatheter in bladder\nChest tube right chest\nAbdominal drains (usually 2)\nFeeding jejunostomy (usually says in 8 wks)"
+    "section": "ICU Stay (2-4 days)",
+    "text": "ICU Stay (2-4 days)\n\nNG tube in nose to drain stomach and esophagus\nCatheter in bladder\nChest tube right chest\nAbdominal drains (usually 2)\nFeeding jejunostomy (usually stays in 8 wks)"
   },
   {
     "objectID": "lci_surgery.html#ward---6tower",
     "href": "lci_surgery.html#ward---6tower",
     "title": "Surgery of the Esophagus",
     "section": "Ward - 6Tower",
-    "text": "Ward - 6Tower\n\nJejunostomy feeding\nUp in a chair most of the day\nWalking in the halls\n\nStart with assistance\nImproves lung function\nPrevents loss of muscle"
+    "text": "Ward - 6Tower\n\nJejunostomy feeds started\n\nNurses will instruct you and family how to operate the pump\n\nUp in a chair most of the day\nWalking in the halls\n\nStart with assistance\nImproves lung function\nPrevents loss of muscle"
   },
   {
     "objectID": "lci_surgery.html#jejunostomy-feeds",
     "href": "lci_surgery.html#jejunostomy-feeds",
     "title": "Surgery of the Esophagus",
     "section": "Jejunostomy Feeds",
-    "text": "Jejunostomy Feeds\nJejunostomy tube feeds - Start continuous (24 hours) - Convert to night-time only (16 hours)\nWater administered through feeding tube - Usually 8oz 4 times/day - Important to prevent dehydration\nDiabetic patients may need insulin"
+    "text": "Jejunostomy Feeds\nJejunostomy tube feeds\n\nStart continuous (24 hours)\nConvert to night-time only (16 hours)\n\nWater administered through feeding tube\n\nUsually 8oz 4 times/day\nImportant to prevent dehydration\n\nDiabetic patients may need insulin"
   },
   {
     "objectID": "lci_surgery.html#jejunostomy-feeds-with-diabetes",
     "href": "lci_surgery.html#jejunostomy-feeds-with-diabetes",
     "title": "Surgery of the Esophagus",
     "section": "Jejunostomy Feeds with Diabetes",
-    "text": "Jejunostomy Feeds with Diabetes\nJejunostomy feedings may cause blood sugars to be elevated - Insulin may be required along with feeds\nTypical Pattern for tube feeds - Feeds run via pump from 6pm to 10am - Insulin at 6pm (70/30 insulin) - Insulin at Midnight (70/30 insulin) - No insulin if tube feedings are not run"
+    "text": "Jejunostomy Feeds with Diabetes\nJejunostomy feedings may cause blood sugars to be elevated\n\nInsulin may be required along with feeds\n\nTypical Pattern for tube feeds\n\nFeeds run via pump from 6pm to 10am\nInsulin at 6pm (70/30 insulin)\nInsulin at Midnight (70/30 insulin)\nNo insulin if tube feedings are not run"
   },
   {
     "objectID": "lci_surgery.html#nasogastric-ng-tube",
     "href": "lci_surgery.html#nasogastric-ng-tube",
     "title": "Surgery of the Esophagus",
     "section": "Nasogastric (NG) Tube",
-    "text": "Nasogastric (NG) Tube\nTube passed through nose into stomach - Drains fluid from stomach - Prevents vomiting\nUpper GI X-ray on 2nd or 3rd day after surgery - If stomach empties well \\(\\rightarrow\\) NG tube removed - Otherwise, X-ray repeated 2-3 days later"
+    "text": "Nasogastric (NG) Tube\nTube passed through nose into stomach\n\nDrains fluid from stomach\nPrevents vomiting\n\nUpper GI X-ray on 2nd or 3rd day after surgery\n\nIf stomach empties well \\(\\rightarrow\\) NG tube removed\nOtherwise, X-ray repeated 2-3 days later"
   },
   {
     "objectID": "lci_surgery.html#swallowing-evaluation",
     "href": "lci_surgery.html#swallowing-evaluation",
     "title": "Surgery of the Esophagus",
     "section": "Swallowing Evaluation",
-    "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology\n\n70% of patients \\(\\Rightarrow\\) liquids started by mouth"
+    "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology Drink a white chalky liquid (barium) Look for proper swallowing function\n\n70% of patients \\(\\Rightarrow\\) liquids started by mouth"
   },
   {
     "objectID": "lci_surgery.html#discharge-1",
     "href": "lci_surgery.html#discharge-1",
     "title": "Surgery of the Esophagus",
     "section": "Discharge",
-    "text": "Discharge\nGoal: ready to leave day #6 after surgery\n\nNight-time tube feedings (6pm to 10am)\nSome nutrition by mouth (70% of patients)\n\n1 oz of water per hour by mouth  OR\nProtein shakes 4oz every 2 hours in some\n\nWater through tube 8oz four times per day\nHome care nursing (feeding tube teaching)\nHome infusion (tube feeding supplies)"
+    "text": "Discharge\nGoal: ready to leave day #6/7 after surgery\n\nNight-time tube feedings (6pm to 10am)\nSome nutrition by mouth (70% of patients)\n\n1 oz of water per hour by mouth OR\nProtein shakes 4oz every 2 hours\n\nWater through tube 8oz four times per day\nHome care nursing (feeding tube teaching)\nHome infusion (tube feeding supplies)"
+  },
+  {
+    "objectID": "lci_surgery.html#medicines-at-home---pain",
+    "href": "lci_surgery.html#medicines-at-home---pain",
+    "title": "Surgery of the Esophagus",
+    "section": "Medicines at Home - Pain",
+    "text": "Medicines at Home - Pain\nAcetaminophen (Tylenol) 4000mg/day (1000mg 4 times/day)\nGabapentin 300mg 3 times/day (works best if taken every day)\nOxycodone\n\nTake as needed in addition to Tylenol and gabapentin\nWill begin reducing dosage at first postoperative visit\nMost patients can discontinue by 4 weeks after surgery\nNO DRIVING WHILE ON OXYCODONE"
+  },
+  {
+    "objectID": "lci_surgery.html#medicines-at-home---non-steroidals",
+    "href": "lci_surgery.html#medicines-at-home---non-steroidals",
+    "title": "Surgery of the Esophagus",
+    "section": "Medicines at Home - Non-steroidals",
+    "text": "Medicines at Home - Non-steroidals\nNon-steroidal anti-inflammatories (Celebrex)\n\n200 mg every 12 hours starting 2 weeks after surgery\n\nNO GOODY POWDERS OR BCs\n\n(Can cause permanent scarring at the surgery site)"
+  },
+  {
+    "objectID": "lci_surgery.html#medicines-at-home---acid-blockers",
+    "href": "lci_surgery.html#medicines-at-home---acid-blockers",
+    "title": "Surgery of the Esophagus",
+    "section": "Medicines at Home - Acid Blockers",
+    "text": "Medicines at Home - Acid Blockers\nAcid blocker (Omeprazole, Nexium,etc)\n\nWill stay on for at 1-2 years to prevent acid reflux\nImportant in preventing scarring at anastomosis (new connection between esophagus and stomach)\nTo administer through feeding tube, open capsule and resuspend beads in 60mL (2oz) of water"
+  },
+  {
+    "objectID": "lci_surgery.html#medicines-at-home-1",
+    "href": "lci_surgery.html#medicines-at-home-1",
+    "title": "Surgery of the Esophagus",
+    "section": "Medicines at Home",
+    "text": "Medicines at Home\nReglan – Helps stomach empty\n\nWill plan to stop after six weeks\n0.1% risk of tardive dyskinesia (nervous tic)\n\nRemeron – Helps improve appetite\n\nCan cause vivid dreams\nUsed for several weeks after surgery\nWill stop within first three months of surgery"
+  },
+  {
+    "objectID": "lci_surgery.html#medicines-at-home---beta-blockers",
+    "href": "lci_surgery.html#medicines-at-home---beta-blockers",
+    "title": "Surgery of the Esophagus",
+    "section": "Medicines at Home - Beta Blockers",
+    "text": "Medicines at Home - Beta Blockers\nMetroprolol – Beta Blocker\n\nSlows heart rate and lowers blood pressure\n\nUsed around the time of surgery to prevent fast heart rhythms\nIn patients who were not taking a beta blocker prior to surgery, will plan to wean over a few weeks after surgery\nFor patients who were taking a beta blocker medicine prior to surgery, will return to prior dosage and drug after surgery"
+  },
+  {
+    "objectID": "lci_surgery.html#nutrition-after-surgery",
+    "href": "lci_surgery.html#nutrition-after-surgery",
+    "title": "Surgery of the Esophagus",
+    "section": "Nutrition after Surgery",
+    "text": "Nutrition after Surgery\nAt discharge home:\n\nProtein shakes 4oz every 2 hrs\nTube feeds 4-5 cans at night (6pm-10am)\n\n10-12 Days: Increase protein shakes\n\nTube feeds 3-4 cans at night\n\nThree weeks: Post-esophagectomy Diet\n8-12 weeks: Remove feeding tube (in office)"
+  },
+  {
+    "objectID": "lci_surgery.html#transition-from-tube-feeds-rightarrow-eating",
+    "href": "lci_surgery.html#transition-from-tube-feeds-rightarrow-eating",
+    "title": "Surgery of the Esophagus",
+    "section": "Transition from Tube Feeds \\(\\rightarrow\\) Eating",
+    "text": "Transition from Tube Feeds \\(\\rightarrow\\) Eating\nDietitian will calculate daily protein goal\n\nTypically 60-75 grams protein/day\nEach carton of tube feeding has 15 grams\n\n75 grams protein = 5 cartons/night\n\nAs intake by mouth increases, tube feeds are reduced\n\nImportant that protein is spread out during the day (20gm/meal)\n\nThree meals + 2-3 high-protein snacks"
+  },
+  {
+    "objectID": "lci_surgery.html#post-esophagectomy-diet",
+    "href": "lci_surgery.html#post-esophagectomy-diet",
+    "title": "Surgery of the Esophagus",
+    "section": "Post-esophagectomy Diet",
+    "text": "Post-esophagectomy Diet\n\nSoft Consistency\nHigh Protein\nAvoid sugary liquids (can cause ‘dumping’)\nAvoid raw vegetables (and salads)\nEating\n\nSmall, frequent meals\nSit up for 30-45 minutes after eating\nAvoid eating within 2 hours of bedtime"
+  },
+  {
+    "objectID": "lci_surgery.html#wedge-pillow",
+    "href": "lci_surgery.html#wedge-pillow",
+    "title": "Surgery of the Esophagus",
+    "section": "Wedge Pillow",
+    "text": "Wedge Pillow\n\n\n\nSurgery to remove the esophageal tumor will lead to a tendency for reflux.\nThe most helpful strategy is a 30 degree wedge pillow. T\nhis should be half as high as it is long.\nAvailable at Walmart.com"
+  },
+  {
+    "objectID": "lci_surgery.html#postoperative-visit-1",
+    "href": "lci_surgery.html#postoperative-visit-1",
+    "title": "Surgery of the Esophagus",
+    "section": "Postoperative Visit",
+    "text": "Postoperative Visit\nCheck surgical site\n\nRemove staples (if needed)\n\nAdjust medicines as needed\n\nInsulin (for diabetic patients on insulin)\nReduce beta blocker medicines\n\nAdvance diet\nReduce tube feeds"
+  },
+  {
+    "objectID": "lci_surgery.html#after-surgery",
+    "href": "lci_surgery.html#after-surgery",
+    "title": "Surgery of the Esophagus",
+    "section": "After surgery",
+    "text": "After surgery\nWean off medicines added after surgery\n\nPain medicines\nBeta-blockers\nReglan\nRemeron\n\nContinue acid blockers for at least 1 year\nMay need additional systemic therapy afterwards\n\nChemotherapy\nImmunotherapy (Optive = nivolumab)"
+  },
+  {
+    "objectID": "lci_surgery.html#team-members",
+    "href": "lci_surgery.html#team-members",
+    "title": "Surgery of the Esophagus",
+    "section": "Team Members",
+    "text": "Team Members\nPrimary Care Provider\nGastroenterologist\nMedical Oncologist (chemotherapy)\nRadiation Oncologist (radiation)\nSurgeons\n\nJonathan Salo\nJeffrey Hagen\nMichael Roach\n\nDietitian - Liz Koch\nNurses - Brandon Galloway & Kit Sluder\nSchedulers - Stacey Singleton & Toney Bethea"
   },
   {
     "objectID": "lci_surgery.htm#surgery-for-esophageal-cancer",
@@ -8694,60 +8946,144 @@
     "text": "Jejunostomy Video\n\n\nA video is available to help become familiar with the feeding jejunostomy\n\nGastrostomy = Stomach"
   },
   {
-    "objectID": "lci_surgery.htm#anesthesia-1",
-    "href": "lci_surgery.htm#anesthesia-1",
+    "objectID": "lci_surgery.htm#epidural-catheter-for-pain-control",
+    "href": "lci_surgery.htm#epidural-catheter-for-pain-control",
     "title": "Surgery of the Esophagus",
-    "section": "Anesthesia",
-    "text": "Anesthesia\nEpidural catheter usually placed for pain control\n\nRemains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
+    "section": "Epidural Catheter for Pain Control",
+    "text": "Epidural Catheter for Pain Control\n\nRemains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
   },
   {
-    "objectID": "lci_surgery.htm#icu-stay",
-    "href": "lci_surgery.htm#icu-stay",
+    "objectID": "lci_surgery.htm#icu-stay-2-4-days",
+    "href": "lci_surgery.htm#icu-stay-2-4-days",
     "title": "Surgery of the Esophagus",
-    "section": "ICU Stay",
-    "text": "ICU Stay\nMultiple lines and tubes:\n\nNG tube in nose to drain stomach and esophagus\nCatheter in bladder\nChest tube right chest\nAbdominal drains (usually 2)\nFeeding jejunostomy (usually says in 8 wks)"
+    "section": "ICU Stay (2-4 days)",
+    "text": "ICU Stay (2-4 days)\n\nNG tube in nose to drain stomach and esophagus\nCatheter in bladder\nChest tube right chest\nAbdominal drains (usually 2)\nFeeding jejunostomy (usually stays in 8 wks)"
   },
   {
     "objectID": "lci_surgery.htm#ward---6tower",
     "href": "lci_surgery.htm#ward---6tower",
     "title": "Surgery of the Esophagus",
     "section": "Ward - 6Tower",
-    "text": "Ward - 6Tower\n\nJejunostomy feeding\nUp in a chair most of the day\nWalking in the halls\n\nStart with assistance\nImproves lung function\nPrevents loss of muscle"
+    "text": "Ward - 6Tower\n\nJejunostomy feeds started\n\nNurses will instruct you and family how to operate the pump\n\nUp in a chair most of the day\nWalking in the halls\n\nStart with assistance\nImproves lung function\nPrevents loss of muscle"
   },
   {
     "objectID": "lci_surgery.htm#jejunostomy-feeds",
     "href": "lci_surgery.htm#jejunostomy-feeds",
     "title": "Surgery of the Esophagus",
     "section": "Jejunostomy Feeds",
-    "text": "Jejunostomy Feeds\nJejunostomy tube feeds - Start continuous (24 hours) - Convert to night-time only (16 hours)\nWater administered through feeding tube - Usually 8oz 4 times/day - Important to prevent dehydration\nDiabetic patients may need insulin"
+    "text": "Jejunostomy Feeds\nJejunostomy tube feeds\n\nStart continuous (24 hours)\nConvert to night-time only (16 hours)\n\nWater administered through feeding tube\n\nUsually 8oz 4 times/day\nImportant to prevent dehydration\n\nDiabetic patients may need insulin"
   },
   {
     "objectID": "lci_surgery.htm#jejunostomy-feeds-with-diabetes",
     "href": "lci_surgery.htm#jejunostomy-feeds-with-diabetes",
     "title": "Surgery of the Esophagus",
     "section": "Jejunostomy Feeds with Diabetes",
-    "text": "Jejunostomy Feeds with Diabetes\nJejunostomy feedings may cause blood sugars to be elevated - Insulin may be required along with feeds\nTypical Pattern for tube feeds - Feeds run via pump from 6pm to 10am - Insulin at 6pm (70/30 insulin) - Insulin at Midnight (70/30 insulin) - No insulin if tube feedings are not run"
+    "text": "Jejunostomy Feeds with Diabetes\nJejunostomy feedings may cause blood sugars to be elevated\n\nInsulin may be required along with feeds\n\nTypical Pattern for tube feeds\n\nFeeds run via pump from 6pm to 10am\nInsulin at 6pm (70/30 insulin)\nInsulin at Midnight (70/30 insulin)\nNo insulin if tube feedings are not run"
   },
   {
     "objectID": "lci_surgery.htm#nasogastric-ng-tube",
     "href": "lci_surgery.htm#nasogastric-ng-tube",
     "title": "Surgery of the Esophagus",
     "section": "Nasogastric (NG) Tube",
-    "text": "Nasogastric (NG) Tube\nTube passed through nose into stomach - Drains fluid from stomach - Prevents vomiting\nUpper GI X-ray on 2nd or 3rd day after surgery - If stomach empties well \\(\\rightarrow\\) NG tube removed - Otherwise, X-ray repeated 2-3 days later"
+    "text": "Nasogastric (NG) Tube\nTube passed through nose into stomach\n\nDrains fluid from stomach\nPrevents vomiting\n\nUpper GI X-ray on 2nd or 3rd day after surgery\n\nIf stomach empties well \\(\\rightarrow\\) NG tube removed\nOtherwise, X-ray repeated 2-3 days later"
   },
   {
     "objectID": "lci_surgery.htm#swallowing-evaluation",
     "href": "lci_surgery.htm#swallowing-evaluation",
     "title": "Surgery of the Esophagus",
     "section": "Swallowing Evaluation",
-    "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology\n\n70% of patients \\(\\Rightarrow\\) liquids started by mouth"
+    "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology Drink a white chalky liquid (barium) Look for proper swallowing function\n\n70% of patients \\(\\Rightarrow\\) liquids started by mouth"
   },
   {
     "objectID": "lci_surgery.htm#discharge-1",
     "href": "lci_surgery.htm#discharge-1",
     "title": "Surgery of the Esophagus",
     "section": "Discharge",
-    "text": "Discharge\nGoal: ready to leave day #6 after surgery\n\nNight-time tube feedings (6pm to 10am)\nSome nutrition by mouth (70% of patients)\n\n1 oz of water per hour by mouth  OR\nProtein shakes 4oz every 2 hours in some\n\nWater through tube 8oz four times per day\nHome care nursing (feeding tube teaching)\nHome infusion (tube feeding supplies)"
+    "text": "Discharge\nGoal: ready to leave day #6/7 after surgery\n\nNight-time tube feedings (6pm to 10am)\nSome nutrition by mouth (70% of patients)\n\n1 oz of water per hour by mouth OR\nProtein shakes 4oz every 2 hours\n\nWater through tube 8oz four times per day\nHome care nursing (feeding tube teaching)\nHome infusion (tube feeding supplies)"
+  },
+  {
+    "objectID": "lci_surgery.htm#medicines-at-home---pain",
+    "href": "lci_surgery.htm#medicines-at-home---pain",
+    "title": "Surgery of the Esophagus",
+    "section": "Medicines at Home - Pain",
+    "text": "Medicines at Home - Pain\nAcetaminophen (Tylenol) 4000mg/day (1000mg 4 times/day)\nGabapentin 300mg 3 times/day (works best if taken every day)\nOxycodone\n\nTake as needed in addition to Tylenol and gabapentin\nWill begin reducing dosage at first postoperative visit\nMost patients can discontinue by 4 weeks after surgery\nNO DRIVING WHILE ON OXYCODONE"
+  },
+  {
+    "objectID": "lci_surgery.htm#medicines-at-home---non-steroidals",
+    "href": "lci_surgery.htm#medicines-at-home---non-steroidals",
+    "title": "Surgery of the Esophagus",
+    "section": "Medicines at Home - Non-steroidals",
+    "text": "Medicines at Home - Non-steroidals\nNon-steroidal anti-inflammatories (Celebrex)\n\n200 mg every 12 hours starting 2 weeks after surgery\n\nNO GOODY POWDERS OR BCs\n\n(Can cause permanent scarring at the surgery site)"
+  },
+  {
+    "objectID": "lci_surgery.htm#medicines-at-home---acid-blockers",
+    "href": "lci_surgery.htm#medicines-at-home---acid-blockers",
+    "title": "Surgery of the Esophagus",
+    "section": "Medicines at Home - Acid Blockers",
+    "text": "Medicines at Home - Acid Blockers\nAcid blocker (Omeprazole, Nexium,etc)\n\nWill stay on for at 1-2 years to prevent acid reflux\nImportant in preventing scarring at anastomosis (new connection between esophagus and stomach)\nTo administer through feeding tube, open capsule and resuspend beads in 60mL (2oz) of water"
+  },
+  {
+    "objectID": "lci_surgery.htm#medicines-at-home-1",
+    "href": "lci_surgery.htm#medicines-at-home-1",
+    "title": "Surgery of the Esophagus",
+    "section": "Medicines at Home",
+    "text": "Medicines at Home\nReglan – Helps stomach empty\n\nWill plan to stop after six weeks\n0.1% risk of tardive dyskinesia (nervous tic)\n\nRemeron – Helps improve appetite\n\nCan cause vivid dreams\nUsed for several weeks after surgery\nWill stop within first three months of surgery"
+  },
+  {
+    "objectID": "lci_surgery.htm#medicines-at-home---beta-blockers",
+    "href": "lci_surgery.htm#medicines-at-home---beta-blockers",
+    "title": "Surgery of the Esophagus",
+    "section": "Medicines at Home - Beta Blockers",
+    "text": "Medicines at Home - Beta Blockers\nMetroprolol – Beta Blocker\n\nSlows heart rate and lowers blood pressure\n\nUsed around the time of surgery to prevent fast heart rhythms\nIn patients who were not taking a beta blocker prior to surgery, will plan to wean over a few weeks after surgery\nFor patients who were taking a beta blocker medicine prior to surgery, will return to prior dosage and drug after surgery"
+  },
+  {
+    "objectID": "lci_surgery.htm#nutrition-after-surgery",
+    "href": "lci_surgery.htm#nutrition-after-surgery",
+    "title": "Surgery of the Esophagus",
+    "section": "Nutrition after Surgery",
+    "text": "Nutrition after Surgery\nAt discharge home:\n\nProtein shakes 4oz every 2 hrs\nTube feeds 4-5 cans at night (6pm-10am)\n\n10-12 Days: Increase protein shakes\n\nTube feeds 3-4 cans at night\n\nThree weeks: Post-esophagectomy Diet\n8-12 weeks: Remove feeding tube (in office)"
+  },
+  {
+    "objectID": "lci_surgery.htm#transition-from-tube-feeds-rightarrow-eating",
+    "href": "lci_surgery.htm#transition-from-tube-feeds-rightarrow-eating",
+    "title": "Surgery of the Esophagus",
+    "section": "Transition from Tube Feeds \\(\\rightarrow\\) Eating",
+    "text": "Transition from Tube Feeds \\(\\rightarrow\\) Eating\nDietitian will calculate daily protein goal\n\nTypically 60-75 grams protein/day\nEach carton of tube feeding has 15 grams\n\n75 grams protein = 5 cartons/night\n\nAs intake by mouth increases, tube feeds are reduced\n\nImportant that protein is spread out during the day (20gm/meal)\n\nThree meals + 2-3 high-protein snacks"
+  },
+  {
+    "objectID": "lci_surgery.htm#post-esophagectomy-diet",
+    "href": "lci_surgery.htm#post-esophagectomy-diet",
+    "title": "Surgery of the Esophagus",
+    "section": "Post-esophagectomy Diet",
+    "text": "Post-esophagectomy Diet\n\nSoft Consistency\nHigh Protein\nAvoid sugary liquids (can cause ‘dumping’)\nAvoid raw vegetables (and salads)\nEating\n\nSmall, frequent meals\nSit up for 30-45 minutes after eating\nAvoid eating within 2 hours of bedtime"
+  },
+  {
+    "objectID": "lci_surgery.htm#wedge-pillow",
+    "href": "lci_surgery.htm#wedge-pillow",
+    "title": "Surgery of the Esophagus",
+    "section": "Wedge Pillow",
+    "text": "Wedge Pillow\n\n\n\nSurgery to remove the esophageal tumor will lead to a tendency for reflux.\nThe most helpful strategy is a 30 degree wedge pillow. T\nhis should be half as high as it is long.\nAvailable at Walmart.com"
+  },
+  {
+    "objectID": "lci_surgery.htm#postoperative-visit-1",
+    "href": "lci_surgery.htm#postoperative-visit-1",
+    "title": "Surgery of the Esophagus",
+    "section": "Postoperative Visit",
+    "text": "Postoperative Visit\nCheck surgical site\n\nRemove staples (if needed)\n\nAdjust medicines as needed\n\nInsulin (for diabetic patients on insulin)\nReduce beta blocker medicines\n\nAdvance diet\nReduce tube feeds"
+  },
+  {
+    "objectID": "lci_surgery.htm#after-surgery",
+    "href": "lci_surgery.htm#after-surgery",
+    "title": "Surgery of the Esophagus",
+    "section": "After surgery",
+    "text": "After surgery\nWean off medicines added after surgery\n\nPain medicines\nBeta-blockers\nReglan\nRemeron\n\nContinue acid blockers for at least 1 year\nMay need additional systemic therapy afterwards\n\nChemotherapy\nImmunotherapy (Optive = nivolumab)"
+  },
+  {
+    "objectID": "lci_surgery.htm#team-members",
+    "href": "lci_surgery.htm#team-members",
+    "title": "Surgery of the Esophagus",
+    "section": "Team Members",
+    "text": "Team Members\nPrimary Care Provider\nGastroenterologist\nMedical Oncologist (chemotherapy)\nRadiation Oncologist (radiation)\nSurgeons\n\nJonathan Salo\nJeffrey Hagen\nMichael Roach\n\nDietitian - Liz Koch\nNurses - Brandon Galloway & Kit Sluder\nSchedulers - Stacey Singleton & Toney Bethea"
   },
   {
     "objectID": "jejunostomy.html",
@@ -9944,7 +10280,7 @@
     "href": "lci_cvport.html#picc-lines",
     "title": "Central Venous Port",
     "section": "PICC Lines",
-    "text": "PICC Lines\n\n\n\nPlaced in Radiology\nStay in place during all of treatment\nSpecial care needed to keep it clean and dry\nSuitable for FLOT chemotherapy"
+    "text": "PICC Lines\n\n\n\nPlaced in Radiology\nStay in place during all of treatment\nNeeds to be kept clean and dry\nSuitable for FLOT chemotherapy"
   },
   {
     "objectID": "lci_cvport.html#central-venous-port",
@@ -9986,7 +10322,7 @@
     "href": "lci_cvport.htm#picc-lines",
     "title": "Central Venous Port",
     "section": "PICC Lines",
-    "text": "PICC Lines\n\n\n\nPlaced in Radiology\nStay in place during all of treatment\nSpecial care needed to keep it clean and dry\nSuitable for FLOT chemotherapy"
+    "text": "PICC Lines\n\n\n\nPlaced in Radiology\nStay in place during all of treatment\nNeeds to be kept clean and dry\nSuitable for FLOT chemotherapy"
   },
   {
     "objectID": "lci_cvport.htm#central-venous-port",
