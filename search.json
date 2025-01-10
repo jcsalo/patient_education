@@ -18,7 +18,7 @@
     "href": "lci_cvport_guts.html#intravenous-catheter-in-peripheral-vein-iv",
     "title": "Patient Education",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced at the beginning of each dose\nRemoved that day at the end of treatment\nNot suitable for FLOT chemotherapy"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemotherapy"
   },
   {
     "objectID": "lci_cvport_guts.html#picc-lines",
@@ -32,14 +32,14 @@
     "href": "lci_cvport_guts.html#central-venous-port",
     "title": "Patient Education",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower within 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower in 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
   },
   {
     "objectID": "lci_cvport_guts.html#central-venous-port-1",
     "href": "lci_cvport_guts.html#central-venous-port-1",
     "title": "Patient Education",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nPlaced underneath the skin below the right collarbone\nIncision in the neck (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_cvport_guts.html#central-venous-port-2",
@@ -60,7 +60,7 @@
     "href": "lci_cvport_guts.htm#intravenous-catheter-in-peripheral-vein-iv",
     "title": "Patient Education",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced at the beginning of each dose\nRemoved that day at the end of treatment\nNot suitable for FLOT chemotherapy"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemotherapy"
   },
   {
     "objectID": "lci_cvport_guts.htm#picc-lines",
@@ -74,14 +74,14 @@
     "href": "lci_cvport_guts.htm#central-venous-port",
     "title": "Patient Education",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower within 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower in 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
   },
   {
     "objectID": "lci_cvport_guts.htm#central-venous-port-1",
     "href": "lci_cvport_guts.htm#central-venous-port-1",
     "title": "Patient Education",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nPlaced underneath the skin below the right collarbone\nIncision in the neck (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_cvport_guts.htm#central-venous-port-2",
@@ -487,7 +487,7 @@
     "href": "lci_laparoscopy_guts.html#laparoscopy-1",
     "title": "Patient Education",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\nA laparoscopy is performed under a general anesthetic.\n\nSeveral incisions 1/4” long\nA telescope is inserted to look inside the abdominal cavity.\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral incisions 1/4” long\nA telescope is used to examine the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_laparoscopy_guts.htm#laparoscopy",
@@ -501,7 +501,7 @@
     "href": "lci_laparoscopy_guts.htm#laparoscopy-1",
     "title": "Patient Education",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\nA laparoscopy is performed under a general anesthetic.\n\nSeveral incisions 1/4” long\nA telescope is inserted to look inside the abdominal cavity.\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral incisions 1/4” long\nA telescope is used to examine the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "christmas2004.htm#cast",
@@ -830,7 +830,7 @@
     "href": "lci_eso_scca.htm#n-stage",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\n\nN1 cancers have spread to the lymph nodes."
+    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\nN1 cancers have spread to the lymph nodes."
   },
   {
     "objectID": "lci_eso_scca.htm#m-stage",
@@ -928,7 +928,7 @@
     "href": "lci_eso_scca.htm#chemotherapy-radiation-cross-trial-1",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\n\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_eso_scca.htm#chemotherapy-radiation-cross-trial-2",
@@ -1005,21 +1005,21 @@
     "href": "lci_eso_scca.htm#my-atrium-patient-portal",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\n\n\nCritical to good communication with your cancer care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_eso_scca.htm#exercise",
     "href": "lci_eso_scca.htm#exercise",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Exercise",
-    "text": "Exercise\n\nImportant to reduce the risk of complications from cancer treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t carry a conversation\nStart slow an build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
   },
   {
     "objectID": "lci_eso_scca.htm#smoking-cessation",
     "href": "lci_eso_scca.htm#smoking-cessation",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes it more difficult to get through cancer treatment\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Asssociation fredomfromsmoking.org\n1:1 Smoking Cessation Counseling Clinics (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn fredomfromsmoking.org\n1:1 Smoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_eso_scca.htm#surgery",
@@ -1096,7 +1096,7 @@
     "href": "lci_eso_scca.html#n-stage",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\n\nN1 cancers have spread to the lymph nodes."
+    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\nN1 cancers have spread to the lymph nodes."
   },
   {
     "objectID": "lci_eso_scca.html#m-stage",
@@ -1194,7 +1194,7 @@
     "href": "lci_eso_scca.html#chemotherapy-radiation-cross-trial-1",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\n\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_eso_scca.html#chemotherapy-radiation-cross-trial-2",
@@ -1271,21 +1271,21 @@
     "href": "lci_eso_scca.html#my-atrium-patient-portal",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\n\n\nCritical to good communication with your cancer care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_eso_scca.html#exercise",
     "href": "lci_eso_scca.html#exercise",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Exercise",
-    "text": "Exercise\n\nImportant to reduce the risk of complications from cancer treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t carry a conversation\nStart slow an build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
   },
   {
     "objectID": "lci_eso_scca.html#smoking-cessation",
     "href": "lci_eso_scca.html#smoking-cessation",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes it more difficult to get through cancer treatment\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Asssociation fredomfromsmoking.org\n1:1 Smoking Cessation Counseling Clinics (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn fredomfromsmoking.org\n1:1 Smoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_eso_scca.html#surgery",
@@ -1502,21 +1502,21 @@
     "href": "lci_surgery.htm#my-atrium-patient-portal",
     "title": "Surgery of the Esophagus",
     "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\n\n\nCritical to good communication with your cancer care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_surgery.htm#exercise",
     "href": "lci_surgery.htm#exercise",
     "title": "Surgery of the Esophagus",
     "section": "Exercise",
-    "text": "Exercise\n\nImportant to reduce the risk of complications from cancer treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t carry a conversation\nStart slow an build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
   },
   {
     "objectID": "lci_surgery.htm#smoking-cessation",
     "href": "lci_surgery.htm#smoking-cessation",
     "title": "Surgery of the Esophagus",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes it more difficult to get through cancer treatment\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Asssociation fredomfromsmoking.org\n1:1 Smoking Cessation Counseling Clinics (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn fredomfromsmoking.org\n1:1 Smoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_surgery.htm#day-prior-to-surgery",
@@ -1922,21 +1922,21 @@
     "href": "lci_surgery.html#my-atrium-patient-portal",
     "title": "Surgery of the Esophagus",
     "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\n\n\nCritical to good communication with your cancer care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_surgery.html#exercise",
     "href": "lci_surgery.html#exercise",
     "title": "Surgery of the Esophagus",
     "section": "Exercise",
-    "text": "Exercise\n\nImportant to reduce the risk of complications from cancer treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t carry a conversation\nStart slow an build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
   },
   {
     "objectID": "lci_surgery.html#smoking-cessation",
     "href": "lci_surgery.html#smoking-cessation",
     "title": "Surgery of the Esophagus",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes it more difficult to get through cancer treatment\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Asssociation fredomfromsmoking.org\n1:1 Smoking Cessation Counseling Clinics (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn fredomfromsmoking.org\n1:1 Smoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_surgery.html#day-prior-to-surgery",
@@ -2993,21 +2993,21 @@
     "href": "lci_surgery_guts.html#my-atrium-patient-portal",
     "title": "Patient Education",
     "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\n\n\nCritical to good communication with your cancer care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_surgery_guts.html#exercise",
     "href": "lci_surgery_guts.html#exercise",
     "title": "Patient Education",
     "section": "Exercise",
-    "text": "Exercise\n\nImportant to reduce the risk of complications from cancer treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t carry a conversation\nStart slow an build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
   },
   {
     "objectID": "lci_surgery_guts.html#smoking-cessation",
     "href": "lci_surgery_guts.html#smoking-cessation",
     "title": "Patient Education",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes it more difficult to get through cancer treatment\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Asssociation fredomfromsmoking.org\n1:1 Smoking Cessation Counseling Clinics (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn fredomfromsmoking.org\n1:1 Smoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_surgery_guts.html#day-prior-to-surgery",
@@ -3406,21 +3406,21 @@
     "href": "lci_surgery_guts.htm#my-atrium-patient-portal",
     "title": "Patient Education",
     "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\n\n\nCritical to good communication with your cancer care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_surgery_guts.htm#exercise",
     "href": "lci_surgery_guts.htm#exercise",
     "title": "Patient Education",
     "section": "Exercise",
-    "text": "Exercise\n\nImportant to reduce the risk of complications from cancer treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t carry a conversation\nStart slow an build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
   },
   {
     "objectID": "lci_surgery_guts.htm#smoking-cessation",
     "href": "lci_surgery_guts.htm#smoking-cessation",
     "title": "Patient Education",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes it more difficult to get through cancer treatment\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Asssociation fredomfromsmoking.org\n1:1 Smoking Cessation Counseling Clinics (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn fredomfromsmoking.org\n1:1 Smoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_surgery_guts.htm#day-prior-to-surgery",
@@ -3861,7 +3861,7 @@
     "href": "lci_esot3.htm#n-stage",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\n\nN1 cancers have spread to the lymph nodes."
+    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\nN1 cancers have spread to the lymph nodes."
   },
   {
     "objectID": "lci_esot3.htm#m-stage",
@@ -3896,14 +3896,14 @@
     "href": "lci_esot3.htm#laparoscopy-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\nA laparoscopy is performed under a general anesthetic.\n\nSeveral incisions 1/4” long\nA telescope is inserted to look inside the abdominal cavity.\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral incisions 1/4” long\nA telescope is used to examine the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_esot3.htm#treatment-plan",
     "href": "lci_esot3.htm#treatment-plan",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Treatment Plan",
-    "text": "Treatment Plan\n\n\nSuperficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\nLocalized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\nLocally-advanced (T3/N1) \\(\\Rightarrow\\) Chemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\nMetastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
+    "text": "Treatment Plan\n\n\nSuperficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\nLocalized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\nLocally-advanced (T3) \\(\\Rightarrow\\) Chemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\nMetastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
   },
   {
     "objectID": "lci_esot3.htm#locally-advanced-cancers-1",
@@ -3973,7 +3973,7 @@
     "href": "lci_esot3.htm#chemotherapy-radiation-cross-trial-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\n\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_esot3.htm#chemotherapy-radiation-cross-trial-2",
@@ -4004,32 +4004,18 @@
     "text": "“Sandwich” Chemotherapy Drugs\n\n\nFLOT\n\n5-FU\nLeucovorion\nOxaliplatin\nTaxotere\n\n\nFOLFOX\n\n5-FU\nLeucovorin\nOxaliplatin"
   },
   {
-    "objectID": "lci_esot3.htm#locally-advanced-adenocarcinoma-1",
-    "href": "lci_esot3.htm#locally-advanced-adenocarcinoma-1",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "Locally-advanced Adenocarcinoma",
-    "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy before + after surgery:\nChemo (8 wks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (8 wks)\nTwo different drug combinations:\n\nFLOT (more effective)\nFOLFOX (better tolerated)"
-  },
-  {
-    "objectID": "lci_esot3.htm#sandwich-chemotherapy-drugs-1",
-    "href": "lci_esot3.htm#sandwich-chemotherapy-drugs-1",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "“Sandwich” Chemotherapy Drugs",
-    "text": "“Sandwich” Chemotherapy Drugs\n\n\nFLOT\n\n5-FU\nLeucovorion\nOxaliplatin\nTaxotere\n\n\nFOLFOX\n\n5-FU\nLeucovorin\nOxaliplatin"
-  },
-  {
     "objectID": "lci_esot3.htm#adenocarcinoma-treatment-options",
     "href": "lci_esot3.htm#adenocarcinoma-treatment-options",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Adenocarcinoma Treatment Options",
-    "text": "Adenocarcinoma Treatment Options\n\n\nChemo + Radiation\n\nChemo + Radiation (6 wks)\nSurgery\n\n\nChemotherapy\n\nChemotherapy (8 wks)\nSurgery\nChemotherapy (8 wks)"
+    "text": "Adenocarcinoma Treatment Options\n\n\nChemo + Radiation\n\nChemo+Radiation (6 wks)\nSurgery\n\n\nChemotherapy\n\nChemotherapy (8 wks)\nSurgery\nChemotherapy (8 wks)"
   },
   {
     "objectID": "lci_esot3.htm#adenocarcinoma-treatment-options-1",
     "href": "lci_esot3.htm#adenocarcinoma-treatment-options-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Adenocarcinoma Treatment Options",
-    "text": "Adenocarcinoma Treatment Options\n\n\nCROSS Chemo + Radiation\n\nLonger track record (2010)\nBetter tolerated\nPort usually placed\nEating gets worse \\(\\rightarrow\\) better\nMay need feeding tube\n\n\nFLOT Chemotherapy\n\nMore effective than CROSS\nMore side effects\nPort always required\nEating gets slowly better\nLess likely to need feeding tube"
+    "text": "Adenocarcinoma Treatment Options\n\n\nCROSS Chemo + Radiation\n\nLonger track record\nBetter tolerated\nPort usually placed\nEating worse \\(\\rightarrow\\) better\nMay need feeding tube\n\n\nFLOT Chemotherapy\n\nMore effective\nMore side effects\nPort always required\nEating gets slowly better\nFeeding tube less likely"
   },
   {
     "objectID": "lci_esot3.htm#chemotherapy",
@@ -4050,7 +4036,7 @@
     "href": "lci_esot3.htm#intravenous-catheter-in-peripheral-vein-iv",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced at the beginning of each dose\nRemoved that day at the end of treatment\nNot suitable for FLOT chemotherapy"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemotherapy"
   },
   {
     "objectID": "lci_esot3.htm#picc-lines",
@@ -4064,14 +4050,14 @@
     "href": "lci_esot3.htm#central-venous-port",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower within 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower in 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
   },
   {
     "objectID": "lci_esot3.htm#central-venous-port-1",
     "href": "lci_esot3.htm#central-venous-port-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nPlaced underneath the skin below the right collarbone\nIncision in the neck (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_esot3.htm#central-venous-port-2",
@@ -4106,21 +4092,21 @@
     "href": "lci_esot3.htm#my-atrium-patient-portal",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\n\n\nCritical to good communication with your cancer care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_esot3.htm#exercise",
     "href": "lci_esot3.htm#exercise",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Exercise",
-    "text": "Exercise\n\nImportant to reduce the risk of complications from cancer treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t carry a conversation\nStart slow an build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
   },
   {
     "objectID": "lci_esot3.htm#smoking-cessation",
     "href": "lci_esot3.htm#smoking-cessation",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes it more difficult to get through cancer treatment\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Asssociation fredomfromsmoking.org\n1:1 Smoking Cessation Counseling Clinics (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn fredomfromsmoking.org\n1:1 Smoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_esot3.htm#surgery",
@@ -4204,7 +4190,7 @@
     "href": "lci_esot3.html#n-stage",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\n\nN1 cancers have spread to the lymph nodes."
+    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\nN1 cancers have spread to the lymph nodes."
   },
   {
     "objectID": "lci_esot3.html#m-stage",
@@ -4239,14 +4225,14 @@
     "href": "lci_esot3.html#laparoscopy-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\nA laparoscopy is performed under a general anesthetic.\n\nSeveral incisions 1/4” long\nA telescope is inserted to look inside the abdominal cavity.\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral incisions 1/4” long\nA telescope is used to examine the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_esot3.html#treatment-plan",
     "href": "lci_esot3.html#treatment-plan",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Treatment Plan",
-    "text": "Treatment Plan\n\n\nSuperficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\nLocalized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\nLocally-advanced (T3/N1) \\(\\Rightarrow\\) Chemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\nMetastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
+    "text": "Treatment Plan\n\n\nSuperficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\nLocalized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\nLocally-advanced (T3) \\(\\Rightarrow\\) Chemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\nMetastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
   },
   {
     "objectID": "lci_esot3.html#locally-advanced-cancers-1",
@@ -4316,7 +4302,7 @@
     "href": "lci_esot3.html#chemotherapy-radiation-cross-trial-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\n\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_esot3.html#chemotherapy-radiation-cross-trial-2",
@@ -4347,32 +4333,18 @@
     "text": "“Sandwich” Chemotherapy Drugs\n\n\nFLOT\n\n5-FU\nLeucovorion\nOxaliplatin\nTaxotere\n\n\nFOLFOX\n\n5-FU\nLeucovorin\nOxaliplatin"
   },
   {
-    "objectID": "lci_esot3.html#locally-advanced-adenocarcinoma-1",
-    "href": "lci_esot3.html#locally-advanced-adenocarcinoma-1",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "Locally-advanced Adenocarcinoma",
-    "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy before + after surgery:\nChemo (8 wks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (8 wks)\nTwo different drug combinations:\n\nFLOT (more effective)\nFOLFOX (better tolerated)"
-  },
-  {
-    "objectID": "lci_esot3.html#sandwich-chemotherapy-drugs-1",
-    "href": "lci_esot3.html#sandwich-chemotherapy-drugs-1",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "“Sandwich” Chemotherapy Drugs",
-    "text": "“Sandwich” Chemotherapy Drugs\n\n\nFLOT\n\n5-FU\nLeucovorion\nOxaliplatin\nTaxotere\n\n\nFOLFOX\n\n5-FU\nLeucovorin\nOxaliplatin"
-  },
-  {
     "objectID": "lci_esot3.html#adenocarcinoma-treatment-options",
     "href": "lci_esot3.html#adenocarcinoma-treatment-options",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Adenocarcinoma Treatment Options",
-    "text": "Adenocarcinoma Treatment Options\n\n\nChemo + Radiation\n\nChemo + Radiation (6 wks)\nSurgery\n\n\nChemotherapy\n\nChemotherapy (8 wks)\nSurgery\nChemotherapy (8 wks)"
+    "text": "Adenocarcinoma Treatment Options\n\n\nChemo + Radiation\n\nChemo+Radiation (6 wks)\nSurgery\n\n\nChemotherapy\n\nChemotherapy (8 wks)\nSurgery\nChemotherapy (8 wks)"
   },
   {
     "objectID": "lci_esot3.html#adenocarcinoma-treatment-options-1",
     "href": "lci_esot3.html#adenocarcinoma-treatment-options-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Adenocarcinoma Treatment Options",
-    "text": "Adenocarcinoma Treatment Options\n\n\nCROSS Chemo + Radiation\n\nLonger track record (2010)\nBetter tolerated\nPort usually placed\nEating gets worse \\(\\rightarrow\\) better\nMay need feeding tube\n\n\nFLOT Chemotherapy\n\nMore effective than CROSS\nMore side effects\nPort always required\nEating gets slowly better\nLess likely to need feeding tube"
+    "text": "Adenocarcinoma Treatment Options\n\n\nCROSS Chemo + Radiation\n\nLonger track record\nBetter tolerated\nPort usually placed\nEating worse \\(\\rightarrow\\) better\nMay need feeding tube\n\n\nFLOT Chemotherapy\n\nMore effective\nMore side effects\nPort always required\nEating gets slowly better\nFeeding tube less likely"
   },
   {
     "objectID": "lci_esot3.html#chemotherapy",
@@ -4393,7 +4365,7 @@
     "href": "lci_esot3.html#intravenous-catheter-in-peripheral-vein-iv",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced at the beginning of each dose\nRemoved that day at the end of treatment\nNot suitable for FLOT chemotherapy"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemotherapy"
   },
   {
     "objectID": "lci_esot3.html#picc-lines",
@@ -4407,14 +4379,14 @@
     "href": "lci_esot3.html#central-venous-port",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower within 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower in 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
   },
   {
     "objectID": "lci_esot3.html#central-venous-port-1",
     "href": "lci_esot3.html#central-venous-port-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nPlaced underneath the skin below the right collarbone\nIncision in the neck (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_esot3.html#central-venous-port-2",
@@ -4449,21 +4421,21 @@
     "href": "lci_esot3.html#my-atrium-patient-portal",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\n\n\nCritical to good communication with your cancer care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_esot3.html#exercise",
     "href": "lci_esot3.html#exercise",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Exercise",
-    "text": "Exercise\n\nImportant to reduce the risk of complications from cancer treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t carry a conversation\nStart slow an build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
   },
   {
     "objectID": "lci_esot3.html#smoking-cessation",
     "href": "lci_esot3.html#smoking-cessation",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes it more difficult to get through cancer treatment\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Asssociation fredomfromsmoking.org\n1:1 Smoking Cessation Counseling Clinics (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn fredomfromsmoking.org\n1:1 Smoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_esot3.html#surgery",
@@ -4701,7 +4673,7 @@
     "href": "lci_gastrict3.htm#n-stage",
     "title": "T3 Cancer of the Stomach",
     "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\n\nN1 cancers have spread to the lymph nodes."
+    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\nN1 cancers have spread to the lymph nodes."
   },
   {
     "objectID": "lci_gastrict3.htm#m-stage",
@@ -4736,7 +4708,7 @@
     "href": "lci_gastrict3.htm#laparoscopy-1",
     "title": "T3 Cancer of the Stomach",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\nA laparoscopy is performed under a general anesthetic.\n\nSeveral incisions 1/4” long\nA telescope is inserted to look inside the abdominal cavity.\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral incisions 1/4” long\nA telescope is used to examine the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_gastrict3.htm#treatment-plan",
@@ -4778,7 +4750,7 @@
     "href": "lci_gastrict3.htm#intravenous-catheter-in-peripheral-vein-iv",
     "title": "T3 Cancer of the Stomach",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced at the beginning of each dose\nRemoved that day at the end of treatment\nNot suitable for FLOT chemotherapy"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemotherapy"
   },
   {
     "objectID": "lci_gastrict3.htm#picc-lines",
@@ -4792,14 +4764,14 @@
     "href": "lci_gastrict3.htm#central-venous-port",
     "title": "T3 Cancer of the Stomach",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower within 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower in 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
   },
   {
     "objectID": "lci_gastrict3.htm#central-venous-port-1",
     "href": "lci_gastrict3.htm#central-venous-port-1",
     "title": "T3 Cancer of the Stomach",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nPlaced underneath the skin below the right collarbone\nIncision in the neck (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_gastrict3.htm#central-venous-port-2",
@@ -4834,21 +4806,21 @@
     "href": "lci_gastrict3.htm#my-atrium-patient-portal",
     "title": "T3 Cancer of the Stomach",
     "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\n\n\nCritical to good communication with your cancer care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_gastrict3.htm#exercise",
     "href": "lci_gastrict3.htm#exercise",
     "title": "T3 Cancer of the Stomach",
     "section": "Exercise",
-    "text": "Exercise\n\nImportant to reduce the risk of complications from cancer treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t carry a conversation\nStart slow an build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
   },
   {
     "objectID": "lci_gastrict3.htm#smoking-cessation",
     "href": "lci_gastrict3.htm#smoking-cessation",
     "title": "T3 Cancer of the Stomach",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes it more difficult to get through cancer treatment\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Asssociation fredomfromsmoking.org\n1:1 Smoking Cessation Counseling Clinics (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn fredomfromsmoking.org\n1:1 Smoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_gastrict3.html",
@@ -4918,7 +4890,7 @@
     "href": "lci_gastrict3.html#n-stage",
     "title": "T3 Cancer of the Stomach",
     "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\n\nN1 cancers have spread to the lymph nodes."
+    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\nN1 cancers have spread to the lymph nodes."
   },
   {
     "objectID": "lci_gastrict3.html#m-stage",
@@ -4953,7 +4925,7 @@
     "href": "lci_gastrict3.html#laparoscopy-1",
     "title": "T3 Cancer of the Stomach",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\nA laparoscopy is performed under a general anesthetic.\n\nSeveral incisions 1/4” long\nA telescope is inserted to look inside the abdominal cavity.\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral incisions 1/4” long\nA telescope is used to examine the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_gastrict3.html#treatment-plan",
@@ -4995,7 +4967,7 @@
     "href": "lci_gastrict3.html#intravenous-catheter-in-peripheral-vein-iv",
     "title": "T3 Cancer of the Stomach",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced at the beginning of each dose\nRemoved that day at the end of treatment\nNot suitable for FLOT chemotherapy"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemotherapy"
   },
   {
     "objectID": "lci_gastrict3.html#picc-lines",
@@ -5009,14 +4981,14 @@
     "href": "lci_gastrict3.html#central-venous-port",
     "title": "T3 Cancer of the Stomach",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower within 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower in 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
   },
   {
     "objectID": "lci_gastrict3.html#central-venous-port-1",
     "href": "lci_gastrict3.html#central-venous-port-1",
     "title": "T3 Cancer of the Stomach",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nPlaced underneath the skin below the right collarbone\nIncision in the neck (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_gastrict3.html#central-venous-port-2",
@@ -5051,21 +5023,21 @@
     "href": "lci_gastrict3.html#my-atrium-patient-portal",
     "title": "T3 Cancer of the Stomach",
     "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\n\n\nCritical to good communication with your cancer care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_gastrict3.html#exercise",
     "href": "lci_gastrict3.html#exercise",
     "title": "T3 Cancer of the Stomach",
     "section": "Exercise",
-    "text": "Exercise\n\nImportant to reduce the risk of complications from cancer treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t carry a conversation\nStart slow an build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
   },
   {
     "objectID": "lci_gastrict3.html#smoking-cessation",
     "href": "lci_gastrict3.html#smoking-cessation",
     "title": "T3 Cancer of the Stomach",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes it more difficult to get through cancer treatment\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Asssociation fredomfromsmoking.org\n1:1 Smoking Cessation Counseling Clinics (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn fredomfromsmoking.org\n1:1 Smoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_gastrectomy.htm#stomach-cancer-surgery-goals",
@@ -5415,7 +5387,7 @@
     "href": "lci_staging_guts.html#n-stage",
     "title": "Patient Education",
     "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\n\nN1 cancers have spread to the lymph nodes."
+    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\nN1 cancers have spread to the lymph nodes."
   },
   {
     "objectID": "lci_staging_guts.html#m-stage",
@@ -5492,7 +5464,7 @@
     "href": "lci_staging_guts.htm#n-stage",
     "title": "Patient Education",
     "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\n\nN1 cancers have spread to the lymph nodes."
+    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\nN1 cancers have spread to the lymph nodes."
   },
   {
     "objectID": "lci_staging_guts.htm#m-stage",
@@ -6458,21 +6430,21 @@
     "href": "lci_treatment_prep_guts.htm#my-atrium-patient-portal",
     "title": "Patient Education",
     "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\n\n\nCritical to good communication with your cancer care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_treatment_prep_guts.htm#exercise",
     "href": "lci_treatment_prep_guts.htm#exercise",
     "title": "Patient Education",
     "section": "Exercise",
-    "text": "Exercise\n\nImportant to reduce the risk of complications from cancer treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t carry a conversation\nStart slow an build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
   },
   {
     "objectID": "lci_treatment_prep_guts.htm#smoking-cessation",
     "href": "lci_treatment_prep_guts.htm#smoking-cessation",
     "title": "Patient Education",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes it more difficult to get through cancer treatment\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Asssociation fredomfromsmoking.org\n1:1 Smoking Cessation Counseling Clinics (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn fredomfromsmoking.org\n1:1 Smoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_treatment_prep_guts.html",
@@ -6500,21 +6472,21 @@
     "href": "lci_treatment_prep_guts.html#my-atrium-patient-portal",
     "title": "Patient Education",
     "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\n\n\nCritical to good communication with your cancer care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_treatment_prep_guts.html#exercise",
     "href": "lci_treatment_prep_guts.html#exercise",
     "title": "Patient Education",
     "section": "Exercise",
-    "text": "Exercise\n\nImportant to reduce the risk of complications from cancer treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t carry a conversation\nStart slow an build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
   },
   {
     "objectID": "lci_treatment_prep_guts.html#smoking-cessation",
     "href": "lci_treatment_prep_guts.html#smoking-cessation",
     "title": "Patient Education",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes it more difficult to get through cancer treatment\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Asssociation fredomfromsmoking.org\n1:1 Smoking Cessation Counseling Clinics (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn fredomfromsmoking.org\n1:1 Smoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_treatment_prep.htm#preparing-for-cancer-treatment",
@@ -7011,21 +6983,21 @@
     "href": "lci_gist.html#my-atrium-patient-portal",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\n\n\nCritical to good communication with your cancer care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_gist.html#exercise",
     "href": "lci_gist.html#exercise",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "Exercise",
-    "text": "Exercise\n\nImportant to reduce the risk of complications from cancer treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t carry a conversation\nStart slow an build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
   },
   {
     "objectID": "lci_gist.html#smoking-cessation",
     "href": "lci_gist.html#smoking-cessation",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes it more difficult to get through cancer treatment\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Asssociation fredomfromsmoking.org\n1:1 Smoking Cessation Counseling Clinics (Metro Charlotte)\n\n\nGastrectomy Slideshow"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn fredomfromsmoking.org\n1:1 Smoking Cessation Counseling (Metro Charlotte)\n\n\nGastrectomy Slideshow"
   },
   {
     "objectID": "lci_gist.htm#gi-stromal-tumors",
@@ -7186,21 +7158,21 @@
     "href": "lci_gist.htm#my-atrium-patient-portal",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\n\n\nCritical to good communication with your cancer care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_gist.htm#exercise",
     "href": "lci_gist.htm#exercise",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "Exercise",
-    "text": "Exercise\n\nImportant to reduce the risk of complications from cancer treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t carry a conversation\nStart slow an build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
   },
   {
     "objectID": "lci_gist.htm#smoking-cessation",
     "href": "lci_gist.htm#smoking-cessation",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes it more difficult to get through cancer treatment\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Asssociation fredomfromsmoking.org\n1:1 Smoking Cessation Counseling Clinics (Metro Charlotte)\n\n\nGastrectomy Slideshow"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn fredomfromsmoking.org\n1:1 Smoking Cessation Counseling (Metro Charlotte)\n\n\nGastrectomy Slideshow"
   },
   {
     "objectID": "ge_metastatic.html",
@@ -7235,7 +7207,7 @@
     "href": "lci_cross_guts.htm#chemotherapy-radiation-cross-trial-1",
     "title": "Patient Education",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\n\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_cross_guts.htm#chemotherapy-radiation-cross-trial-2",
@@ -7270,7 +7242,7 @@
     "href": "lci_cross_guts.html#chemotherapy-radiation-cross-trial-1",
     "title": "Patient Education",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\n\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_cross_guts.html#chemotherapy-radiation-cross-trial-2",
@@ -7501,7 +7473,7 @@
     "href": "lci_esot3_aca.html#n-stage",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\n\nN1 cancers have spread to the lymph nodes."
+    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\nN1 cancers have spread to the lymph nodes."
   },
   {
     "objectID": "lci_esot3_aca.html#m-stage",
@@ -7536,7 +7508,7 @@
     "href": "lci_esot3_aca.html#laparoscopy-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\nA laparoscopy is performed under a general anesthetic.\n\nSeveral incisions 1/4” long\nA telescope is inserted to look inside the abdominal cavity.\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral incisions 1/4” long\nA telescope is used to examine the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_esot3_aca.html#treatment-plan",
@@ -7613,7 +7585,7 @@
     "href": "lci_esot3_aca.html#chemotherapy-radiation-cross-trial-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\n\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_esot3_aca.html#chemotherapy-radiation-cross-trial-2",
@@ -7669,7 +7641,7 @@
     "href": "lci_esot3_aca.html#intravenous-catheter-in-peripheral-vein-iv",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced at the beginning of each dose\nRemoved that day at the end of treatment\nNot suitable for FLOT chemotherapy"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemotherapy"
   },
   {
     "objectID": "lci_esot3_aca.html#picc-lines",
@@ -7683,14 +7655,14 @@
     "href": "lci_esot3_aca.html#central-venous-port",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower within 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower in 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
   },
   {
     "objectID": "lci_esot3_aca.html#central-venous-port-1",
     "href": "lci_esot3_aca.html#central-venous-port-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nPlaced underneath the skin below the right collarbone\nIncision in the neck (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_esot3_aca.html#central-venous-port-2",
@@ -7725,21 +7697,21 @@
     "href": "lci_esot3_aca.html#my-atrium-patient-portal",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\n\n\nCritical to good communication with your cancer care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_esot3_aca.html#exercise",
     "href": "lci_esot3_aca.html#exercise",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Exercise",
-    "text": "Exercise\n\nImportant to reduce the risk of complications from cancer treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t carry a conversation\nStart slow an build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
   },
   {
     "objectID": "lci_esot3_aca.html#smoking-cessation",
     "href": "lci_esot3_aca.html#smoking-cessation",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes it more difficult to get through cancer treatment\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Asssociation fredomfromsmoking.org\n1:1 Smoking Cessation Counseling Clinics (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn fredomfromsmoking.org\n1:1 Smoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_esot3_aca.html#surgery",
@@ -7809,7 +7781,7 @@
     "href": "lci_esot3_aca.htm#n-stage",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\n\nN1 cancers have spread to the lymph nodes."
+    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\nN1 cancers have spread to the lymph nodes."
   },
   {
     "objectID": "lci_esot3_aca.htm#m-stage",
@@ -7844,7 +7816,7 @@
     "href": "lci_esot3_aca.htm#laparoscopy-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\nA laparoscopy is performed under a general anesthetic.\n\nSeveral incisions 1/4” long\nA telescope is inserted to look inside the abdominal cavity.\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral incisions 1/4” long\nA telescope is used to examine the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_esot3_aca.htm#treatment-plan",
@@ -7921,7 +7893,7 @@
     "href": "lci_esot3_aca.htm#chemotherapy-radiation-cross-trial-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\n\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_esot3_aca.htm#chemotherapy-radiation-cross-trial-2",
@@ -7977,7 +7949,7 @@
     "href": "lci_esot3_aca.htm#intravenous-catheter-in-peripheral-vein-iv",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced at the beginning of each dose\nRemoved that day at the end of treatment\nNot suitable for FLOT chemotherapy"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemotherapy"
   },
   {
     "objectID": "lci_esot3_aca.htm#picc-lines",
@@ -7991,14 +7963,14 @@
     "href": "lci_esot3_aca.htm#central-venous-port",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower within 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower in 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
   },
   {
     "objectID": "lci_esot3_aca.htm#central-venous-port-1",
     "href": "lci_esot3_aca.htm#central-venous-port-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nPlaced underneath the skin below the right collarbone\nIncision in the neck (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_esot3_aca.htm#central-venous-port-2",
@@ -8033,21 +8005,21 @@
     "href": "lci_esot3_aca.htm#my-atrium-patient-portal",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\n\n\nCritical to good communication with your cancer care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_esot3_aca.htm#exercise",
     "href": "lci_esot3_aca.htm#exercise",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Exercise",
-    "text": "Exercise\n\nImportant to reduce the risk of complications from cancer treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t carry a conversation\nStart slow an build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
   },
   {
     "objectID": "lci_esot3_aca.htm#smoking-cessation",
     "href": "lci_esot3_aca.htm#smoking-cessation",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes it more difficult to get through cancer treatment\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Asssociation fredomfromsmoking.org\n1:1 Smoking Cessation Counseling Clinics (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn fredomfromsmoking.org\n1:1 Smoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_esot3_aca.htm#surgery",
@@ -9475,7 +9447,7 @@
     "href": "lci_esom1.html#intravenous-catheter-in-peripheral-vein-iv",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced at the beginning of each dose\nRemoved that day at the end of treatment\nNot suitable for FLOT chemotherapy"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemotherapy"
   },
   {
     "objectID": "lci_esom1.html#picc-lines",
@@ -9489,14 +9461,14 @@
     "href": "lci_esom1.html#central-venous-port",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower within 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower in 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
   },
   {
     "objectID": "lci_esom1.html#central-venous-port-1",
     "href": "lci_esom1.html#central-venous-port-1",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nPlaced underneath the skin below the right collarbone\nIncision in the neck (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_esom1.html#central-venous-port-2",
@@ -9566,21 +9538,21 @@
     "href": "lci_esom1.html#my-atrium-patient-portal",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\n\n\nCritical to good communication with your cancer care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_esom1.html#exercise",
     "href": "lci_esom1.html#exercise",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Exercise",
-    "text": "Exercise\n\nImportant to reduce the risk of complications from cancer treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t carry a conversation\nStart slow an build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
   },
   {
     "objectID": "lci_esom1.html#smoking-cessation",
     "href": "lci_esom1.html#smoking-cessation",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes it more difficult to get through cancer treatment\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Asssociation fredomfromsmoking.org\n1:1 Smoking Cessation Counseling Clinics (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn fredomfromsmoking.org\n1:1 Smoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_esom1.html#hospice",
@@ -9650,7 +9622,7 @@
     "href": "lci_esom1.htm#intravenous-catheter-in-peripheral-vein-iv",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced at the beginning of each dose\nRemoved that day at the end of treatment\nNot suitable for FLOT chemotherapy"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemotherapy"
   },
   {
     "objectID": "lci_esom1.htm#picc-lines",
@@ -9664,14 +9636,14 @@
     "href": "lci_esom1.htm#central-venous-port",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower within 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower in 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
   },
   {
     "objectID": "lci_esom1.htm#central-venous-port-1",
     "href": "lci_esom1.htm#central-venous-port-1",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nPlaced underneath the skin below the right collarbone\nIncision in the neck (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_esom1.htm#central-venous-port-2",
@@ -9741,21 +9713,21 @@
     "href": "lci_esom1.htm#my-atrium-patient-portal",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\n\n\nCritical to good communication with your cancer care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_esom1.htm#exercise",
     "href": "lci_esom1.htm#exercise",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Exercise",
-    "text": "Exercise\n\nImportant to reduce the risk of complications from cancer treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t carry a conversation\nStart slow an build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
   },
   {
     "objectID": "lci_esom1.htm#smoking-cessation",
     "href": "lci_esom1.htm#smoking-cessation",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes it more difficult to get through cancer treatment\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Asssociation fredomfromsmoking.org\n1:1 Smoking Cessation Counseling Clinics (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn fredomfromsmoking.org\n1:1 Smoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_esom1.htm#hospice",
@@ -9783,7 +9755,7 @@
     "href": "lci_cvport.html#intravenous-catheter-in-peripheral-vein-iv",
     "title": "Central Venous Port",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced at the beginning of each dose\nRemoved that day at the end of treatment\nNot suitable for FLOT chemotherapy"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemotherapy"
   },
   {
     "objectID": "lci_cvport.html#picc-lines",
@@ -9797,14 +9769,14 @@
     "href": "lci_cvport.html#central-venous-port",
     "title": "Central Venous Port",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower within 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower in 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
   },
   {
     "objectID": "lci_cvport.html#central-venous-port-1",
     "href": "lci_cvport.html#central-venous-port-1",
     "title": "Central Venous Port",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nPlaced underneath the skin below the right collarbone\nIncision in the neck (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_cvport.html#central-venous-port-2",
@@ -9825,7 +9797,7 @@
     "href": "lci_cvport.htm#intravenous-catheter-in-peripheral-vein-iv",
     "title": "Central Venous Port",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced at the beginning of each dose\nRemoved that day at the end of treatment\nNot suitable for FLOT chemotherapy"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemotherapy"
   },
   {
     "objectID": "lci_cvport.htm#picc-lines",
@@ -9839,14 +9811,14 @@
     "href": "lci_cvport.htm#central-venous-port",
     "title": "Central Venous Port",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower within 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower in 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
   },
   {
     "objectID": "lci_cvport.htm#central-venous-port-1",
     "href": "lci_cvport.htm#central-venous-port-1",
     "title": "Central Venous Port",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nPlaced underneath the skin below the right collarbone\nIncision in the neck (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_cvport.htm#central-venous-port-2",
