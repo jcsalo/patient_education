@@ -1,4 +1,21 @@
 
+
+
+## Day Prior to Surgery
+
+-   Clear liquids for 24 hours prior to surgery
+-   Check with Pre-op nurse regarding medicines day prior to surgery
+-   No tube feedings the night before surgery
+
+## Day of Surgery
+
+-   Arrive at 5am – nothing to eat or drink after midnight.
+-   OK to take medicines with a sip of water (or coffee) but no cream.
+-   Surgery will be cancelled if you have cream or milk in the morning.
+-   Waiting room for family and friends on 5th floor
+-   Post-operative care in STICU (11th floor)
+
+
 ## Epidural Catheter for Pain Control
 
 
@@ -17,6 +34,15 @@
 - Abdominal drains (usually 2)
 - Feeding jejunostomy (usually stays in 8 wks)
 
+## ICU
+
+-   Catheter in bladder removed → make certain the bladder empties properly
+-   Chest tube removed (day 2-4) → follow-up chest x-ray
+-   Fluid emptied from drains every few hours
+-   Start tube feedings by feeding
+-   Feeding jejunostomy (stays in 8 weeks)
+
+
 ## Ward - 6Tower
 
 - Jejunostomy feeds started
@@ -26,6 +52,8 @@
   - Start with assistance
   - Improves lung function
   - Prevents loss of muscle
+
+
 
 
 ## Jejunostomy Feeds
@@ -40,7 +68,17 @@ Water administered through feeding tube
 - Usually 8oz 4 times/day
 - Important to prevent dehydration
 
-Diabetic patients may need insulin
+## Feeding Jejunostomy - Typical Regimen
+
+-   Jejunostomy tube feeds for 16 hours (6pm to 10am)
+    -   Men: 75mL/hour x 16 hours = 5 cartons
+    -   Women: 60mL/hour x 16 hours = 4 cartons
+-   Water 240ml (8oz) via syringe 4x/day
+
+Hospital nurses will teach you how to use the feeding tube pump
+
+We want to make sure you can manage the pump before going home
+
 
 ## Jejunostomy Feeds with Diabetes
 
@@ -54,6 +92,28 @@ Typical Pattern for tube feeds
 - Insulin at 6pm (70/30 insulin)
 - Insulin at Midnight (70/30 insulin)
 - No insulin if tube feedings are not run
+
+## Feeding Jejunostomy
+
+::::: columns
+::: {.column width="50%"}
+Video shows how to set up and run the jejunostomy tube pump
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/jtubevideo_qr.png)
+:::
+:::::
+
+## Activity
+
+-   Up in chair most of the day
+-   Walking in hallway with help from nurse/Physical Therapist
+-   Goals:
+    -   Improve lung function
+    -   Prevent muscle loss
+
+
 
 ## Nasogastric (NG) Tube
 
@@ -72,10 +132,19 @@ Upper GI X-ray on 2nd or 3rd day after surgery
 Once NG tube has been removed:
 
 Modified barium swallow in radiology
-Drink a white chalky liquid (barium)
-Look for proper swallowing function
 
+- Drink a white chalky liquid (barium)
+- Look for proper swallowing function
 - 70% of patients $\Rightarrow$ liquids started by mouth
+
+## Protein Shakes
+
+Most are taking protein shakes when they go home
+
+Protein shakes are started after tolerating water\
+
+- 2 oz per hour to start 
+- 4 oz per hour if 2oz are tolerated well
 
 
 ## Discharge
@@ -89,6 +158,57 @@ Goal: ready to leave day #6/7 after surgery
 - Water through tube 8oz four times per day
 - Home care nursing (feeding tube teaching)
 - Home infusion (tube feeding supplies)
+
+
+
+## Nutrition at Home
+
+Most patients go home with:
+
+-   Protein shakes by mouth 4oz at a time
+-   Tube feeds at night (4-5 cartons)
+-   Water through the feeding tube 8oz 4 times per day
+
+
+
+## Nutrition after Surgery
+
+At discharge home: 
+
+- Protein shakes 4oz every 2 hrs
+- Tube feeds 4-5 cans at night (6pm-10am)
+
+10-12 Days: Increase protein shakes
+
+- Tube feeds 3-4 cans at night
+
+Three weeks: Post-esophagectomy Diet
+
+8-12 weeks: Remove feeding tube (in office)
+
+## Transition from Tube Feeds $\rightarrow$ Eating
+
+Dietitian will calculate daily protein goal
+
+- Typically 60-75 grams protein/day
+- Each carton of tube feeding has 15 grams
+  - 75 grams protein = 5 cartons/night
+- As intake by mouth increases, tube feeds are reduced
+
+Important that protein is spread out during the day (20gm/meal)
+
+- Three meals + 2-3 high-protein snacks
+
+## Post-esophagectomy Diet
+
+- Soft Consistency
+- High Protein
+- Avoid sugary liquids (can cause ‘dumping’)
+- Avoid raw vegetables (and salads)
+- Eating
+  - Small, frequent meals
+  - Sit up for 30-45 minutes after eating
+  - Avoid eating within 2 hours of bedtime
 
 ## Medicines at Home - Pain
 
@@ -145,70 +265,23 @@ Metroprolol – Beta Blocker
 - In patients who were not taking a beta blocker prior to surgery, will plan to wean over a few weeks after surgery
 - For patients who were taking a beta blocker medicine prior to surgery, will return to prior dosage and drug after surgery
 
-## Nutrition after Surgery
 
-At discharge home: 
+## Sleeping
 
-- Protein shakes 4oz every 2 hrs
-- Tube feeds 4-5 cans at night (6pm-10am)
-
-10-12 Days: Increase protein shakes
-
-- Tube feeds 3-4 cans at night
-
-Three weeks: Post-esophagectomy Diet
-
-8-12 weeks: Remove feeding tube (in office)
-
-## Transition from Tube Feeds $\rightarrow$ Eating
-
-Dietitian will calculate daily protein goal
-
-- Typically 60-75 grams protein/day
-- Each carton of tube feeding has 15 grams
-  - 75 grams protein = 5 cartons/night
-- As intake by mouth increases, tube feeds are reduced
-
-Important that protein is spread out during the day (20gm/meal)
-
-- Three meals + 2-3 high-protein snacks
-
-## Post-esophagectomy Diet
-
-- Soft Consistency
-- High Protein
-- Avoid sugary liquids (can cause ‘dumping’)
-- Avoid raw vegetables (and salads)
-- Eating
-  - Small, frequent meals
-  - Sit up for 30-45 minutes after eating
-  - Avoid eating within 2 hours of bedtime
-
-## Wedge Pillow
-
-
-::: {.content-hidden unless-format="docx"}
-Early-stage cancers are those that are small and have not grown very far into the wall
-:::
-
-:::::: columns
+::::: columns
 ::: {.column width="50%"}
-\
-Surgery to remove the esophageal tumor will lead to a tendency for reflux. 
+Reflux can occur the first few weeks/months after surgery
 
-The most helpful strategy is a 30 degree wedge pillow. T
+This improves over the first few months
 
-his should be half as high as it is long.
-
-Available at Walmart.com
+A wedge pillow can be helpful for sleep
 :::
 
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
+::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/wedge_pillow_comm.jpg)
 :::
-::::
-::::::
+:::::
+
 
 ## Postoperative Visit
 
@@ -240,6 +313,36 @@ May need additional systemic therapy afterwards
 
 - Chemotherapy
 - Immunotherapy (Optive = nivolumab)
+
+
+## Jejunostomy Removal (8 weeks after surgery)
+
+Jejunostomy tube is removed in the office once you can take in enough nutrients by mouth
+
+May take 30 minutes and some local anesthetic to loosen up the tube for removal.
+
+## Nutritional Monitoring after Surgery
+
+You may have some difficulty absorbing some nutrients:
+
+-   Iron
+-   Vitamin B12
+-   Vitamin D
+
+## Nutritional Monitoring after Surgery
+
+About 3 months after the jejunostomy tube is removed, we will check blood levels:
+
+-   Iron (ferritin)
+-   Vitamin B12
+-   Vitamin D.
+
+## Nutritional Replacements after Surgery
+
+Vitamin or iron replacements can be ordered by your primary care physician, medical oncologist, or surgeon
+
+If levels are low, repeat testing in several months may be needed.
+
 
 ## Team Members
 

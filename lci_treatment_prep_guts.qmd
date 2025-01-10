@@ -37,6 +37,3 @@ If you do not have a PCP, call our referral line at (844) 235-6998
   - American Lung Asssociation fredomfromsmoking.org
   - 1:1 Smoking Cessation Counseling Clinics (Metro Charlotte)
   
-
-
-{{< include lci_nutrition_guts.qmd >}}

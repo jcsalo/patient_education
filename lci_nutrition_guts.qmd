@@ -119,7 +119,7 @@ A video is available to help become familiar with the feeding jejunostomy
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-Gastrostomy = Stomach ![](https://deidt7p41jzcy.cloudfront.net/jejunostomy_qrcode.png)
+ ![](https://deidt7p41jzcy.cloudfront.net/jejunostomy_qrcode.png)
 :::
 ::::
 :::::::
