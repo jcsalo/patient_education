@@ -125,7 +125,7 @@ T1 tumors are early stage, and T4 tumors more advanced
 ::: {.column width="50%"}
 Cancers are categorized by whether there is spread to the lymph nodes.
 
--   **N0** cancers have not spread to the lymph nodes\
+-   **N0** cancers have not spread to the lymph nodes
 -   **N1** cancers have spread to the lymph nodes.
 :::
 
