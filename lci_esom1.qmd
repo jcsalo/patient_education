@@ -80,9 +80,9 @@ M1 cancers is also known as Stage 4
 
 ## Treatment Plan
 
--   Superficial (T1) $Rightarrow$ Endoscopic Therapy
+-   Superficial (T1) $\Rightarrow$ Endoscopic Therapy
 
--   Localized (T1b/T2) $Rightarrow$ Surgery
+-   Localized (T1b/T2) $\Rightarrow$ Surgery
 
 -   Locally-advanced (T3/N1) $\Rightarrow$ Chemo $\pm$ Radiation $\rightarrow$Surgery
 
