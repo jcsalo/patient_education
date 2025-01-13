@@ -1,5 +1,5 @@
 ---
-title: "T3 Cancer of the Stomach"
+title: "Stomach Cancer and CDH1 Gene"
 format: 
   pptx: 
     reference-doc: template.pptx
@@ -55,73 +55,64 @@ From the stomach, food moved through a valve called the pylorus into the small i
 
 ## Hereditary Diffuse Gastric Cancer
 
-- Genetic condition in which family members have high rates of gastric cancer
-- Most affected members develop gastric cancer by age 40
-- Affected family members pass the susceptibility to half their children
-
+-   Genetic condition in which family members have high rates of gastric cancer
+-   Most affected members develop gastric cancer by age 40
+-   Affected family members pass the susceptibility to half their children
 
 ## Genetics of Hereditary Diffuse Gastric Cancer
 
-- Altered copy of the CDH1 gene found to be responsible
-- We each carry two copies of the CDH1 gene
-  - Altered copy is passed on to half of children
-- Family members with the altered CDH1 gene tend to develop cancer
+-   Altered copy of the CDH1 gene found to be responsible
+-   We each carry two copies of the CDH1 gene
+    -   Altered copy is passed on to half of children
+-   Family members with the altered CDH1 gene tend to develop cancer
 
 ## Clinically Apparent Gastric Cancer
 
 Among patients with HDGC who have visible stomach cancer, this is termed "clinically apparent"
 
-
 ## Cancer Risk in HDGCd
 
 Among family members in HDGC families with an altered CDH1 gene:
 
-- Men have 70% risk of stomach cancer by age 80
-- Women have 50-80% risk of stomach cancer by age 80
-  - Increased risk of endometrial cancer
+-   Men have 70% risk of stomach cancer by age 80
+-   Women have 50-80% risk of stomach cancer by age 80
+    -   Increased risk of endometrial cancer
 
 ## Genetic Testing
 
-- Blood test can detect copies of the altered CDH1 gene
-- Recommended in all patients under age 50 with stomach cancer
-- Requires meeting with a genetic counselor
+-   Blood test can detect copies of the altered CDH1 gene
+-   Recommended in all patients under age 50 with stomach cancer
+-   Requires meeting with a genetic counselor
 
 ## Prophylactic Gastrectomy in HDGC
 
-- Preventive surgery to remove the stomach can be performed
-- Surgery dramatically reduces risk of gastric cancer
-- Surgery is usually done before age 40
+-   Preventive surgery to remove the stomach can be performed
+-   Surgery dramatically reduces risk of gastric cancer
+-   Surgery is usually done before age 40
 
 ## Prophylactic Gastrectomy in HDGC
 
 Among family members with HDGC who carry the CDH1 gene
 
-If preventive surgery is performed, 90-95% of cases have 
-
+If preventive surgery is performed, 90-95% of cases have microscopic tumor in the removed stomach
 
 ## Hereditary Diffuse Gastric Cancer
 
-Inherited condition in which an altered copy of the CDH1 gene is passed from generation to generation
-Presence of the gene can be detected by genetic testing
-Affected person can pass the gene to (on average) half of their children
-Affected persons carry the CDH1 
+Inherited condition in which an altered copy of the CDH1 gene is passed from generation to generation Presence of the gene can be detected by genetic testing Affected person can pass the gene to (on average) half of their children Affected persons carry the CDH1
 
-##  Hereditry Diffuse Gastric Cancer
+## Hereditry Diffuse Gastric Cancer
 
-Affected individuals have microscopic cancers beginning to form in the top layer of the stomach at an early age
-Majority of affected individuals will develop visible cancer by age 40
-By age 80, 70% of men and 56-83% of women are estimated to be at risk to  develop visible cancer however some recent studies place this risk at 50%/33%
+Affected individuals have microscopic cancers beginning to form in the top layer of the stomach at an early age Majority of affected individuals will develop visible cancer by age 40 By age 80, 70% of men and 56-83% of women are estimated to be at risk to develop visible cancer however some recent studies place this risk at 50%/33%
 
 ## CDH1
 
-CDH1 carriers with visible cancer are termed “clinically apparent”
-CDH1 carriers with clinically apparent cancers which are large enough to cause symptoms generally are likely to have spread to lymph nodes
+CDH1 carriers with visible cancer are termed “clinically apparent” CDH1 carriers with clinically apparent cancers which are large enough to cause symptoms generally are likely to have spread to lymph nodes
 
 ## Prophylactic Gastrectomy
 
-- Recommended for CDH1 carriers between ages 18-40
-- Cancer rarely is found to have spread to lymph nodes
-- Requires removing all of stomach tissue
+-   Recommended for CDH1 carriers between ages 18-40
+-   Cancer rarely is found to have spread to lymph nodes
+-   Requires removing all of stomach tissue
 
 ## CH1 and Family History
 
@@ -129,341 +120,25 @@ Among patients with CDH1 mutation and a family history of gastric cancer who und
 
 Among patients with CDH1 mutation without a family history of gastric cancer, 2 out of 3 (67%) are estimated to have early stages of gastric cancer
 
-
-
-
 ## Treatment options for CDH1 Carriers
 
 ::::: columns
 ::: {.column width="40%"}
 **Total Gastrectomy**
 
-  - Surgical removal of all of stomach
-  - Permanent alteration in eating
-  - Requires Small Frequent meals
-  - Feeding jejunostomy (temporary)
-  
-  
+-   Surgical removal of all of stomach
+-   Permanent alteration in eating
+-   Requires Small Frequent meals
+-   Feeding jejunostomy (temporary)
 :::
 
 ::: {.column width="60%"}
 **Surveillance**
 
-- Endoscopy every 6-12 months
-- Unknown how long this is required.
-
-
+-   Endoscopy every 6-12 months
+-   Unknown how long this is required.
 :::
 :::::
 
+{{< include lci_total_gastrectomy_guts.qmd >}}
 
-
-
-## Layers of the Wall of the Stomach
-
-::: {.content-hidden unless-format="docx"}
-If we look at the walls of the stomach, we see several layers:
-:::
-
-:::::: columns
-::: {.column width="50%"}
-\
-- Mucosa - Inner layer\
-- Muscle wall (muscularis)\
-- Lymph nodes located in fat outside the muscle
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor1_ai.png)
-:::
-::::
-::::::
-
-## Early Stage Cancers
-
-::: {.content-hidden unless-format="docx"}
-Early-stage cancers are those that are small and have not grown very far into the wall of the stomach.
-:::
-
-:::::: columns
-::: {.column width="50%"}
-\
-\
-Cancers start on the very inside of the layer called the mucosa
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor21_ai.png)
-:::
-::::
-::::::
-
-## Locally-advanced Cancers
-
-:::::: columns
-::: {.column width="50%"}
-\
-\
-Over time, cancers can grow into the muscular wall
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor24_ai.png)
-:::
-::::
-::::::
-
-::: {.content-hidden unless-format="docx"}
-Locally-advanced cancers are those that have grown through the wall of the stomach
-:::
-
-## Lymph Nodes
-
-:::::: columns
-::: {.column width="50%"}
-\
-\
-In some cases, cancer cells can break off from the main tumor and spread to lymph nodes
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor25b_ai.png)
-:::
-::::
-::::::
-
-::: {.content-hidden unless-format="docx"}
-If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
-:::
-
-## T Stage
-
-:::::: columns
-::: {.column width="50%"}
-\
-\
-Cancers are categorized based upon the thickness of the tumor, known as the T stage
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor_t_full.png)
-:::
-::::
-::::::
-
-::: {.content-hidden unless-format="docx"}
-T1 tumors are early stage, and T4 tumors more advanced
-:::
-
-## N Stage
-
-:::::: columns
-::: {.column width="50%"}
-Cancers are categorized by whether there is spread to the lymph nodes.
-
--   **N0** cancers have not spread to the lymph nodes\
-    \
--   **M1** cancers have spread to the lymph nodes.
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor_t3_nodes_labels.png)
-:::
-::::
-::::::
-
-## M Stage
-
-:::::: columns
-::: {.column width="50%"}
-Some cancers spread to other parts of the body
-
--   **M0** cancers have not spread to other parts of the body
--   **N1** cancers have spread lungs, liver, or bone
-
-M1 cancers are considered Stage 4
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_M_Stage.png)
-:::
-::::
-::::::
-
-## PET scan
-
-:::::: columns
-::: {.column width="40%"}
--   Similar to CT scan
--   Tracer lights up areas of cancer
--   Preparation: Water (only) for 6 hours before
-:::
-
-:::: {.column width="60%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/PetImage.png)
-:::
-::::
-::::::
-
-::: {.content-hidden unless-format="docx"}
-In some cases, the PET scan is not performed until a CT scans bas been done.
-:::
-
-## Endoscopic Ultrasound
-
-:::::: columns
-::: {.column width="50%"}
--   Similar to upper endoscopy (EGD)
--   Ultrasound probe in scope
--   Evaluates T stage of cancer
-:::
-
-:::: {.column width="45%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/EUSArtboard.png)
-:::
-::::
-::::::
-
-::: {.content-hidden unless-format="docx"}
-Endoscopic ultrasound is most helpful in early stage cancers.
-:::
-
-## Laparoscopy
-
-:::::: columns
-::: {.column width="50%"}
--   Some cancers can spread inside the abdomen
--   Areas of spread can be very small (grain of rice)
--   Laparoscopy can detect spread inside the abdomen
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
-:::
-::::
-::::::
-
-::: {.content-hidden unless-format="docx"}
-Not all patients with stoach cancer need a laparoscopy.
-
-:::
-
-## Laparoscopy
-
-:::::: columns
-::: {.column width="50%"}
-A laparoscopy is performed under a general anesthetic.
-
--   Several incisions 1/4" long
--   Telescope looks inside the abdominal cavity.
--   Biopsies can be performed.
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
-:::
-::::
-::::::
-
-## Treatment Plan
-
-\
-- Superficial (T1) $\Rightarrow$ Endoscopic Therapy\
-\
-- Localized (T1b/T2) $\Rightarrow$ Surgery\
-\
-- Locally-advanced (T3/N1) $\Rightarrow$ Chemo $\rightarrow$Surgery\
-\
-- Metastatic (M1) $\Rightarrow$ Chemotherapy
-
-::: {.content-hidden unless-format="docx"}
-This table summarizes four different treatment categories:
-
--   Superficial cancers are T1 and can be treated by endoscopic therapy without the need for surgery
--   Localized cancers are T1b or T2 and are frequently treated by surgery alone without the need for chemotherapy or radiation
--   Locally-advanced cancers are T3 or N1 and are usually treated with chemotherapy prior to surgery
--   Metastatic cancers are M1 and are treated primary by chemotherapy.
-:::
-
-## Locally-advanced Adenocarcinoma
-
-"Sandwich" chemotherapy before and after surgery:
-
-Chemotherapy (8 wks) $\rightarrow$ Surgery $\rightarrow$ Chemotherapy (8 wks)
-
-Two different drug combinations:
-
--   FLOT (more effective)
--   FOLFOX (better tolerated)
--   ECF (less commonly used)
-
-## "Sandwich" Chemotherapy Drugs
-
-::::: columns
-::: {.column width="40%"}
-**FLOT**
-
--   5-FU
--   Leucovorion
--   Oxaliplatin
--   Taxotere
-:::
-
-::: {.column width="60%"}
-**FOLFOX**
-
--   5-FU
--   Leucovorin
--   Oxaliplatin
-:::
-:::::
-
-## Tumor Biomarkers
-
-Surface proteins found on cancers which may show that additional drugs may be helpful:
-
--   HER-2 $\rightarrow$ Herceptin can be helpful
--   PD-L1 $\rightarrow$ Immunotherapy can be helpful
--   MMR $\rightarrow$ Immunotherapy can be helpful
-
-Biomarkers reported in a separate pathology report
-
-Your medical oncologist will review these with you
-
-## Chemotherapy
-
-Chemotherapy drugs are administered intravenously.
-
-There are several options for intravenous access:
-
--   Peripheral IVs in the hand
--   PICC line (Peripheral Inserted Central Catheter)
--   Central Venous Port\
-    [Central Venous Port](lci_cvport.htm)
-
-## Restaging
-
-CT or PET scan performed after preoperative therapy
-
-\
-\
-
--   Surgery performed after restaging
--   Timing depends upon recovery from therapy
-
-## Additional Slides
-
-[Nutrition Slideshow](lci_nutrition.htm)\
-[Gastrectomy Slideshow](lci_gasgtrectomy.htm)\
-[Central Venous Port](lci_cvport.htm)

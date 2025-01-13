@@ -60,11 +60,11 @@ Distal cancers are those in the lower part of the stomach
 ::: {.column width="50%"}
 \
 
-- Removes the tumor 
-- Does not remove lymph nodes 
-- Best suited for: 
-  - Small adenocarcinoma 
-  - GI Stromal Tumors
+-   Removes the tumor
+-   Does not remove lymph nodes
+-   Best suited for:
+    -   Small adenocarcinoma
+    -   GI Stromal Tumors
 :::
 
 :::: {.column width="50%"}
@@ -102,12 +102,10 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 
 :::::: columns
 ::: {.column width="50%"}
-
-
-- Removes bottom half of the stomach
-- Does not remove all lymph nodes
-- Suitable for small adenocarcinoma
-- Suitable for larger GI Stromal Tumors
+-   Removes bottom half of the stomach
+-   Does not remove all lymph nodes
+-   Suitable for small adenocarcinoma
+-   Suitable for larger GI Stromal Tumors
 :::
 
 :::: {.column width="50%"}
@@ -168,9 +166,9 @@ Body is the mid-portion of the stomach
 \
 \
 
-- Removes bottom 2/3 of stomach 
-- Removes nearby lymph nodes 
-- Reconstruction with small intestine
+-   Removes bottom 2/3 of stomach
+-   Removes nearby lymph nodes
+-   Reconstruction with small intestine
 :::
 
 :::: {.column width="50%"}
@@ -210,8 +208,8 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 ::: {.column width="50%"}
 \
 
-- Located near the top of the stomach 
-- Challenging area for surgery
+-   Located near the top of the stomach
+-   Challenging area for surgery
 :::
 
 :::: {.column width="50%"}
@@ -225,48 +223,7 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
 :::
 
-## Total Gastrectomy
-
-:::::: columns
-::: {.column width="50%"}
-\
-
-- Removes all of the stomach 
-- Reconstruction with small intestine 
-- Needed for those with CDH1 mutations
-
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_total.png)
-:::
-::::
-::::::
-
-::: {.content-hidden unless-format="docx"}
-If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
-:::
-
-## Total Gastrectomy
-
-::::::: columns
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_proximal_tumor.png)
-:::
-::::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_total.png)
-:::
-::::
-:::::::
-
-::: {.content-hidden unless-format="docx"}
-If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
-:::
+{{< include lci_total_gastrectomy_guts.qmd >}}
 
 ## Esophagogastrectomy
 
@@ -274,10 +231,9 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 ::: {.column width="50%"}
 \
 
-- Removes top part of stomach 
-- Remove bottom half of esophagus
-- Surgery in both abdomen and chest
-
+-   Removes top part of stomach
+-   Remove bottom half of esophagus
+-   Surgery in both abdomen and chest
 :::
 
 :::: {.column width="50%"}
@@ -290,7 +246,6 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 ::: {.content-hidden unless-format="docx"}
 If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
 :::
-
 
 ## Dual Tract Gastrectomy
 
@@ -333,7 +288,6 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
 :::
 
-
 {{< include lci_laparoscopy_guts.qmd >}}
 
 ## Risks of Surgery
@@ -342,6 +296,5 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 -   Bleeding requiring reoperation
 -   Delayed stomach function
 -   Infection in the abdomen
-
 
 {{< include lci_treatment_prep_guts.qmd >}}

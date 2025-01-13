@@ -1,0 +1,43 @@
+
+## Total Gastrectomy
+
+:::::: columns
+::: {.column width="50%"}
+\
+
+- Removes all of the stomach 
+- Reconstruction with small intestine 
+- Needed for those with CDH1 mutations
+
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/gast_total.png)
+:::
+::::
+::::::
+
+::: {.content-hidden unless-format="docx"}
+If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
+:::
+
+## Total Gastrectomy
+
+::::::: columns
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/gast_proximal_tumor.png)
+:::
+::::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/gast_total.png)
+:::
+::::
+:::::::
+
+::: {.content-hidden unless-format="docx"}
+If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
+:::
