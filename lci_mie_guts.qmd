@@ -10,8 +10,8 @@
 ## Day of Surgery
 
 -   Arrive at 5am – nothing to eat or drink after midnight.
--   Medicines with a sip of water (or black coffee) but no cream.
--   Surgery will be cancelled if you have cream/milk in the am.
+-   Medicines w/ a sip of water (or black coffee) but **no cream**.
+-   Surgery will be cancelled if you have cream/milk
 -   Waiting room for family and friends on 5th floor
 -   Post-operative care in STICU (11th floor)
 
@@ -243,9 +243,11 @@ Remeron – Helps improve appetite
 ## Medicines at Home - Metoprolol = Beta Blockers
 
 - Slows heart rate and lowers blood pressure	
-- Used around the time of surgery to prevent rapid heart rate
-- Patients not taking a beta blocker prior to surgery $\rightarrow$ wean after after surgery
-- Patients taking a beta blocker  prior to surgery $\rightarrow$ return to prior dose and drug after surgery
+- Used prevent rapid heart rate
+- Patients not taking a beta blocker prior to surgery 
+$\rightarrow$ wean after after surgery
+- Patients taking a beta blockerprior to surgery 
+$\rightarrow$ return to prior dose and drug after surgery
 
 
 ## Sleeping

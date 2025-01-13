@@ -1,11 +1,11 @@
 
 ## Surgery for Esophageal Cancer
 
-Surgery for esophageal cancer is generally performed in several situations:
+Surgery for esophageal cancer is performed in several situations:
 
--   Superficial Tumors (T1) that can't be completely removed by endoscopy
+-   Superficial Tumors (T1) not completely removed by endoscopy
 -   Localized Tumors (T2N0)
--   Locally Advanced Tumors (T3 or N+) after preoperative therapy.
+-   Locally Advanced (T3) after preoperative therapy.
 
 ## Goals of Surgery
 
@@ -21,11 +21,15 @@ Surgery for esophageal cancer is generally performed in several situations:
 :::
 :::::
 
-## Resection
+## Ivor Lewis (Transthoracic) Esophagectomy
 
 ::::: columns
 ::: {.column width="50%"}
-The *Ivor Lewis* esophagectomy, shown here, removes the lower 2/3 of the esophagus, the tumor, and the surrounding lymph nodes.
+
+- Removes tumor
+- Removes lower 1/3 of esophagus
+- Removes surrounding lymph nodes
+- Reconstruction of GI tract
 :::
 
 ::: {.column width="50%"}
@@ -111,7 +115,7 @@ For patients with tumors in the upper esophagus, we need to remove more of the e
 
 ::::: columns
 ::: {.column width="50%"}
-For those patients, we need to remove the whole esophagus
+For those patients, we need to remove the whole esophagus, including the portion in the neck.
 :::
 
 ::: {.column width="50%"}
@@ -214,7 +218,7 @@ Pneumonia requires treatment with antibiotics and frequently requires a longer h
 
 ## Preventing Pneumonia
 
-There are several ways to help prevent pneumonia after surgery:
+Several ways to help prevent pneumonia after surgery:
 
 -   Deep breathing
 -   Coughing
