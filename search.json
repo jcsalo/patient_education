@@ -1334,7 +1334,7 @@
     "href": "lci_surgery.htm#surgery-for-esophageal-cancer",
     "title": "Surgery of the Esophagus",
     "section": "Surgery for Esophageal Cancer",
-    "text": "Surgery for Esophageal Cancer\nSurgery for esophageal cancer is generally performed in several situations:\n\nSuperficial Tumors (T1) that can’t be completely removed by endoscopy\nLocalized Tumors (T2N0)\nLocally Advanced Tumors (T3 or N+) after preoperative therapy."
+    "text": "Surgery for Esophageal Cancer\nSurgery for esophageal cancer is performed in several situations:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0)\nLocally Advanced (T3) after preoperative therapy."
   },
   {
     "objectID": "lci_surgery.htm#goals-of-surgery",
@@ -1344,11 +1344,11 @@
     "text": "Goals of Surgery\n\n\n\nRemove tumor from esophagus\nRemove surrounding lymph nodes\nCreate a new esophagus"
   },
   {
-    "objectID": "lci_surgery.htm#resection",
-    "href": "lci_surgery.htm#resection",
+    "objectID": "lci_surgery.htm#ivor-lewis-transthoracic-esophagectomy",
+    "href": "lci_surgery.htm#ivor-lewis-transthoracic-esophagectomy",
     "title": "Surgery of the Esophagus",
-    "section": "Resection",
-    "text": "Resection\n\n\nThe Ivor Lewis esophagectomy, shown here, removes the lower 2/3 of the esophagus, the tumor, and the surrounding lymph nodes."
+    "section": "Ivor Lewis (Transthoracic) Esophagectomy",
+    "text": "Ivor Lewis (Transthoracic) Esophagectomy\n\n\n\nRemoves tumor\nRemoves lower 1/3 of esophagus\nRemoves surrounding lymph nodes\nReconstruction of GI tract"
   },
   {
     "objectID": "lci_surgery.htm#reconstruction",
@@ -1397,7 +1397,7 @@
     "href": "lci_surgery.htm#total-esophagectomy-1",
     "title": "Surgery of the Esophagus",
     "section": "Total Esophagectomy",
-    "text": "Total Esophagectomy\n\n\nFor those patients, we need to remove the whole esophagus"
+    "text": "Total Esophagectomy\n\n\nFor those patients, we need to remove the whole esophagus, including the portion in the neck."
   },
   {
     "objectID": "lci_surgery.htm#minimally-invasive-mckeown-esophagectomy",
@@ -1453,7 +1453,7 @@
     "href": "lci_surgery.htm#preventing-pneumonia",
     "title": "Surgery of the Esophagus",
     "section": "Preventing Pneumonia",
-    "text": "Preventing Pneumonia\nThere are several ways to help prevent pneumonia after surgery:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
+    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia after surgery:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
   },
   {
     "objectID": "lci_surgery.htm#minimally-invasive-esophagectomy",
@@ -1530,7 +1530,7 @@
     "href": "lci_surgery.htm#day-of-surgery",
     "title": "Surgery of the Esophagus",
     "section": "Day of Surgery",
-    "text": "Day of Surgery\n\nArrive at 5am – nothing to eat or drink after midnight.\nMedicines with a sip of water (or black coffee) but no cream.\nSurgery will be cancelled if you have cream/milk in the am.\nWaiting room for family and friends on 5th floor\nPost-operative care in STICU (11th floor)"
+    "text": "Day of Surgery\n\nArrive at 5am – nothing to eat or drink after midnight.\nMedicines w/ a sip of water (or black coffee) but no cream.\nSurgery will be cancelled if you have cream/milk\nWaiting room for family and friends on 5th floor\nPost-operative care in STICU (11th floor)"
   },
   {
     "objectID": "lci_surgery.htm#epidural-catheter-for-pain-control",
@@ -1677,7 +1677,7 @@
     "href": "lci_surgery.htm#medicines-at-home---metoprolol-beta-blockers",
     "title": "Surgery of the Esophagus",
     "section": "Medicines at Home - Metoprolol = Beta Blockers",
-    "text": "Medicines at Home - Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed around the time of surgery to prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blocker prior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
+    "text": "Medicines at Home - Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blockerprior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
   },
   {
     "objectID": "lci_surgery.htm#sleeping",
@@ -1740,14 +1740,14 @@
     "href": "lci_surgery.html",
     "title": "Surgery of the Esophagus",
     "section": "",
-    "text": "Surgery for esophageal cancer is generally performed in several situations:\n\nSuperficial Tumors (T1) that can’t be completely removed by endoscopy\nLocalized Tumors (T2N0)\nLocally Advanced Tumors (T3 or N+) after preoperative therapy."
+    "text": "Surgery for esophageal cancer is performed in several situations:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0)\nLocally Advanced (T3) after preoperative therapy."
   },
   {
     "objectID": "lci_surgery.html#surgery-for-esophageal-cancer",
     "href": "lci_surgery.html#surgery-for-esophageal-cancer",
     "title": "Surgery of the Esophagus",
     "section": "",
-    "text": "Surgery for esophageal cancer is generally performed in several situations:\n\nSuperficial Tumors (T1) that can’t be completely removed by endoscopy\nLocalized Tumors (T2N0)\nLocally Advanced Tumors (T3 or N+) after preoperative therapy."
+    "text": "Surgery for esophageal cancer is performed in several situations:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0)\nLocally Advanced (T3) after preoperative therapy."
   },
   {
     "objectID": "lci_surgery.html#goals-of-surgery",
@@ -1757,11 +1757,11 @@
     "text": "Goals of Surgery\n\n\n\nRemove tumor from esophagus\nRemove surrounding lymph nodes\nCreate a new esophagus"
   },
   {
-    "objectID": "lci_surgery.html#resection",
-    "href": "lci_surgery.html#resection",
+    "objectID": "lci_surgery.html#ivor-lewis-transthoracic-esophagectomy",
+    "href": "lci_surgery.html#ivor-lewis-transthoracic-esophagectomy",
     "title": "Surgery of the Esophagus",
-    "section": "Resection",
-    "text": "Resection\n\n\nThe Ivor Lewis esophagectomy, shown here, removes the lower 2/3 of the esophagus, the tumor, and the surrounding lymph nodes."
+    "section": "Ivor Lewis (Transthoracic) Esophagectomy",
+    "text": "Ivor Lewis (Transthoracic) Esophagectomy\n\n\n\nRemoves tumor\nRemoves lower 1/3 of esophagus\nRemoves surrounding lymph nodes\nReconstruction of GI tract"
   },
   {
     "objectID": "lci_surgery.html#reconstruction",
@@ -1810,7 +1810,7 @@
     "href": "lci_surgery.html#total-esophagectomy-1",
     "title": "Surgery of the Esophagus",
     "section": "Total Esophagectomy",
-    "text": "Total Esophagectomy\n\n\nFor those patients, we need to remove the whole esophagus"
+    "text": "Total Esophagectomy\n\n\nFor those patients, we need to remove the whole esophagus, including the portion in the neck."
   },
   {
     "objectID": "lci_surgery.html#minimally-invasive-mckeown-esophagectomy",
@@ -1866,7 +1866,7 @@
     "href": "lci_surgery.html#preventing-pneumonia",
     "title": "Surgery of the Esophagus",
     "section": "Preventing Pneumonia",
-    "text": "Preventing Pneumonia\nThere are several ways to help prevent pneumonia after surgery:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
+    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia after surgery:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
   },
   {
     "objectID": "lci_surgery.html#minimally-invasive-esophagectomy",
@@ -1943,7 +1943,7 @@
     "href": "lci_surgery.html#day-of-surgery",
     "title": "Surgery of the Esophagus",
     "section": "Day of Surgery",
-    "text": "Day of Surgery\n\nArrive at 5am – nothing to eat or drink after midnight.\nMedicines with a sip of water (or black coffee) but no cream.\nSurgery will be cancelled if you have cream/milk in the am.\nWaiting room for family and friends on 5th floor\nPost-operative care in STICU (11th floor)"
+    "text": "Day of Surgery\n\nArrive at 5am – nothing to eat or drink after midnight.\nMedicines w/ a sip of water (or black coffee) but no cream.\nSurgery will be cancelled if you have cream/milk\nWaiting room for family and friends on 5th floor\nPost-operative care in STICU (11th floor)"
   },
   {
     "objectID": "lci_surgery.html#epidural-catheter-for-pain-control",
@@ -2090,7 +2090,7 @@
     "href": "lci_surgery.html#medicines-at-home---metoprolol-beta-blockers",
     "title": "Surgery of the Esophagus",
     "section": "Medicines at Home - Metoprolol = Beta Blockers",
-    "text": "Medicines at Home - Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed around the time of surgery to prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blocker prior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
+    "text": "Medicines at Home - Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blockerprior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
   },
   {
     "objectID": "lci_surgery.html#sleeping",
@@ -2804,14 +2804,14 @@
     "href": "lci_surgery_guts.html",
     "title": "Patient Education",
     "section": "",
-    "text": "Surgery for esophageal cancer is generally performed in several situations:\n\nSuperficial Tumors (T1) that can’t be completely removed by endoscopy\nLocalized Tumors (T2N0)\nLocally Advanced Tumors (T3 or N+) after preoperative therapy."
+    "text": "Surgery for esophageal cancer is performed in several situations:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0)\nLocally Advanced (T3) after preoperative therapy."
   },
   {
     "objectID": "lci_surgery_guts.html#surgery-for-esophageal-cancer",
     "href": "lci_surgery_guts.html#surgery-for-esophageal-cancer",
     "title": "Patient Education",
     "section": "",
-    "text": "Surgery for esophageal cancer is generally performed in several situations:\n\nSuperficial Tumors (T1) that can’t be completely removed by endoscopy\nLocalized Tumors (T2N0)\nLocally Advanced Tumors (T3 or N+) after preoperative therapy."
+    "text": "Surgery for esophageal cancer is performed in several situations:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0)\nLocally Advanced (T3) after preoperative therapy."
   },
   {
     "objectID": "lci_surgery_guts.html#goals-of-surgery",
@@ -2821,11 +2821,11 @@
     "text": "Goals of Surgery\n\n\n\nRemove tumor from esophagus\nRemove surrounding lymph nodes\nCreate a new esophagus"
   },
   {
-    "objectID": "lci_surgery_guts.html#resection",
-    "href": "lci_surgery_guts.html#resection",
+    "objectID": "lci_surgery_guts.html#ivor-lewis-transthoracic-esophagectomy",
+    "href": "lci_surgery_guts.html#ivor-lewis-transthoracic-esophagectomy",
     "title": "Patient Education",
-    "section": "Resection",
-    "text": "Resection\n\n\nThe Ivor Lewis esophagectomy, shown here, removes the lower 2/3 of the esophagus, the tumor, and the surrounding lymph nodes."
+    "section": "Ivor Lewis (Transthoracic) Esophagectomy",
+    "text": "Ivor Lewis (Transthoracic) Esophagectomy\n\n\n\nRemoves tumor\nRemoves lower 1/3 of esophagus\nRemoves surrounding lymph nodes\nReconstruction of GI tract"
   },
   {
     "objectID": "lci_surgery_guts.html#reconstruction",
@@ -2874,7 +2874,7 @@
     "href": "lci_surgery_guts.html#total-esophagectomy-1",
     "title": "Patient Education",
     "section": "Total Esophagectomy",
-    "text": "Total Esophagectomy\n\n\nFor those patients, we need to remove the whole esophagus"
+    "text": "Total Esophagectomy\n\n\nFor those patients, we need to remove the whole esophagus, including the portion in the neck."
   },
   {
     "objectID": "lci_surgery_guts.html#minimally-invasive-mckeown-esophagectomy",
@@ -2930,7 +2930,7 @@
     "href": "lci_surgery_guts.html#preventing-pneumonia",
     "title": "Patient Education",
     "section": "Preventing Pneumonia",
-    "text": "Preventing Pneumonia\nThere are several ways to help prevent pneumonia after surgery:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
+    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia after surgery:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
   },
   {
     "objectID": "lci_surgery_guts.html#minimally-invasive-esophagectomy",
@@ -3007,7 +3007,7 @@
     "href": "lci_surgery_guts.html#day-of-surgery",
     "title": "Patient Education",
     "section": "Day of Surgery",
-    "text": "Day of Surgery\n\nArrive at 5am – nothing to eat or drink after midnight.\nMedicines with a sip of water (or black coffee) but no cream.\nSurgery will be cancelled if you have cream/milk in the am.\nWaiting room for family and friends on 5th floor\nPost-operative care in STICU (11th floor)"
+    "text": "Day of Surgery\n\nArrive at 5am – nothing to eat or drink after midnight.\nMedicines w/ a sip of water (or black coffee) but no cream.\nSurgery will be cancelled if you have cream/milk\nWaiting room for family and friends on 5th floor\nPost-operative care in STICU (11th floor)"
   },
   {
     "objectID": "lci_surgery_guts.html#epidural-catheter-for-pain-control",
@@ -3154,7 +3154,7 @@
     "href": "lci_surgery_guts.html#medicines-at-home---metoprolol-beta-blockers",
     "title": "Patient Education",
     "section": "Medicines at Home - Metoprolol = Beta Blockers",
-    "text": "Medicines at Home - Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed around the time of surgery to prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blocker prior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
+    "text": "Medicines at Home - Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blockerprior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
   },
   {
     "objectID": "lci_surgery_guts.html#sleeping",
@@ -3217,7 +3217,7 @@
     "href": "lci_surgery_guts.htm#surgery-for-esophageal-cancer",
     "title": "Patient Education",
     "section": "Surgery for Esophageal Cancer",
-    "text": "Surgery for Esophageal Cancer\nSurgery for esophageal cancer is generally performed in several situations:\n\nSuperficial Tumors (T1) that can’t be completely removed by endoscopy\nLocalized Tumors (T2N0)\nLocally Advanced Tumors (T3 or N+) after preoperative therapy."
+    "text": "Surgery for Esophageal Cancer\nSurgery for esophageal cancer is performed in several situations:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0)\nLocally Advanced (T3) after preoperative therapy."
   },
   {
     "objectID": "lci_surgery_guts.htm#goals-of-surgery",
@@ -3227,11 +3227,11 @@
     "text": "Goals of Surgery\n\n\n\nRemove tumor from esophagus\nRemove surrounding lymph nodes\nCreate a new esophagus"
   },
   {
-    "objectID": "lci_surgery_guts.htm#resection",
-    "href": "lci_surgery_guts.htm#resection",
+    "objectID": "lci_surgery_guts.htm#ivor-lewis-transthoracic-esophagectomy",
+    "href": "lci_surgery_guts.htm#ivor-lewis-transthoracic-esophagectomy",
     "title": "Patient Education",
-    "section": "Resection",
-    "text": "Resection\n\n\nThe Ivor Lewis esophagectomy, shown here, removes the lower 2/3 of the esophagus, the tumor, and the surrounding lymph nodes."
+    "section": "Ivor Lewis (Transthoracic) Esophagectomy",
+    "text": "Ivor Lewis (Transthoracic) Esophagectomy\n\n\n\nRemoves tumor\nRemoves lower 1/3 of esophagus\nRemoves surrounding lymph nodes\nReconstruction of GI tract"
   },
   {
     "objectID": "lci_surgery_guts.htm#reconstruction",
@@ -3280,7 +3280,7 @@
     "href": "lci_surgery_guts.htm#total-esophagectomy-1",
     "title": "Patient Education",
     "section": "Total Esophagectomy",
-    "text": "Total Esophagectomy\n\n\nFor those patients, we need to remove the whole esophagus"
+    "text": "Total Esophagectomy\n\n\nFor those patients, we need to remove the whole esophagus, including the portion in the neck."
   },
   {
     "objectID": "lci_surgery_guts.htm#minimally-invasive-mckeown-esophagectomy",
@@ -3336,7 +3336,7 @@
     "href": "lci_surgery_guts.htm#preventing-pneumonia",
     "title": "Patient Education",
     "section": "Preventing Pneumonia",
-    "text": "Preventing Pneumonia\nThere are several ways to help prevent pneumonia after surgery:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
+    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia after surgery:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
   },
   {
     "objectID": "lci_surgery_guts.htm#minimally-invasive-esophagectomy",
@@ -3413,7 +3413,7 @@
     "href": "lci_surgery_guts.htm#day-of-surgery",
     "title": "Patient Education",
     "section": "Day of Surgery",
-    "text": "Day of Surgery\n\nArrive at 5am – nothing to eat or drink after midnight.\nMedicines with a sip of water (or black coffee) but no cream.\nSurgery will be cancelled if you have cream/milk in the am.\nWaiting room for family and friends on 5th floor\nPost-operative care in STICU (11th floor)"
+    "text": "Day of Surgery\n\nArrive at 5am – nothing to eat or drink after midnight.\nMedicines w/ a sip of water (or black coffee) but no cream.\nSurgery will be cancelled if you have cream/milk\nWaiting room for family and friends on 5th floor\nPost-operative care in STICU (11th floor)"
   },
   {
     "objectID": "lci_surgery_guts.htm#epidural-catheter-for-pain-control",
@@ -3560,7 +3560,7 @@
     "href": "lci_surgery_guts.htm#medicines-at-home---metoprolol-beta-blockers",
     "title": "Patient Education",
     "section": "Medicines at Home - Metoprolol = Beta Blockers",
-    "text": "Medicines at Home - Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed around the time of surgery to prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blocker prior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
+    "text": "Medicines at Home - Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blockerprior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
   },
   {
     "objectID": "lci_surgery_guts.htm#sleeping",
@@ -8068,7 +8068,7 @@
     "href": "lci_mie_guts.htm#day-of-surgery",
     "title": "Patient Education",
     "section": "Day of Surgery",
-    "text": "Day of Surgery\n\nArrive at 5am – nothing to eat or drink after midnight.\nMedicines with a sip of water (or black coffee) but no cream.\nSurgery will be cancelled if you have cream/milk in the am.\nWaiting room for family and friends on 5th floor\nPost-operative care in STICU (11th floor)"
+    "text": "Day of Surgery\n\nArrive at 5am – nothing to eat or drink after midnight.\nMedicines w/ a sip of water (or black coffee) but no cream.\nSurgery will be cancelled if you have cream/milk\nWaiting room for family and friends on 5th floor\nPost-operative care in STICU (11th floor)"
   },
   {
     "objectID": "lci_mie_guts.htm#epidural-catheter-for-pain-control",
@@ -8215,7 +8215,7 @@
     "href": "lci_mie_guts.htm#medicines-at-home---metoprolol-beta-blockers",
     "title": "Patient Education",
     "section": "Medicines at Home - Metoprolol = Beta Blockers",
-    "text": "Medicines at Home - Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed around the time of surgery to prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blocker prior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
+    "text": "Medicines at Home - Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blockerprior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
   },
   {
     "objectID": "lci_mie_guts.htm#sleeping",
@@ -8292,7 +8292,7 @@
     "href": "lci_mie_guts.html#day-of-surgery",
     "title": "Patient Education",
     "section": "Day of Surgery",
-    "text": "Day of Surgery\n\nArrive at 5am – nothing to eat or drink after midnight.\nMedicines with a sip of water (or black coffee) but no cream.\nSurgery will be cancelled if you have cream/milk in the am.\nWaiting room for family and friends on 5th floor\nPost-operative care in STICU (11th floor)"
+    "text": "Day of Surgery\n\nArrive at 5am – nothing to eat or drink after midnight.\nMedicines w/ a sip of water (or black coffee) but no cream.\nSurgery will be cancelled if you have cream/milk\nWaiting room for family and friends on 5th floor\nPost-operative care in STICU (11th floor)"
   },
   {
     "objectID": "lci_mie_guts.html#epidural-catheter-for-pain-control",
@@ -8439,7 +8439,7 @@
     "href": "lci_mie_guts.html#medicines-at-home---metoprolol-beta-blockers",
     "title": "Patient Education",
     "section": "Medicines at Home - Metoprolol = Beta Blockers",
-    "text": "Medicines at Home - Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed around the time of surgery to prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blocker prior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
+    "text": "Medicines at Home - Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blockerprior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
   },
   {
     "objectID": "lci_mie_guts.html#sleeping",
