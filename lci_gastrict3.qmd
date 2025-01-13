@@ -60,13 +60,13 @@ From the stomach, food moved through a valve called the pylorus into the small i
 ## Treatment Plan
 
 \
-- Superficial (T1) $\Rightarrow$ Endoscopic Therapy\
+Superficial (T1) $\Rightarrow$ Endoscopic Therapy\
 \
-- Localized (T1b/T2) $\Rightarrow$ Surgery\
+Localized (T1b/T2) $\Rightarrow$ Surgery\
 \
-- Locally-advanced (T3/N1) $\Rightarrow$ Chemo $\rightarrow$Surgery\
+Locally-advanced (T3/N1) $\Rightarrow$ Chemo $\rightarrow$ Surgery$\rightarrow$Chemo\
 \
-- Metastatic (M1) $\Rightarrow$ Chemotherapy
+Metastatic (M1) $\Rightarrow$ Chemotherapy
 
 ::: {.content-hidden unless-format="docx"}
 This table summarizes four different treatment categories:
@@ -82,7 +82,7 @@ This table summarizes four different treatment categories:
 
 ## Tumor Biomarkers
 
-Surface proteins found on cancers which may show that additional drugs may be helpful:
+Pathology tests show whether other drugs may be helpful:
 
 -   HER-2 $\rightarrow$ Herceptin can be helpful
 -   PD-L1 $\rightarrow$ Immunotherapy can be helpful
@@ -107,3 +107,7 @@ CT or PET scan performed after preoperative therapy
 
 
 {{< include lci_treatment_prep_guts.qmd >}}
+
+## Surgery
+
+[Gastrectomy Slideshow](lci_gastrectomy.htm)

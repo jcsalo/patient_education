@@ -59,7 +59,12 @@ Distal cancers are those in the lower part of the stomach
 :::::: columns
 ::: {.column width="50%"}
 \
-- Removes the tumor - Does not remove lymph nodes - Best suited for: - Small adenocarcinoma - GI Stromal Tumors
+
+- Removes the tumor 
+- Does not remove lymph nodes 
+- Best suited for: 
+  - Small adenocarcinoma 
+  - GI Stromal Tumors
 :::
 
 :::: {.column width="50%"}
@@ -97,12 +102,12 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 
 :::::: columns
 ::: {.column width="50%"}
-\
-\
 
--   Removes bottom half of the stomach
--   Does not remove all lymph nodes
--   Suitable for small tumors or GIST
+
+- Removes bottom half of the stomach
+- Does not remove all lymph nodes
+- Suitable for small adenocarcinoma
+- Suitable for larger GI Stromal Tumors
 :::
 
 :::: {.column width="50%"}
@@ -162,7 +167,10 @@ Body is the mid-portion of the stomach
 ::: {.column width="50%"}
 \
 \
-- Removes bottom 2/3 of stomach - Removes nearby lymph nodes - Reconstruction with small intestine
+
+- Removes bottom 2/3 of stomach 
+- Removes nearby lymph nodes 
+- Reconstruction with small intestine
 :::
 
 :::: {.column width="50%"}
@@ -201,7 +209,9 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 :::::: columns
 ::: {.column width="50%"}
 \
-- Located near the top of the stomach - Challenging area for surgery
+
+- Located near the top of the stomach 
+- Challenging area for surgery
 :::
 
 :::: {.column width="50%"}
@@ -220,7 +230,11 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 :::::: columns
 ::: {.column width="50%"}
 \
-- Removes all of the stomach - Reconstruction with small intestine - Needed for those with CDH1 mutations
+
+- Removes all of the stomach 
+- Reconstruction with small intestine 
+- Needed for those with CDH1 mutations
+
 :::
 
 :::: {.column width="50%"}
@@ -253,6 +267,30 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 ::: {.content-hidden unless-format="docx"}
 If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
 :::
+
+## Esophagogastrectomy
+
+:::::: columns
+::: {.column width="50%"}
+\
+
+- Removes top part of stomach 
+- Remove bottom half of esophagus
+- Surgery in both abdomen and chest
+
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/MIE_IvorLewisArtboard.png)
+:::
+::::
+::::::
+
+::: {.content-hidden unless-format="docx"}
+If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
+:::
+
 
 ## Dual Tract Gastrectomy
 
@@ -295,6 +333,9 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
 :::
 
+
+{{< include lci_laparoscopy_guts.qmd >}}
+
 ## Risks of Surgery
 
 -   Leak where bowel is joined together (anastomosis)
@@ -302,52 +343,5 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 -   Delayed stomach function
 -   Infection in the abdomen
 
-## Laparoscopy
 
-:::::: columns
-::: {.column width="50%"}
--   Some stomach cancers can spread inside the abdomen
--   Areas of spread can be very small (grain of rice)
--   Laparoscopy can detect spread inside the abdomen
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
-:::
-::::
-::::::
-
-::: {.content-hidden unless-format="docx"}
-Not all patients with gastric cancer need a laparoscopy.
-:::
-
-## Laparoscopy
-
-:::::: columns
-::: {.column width="50%"}
-A laparoscopy is performed under a general anesthetic.
-
--   Several incisions 1/4" long
--   A telescope is inserted to look inside the abdominal cavity.
--   Biopsies can be performed.
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
-:::
-::::
-::::::
-
-## Exercise
-
-## Smoking
-
-
-
-## Other Presentations
-
-[Nutrition Slideshow](lci_nutrition.htm)
-
-[Gastrectomy Slideshow](lci_gsurgery.htm)
+{{< include lci_treatment_prep_guts.qmd >}}
