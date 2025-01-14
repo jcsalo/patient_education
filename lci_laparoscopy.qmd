@@ -1,0 +1,26 @@
+---
+title: "Diagnostic Laparoscopy"
+format: 
+  pptx: 
+    reference-doc: template.pptx
+  revealjs:
+    slide-number: c/t
+    width: 1280
+    height: 720
+    logo: "atriumlogo.jpg"
+    footer: "[LCI Patient Education](https://jcsalo.github.io/patient_education/LCI.html)"
+    css: "lci_styles.css"
+    theme: [simple, lci.scss]
+    echo: false
+    transition: fade
+    #output-file: lci_esot3_slides.html
+    pdf-separate-fragments: true
+  pdf:
+    documentclass: scrartcl
+  html: default
+editor: visual
+bibliography: zotero.bib
+---
+
+
+{{< include lci_laparoscopy_guts.qmd >}}
