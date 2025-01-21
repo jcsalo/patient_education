@@ -207,7 +207,7 @@ Oxycodone
 - Most patients can discontinue by 4 weeks after surgery
 - NO DRIVING WHILE ON OXYCODONE
 
-## Medicines at Home - Non-steroidals
+## Non-steroidals Anti Inflammatory (NSAID)
 
 Non-steroidal anti-inflammatories (Celebrex)
 
@@ -217,9 +217,9 @@ NO GOODY POWDERS OR BCs
 
 - (Can cause permanent scarring at the surgery site)
 
-## Medicines at Home - Acid Blockers
+## Acid Blockers
 
-Acid blocker (Omeprazole, Nexium,etc)
+Acid blocker = Proton Pump Inhibitors (Omeprazole, Nexium,etc)
 
 - Will stay on for at 1-2 years to prevent acid reflux
 - Important in preventing scarring at anastomosis (new connection between esophagus and stomach)
@@ -240,10 +240,10 @@ Remeron – Helps improve appetite
 - Will stop within first three months of surgery
 
 
-## Medicines at Home - Metoprolol = Beta Blockers
+## Metoprolol = Beta Blockers
 
 - Slows heart rate and lowers blood pressure	
-- Used prevent rapid heart rate
+- Used to prevent rapid heart rate
 - Patients not taking a beta blocker prior to surgery 
 $\rightarrow$ wean after after surgery
 - Patients taking a beta blockerprior to surgery 
@@ -322,7 +322,7 @@ Vitamin or iron replacements can be ordered by your primary care physician, medi
 If levels are low, repeat testing in several months may be needed.
 
 
-## Team Members
+## Team Members - Physicians
 
 Primary Care Provider
 
@@ -338,9 +338,13 @@ Surgeons
   - Jeffrey Hagen
   - Michael Roach
   
+## Team Members - Support Staff  
+  
 Dietitian - Liz Koch
 
-Nurses - Brandon Galloway & Kit Sluder
+Nurses - Brandon Galloway & Kit Sluder & Rebecca Wicks
 
-Schedulers - Stacey Singleton & Toney Bethea
+Schedulers - Stacey Singleton & Tony Bethea
+
+Navigator - Laura Swift
 

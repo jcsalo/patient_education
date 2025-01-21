@@ -90,7 +90,10 @@ GI Stromal Tumor can come in a variety of sizes
 :::::: columns
 ::: {.column width="50%"}
 \
-- Tumor removed from wall - Stomach wall closed - Lymph nodes not removed
+
+- Tumor removed from wall 
+- Stomach wall closed 
+- Lymph nodes not removed
 :::
 
 :::: {.column width="50%"}
