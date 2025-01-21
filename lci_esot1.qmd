@@ -273,14 +273,18 @@ A laparoscopy is performed under a general anesthetic.
 
 ## Gastroesophageal Reflux
 
-:::::::::::::::::::::::::::::::::::::: columns
+:::::: columns
 ::: {.column width="50%"}
 A one-way valve normally keeps acid within the stomach and prevents it from entering the esophagus
 :::
 
-:::::::::::::::::::::::::::::::::::: {.column width="50%"}
-::::::::::::::::::::::::::::::::::: {.content-visible unless-format="docx"}
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/reflux_commpng.png)
+:::
+::::
+::::::
+
 
 ## Gastroesophageal Reflux
 
@@ -487,6 +491,4 @@ For patients with superficial cancers that can't be adequately treated with endo
 ## Surgery
 
 [Surgery Slideshow](lci_surgery.htm)
-:::::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::::::::::::::
+
