@@ -1631,18 +1631,18 @@
     "text": "Medicines at Home - Pain\nAcetaminophen (Tylenol) 4000mg/day (1000mg 4x/day)\nGabapentin 300mg 3 times/day (works best if taken daily)\nOxycodone\n\nTake as needed in addition to Tylenol and gabapentin\nWill begin reducing dosage at first postoperative visit\nMost patients can discontinue by 4 weeks after surgery\nNO DRIVING WHILE ON OXYCODONE"
   },
   {
-    "objectID": "lci_mie_guts.html#medicines-at-home---non-steroidals",
-    "href": "lci_mie_guts.html#medicines-at-home---non-steroidals",
+    "objectID": "lci_mie_guts.html#non-steroidals-anti-inflammatory-nsaid",
+    "href": "lci_mie_guts.html#non-steroidals-anti-inflammatory-nsaid",
     "title": "Patient Education",
-    "section": "Medicines at Home - Non-steroidals",
-    "text": "Medicines at Home - Non-steroidals\nNon-steroidal anti-inflammatories (Celebrex)\n\n200 mg every 12 hours starting 2 weeks after surgery\n\nNO GOODY POWDERS OR BCs\n\n(Can cause permanent scarring at the surgery site)"
+    "section": "Non-steroidals Anti Inflammatory (NSAID)",
+    "text": "Non-steroidals Anti Inflammatory (NSAID)\nNon-steroidal anti-inflammatories (Celebrex)\n\n200 mg every 12 hours starting 2 weeks after surgery\n\nNO GOODY POWDERS OR BCs\n\n(Can cause permanent scarring at the surgery site)"
   },
   {
-    "objectID": "lci_mie_guts.html#medicines-at-home---acid-blockers",
-    "href": "lci_mie_guts.html#medicines-at-home---acid-blockers",
+    "objectID": "lci_mie_guts.html#acid-blockers",
+    "href": "lci_mie_guts.html#acid-blockers",
     "title": "Patient Education",
-    "section": "Medicines at Home - Acid Blockers",
-    "text": "Medicines at Home - Acid Blockers\nAcid blocker (Omeprazole, Nexium,etc)\n\nWill stay on for at 1-2 years to prevent acid reflux\nImportant in preventing scarring at anastomosis (new connection between esophagus and stomach)\nTo administer through feeding tube, open capsule and resuspend beads in 60mL (2oz) of water"
+    "section": "Acid Blockers",
+    "text": "Acid Blockers\nAcid blocker = Proton Pump Inhibitors (Omeprazole, Nexium,etc)\n\nWill stay on for at 1-2 years to prevent acid reflux\nImportant in preventing scarring at anastomosis (new connection between esophagus and stomach)\nTo administer through feeding tube, open capsule and resuspend beads in 60mL (2oz) of water"
   },
   {
     "objectID": "lci_mie_guts.html#medicines-at-home",
@@ -1652,11 +1652,11 @@
     "text": "Medicines at Home\nReglan – Helps stomach empty\n\nWill plan to stop after six weeks\n0.1% risk of tardive dyskinesia (nervous tic)\n\nRemeron – Helps improve appetite\n\nCan cause vivid dreams\nUsed for several weeks after surgery\nWill stop within first three months of surgery"
   },
   {
-    "objectID": "lci_mie_guts.html#medicines-at-home---metoprolol-beta-blockers",
-    "href": "lci_mie_guts.html#medicines-at-home---metoprolol-beta-blockers",
+    "objectID": "lci_mie_guts.html#metoprolol-beta-blockers",
+    "href": "lci_mie_guts.html#metoprolol-beta-blockers",
     "title": "Patient Education",
-    "section": "Medicines at Home - Metoprolol = Beta Blockers",
-    "text": "Medicines at Home - Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blockerprior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
+    "section": "Metoprolol = Beta Blockers",
+    "text": "Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed to prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blockerprior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
   },
   {
     "objectID": "lci_mie_guts.html#sleeping",
@@ -1708,11 +1708,18 @@
     "text": "Nutritional Replacements after Surgery\nVitamin or iron replacements can be ordered by your primary care physician, medical oncologist, or surgeon\nIf levels are low, repeat testing in several months may be needed."
   },
   {
-    "objectID": "lci_mie_guts.html#team-members",
-    "href": "lci_mie_guts.html#team-members",
+    "objectID": "lci_mie_guts.html#team-members---physicians",
+    "href": "lci_mie_guts.html#team-members---physicians",
     "title": "Patient Education",
-    "section": "Team Members",
-    "text": "Team Members\nPrimary Care Provider\nGastroenterologist\nMedical Oncologist (chemotherapy)\nRadiation Oncologist (radiation)\nSurgeons\n\nJonathan Salo\nJeffrey Hagen\nMichael Roach\n\nDietitian - Liz Koch\nNurses - Brandon Galloway & Kit Sluder\nSchedulers - Stacey Singleton & Toney Bethea"
+    "section": "Team Members - Physicians",
+    "text": "Team Members - Physicians\nPrimary Care Provider\nGastroenterologist\nMedical Oncologist (chemotherapy)\nRadiation Oncologist (radiation)\nSurgeons\n\nJonathan Salo\nJeffrey Hagen\nMichael Roach"
+  },
+  {
+    "objectID": "lci_mie_guts.html#team-members---support-staff",
+    "href": "lci_mie_guts.html#team-members---support-staff",
+    "title": "Patient Education",
+    "section": "Team Members - Support Staff",
+    "text": "Team Members - Support Staff\nDietitian - Liz Koch\nNurses - Brandon Galloway & Kit Sluder & Rebecca Wicks\nSchedulers - Stacey Singleton & Tony Bethea\nNavigator - Laura Swift"
   },
   {
     "objectID": "lci_mie_guts.htm#day-prior-to-surgery",
@@ -1848,18 +1855,18 @@
     "text": "Medicines at Home - Pain\nAcetaminophen (Tylenol) 4000mg/day (1000mg 4x/day)\nGabapentin 300mg 3 times/day (works best if taken daily)\nOxycodone\n\nTake as needed in addition to Tylenol and gabapentin\nWill begin reducing dosage at first postoperative visit\nMost patients can discontinue by 4 weeks after surgery\nNO DRIVING WHILE ON OXYCODONE"
   },
   {
-    "objectID": "lci_mie_guts.htm#medicines-at-home---non-steroidals",
-    "href": "lci_mie_guts.htm#medicines-at-home---non-steroidals",
+    "objectID": "lci_mie_guts.htm#non-steroidals-anti-inflammatory-nsaid",
+    "href": "lci_mie_guts.htm#non-steroidals-anti-inflammatory-nsaid",
     "title": "Patient Education",
-    "section": "Medicines at Home - Non-steroidals",
-    "text": "Medicines at Home - Non-steroidals\nNon-steroidal anti-inflammatories (Celebrex)\n\n200 mg every 12 hours starting 2 weeks after surgery\n\nNO GOODY POWDERS OR BCs\n\n(Can cause permanent scarring at the surgery site)"
+    "section": "Non-steroidals Anti Inflammatory (NSAID)",
+    "text": "Non-steroidals Anti Inflammatory (NSAID)\nNon-steroidal anti-inflammatories (Celebrex)\n\n200 mg every 12 hours starting 2 weeks after surgery\n\nNO GOODY POWDERS OR BCs\n\n(Can cause permanent scarring at the surgery site)"
   },
   {
-    "objectID": "lci_mie_guts.htm#medicines-at-home---acid-blockers",
-    "href": "lci_mie_guts.htm#medicines-at-home---acid-blockers",
+    "objectID": "lci_mie_guts.htm#acid-blockers",
+    "href": "lci_mie_guts.htm#acid-blockers",
     "title": "Patient Education",
-    "section": "Medicines at Home - Acid Blockers",
-    "text": "Medicines at Home - Acid Blockers\nAcid blocker (Omeprazole, Nexium,etc)\n\nWill stay on for at 1-2 years to prevent acid reflux\nImportant in preventing scarring at anastomosis (new connection between esophagus and stomach)\nTo administer through feeding tube, open capsule and resuspend beads in 60mL (2oz) of water"
+    "section": "Acid Blockers",
+    "text": "Acid Blockers\nAcid blocker = Proton Pump Inhibitors (Omeprazole, Nexium,etc)\n\nWill stay on for at 1-2 years to prevent acid reflux\nImportant in preventing scarring at anastomosis (new connection between esophagus and stomach)\nTo administer through feeding tube, open capsule and resuspend beads in 60mL (2oz) of water"
   },
   {
     "objectID": "lci_mie_guts.htm#medicines-at-home",
@@ -1869,11 +1876,11 @@
     "text": "Medicines at Home\nReglan – Helps stomach empty\n\nWill plan to stop after six weeks\n0.1% risk of tardive dyskinesia (nervous tic)\n\nRemeron – Helps improve appetite\n\nCan cause vivid dreams\nUsed for several weeks after surgery\nWill stop within first three months of surgery"
   },
   {
-    "objectID": "lci_mie_guts.htm#medicines-at-home---metoprolol-beta-blockers",
-    "href": "lci_mie_guts.htm#medicines-at-home---metoprolol-beta-blockers",
+    "objectID": "lci_mie_guts.htm#metoprolol-beta-blockers",
+    "href": "lci_mie_guts.htm#metoprolol-beta-blockers",
     "title": "Patient Education",
-    "section": "Medicines at Home - Metoprolol = Beta Blockers",
-    "text": "Medicines at Home - Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blockerprior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
+    "section": "Metoprolol = Beta Blockers",
+    "text": "Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed to prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blockerprior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
   },
   {
     "objectID": "lci_mie_guts.htm#sleeping",
@@ -1925,11 +1932,18 @@
     "text": "Nutritional Replacements after Surgery\nVitamin or iron replacements can be ordered by your primary care physician, medical oncologist, or surgeon\nIf levels are low, repeat testing in several months may be needed."
   },
   {
-    "objectID": "lci_mie_guts.htm#team-members",
-    "href": "lci_mie_guts.htm#team-members",
+    "objectID": "lci_mie_guts.htm#team-members---physicians",
+    "href": "lci_mie_guts.htm#team-members---physicians",
     "title": "Patient Education",
-    "section": "Team Members",
-    "text": "Team Members\nPrimary Care Provider\nGastroenterologist\nMedical Oncologist (chemotherapy)\nRadiation Oncologist (radiation)\nSurgeons\n\nJonathan Salo\nJeffrey Hagen\nMichael Roach\n\nDietitian - Liz Koch\nNurses - Brandon Galloway & Kit Sluder\nSchedulers - Stacey Singleton & Toney Bethea"
+    "section": "Team Members - Physicians",
+    "text": "Team Members - Physicians\nPrimary Care Provider\nGastroenterologist\nMedical Oncologist (chemotherapy)\nRadiation Oncologist (radiation)\nSurgeons\n\nJonathan Salo\nJeffrey Hagen\nMichael Roach"
+  },
+  {
+    "objectID": "lci_mie_guts.htm#team-members---support-staff",
+    "href": "lci_mie_guts.htm#team-members---support-staff",
+    "title": "Patient Education",
+    "section": "Team Members - Support Staff",
+    "text": "Team Members - Support Staff\nDietitian - Liz Koch\nNurses - Brandon Galloway & Kit Sluder & Rebecca Wicks\nSchedulers - Stacey Singleton & Tony Bethea\nNavigator - Laura Swift"
   },
   {
     "objectID": "lci_esot3_aca.htm#anatomy",
@@ -4036,21 +4050,21 @@
     "href": "lci_cdh1.htm#hereditary-diffuse-gastric-cancer-1",
     "title": "Stomach Cancer and CDH1 Gene",
     "section": "Hereditary Diffuse Gastric Cancer",
-    "text": "Hereditary Diffuse Gastric Cancer\nInherited condition in which an altered copy of the CDH1 gene is passed from generation to generation Presence of the gene can be detected by genetic testing Affected person can pass the gene to (on average) half of their children Affected persons carry the CDH1"
+    "text": "Hereditary Diffuse Gastric Cancer\nInherited condition in which an altered copy of the CDH1 gene is passed from generation to generation\nPresence of the gene can be detected by genetic testing\nAffected person can pass the gene to (on average) half of their children\nAffected persons carry the CDH1"
   },
   {
     "objectID": "lci_cdh1.htm#hereditry-diffuse-gastric-cancer",
     "href": "lci_cdh1.htm#hereditry-diffuse-gastric-cancer",
     "title": "Stomach Cancer and CDH1 Gene",
     "section": "Hereditry Diffuse Gastric Cancer",
-    "text": "Hereditry Diffuse Gastric Cancer\nAffected individuals have microscopic cancers beginning to form in the top layer of the stomach at an early age Majority of affected individuals will develop visible cancer by age 40 By age 80, 70% of men and 56-83% of women are estimated to be at risk to develop visible cancer however some recent studies place this risk at 50%/33%"
+    "text": "Hereditry Diffuse Gastric Cancer\nAffected individuals have microscopic cancers beginning to form in the top layer of the stomach at an early age\nMajority of affected individuals will develop visible cancer by age 40\nBy age 80, 70% of men and 56-83% of women are estimated to be at risk to develop visible cancer however some recent studies place this risk at 50%/33%"
   },
   {
     "objectID": "lci_cdh1.htm#cdh1",
     "href": "lci_cdh1.htm#cdh1",
     "title": "Stomach Cancer and CDH1 Gene",
     "section": "CDH1",
-    "text": "CDH1\nCDH1 carriers with visible cancer are termed “clinically apparent” CDH1 carriers with clinically apparent cancers which are large enough to cause symptoms generally are likely to have spread to lymph nodes"
+    "text": "CDH1\nCDH1 carriers with visible cancer are termed “clinically apparent”\nCDH1 carriers with clinically apparent cancers which are large enough to cause symptoms generally are likely to have spread to lymph nodes at the time of diagnosis"
   },
   {
     "objectID": "lci_cdh1.htm#prophylactic-gastrectomy",
@@ -4155,21 +4169,21 @@
     "href": "lci_cdh1.html#hereditary-diffuse-gastric-cancer-1",
     "title": "Stomach Cancer and CDH1 Gene",
     "section": "Hereditary Diffuse Gastric Cancer",
-    "text": "Hereditary Diffuse Gastric Cancer\nInherited condition in which an altered copy of the CDH1 gene is passed from generation to generation Presence of the gene can be detected by genetic testing Affected person can pass the gene to (on average) half of their children Affected persons carry the CDH1"
+    "text": "Hereditary Diffuse Gastric Cancer\nInherited condition in which an altered copy of the CDH1 gene is passed from generation to generation\nPresence of the gene can be detected by genetic testing\nAffected person can pass the gene to (on average) half of their children\nAffected persons carry the CDH1"
   },
   {
     "objectID": "lci_cdh1.html#hereditry-diffuse-gastric-cancer",
     "href": "lci_cdh1.html#hereditry-diffuse-gastric-cancer",
     "title": "Stomach Cancer and CDH1 Gene",
     "section": "Hereditry Diffuse Gastric Cancer",
-    "text": "Hereditry Diffuse Gastric Cancer\nAffected individuals have microscopic cancers beginning to form in the top layer of the stomach at an early age Majority of affected individuals will develop visible cancer by age 40 By age 80, 70% of men and 56-83% of women are estimated to be at risk to develop visible cancer however some recent studies place this risk at 50%/33%"
+    "text": "Hereditry Diffuse Gastric Cancer\nAffected individuals have microscopic cancers beginning to form in the top layer of the stomach at an early age\nMajority of affected individuals will develop visible cancer by age 40\nBy age 80, 70% of men and 56-83% of women are estimated to be at risk to develop visible cancer however some recent studies place this risk at 50%/33%"
   },
   {
     "objectID": "lci_cdh1.html#cdh1",
     "href": "lci_cdh1.html#cdh1",
     "title": "Stomach Cancer and CDH1 Gene",
     "section": "CDH1",
-    "text": "CDH1\nCDH1 carriers with visible cancer are termed “clinically apparent” CDH1 carriers with clinically apparent cancers which are large enough to cause symptoms generally are likely to have spread to lymph nodes"
+    "text": "CDH1\nCDH1 carriers with visible cancer are termed “clinically apparent”\nCDH1 carriers with clinically apparent cancers which are large enough to cause symptoms generally are likely to have spread to lymph nodes at the time of diagnosis"
   },
   {
     "objectID": "lci_cdh1.html#prophylactic-gastrectomy",
@@ -4354,6 +4368,55 @@
     "text": "Laparoscopy\n\n\nA laparoscopy is performed under a general anesthetic.\n\nSeveral incisions 1/4” long\nA telescope is inserted to look inside the abdominal cavity.\nBiopsies can be performed."
   },
   {
+    "objectID": "lci_esot1.html#gastroesophageal-reflux",
+    "href": "lci_esot1.html#gastroesophageal-reflux",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Gastroesophageal Reflux",
+    "text": "Gastroesophageal Reflux\n\n\nA one-way valve normally keeps acid within the stomach and prevents it from entering the esophagus"
+  },
+  {
+    "objectID": "lci_esot1.html#gastroesophageal-reflux-1",
+    "href": "lci_esot1.html#gastroesophageal-reflux-1",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Gastroesophageal Reflux",
+    "text": "Gastroesophageal Reflux\n\n\nA one-way valve normally keeps acid within the stomach and prevents it from entering the esophagus\nIf the valve does not work properly, acid can enter the esophagus and cause heartburn and damage to the lining of the esophagus."
+  },
+  {
+    "objectID": "lci_esot1.html#barretts-espohagus",
+    "href": "lci_esot1.html#barretts-espohagus",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Barrett’s Espohagus",
+    "text": "Barrett’s Espohagus\n\n\nOver time, the lining of the esophagus undergoes change in response to the acid."
+  },
+  {
+    "objectID": "lci_esot1.html#dysplasia",
+    "href": "lci_esot1.html#dysplasia",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Dysplasia",
+    "text": "Dysplasia\nOver a period of years, pre-cancerous changes can develop within Barrett’s esopahgus.\nThese changes can be seen by the pathologist from biopsies taken from the esophagus\nOver time, low-grade dysplasia can progress to high-grade dysplasia"
+  },
+  {
+    "objectID": "lci_esot1.html#dysplasia-rightarrow-cancer",
+    "href": "lci_esot1.html#dysplasia-rightarrow-cancer",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Dysplasia \\(\\rightarrow\\) Cancer",
+    "text": "Dysplasia \\(\\rightarrow\\) Cancer\nLow grade dysplasia: Risk of cancer 0.5% per year\nHigh-grad dysplasia: Risk of cancer 5% per year\n\\(\\Rightarrow\\) Surveillance with upper endoscopy is critical"
+  },
+  {
+    "objectID": "lci_esot1.html#radiofrequency-ablation-for-dysplasia",
+    "href": "lci_esot1.html#radiofrequency-ablation-for-dysplasia",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Radiofrequency ablation for Dysplasia",
+    "text": "Radiofrequency ablation for Dysplasia\n\n\nDysplasia of the esphagus can be treated with destroying the mucosa, the inner layer of esophgus\nAblation of the mucosa with microwave energy\nCircular balloon with an antenna used to ablate the mucosa"
+  },
+  {
+    "objectID": "lci_esot1.html#radiofrequency-ablation-for-dysplasia-1",
+    "href": "lci_esot1.html#radiofrequency-ablation-for-dysplasia-1",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Radiofrequency ablation for Dysplasia",
+    "text": "Radiofrequency ablation for Dysplasia\n\n\nBefore Ablation \n\nAfter Ablation"
+  },
+  {
     "objectID": "lci_esot1.html#treatment-plans",
     "href": "lci_esot1.html#treatment-plans",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
@@ -4513,6 +4576,55 @@
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Laparoscopy",
     "text": "Laparoscopy\n\n\nA laparoscopy is performed under a general anesthetic.\n\nSeveral incisions 1/4” long\nA telescope is inserted to look inside the abdominal cavity.\nBiopsies can be performed."
+  },
+  {
+    "objectID": "lci_esot1.htm#gastroesophageal-reflux",
+    "href": "lci_esot1.htm#gastroesophageal-reflux",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Gastroesophageal Reflux",
+    "text": "Gastroesophageal Reflux\n\n\nA one-way valve normally keeps acid within the stomach and prevents it from entering the esophagus"
+  },
+  {
+    "objectID": "lci_esot1.htm#gastroesophageal-reflux-1",
+    "href": "lci_esot1.htm#gastroesophageal-reflux-1",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Gastroesophageal Reflux",
+    "text": "Gastroesophageal Reflux\n\n\nA one-way valve normally keeps acid within the stomach and prevents it from entering the esophagus\nIf the valve does not work properly, acid can enter the esophagus and cause heartburn and damage to the lining of the esophagus."
+  },
+  {
+    "objectID": "lci_esot1.htm#barretts-espohagus",
+    "href": "lci_esot1.htm#barretts-espohagus",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Barrett’s Espohagus",
+    "text": "Barrett’s Espohagus\n\n\nOver time, the lining of the esophagus undergoes change in response to the acid."
+  },
+  {
+    "objectID": "lci_esot1.htm#dysplasia",
+    "href": "lci_esot1.htm#dysplasia",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Dysplasia",
+    "text": "Dysplasia\nOver a period of years, pre-cancerous changes can develop within Barrett’s esopahgus.\nThese changes can be seen by the pathologist from biopsies taken from the esophagus\nOver time, low-grade dysplasia can progress to high-grade dysplasia"
+  },
+  {
+    "objectID": "lci_esot1.htm#dysplasia-rightarrow-cancer",
+    "href": "lci_esot1.htm#dysplasia-rightarrow-cancer",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Dysplasia \\(\\rightarrow\\) Cancer",
+    "text": "Dysplasia \\(\\rightarrow\\) Cancer\nLow grade dysplasia: Risk of cancer 0.5% per year\nHigh-grad dysplasia: Risk of cancer 5% per year\n\\(\\Rightarrow\\) Surveillance with upper endoscopy is critical"
+  },
+  {
+    "objectID": "lci_esot1.htm#radiofrequency-ablation-for-dysplasia",
+    "href": "lci_esot1.htm#radiofrequency-ablation-for-dysplasia",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Radiofrequency ablation for Dysplasia",
+    "text": "Radiofrequency ablation for Dysplasia\n\n\nDysplasia of the esphagus can be treated with destroying the mucosa, the inner layer of esophgus\nAblation of the mucosa with microwave energy\nCircular balloon with an antenna used to ablate the mucosa"
+  },
+  {
+    "objectID": "lci_esot1.htm#radiofrequency-ablation-for-dysplasia-1",
+    "href": "lci_esot1.htm#radiofrequency-ablation-for-dysplasia-1",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Radiofrequency ablation for Dysplasia",
+    "text": "Radiofrequency ablation for Dysplasia\n\n\nBefore Ablation \n\nAfter Ablation"
   },
   {
     "objectID": "lci_esot1.htm#treatment-plans",
@@ -5023,7 +5135,7 @@
     "href": "lci_gist.html#partial-gastrectomy",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "Partial Gastrectomy",
-    "text": "Partial Gastrectomy\n\n\n\n- Tumor removed from wall - Stomach wall closed - Lymph nodes not removed"
+    "text": "Partial Gastrectomy\n\n\n\n\n\nTumor removed from wall\nStomach wall closed\nLymph nodes not removed"
   },
   {
     "objectID": "lci_gist.html#partial-gastrectomy-1",
@@ -5198,7 +5310,7 @@
     "href": "lci_gist.htm#partial-gastrectomy",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "Partial Gastrectomy",
-    "text": "Partial Gastrectomy\n\n\n\n- Tumor removed from wall - Stomach wall closed - Lymph nodes not removed"
+    "text": "Partial Gastrectomy\n\n\n\n\n\nTumor removed from wall\nStomach wall closed\nLymph nodes not removed"
   },
   {
     "objectID": "lci_gist.htm#partial-gastrectomy-1",
@@ -6258,6 +6370,20 @@
     "text": "Minimally-invasive McKeown Esophagectomy\n\n\nIn this case, a connection between the esophagus and the stomach is made in the neck."
   },
   {
+    "objectID": "lci_surgery_guts.htm#colon-interposition",
+    "href": "lci_surgery_guts.htm#colon-interposition",
+    "title": "Patient Education",
+    "section": "Colon Interposition",
+    "text": "Colon Interposition\n\n\nIf the stomach is not suitable to make a new esophagus, the colon can be used to replace the esophagus"
+  },
+  {
+    "objectID": "lci_surgery_guts.htm#colon-interposition-1",
+    "href": "lci_surgery_guts.htm#colon-interposition-1",
+    "title": "Patient Education",
+    "section": "Colon Interposition",
+    "text": "Colon Interposition"
+  },
+  {
     "objectID": "lci_surgery_guts.htm#risks-of-surgery",
     "href": "lci_surgery_guts.htm#risks-of-surgery",
     "title": "Patient Education",
@@ -6503,18 +6629,18 @@
     "text": "Medicines at Home - Pain\nAcetaminophen (Tylenol) 4000mg/day (1000mg 4x/day)\nGabapentin 300mg 3 times/day (works best if taken daily)\nOxycodone\n\nTake as needed in addition to Tylenol and gabapentin\nWill begin reducing dosage at first postoperative visit\nMost patients can discontinue by 4 weeks after surgery\nNO DRIVING WHILE ON OXYCODONE"
   },
   {
-    "objectID": "lci_surgery_guts.htm#medicines-at-home---non-steroidals",
-    "href": "lci_surgery_guts.htm#medicines-at-home---non-steroidals",
+    "objectID": "lci_surgery_guts.htm#non-steroidals-anti-inflammatory-nsaid",
+    "href": "lci_surgery_guts.htm#non-steroidals-anti-inflammatory-nsaid",
     "title": "Patient Education",
-    "section": "Medicines at Home - Non-steroidals",
-    "text": "Medicines at Home - Non-steroidals\nNon-steroidal anti-inflammatories (Celebrex)\n\n200 mg every 12 hours starting 2 weeks after surgery\n\nNO GOODY POWDERS OR BCs\n\n(Can cause permanent scarring at the surgery site)"
+    "section": "Non-steroidals Anti Inflammatory (NSAID)",
+    "text": "Non-steroidals Anti Inflammatory (NSAID)\nNon-steroidal anti-inflammatories (Celebrex)\n\n200 mg every 12 hours starting 2 weeks after surgery\n\nNO GOODY POWDERS OR BCs\n\n(Can cause permanent scarring at the surgery site)"
   },
   {
-    "objectID": "lci_surgery_guts.htm#medicines-at-home---acid-blockers",
-    "href": "lci_surgery_guts.htm#medicines-at-home---acid-blockers",
+    "objectID": "lci_surgery_guts.htm#acid-blockers",
+    "href": "lci_surgery_guts.htm#acid-blockers",
     "title": "Patient Education",
-    "section": "Medicines at Home - Acid Blockers",
-    "text": "Medicines at Home - Acid Blockers\nAcid blocker (Omeprazole, Nexium,etc)\n\nWill stay on for at 1-2 years to prevent acid reflux\nImportant in preventing scarring at anastomosis (new connection between esophagus and stomach)\nTo administer through feeding tube, open capsule and resuspend beads in 60mL (2oz) of water"
+    "section": "Acid Blockers",
+    "text": "Acid Blockers\nAcid blocker = Proton Pump Inhibitors (Omeprazole, Nexium,etc)\n\nWill stay on for at 1-2 years to prevent acid reflux\nImportant in preventing scarring at anastomosis (new connection between esophagus and stomach)\nTo administer through feeding tube, open capsule and resuspend beads in 60mL (2oz) of water"
   },
   {
     "objectID": "lci_surgery_guts.htm#medicines-at-home",
@@ -6524,11 +6650,11 @@
     "text": "Medicines at Home\nReglan – Helps stomach empty\n\nWill plan to stop after six weeks\n0.1% risk of tardive dyskinesia (nervous tic)\n\nRemeron – Helps improve appetite\n\nCan cause vivid dreams\nUsed for several weeks after surgery\nWill stop within first three months of surgery"
   },
   {
-    "objectID": "lci_surgery_guts.htm#medicines-at-home---metoprolol-beta-blockers",
-    "href": "lci_surgery_guts.htm#medicines-at-home---metoprolol-beta-blockers",
+    "objectID": "lci_surgery_guts.htm#metoprolol-beta-blockers",
+    "href": "lci_surgery_guts.htm#metoprolol-beta-blockers",
     "title": "Patient Education",
-    "section": "Medicines at Home - Metoprolol = Beta Blockers",
-    "text": "Medicines at Home - Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blockerprior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
+    "section": "Metoprolol = Beta Blockers",
+    "text": "Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed to prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blockerprior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
   },
   {
     "objectID": "lci_surgery_guts.htm#sleeping",
@@ -6580,11 +6706,18 @@
     "text": "Nutritional Replacements after Surgery\nVitamin or iron replacements can be ordered by your primary care physician, medical oncologist, or surgeon\nIf levels are low, repeat testing in several months may be needed."
   },
   {
-    "objectID": "lci_surgery_guts.htm#team-members",
-    "href": "lci_surgery_guts.htm#team-members",
+    "objectID": "lci_surgery_guts.htm#team-members---physicians",
+    "href": "lci_surgery_guts.htm#team-members---physicians",
     "title": "Patient Education",
-    "section": "Team Members",
-    "text": "Team Members\nPrimary Care Provider\nGastroenterologist\nMedical Oncologist (chemotherapy)\nRadiation Oncologist (radiation)\nSurgeons\n\nJonathan Salo\nJeffrey Hagen\nMichael Roach\n\nDietitian - Liz Koch\nNurses - Brandon Galloway & Kit Sluder\nSchedulers - Stacey Singleton & Toney Bethea"
+    "section": "Team Members - Physicians",
+    "text": "Team Members - Physicians\nPrimary Care Provider\nGastroenterologist\nMedical Oncologist (chemotherapy)\nRadiation Oncologist (radiation)\nSurgeons\n\nJonathan Salo\nJeffrey Hagen\nMichael Roach"
+  },
+  {
+    "objectID": "lci_surgery_guts.htm#team-members---support-staff",
+    "href": "lci_surgery_guts.htm#team-members---support-staff",
+    "title": "Patient Education",
+    "section": "Team Members - Support Staff",
+    "text": "Team Members - Support Staff\nDietitian - Liz Koch\nNurses - Brandon Galloway & Kit Sluder & Rebecca Wicks\nSchedulers - Stacey Singleton & Tony Bethea\nNavigator - Laura Swift"
   },
   {
     "objectID": "lci_surgery_guts.html",
@@ -6669,6 +6802,20 @@
     "title": "Patient Education",
     "section": "Minimally-invasive McKeown Esophagectomy",
     "text": "Minimally-invasive McKeown Esophagectomy\n\n\nIn this case, a connection between the esophagus and the stomach is made in the neck."
+  },
+  {
+    "objectID": "lci_surgery_guts.html#colon-interposition",
+    "href": "lci_surgery_guts.html#colon-interposition",
+    "title": "Patient Education",
+    "section": "Colon Interposition",
+    "text": "Colon Interposition\n\n\nIf the stomach is not suitable to make a new esophagus, the colon can be used to replace the esophagus"
+  },
+  {
+    "objectID": "lci_surgery_guts.html#colon-interposition-1",
+    "href": "lci_surgery_guts.html#colon-interposition-1",
+    "title": "Patient Education",
+    "section": "Colon Interposition",
+    "text": "Colon Interposition"
   },
   {
     "objectID": "lci_surgery_guts.html#risks-of-surgery",
@@ -6916,18 +7063,18 @@
     "text": "Medicines at Home - Pain\nAcetaminophen (Tylenol) 4000mg/day (1000mg 4x/day)\nGabapentin 300mg 3 times/day (works best if taken daily)\nOxycodone\n\nTake as needed in addition to Tylenol and gabapentin\nWill begin reducing dosage at first postoperative visit\nMost patients can discontinue by 4 weeks after surgery\nNO DRIVING WHILE ON OXYCODONE"
   },
   {
-    "objectID": "lci_surgery_guts.html#medicines-at-home---non-steroidals",
-    "href": "lci_surgery_guts.html#medicines-at-home---non-steroidals",
+    "objectID": "lci_surgery_guts.html#non-steroidals-anti-inflammatory-nsaid",
+    "href": "lci_surgery_guts.html#non-steroidals-anti-inflammatory-nsaid",
     "title": "Patient Education",
-    "section": "Medicines at Home - Non-steroidals",
-    "text": "Medicines at Home - Non-steroidals\nNon-steroidal anti-inflammatories (Celebrex)\n\n200 mg every 12 hours starting 2 weeks after surgery\n\nNO GOODY POWDERS OR BCs\n\n(Can cause permanent scarring at the surgery site)"
+    "section": "Non-steroidals Anti Inflammatory (NSAID)",
+    "text": "Non-steroidals Anti Inflammatory (NSAID)\nNon-steroidal anti-inflammatories (Celebrex)\n\n200 mg every 12 hours starting 2 weeks after surgery\n\nNO GOODY POWDERS OR BCs\n\n(Can cause permanent scarring at the surgery site)"
   },
   {
-    "objectID": "lci_surgery_guts.html#medicines-at-home---acid-blockers",
-    "href": "lci_surgery_guts.html#medicines-at-home---acid-blockers",
+    "objectID": "lci_surgery_guts.html#acid-blockers",
+    "href": "lci_surgery_guts.html#acid-blockers",
     "title": "Patient Education",
-    "section": "Medicines at Home - Acid Blockers",
-    "text": "Medicines at Home - Acid Blockers\nAcid blocker (Omeprazole, Nexium,etc)\n\nWill stay on for at 1-2 years to prevent acid reflux\nImportant in preventing scarring at anastomosis (new connection between esophagus and stomach)\nTo administer through feeding tube, open capsule and resuspend beads in 60mL (2oz) of water"
+    "section": "Acid Blockers",
+    "text": "Acid Blockers\nAcid blocker = Proton Pump Inhibitors (Omeprazole, Nexium,etc)\n\nWill stay on for at 1-2 years to prevent acid reflux\nImportant in preventing scarring at anastomosis (new connection between esophagus and stomach)\nTo administer through feeding tube, open capsule and resuspend beads in 60mL (2oz) of water"
   },
   {
     "objectID": "lci_surgery_guts.html#medicines-at-home",
@@ -6937,11 +7084,11 @@
     "text": "Medicines at Home\nReglan – Helps stomach empty\n\nWill plan to stop after six weeks\n0.1% risk of tardive dyskinesia (nervous tic)\n\nRemeron – Helps improve appetite\n\nCan cause vivid dreams\nUsed for several weeks after surgery\nWill stop within first three months of surgery"
   },
   {
-    "objectID": "lci_surgery_guts.html#medicines-at-home---metoprolol-beta-blockers",
-    "href": "lci_surgery_guts.html#medicines-at-home---metoprolol-beta-blockers",
+    "objectID": "lci_surgery_guts.html#metoprolol-beta-blockers",
+    "href": "lci_surgery_guts.html#metoprolol-beta-blockers",
     "title": "Patient Education",
-    "section": "Medicines at Home - Metoprolol = Beta Blockers",
-    "text": "Medicines at Home - Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blockerprior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
+    "section": "Metoprolol = Beta Blockers",
+    "text": "Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed to prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blockerprior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
   },
   {
     "objectID": "lci_surgery_guts.html#sleeping",
@@ -6993,11 +7140,18 @@
     "text": "Nutritional Replacements after Surgery\nVitamin or iron replacements can be ordered by your primary care physician, medical oncologist, or surgeon\nIf levels are low, repeat testing in several months may be needed."
   },
   {
-    "objectID": "lci_surgery_guts.html#team-members",
-    "href": "lci_surgery_guts.html#team-members",
+    "objectID": "lci_surgery_guts.html#team-members---physicians",
+    "href": "lci_surgery_guts.html#team-members---physicians",
     "title": "Patient Education",
-    "section": "Team Members",
-    "text": "Team Members\nPrimary Care Provider\nGastroenterologist\nMedical Oncologist (chemotherapy)\nRadiation Oncologist (radiation)\nSurgeons\n\nJonathan Salo\nJeffrey Hagen\nMichael Roach\n\nDietitian - Liz Koch\nNurses - Brandon Galloway & Kit Sluder\nSchedulers - Stacey Singleton & Toney Bethea"
+    "section": "Team Members - Physicians",
+    "text": "Team Members - Physicians\nPrimary Care Provider\nGastroenterologist\nMedical Oncologist (chemotherapy)\nRadiation Oncologist (radiation)\nSurgeons\n\nJonathan Salo\nJeffrey Hagen\nMichael Roach"
+  },
+  {
+    "objectID": "lci_surgery_guts.html#team-members---support-staff",
+    "href": "lci_surgery_guts.html#team-members---support-staff",
+    "title": "Patient Education",
+    "section": "Team Members - Support Staff",
+    "text": "Team Members - Support Staff\nDietitian - Liz Koch\nNurses - Brandon Galloway & Kit Sluder & Rebecca Wicks\nSchedulers - Stacey Singleton & Tony Bethea\nNavigator - Laura Swift"
   },
   {
     "objectID": "cv_port.html",
@@ -7735,6 +7889,20 @@
     "text": "Minimally-invasive McKeown Esophagectomy\n\n\nIn this case, a connection between the esophagus and the stomach is made in the neck."
   },
   {
+    "objectID": "lci_surgery.html#colon-interposition",
+    "href": "lci_surgery.html#colon-interposition",
+    "title": "Surgery of the Esophagus",
+    "section": "Colon Interposition",
+    "text": "Colon Interposition\n\n\nIf the stomach is not suitable to make a new esophagus, the colon can be used to replace the esophagus"
+  },
+  {
+    "objectID": "lci_surgery.html#colon-interposition-1",
+    "href": "lci_surgery.html#colon-interposition-1",
+    "title": "Surgery of the Esophagus",
+    "section": "Colon Interposition",
+    "text": "Colon Interposition"
+  },
+  {
     "objectID": "lci_surgery.html#risks-of-surgery",
     "href": "lci_surgery.html#risks-of-surgery",
     "title": "Surgery of the Esophagus",
@@ -7980,18 +8148,18 @@
     "text": "Medicines at Home - Pain\nAcetaminophen (Tylenol) 4000mg/day (1000mg 4x/day)\nGabapentin 300mg 3 times/day (works best if taken daily)\nOxycodone\n\nTake as needed in addition to Tylenol and gabapentin\nWill begin reducing dosage at first postoperative visit\nMost patients can discontinue by 4 weeks after surgery\nNO DRIVING WHILE ON OXYCODONE"
   },
   {
-    "objectID": "lci_surgery.html#medicines-at-home---non-steroidals",
-    "href": "lci_surgery.html#medicines-at-home---non-steroidals",
+    "objectID": "lci_surgery.html#non-steroidals-anti-inflammatory-nsaid",
+    "href": "lci_surgery.html#non-steroidals-anti-inflammatory-nsaid",
     "title": "Surgery of the Esophagus",
-    "section": "Medicines at Home - Non-steroidals",
-    "text": "Medicines at Home - Non-steroidals\nNon-steroidal anti-inflammatories (Celebrex)\n\n200 mg every 12 hours starting 2 weeks after surgery\n\nNO GOODY POWDERS OR BCs\n\n(Can cause permanent scarring at the surgery site)"
+    "section": "Non-steroidals Anti Inflammatory (NSAID)",
+    "text": "Non-steroidals Anti Inflammatory (NSAID)\nNon-steroidal anti-inflammatories (Celebrex)\n\n200 mg every 12 hours starting 2 weeks after surgery\n\nNO GOODY POWDERS OR BCs\n\n(Can cause permanent scarring at the surgery site)"
   },
   {
-    "objectID": "lci_surgery.html#medicines-at-home---acid-blockers",
-    "href": "lci_surgery.html#medicines-at-home---acid-blockers",
+    "objectID": "lci_surgery.html#acid-blockers",
+    "href": "lci_surgery.html#acid-blockers",
     "title": "Surgery of the Esophagus",
-    "section": "Medicines at Home - Acid Blockers",
-    "text": "Medicines at Home - Acid Blockers\nAcid blocker (Omeprazole, Nexium,etc)\n\nWill stay on for at 1-2 years to prevent acid reflux\nImportant in preventing scarring at anastomosis (new connection between esophagus and stomach)\nTo administer through feeding tube, open capsule and resuspend beads in 60mL (2oz) of water"
+    "section": "Acid Blockers",
+    "text": "Acid Blockers\nAcid blocker = Proton Pump Inhibitors (Omeprazole, Nexium,etc)\n\nWill stay on for at 1-2 years to prevent acid reflux\nImportant in preventing scarring at anastomosis (new connection between esophagus and stomach)\nTo administer through feeding tube, open capsule and resuspend beads in 60mL (2oz) of water"
   },
   {
     "objectID": "lci_surgery.html#medicines-at-home",
@@ -8001,11 +8169,11 @@
     "text": "Medicines at Home\nReglan – Helps stomach empty\n\nWill plan to stop after six weeks\n0.1% risk of tardive dyskinesia (nervous tic)\n\nRemeron – Helps improve appetite\n\nCan cause vivid dreams\nUsed for several weeks after surgery\nWill stop within first three months of surgery"
   },
   {
-    "objectID": "lci_surgery.html#medicines-at-home---metoprolol-beta-blockers",
-    "href": "lci_surgery.html#medicines-at-home---metoprolol-beta-blockers",
+    "objectID": "lci_surgery.html#metoprolol-beta-blockers",
+    "href": "lci_surgery.html#metoprolol-beta-blockers",
     "title": "Surgery of the Esophagus",
-    "section": "Medicines at Home - Metoprolol = Beta Blockers",
-    "text": "Medicines at Home - Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blockerprior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
+    "section": "Metoprolol = Beta Blockers",
+    "text": "Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed to prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blockerprior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
   },
   {
     "objectID": "lci_surgery.html#sleeping",
@@ -8057,11 +8225,18 @@
     "text": "Nutritional Replacements after Surgery\nVitamin or iron replacements can be ordered by your primary care physician, medical oncologist, or surgeon\nIf levels are low, repeat testing in several months may be needed."
   },
   {
-    "objectID": "lci_surgery.html#team-members",
-    "href": "lci_surgery.html#team-members",
+    "objectID": "lci_surgery.html#team-members---physicians",
+    "href": "lci_surgery.html#team-members---physicians",
     "title": "Surgery of the Esophagus",
-    "section": "Team Members",
-    "text": "Team Members\nPrimary Care Provider\nGastroenterologist\nMedical Oncologist (chemotherapy)\nRadiation Oncologist (radiation)\nSurgeons\n\nJonathan Salo\nJeffrey Hagen\nMichael Roach\n\nDietitian - Liz Koch\nNurses - Brandon Galloway & Kit Sluder\nSchedulers - Stacey Singleton & Toney Bethea"
+    "section": "Team Members - Physicians",
+    "text": "Team Members - Physicians\nPrimary Care Provider\nGastroenterologist\nMedical Oncologist (chemotherapy)\nRadiation Oncologist (radiation)\nSurgeons\n\nJonathan Salo\nJeffrey Hagen\nMichael Roach"
+  },
+  {
+    "objectID": "lci_surgery.html#team-members---support-staff",
+    "href": "lci_surgery.html#team-members---support-staff",
+    "title": "Surgery of the Esophagus",
+    "section": "Team Members - Support Staff",
+    "text": "Team Members - Support Staff\nDietitian - Liz Koch\nNurses - Brandon Galloway & Kit Sluder & Rebecca Wicks\nSchedulers - Stacey Singleton & Tony Bethea\nNavigator - Laura Swift"
   },
   {
     "objectID": "lci_surgery.htm#surgery-for-esophageal-cancer",
@@ -8139,6 +8314,20 @@
     "title": "Surgery of the Esophagus",
     "section": "Minimally-invasive McKeown Esophagectomy",
     "text": "Minimally-invasive McKeown Esophagectomy\n\n\nIn this case, a connection between the esophagus and the stomach is made in the neck."
+  },
+  {
+    "objectID": "lci_surgery.htm#colon-interposition",
+    "href": "lci_surgery.htm#colon-interposition",
+    "title": "Surgery of the Esophagus",
+    "section": "Colon Interposition",
+    "text": "Colon Interposition\n\n\nIf the stomach is not suitable to make a new esophagus, the colon can be used to replace the esophagus"
+  },
+  {
+    "objectID": "lci_surgery.htm#colon-interposition-1",
+    "href": "lci_surgery.htm#colon-interposition-1",
+    "title": "Surgery of the Esophagus",
+    "section": "Colon Interposition",
+    "text": "Colon Interposition"
   },
   {
     "objectID": "lci_surgery.htm#risks-of-surgery",
@@ -8386,18 +8575,18 @@
     "text": "Medicines at Home - Pain\nAcetaminophen (Tylenol) 4000mg/day (1000mg 4x/day)\nGabapentin 300mg 3 times/day (works best if taken daily)\nOxycodone\n\nTake as needed in addition to Tylenol and gabapentin\nWill begin reducing dosage at first postoperative visit\nMost patients can discontinue by 4 weeks after surgery\nNO DRIVING WHILE ON OXYCODONE"
   },
   {
-    "objectID": "lci_surgery.htm#medicines-at-home---non-steroidals",
-    "href": "lci_surgery.htm#medicines-at-home---non-steroidals",
+    "objectID": "lci_surgery.htm#non-steroidals-anti-inflammatory-nsaid",
+    "href": "lci_surgery.htm#non-steroidals-anti-inflammatory-nsaid",
     "title": "Surgery of the Esophagus",
-    "section": "Medicines at Home - Non-steroidals",
-    "text": "Medicines at Home - Non-steroidals\nNon-steroidal anti-inflammatories (Celebrex)\n\n200 mg every 12 hours starting 2 weeks after surgery\n\nNO GOODY POWDERS OR BCs\n\n(Can cause permanent scarring at the surgery site)"
+    "section": "Non-steroidals Anti Inflammatory (NSAID)",
+    "text": "Non-steroidals Anti Inflammatory (NSAID)\nNon-steroidal anti-inflammatories (Celebrex)\n\n200 mg every 12 hours starting 2 weeks after surgery\n\nNO GOODY POWDERS OR BCs\n\n(Can cause permanent scarring at the surgery site)"
   },
   {
-    "objectID": "lci_surgery.htm#medicines-at-home---acid-blockers",
-    "href": "lci_surgery.htm#medicines-at-home---acid-blockers",
+    "objectID": "lci_surgery.htm#acid-blockers",
+    "href": "lci_surgery.htm#acid-blockers",
     "title": "Surgery of the Esophagus",
-    "section": "Medicines at Home - Acid Blockers",
-    "text": "Medicines at Home - Acid Blockers\nAcid blocker (Omeprazole, Nexium,etc)\n\nWill stay on for at 1-2 years to prevent acid reflux\nImportant in preventing scarring at anastomosis (new connection between esophagus and stomach)\nTo administer through feeding tube, open capsule and resuspend beads in 60mL (2oz) of water"
+    "section": "Acid Blockers",
+    "text": "Acid Blockers\nAcid blocker = Proton Pump Inhibitors (Omeprazole, Nexium,etc)\n\nWill stay on for at 1-2 years to prevent acid reflux\nImportant in preventing scarring at anastomosis (new connection between esophagus and stomach)\nTo administer through feeding tube, open capsule and resuspend beads in 60mL (2oz) of water"
   },
   {
     "objectID": "lci_surgery.htm#medicines-at-home",
@@ -8407,11 +8596,11 @@
     "text": "Medicines at Home\nReglan – Helps stomach empty\n\nWill plan to stop after six weeks\n0.1% risk of tardive dyskinesia (nervous tic)\n\nRemeron – Helps improve appetite\n\nCan cause vivid dreams\nUsed for several weeks after surgery\nWill stop within first three months of surgery"
   },
   {
-    "objectID": "lci_surgery.htm#medicines-at-home---metoprolol-beta-blockers",
-    "href": "lci_surgery.htm#medicines-at-home---metoprolol-beta-blockers",
+    "objectID": "lci_surgery.htm#metoprolol-beta-blockers",
+    "href": "lci_surgery.htm#metoprolol-beta-blockers",
     "title": "Surgery of the Esophagus",
-    "section": "Medicines at Home - Metoprolol = Beta Blockers",
-    "text": "Medicines at Home - Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blockerprior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
+    "section": "Metoprolol = Beta Blockers",
+    "text": "Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed to prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blockerprior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
   },
   {
     "objectID": "lci_surgery.htm#sleeping",
@@ -8463,11 +8652,18 @@
     "text": "Nutritional Replacements after Surgery\nVitamin or iron replacements can be ordered by your primary care physician, medical oncologist, or surgeon\nIf levels are low, repeat testing in several months may be needed."
   },
   {
-    "objectID": "lci_surgery.htm#team-members",
-    "href": "lci_surgery.htm#team-members",
+    "objectID": "lci_surgery.htm#team-members---physicians",
+    "href": "lci_surgery.htm#team-members---physicians",
     "title": "Surgery of the Esophagus",
-    "section": "Team Members",
-    "text": "Team Members\nPrimary Care Provider\nGastroenterologist\nMedical Oncologist (chemotherapy)\nRadiation Oncologist (radiation)\nSurgeons\n\nJonathan Salo\nJeffrey Hagen\nMichael Roach\n\nDietitian - Liz Koch\nNurses - Brandon Galloway & Kit Sluder\nSchedulers - Stacey Singleton & Toney Bethea"
+    "section": "Team Members - Physicians",
+    "text": "Team Members - Physicians\nPrimary Care Provider\nGastroenterologist\nMedical Oncologist (chemotherapy)\nRadiation Oncologist (radiation)\nSurgeons\n\nJonathan Salo\nJeffrey Hagen\nMichael Roach"
+  },
+  {
+    "objectID": "lci_surgery.htm#team-members---support-staff",
+    "href": "lci_surgery.htm#team-members---support-staff",
+    "title": "Surgery of the Esophagus",
+    "section": "Team Members - Support Staff",
+    "text": "Team Members - Support Staff\nDietitian - Liz Koch\nNurses - Brandon Galloway & Kit Sluder & Rebecca Wicks\nSchedulers - Stacey Singleton & Tony Bethea\nNavigator - Laura Swift"
   },
   {
     "objectID": "jejunostomy.html",
