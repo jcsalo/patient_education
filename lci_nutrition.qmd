@@ -22,5 +22,28 @@ editor: visual
 bibliography: zotero.bib
 ---
 
+## GI Tract Anatomy
+
+:::::: columns
+::: {.column width="50%"}
+-   Esophagus delivers food to the stomach
+-   Stomach stores food and delivers it in small quantities to the jejunum
+-   Jejunum begins digestion in the small intestines
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_Anatomy_Labels.png)
+:::
+::::
+::::::
+
+::: {.content-hidden unless-format="docx"}
+Normally, food passes from the mouth into the esophagus, and then into the stomach. The stomach serves as a reservoir for food, to allow you to eat a big Thanksgiving. The stomach starts digestion, and then after the meal slowly allows small portions of food to pass into the small intestines, where most of the digestion occurs.
+:::
 
 {{< include lci_nutrition_guts.qmd >}}
+
+{{< include lci_gastrostomy_guts.qmd >}}
+
+{{< include lci_jejunostomy_guts.qmd >}}

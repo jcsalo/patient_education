@@ -214,7 +214,6 @@ The risk of cancer recurrence is minimized
 
 {{< include lci_flot_guts.qmd >}}
 
-
 ## Adenocarcinoma Treatment Options
 
 ::::: columns
@@ -258,15 +257,7 @@ The risk of cancer recurrence is minimized
 :::
 :::::
 
-## Chemotherapy
 
-Chemotherapy drugs are administered intravenously.
-
-There are several options for intravenous access:
-
--   Peripheral IVs in the hand
--   PICC line (Peripheral Inserted Central Catheter)
--   Central Venous Port
 
 {{< include lci_cvport_guts.qmd >}}
 
@@ -282,6 +273,11 @@ CT (or PET) scan performed after preoperative therapy
 
 {{< include lci_treatment_prep_guts.qmd >}}
 
-## Surgery
+{{< include lci_nutrition_guts.qmd >}}
 
-[Surgery Slideshow](lci_surgery.htm)
+{{< include lci_gastrostomy_guts.qmd >}}
+
+{{< include lci_jejunostomy_guts.qmd >}}
+
+{{< include lci_surgery_guts.qmd >}}
+

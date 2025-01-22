@@ -10,34 +10,13 @@ Staging refers to the tests to determine
 
 ## Cancer Staging {tbl-colwidths="[20,10,70]"}
 
-
 -   **T** = Tumor - Depth of growth into the wall\
     \
 -   **N** = Nodes - Spread to the lymph nodes\
     \
 -   **M** = Metastasis - Spread to liver, lungs, or bone
 
-## Layers of the Wall
 
-::: {.content-hidden unless-format="docx"}
-If we look at the walls of digestive tract, we see several layers:
-:::
-
-:::::: columns
-::: {.column width="50%"}
--   Mucosa - Inner layer\
-    \
--   Muscle wall (muscularis)\
-    \
--   Lymph nodes located in fat outside the muscle
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor1_ai.png)
-:::
-::::
-::::::
 
 ## Early Stage Cancers
 

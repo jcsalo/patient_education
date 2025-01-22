@@ -190,7 +190,6 @@ The risk of cancer recurrence is minimized
 ::::
 ::::::
 
-
 {{< include lci_cross_guts.qmd >}}
 
 ## Chemotherapy
@@ -249,6 +248,8 @@ $\Rightarrow$ Surgery if a recurrence in the esophagus is found
 
 {{< include lci_treatment_prep_guts.qmd >}}
 
-## Surgery
+{{< include lci_nutrition_guts.qmd >}}
 
-[Surgery Slideshow](lci_surgery.htm)
+{{< include lci_gastrostomy_guts.qmd >}}
+
+{{< include lci_surgery_guts.qmd >}}

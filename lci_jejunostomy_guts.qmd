@@ -1,0 +1,63 @@
+## Jejunostomy Tube
+
+::::::: columns
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+-   Allows nutrition to bypass the esophagus and stomach
+-   Tube placed in small intestine
+-   Requires a pump to adminster feedings slowly
+-   Feeding usually done at night
+:::
+::::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+Jejunostomy = Small Intestine ![](https://deidt7p41jzcy.cloudfront.net/jtube_ai.png)
+:::
+::::
+:::::::
+
+::: {.content-hidden unless-format="docx"}
+:::
+
+## Jejunostomy Typical Regimen
+
+-   Jejunostomy tube feeds for 16 hours (6pm to 10am)
+    -   Men: 75mL/hour x 16 hours = 5 cartons
+    -   Women: 60mL/hour x 16 hours = 4 cartons
+-   Water 240ml (8oz) via syringe 4x/day
+
+Hospital nurses will teach use of the feeding tube pump
+
+## Jejunostomy Feeds with Diabetes
+
+Jejunostomy feedings elevate blood sugars
+
+-   Insulin may be required along with feeds
+
+Typical Pattern for tube feeds
+
+-   Feeds run via pump from 6pm to 10am
+-   Insulin at 6pm (70/30 insulin)
+-   Insulin at Midnight (70/30 insulin)
+-   No insulin if tube feedings are not run
+
+
+## Jejunostomy Video
+
+::::::: columns
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+A video is available to help become familiar with the feeding jejunostomy
+:::
+::::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/jejunostomy_qrcode.png)
+:::
+::::
+:::::::
+
+::: {.content-hidden unless-format="docx"}
+:::

@@ -57,39 +57,7 @@ Water administered through feeding tube
 -   Usually 8oz 4 times/day
 -   Important to prevent dehydration
 
-## Feeding Jejunostomy - Typical Regimen
-
--   Jejunostomy tube feeds for 16 hours (6pm to 10am)
-    -   Men: 75mL/hour x 16 hours = 5 cartons
-    -   Women: 60mL/hour x 16 hours = 4 cartons
--   Water 240ml (8oz) via syringe 4x/day
-
-Hospital nurses will teach use of the feeding tube pump
-
-## Jejunostomy Feeds with Diabetes
-
-Jejunostomy feedings elevate blood sugars
-
--   Insulin may be required along with feeds
-
-Typical Pattern for tube feeds
-
--   Feeds run via pump from 6pm to 10am
--   Insulin at 6pm (70/30 insulin)
--   Insulin at Midnight (70/30 insulin)
--   No insulin if tube feedings are not run
-
-## Feeding Jejunostomy
-
-::::: columns
-::: {.column width="50%"}
-Video shows how to set up and run the jejunostomy tube pump
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/jtubevideo_qr.png)
-:::
-:::::
+{{< include lci_jejunostomy_guts.qmd >}}
 
 ## Activity
 
@@ -183,22 +151,22 @@ Spread out protein during the day (20gm/meal)
 
 ## Medicines at Home - Pain
 
-Acetaminophen (Tylenol) 4000mg/day (1000mg 4x/day)
+Acetaminophen (Tylenol) 1000mg 4x/day
 
-Gabapentin 300mg 3 times/day (works best if taken daily)
+Gabapentin 300mg 3 times/day
 
 Oxycodone
 
--   Take as needed in addition to Tylenol and gabapentin
--   Will begin reducing dosage at first postoperative visit
--   Most patients can discontinue by 4 weeks after surgery
+-   As needed in addition to Tylenol/gabapentin
+-   Will begin reducing dose at first postop visit
+-   Can usually discontinue by 4 weeks
 -   NO DRIVING WHILE ON OXYCODONE
 
 ## Non-steroidals Anti Inflammatory (NSAID)
 
 Non-steroidal anti-inflammatories (Celebrex)
 
--   200 mg every 12 hours starting 2 weeks after surgery
+-   200 mg every 12 hours starting at 2 weeks
 
 NO GOODY POWDERS OR BCs
 
@@ -273,7 +241,7 @@ Wean off medicines added after surgery
 
 Continue acid blockers for at least 1 year
 
-## Jejunostomy Removal 
+## Jejunostomy Removal
 
 Jejunostomy tube is removed in the office once you can take in enough nutrients by mouth
 
@@ -307,8 +275,8 @@ Vitamin or iron replacements can be ordered by:
 
 If levels are low
 
-- Replacement
-- Repeat testing in 3-6 months
+-   Replacement
+-   Repeat testing in 3-6 months
 
 ## Team Members - Physicians
 

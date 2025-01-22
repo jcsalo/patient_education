@@ -253,6 +253,10 @@ CT or PET scan will be performed after preoperative therapy
 
 {{< include lci_treatment_prep_guts.qmd >}}
 
-## Surgery
+{{< include lci_nutrition_guts.qmd >}}
 
-[Surgery Slideshow](lci_surgery.htm)
+{{< include lci_gastrostomy_guts.qmd >}}
+
+{{< include lci_jejunostomy_guts.qmd >}}
+
+{{< include lci_surgery_guts.qmd >}}

@@ -5,19 +5,19 @@ output: html_document
 
 |  |  |  |  |  |
 |---------------|---------------|---------------|---------------|---------------|
-| Esophagus T3 | [HTML Slides](lci_esot3.htm) | [Handout](lci_esot3.html) | [PPTx](lci_esot3.pptx) | [Script](lci_esot3.docx) |
-| Esophagus ACA | [HTML Slides](lci_esot3_aca.htm) | [Handout](lci_esot3_aca.html) | [PPTx](lci_esot3_aca.pptx) | [Script](lci_esot3_aca.docx) |
-| Esophagus SCCA | [HTML Slides](lci_eso_scca.htm) | [Handout](lci_eso_scca.html) | [PPTx](lci_eso_scca.pptx) | [Script](lci_eso_scca.docx) |
-| Esophagus T2 | [HTML Slides](lci_esot2.htm) | [Handout](lci_esot2.html) | [PPTx](lci_esot2.pptx) | [Script](lci_esot2.docx) |
-| Esophagus T1 | [HTML Slides](lci_esot1.htm) | [Handout](lci_esot1.html) | [PPTx](lci_esot1.pptx) | [Script](lci_esot1.docx) |
-| Esophagus M1 | [HTML Slides](lci_esom1.htm) | [Handout](lci_esom1.html) | [PPTx](lci_esom1.pptx) | [Script](lci_esom1.docx) |
-| Esophagectomy | [HTML Slides](lci_surgery.htm) | [Handout](lci_surgery.html) | [PPTx](lci_surgery.pptx) | [Script](lci_surgery.docx) |
+| Esophagus T3 | [HTML Slides](lci_esot3.htm) | [Handout](lci_esot3.pdf) | [PPTx](lci_esot3.pptx) | [Script](lci_esot3.docx) |
+| Esophagus ACA | [HTML Slides](lci_esot3_aca.htm) | [Handout](lci_esot3_aca.pdf) | [PPTx](lci_esot3_aca.pptx) | [Script](lci_esot3_aca.docx) |
+| Esophagus SCCA | [HTML Slides](lci_eso_scca.htm) | [Handout](lci_eso_scca.pdf) | [PPTx](lci_eso_scca.pptx) | [Script](lci_eso_scca.docx) |
+| Esophagus T2 | [HTML Slides](lci_esot2.htm) | [Handout](lci_esot2.pdf) | [PPTx](lci_esot2.pptx) | [Script](lci_esot2.docx) |
+| Esophagus T1 | [HTML Slides](lci_esot1.htm) | [Handout](lci_esot1.pdf) | [PPTx](lci_esot1.pptx) | [Script](lci_esot1.docx) |
+| Esophagus M1 | [HTML Slides](lci_esom1.htm) | [Handout](lci_esom1.pdf) | [PPTx](lci_esom1.pptx) | [Script](lci_esom1.docx) |
+| Esophagectomy | [HTML Slides](lci_surgery.htm) | [Handout](lci_surgery.pdf) | [PPTx](lci_surgery.pptx) | [Script](lci_surgery.docx) |
 ||||||
-| Gastric T3 | [HTML Slides](lci_gastrict3.htm) | [Handout](lci_gastrict3.html) | [PPTx](lci_gastrict3.pptx) | [Script](lci_gastrict3.docx) |
-| CDH1 | [HTML Slides](lci_cdh1.htm) | [Handout](lci_cdh1.html) | [PPTx](lci_cdh1.pptx) | [Script](lci_cdh1.docx) |
-| Gastric GIST | [HTML Slides](lci_gist.htm) | [Handout](lci_gist.html) | [PPTx](lci_gist.pptx) | [Script](lci_gist.docx) |
-| Gastrectomy | [HTML Slides](lci_gastrectomy.htm) | [Handout](lci_gastrectomy.html) | [PPTx](lci_gastrectomy.pptx) | [Script](lci_gastrectomy.docx) |
+| Gastric T3 | [HTML Slides](lci_gastrict3.htm) | [Handout](lci_gastrict3.pdf) | [PPTx](lci_gastrict3.pptx) | [Script](lci_gastrict3.docx) |
+| CDH1 | [HTML Slides](lci_cdh1.htm) | [Handout](lci_cdh1.pdf) | [PPTx](lci_cdh1.pptx) | [Script](lci_cdh1.docx) |
+| Gastric GIST | [HTML Slides](lci_gist.htm) | [Handout](lci_gist.pdf) | [PPTx](lci_gist.pptx) | [Script](lci_gist.docx) |
+| Gastrectomy | [HTML Slides](lci_gastrectomy.htm) | [Handout](lci_gastrectomy.pdf) | [PPTx](lci_gastrectomy.pptx) | [Script](lci_gastrectomy.docx) |
 ||||||
-| Nutrition | [HTML Slides](lci_nutrition.htm) | [Handout](lci_nutrition.html) | [PPTx](lci_nutrition.pptx) | [Script](lci_nutrition.docx) |
-| CV Port | [HTML Slides](lci_cvport.htm) | [Handout](lci_cvport.html) | [PPTx](lci_cvport.pptx) | [Script](lci_cvport.docx) |
-| Laparoscopy | [HTML Slides](lci_laparoscopy.htm) | [Handout](lci_laparoscopy.html) | [PPTx](lci_laparoscopy.pptx) | [Script](lci_laparoscopy.docx) |
+| Nutrition | [HTML Slides](lci_nutrition.htm) | [Handout](lci_nutrition.pdf) | [PPTx](lci_nutrition.pptx) | [Script](lci_nutrition.docx) |
+| CV Port | [HTML Slides](lci_cvport.htm) | [Handout](lci_cvport.pdf) | [PPTx](lci_cvport.pptx) | [Script](lci_cvport.docx) |
+| Laparoscopy | [HTML Slides](lci_laparoscopy.htm) | [Handout](lci_laparoscopy.pdf) | [PPTx](lci_laparoscopy.pptx) | [Script](lci_laparoscopy.docx) |

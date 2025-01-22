@@ -79,7 +79,6 @@ This table summarizes four different treatment categories:
 
 {{< include lci_flot_guts.qmd >}}
 
-
 ## Tumor Biomarkers
 
 Pathology tests show whether other drugs may be helpful:
@@ -100,14 +99,13 @@ CT or PET scan performed after preoperative therapy
 
 \
 
-
 -   Surgery performed after restaging
 -   Timing depends upon recovery from therapy
 
-
-
 {{< include lci_treatment_prep_guts.qmd >}}
 
-## Surgery
+{{< include lci_nutrition_guts.qmd >}}
 
-[Gastrectomy Slideshow](lci_gastrectomy.htm)
+{{< include lci_jejunostomy_guts.qmd >}}
+
+{{< include lci_gastrectomyt3_guts.qmd >}}

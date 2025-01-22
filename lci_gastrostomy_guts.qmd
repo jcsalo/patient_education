@@ -1,0 +1,48 @@
+
+## Feeding Tubes
+
+::::::: columns
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+Jejunostomy = Small Intestine ![](https://deidt7p41jzcy.cloudfront.net/jtube_ai.png)
+:::
+::::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+Gastrostomy = Stomach ![](https://deidt7p41jzcy.cloudfront.net/gtube_ai.png)
+:::
+::::
+:::::::
+
+::: {.content-hidden unless-format="docx"}
+There are two types of feeding tubes:
+
+-   Jejunostomy tubes are placed in the small intestine
+
+-   Gastrostomy tubes are placed in the stomach
+
+Your dietitian and physician will help you decide which tube is best for your situation
+:::
+
+## Gastrostomy Tube
+
+Feeding Gastrostomy
+
+-   Feeding with a syringe several times per day.
+-   Tube can be hidden underneath clothing
+-   Tube does not interfere with eating by mouth
+-   Removed easily in the office when no longer needed
+
+## Gastrostomy Tube Methods
+
+A gastrostomy tube can be placed either by endoscopy, which is called a PEG tube
+
+A gastrostomy tube can also be placed by laparoscopy, which is usually preferred if surgery on the esophagus is planned in the future.
+
+Your surgeon will help you decide which kind of tube is best for you. This is especially important if you will need esophageal surgery in the future, as the stomach is frequently used to make a new esophagus
+
+## Gastrostomy Tube
+
+-   Outpatient Placement (go home the same day)
+-   Central venous port can be placed at the same time (if needed)

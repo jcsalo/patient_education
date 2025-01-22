@@ -1,6 +1,6 @@
 ## Surgery for Esophageal Cancer
 
-Surgery for esophageal cancer is performed in several situations:
+Surgery for esophageal cancer is performed for:
 
 -   Superficial Tumors (T1) not completely removed by endoscopy
 -   Localized Tumors (T2N0)
@@ -73,22 +73,12 @@ The new esophagus is now brought up into the chest. A new connection is made bet
 :::
 :::::
 
-## Minimally-invasive Ivor Lewis
-
-::::: columns
-::: {.column width="50%"}
-We have found this is the best option for most of our patients. In some cases, an open approach is still necessary.
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/MIE_IvorLewisArtboard.png)
-:::
-:::::
-
 ## Open Ivor Lewis
 
 ::::: columns
 ::: {.column width="50%"}
+We use the mininally-invasive approach in 95% of cases
+
 In some cases, an open approach is still necessary.
 :::
 
@@ -102,6 +92,8 @@ In some cases, an open approach is still necessary.
 ::::: columns
 ::: {.column width="50%"}
 For patients with tumors in the upper esophagus, we need to remove more of the esophagus
+
+We need to remove the whole esophagus, including the portion in the neck
 :::
 
 ::: {.column width="50%"}
@@ -109,30 +101,17 @@ For patients with tumors in the upper esophagus, we need to remove more of the e
 :::
 :::::
 
-## Total Esophagectomy
+## McKeown Esophagectomy
 
 ::::: columns
 ::: {.column width="50%"}
-For those patients, we need to remove the whole esophagus, including the portion in the neck.
+All of esophagus removed ![](https://deidt7p41jzcy.cloudfront.net/Eso_ResectionTotalArtboard.png)
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_ResectionTotalArtboard.png)
+Connection made in the neck ![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_McKeownArtboard.png)
 :::
 :::::
-
-## Minimally-invasive McKeown Esophagectomy
-
-::::: columns
-::: {.column width="50%"}
-In this case, a connection between the esophagus and the stomach is made in the neck.
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_McKeownArtboard.png)
-:::
-:::::
-
 
 ## Colon Interposition
 
@@ -146,15 +125,9 @@ If the stomach is not suitable to make a new esophagus, the colon can be used to
 :::
 :::::
 
-
 ## Colon Interposition
 
-
 ![](https://deidt7p41jzcy.cloudfront.net/colon_interposition_elseiver.jpg)
-
-
-
-
 
 ## Risks of Surgery
 
@@ -179,7 +152,7 @@ The anastomosis is surgical connection between the esophagus and the stomach.
 
 ::::: columns
 ::: {.column width="50%"}
-If anastomosis does not heal properly:
+If anastomosis does not heal:
 
 -   Leakage of fluid from the esophagus
 -   Infection in the space between the lungs
@@ -195,7 +168,7 @@ If anastomosis does not heal properly:
 
 ::::: columns
 ::: {.column width="50%"}
-If an anastomotic leak does occur:
+If an anastomotic leak occurs:
 
 -   Some leaks will seal on their own
 -   A stent may be required to help healing
@@ -292,6 +265,5 @@ Risks related to Surgery
 
 : Risks of Death within 90 Days of Surgery
 
-{{< include lci_treatment_prep_guts.qmd >}}
 
 {{< include lci_mie_guts.qmd >}}

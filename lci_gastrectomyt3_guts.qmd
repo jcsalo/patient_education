@@ -1,71 +1,16 @@
----
-title: "GI Stromal Tumors of the Stomach"
-format: 
-  pptx: 
-    reference-doc: template.pptx
-  revealjs:
-    slide-number: c/t
-    width: 1280
-    height: 720
-    logo: "atriumlogo.jpg"
-    footer: "[LCI GI Oncology](https://jcsalo.github.io/patient_education/LCI.html)"
-    css: "lci_styles.css"
-    theme: [simple, lci.scss]
-    echo: false
-    transition: fade
-    #output-file: lci_esot3_slides.html
-    pdf-separate-fragments: true
-  html: default
-  docx:
-    number-sections: true
-    number-depth: 3
-editor: visual
-bibliography: zotero.bib
----
 
-## GI Stromal Tumors
+## Stomach Cancer Surgery Goals
 
--   Arise from the wall of the stomach
--   Grow slowly over time
--   Lymph nodes rarely involved
--   Not conventional stomach cancer
+Staging refers to the tests to determine
 
-## GIST vs Adenocarcinoma
+-   Remove the tumor
+-   Remove lymph nodes (depends upon tumor type)
+-   Preserve stomach function
+-   Reconstruct GI tract
 
-::::: columns
-::: {.column width="40%"}
-**GIST**
+**Treatment options depend upon the cancer stage**
 
--   Starts from wall of stomach
--   Slow growing
--   Rarely spreads to lymph nodes
-:::
-
-::: {.column width="60%"}
-**Adenocarcinoma**
-
--   Conventional "stomach cancer"
--   Starts from lining of stomach
--   Can spread to lymph nodes
--   More aggressive
-:::
-:::::
-
-## Benign or Malignant?
-
-GIST tumors have a range of behavior:
-
--   Small tumors tend to behave in a benign manner but can grow over time
--   Larger tumors tend to behave in a malignant (cancerous) manner
-
-## GIST Treatment
-
--   Initial treatment usually surgery
--   Gleevec pills after surgery for patients at high risk of recurrence
-    -   1 to 3 years depending upon risk
--   Large tumors treated with Gleevec before surgery
-
-## Patial Gastrectomy
+## Distal Cancers
 
 ::: {.content-hidden unless-format="docx"}
 Distal cancers are those in the lower part of the stomach
@@ -75,7 +20,7 @@ Distal cancers are those in the lower part of the stomach
 ::: {.column width="50%"}
 \
 \
-GI Stromal Tumor can come in a variety of sizes
+Distal cancers are those in the lower part of the stomach
 :::
 
 :::: {.column width="50%"}
@@ -91,9 +36,11 @@ GI Stromal Tumor can come in a variety of sizes
 ::: {.column width="50%"}
 \
 
--   Tumor removed from wall
--   Stomach wall closed
--   Lymph nodes not removed
+-   Removes the tumor
+-   Does not remove lymph nodes
+-   Best suited for:
+    -   Small adenocarcinoma
+    -   GI Stromal Tumors
 :::
 
 :::: {.column width="50%"}
@@ -127,36 +74,14 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 Locally-advanced cancers are those that have grown through the wall of the stomach
 :::
 
-## Risks of Partial Gastrectomy
-
-:::::: columns
-::: {.column width="50%"}
-\
-
--   Leakage from closure of wall
--   Bleeding requiring return to surgery
--   Delayed stomach emptying
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_partial.png)
-:::
-::::
-::::::
-
-::: {.content-hidden unless-format="docx"}
-Locally-advanced cancers are those that have grown through the wall of the stomach
-:::
-
 ## Distal Gastrectomy
 
 :::::: columns
 ::: {.column width="50%"}
-\
-
 -   Removes bottom half of the stomach
--   Rarely required for GI Stromal Tumors
+-   Does not remove all lymph nodes
+-   Suitable for small adenocarcinoma
+-   Suitable for larger GI Stromal Tumors
 :::
 
 :::: {.column width="50%"}
@@ -189,6 +114,26 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 ::: {.content-hidden unless-format="docx"}
 Locally-advanced cancers are those that have grown through the wall of the stomach
 :::
+
+## Body Cancers
+
+::: {.content-hidden unless-format="docx"}
+Some cancers are found in the body of the stomach
+:::
+
+:::::: columns
+::: {.column width="50%"}
+\
+\
+Body is the mid-portion of the stomach
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/gast_body.png)
+:::
+::::
+::::::
 
 ## Subtotal Gastrectomy
 
@@ -198,7 +143,8 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 \
 
 -   Removes bottom 2/3 of stomach
--   Rarely required for GI Stromal Tumors
+-   Removes nearby lymph nodes
+-   Reconstruction with small intestine
 :::
 
 :::: {.column width="50%"}
@@ -253,40 +199,25 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
 :::
 
-## Total Gastrectomy
+{{< include lci_total_gastrectomy_guts.qmd >}}
+
+## Esophagogastrectomy
 
 :::::: columns
 ::: {.column width="50%"}
 \
-- Removes all of the stomach - Very rarely required for GI Stromal Tumors
+
+-   Removes top part of stomach
+-   Remove bottom half of esophagus
+-   Surgery in both abdomen and chest
 :::
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_total.png)
+![](https://deidt7p41jzcy.cloudfront.net/MIE_IvorLewisArtboard.png)
 :::
 ::::
 ::::::
-
-::: {.content-hidden unless-format="docx"}
-If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
-:::
-
-## Total Gastrectomy
-
-::::::: columns
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_proximal_tumor.png)
-:::
-::::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_total.png)
-:::
-::::
-:::::::
 
 ::: {.content-hidden unless-format="docx"}
 If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
@@ -333,6 +264,8 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
 :::
 
+{{< include lci_laparoscopy_guts.qmd >}}
+
 ## Risks of Surgery
 
 -   Leak where bowel is joined together (anastomosis)
@@ -340,46 +273,4 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 -   Delayed stomach function
 -   Infection in the abdomen
 
-## Laparoscopy
 
-:::::: columns
-::: {.column width="50%"}
--   Some stomach cancers can spread inside the abdomen
--   Areas of spread can be very small (grain of rice)
--   Laparoscopy can detect spread inside the abdomen
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
-:::
-::::
-::::::
-
-::: {.content-hidden unless-format="docx"}
-Not all patients with esophageal cancer need a laparoscopy.
-
-In general, laparoscopy is considered for cancers that invade from the esophagus into the stomach.
-:::
-
-## Laparoscopy
-
-:::::: columns
-::: {.column width="50%"}
-A laparoscopy is performed under a general anesthetic.
-
--   Several incisions 1/4" long
--   A telescope is inserted to look inside the abdominal cavity.
--   Biopsies can be performed.
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
-:::
-::::
-::::::
-
-{{< include lci_treatment_prep_guts.qmd >}}
-
-[Gastrectomy Slideshow](lci_gsurgery.htm)
