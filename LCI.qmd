@@ -21,3 +21,12 @@ output: html_document
 | Nutrition | [HTML Slides](lci_nutrition.htm) | [Handout](lci_nutrition.pdf) | [PPTx](lci_nutrition.pptx) | [Script](lci_nutrition.docx) |
 | CV Port | [HTML Slides](lci_cvport.htm) | [Handout](lci_cvport.pdf) | [PPTx](lci_cvport.pptx) | [Script](lci_cvport.docx) |
 | Laparoscopy | [HTML Slides](lci_laparoscopy.htm) | [Handout](lci_laparoscopy.pdf) | [PPTx](lci_laparoscopy.pptx) | [Script](lci_laparoscopy.docx) |
+
+## Counseling Forms
+
+[Esophagus](4_EsophagusCounsel2.pdf)
+[Stomach](7_StomachCounsel3.pdf)
+[Gastric Carcinoid](7_Stomach_Counsel_Carcinoid.pldf)
+[Foregut](9_Foregut_Counsel2.pdf)
+[Disability/Return to Work](DisabilityForm.pdf)
+[Google Review](GoogleReview.pdf)
