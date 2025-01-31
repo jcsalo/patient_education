@@ -133,20 +133,6 @@
     "text": "Summary - Locally advanced\nFor patients T3 or Node-positive:\nPatients with squamous cell carcinoma are treated with chemotherapy + radiaiton\nFor patients with adenocarcinoma, there are two options: chemotherapy and radiation prior to surgery OR chemotherapy before and after surgery:\n\n\nAdenocarcinoma\n\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery\nChemo \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Surgery\n\n\nSquamous Cell Carcinoma\n\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery\n\n\n\n\nIf you or a family member have had an encounter with esophageal cancer surgery, I would love to hear about your experience, so please take a minute to leave a comment below. We’re constantly creating new videos, so please subscribe to be notified of new videos when we post them.\n\nI hope you have found this video helpful. This videos and others like it are designed to\neducate patients and families about esophageal cancer\nand equip them for their discussions with their esophageal cancer care team.\nAs always, these videos are no substitute for expert medical advice.\n\nFeel free to leave a comment or a question, or if you have suggestions for future videos.\nHere are some additional videos you may find helpful:\nCentral Venous Port\nSurgery for Esophageal Cancer"
   },
   {
-    "objectID": "lci_gastrostomy_guts.html",
-    "href": "lci_gastrostomy_guts.html",
-    "title": "Patient Education",
-    "section": "",
-    "text": "Jejunostomy = Small Intestine \n\nGastrostomy = Stomach"
-  },
-  {
-    "objectID": "lci_gastrostomy_guts.html#feeding-tubes",
-    "href": "lci_gastrostomy_guts.html#feeding-tubes",
-    "title": "Patient Education",
-    "section": "",
-    "text": "Jejunostomy = Small Intestine \n\nGastrostomy = Stomach"
-  },
-  {
     "objectID": "lci_gastrostomy_guts.html#gastrostomy-tube",
     "href": "lci_gastrostomy_guts.html#gastrostomy-tube",
     "title": "Patient Education",
@@ -172,7 +158,7 @@
     "href": "lci_gastrostomy_guts.htm#feeding-tubes",
     "title": "Patient Education",
     "section": "Feeding Tubes",
-    "text": "Feeding Tubes\n\n\nJejunostomy = Small Intestine \n\nGastrostomy = Stomach"
+    "text": "Feeding Tubes"
   },
   {
     "objectID": "lci_gastrostomy_guts.htm#gastrostomy-tube",
@@ -529,7 +515,7 @@
     "href": "lci_esot3.htm#n-stage",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\nN1 cancers have spread to the lymph nodes."
+    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the nodes.\n\nN0 cancers have not spread to the nodes\nN1 cancers have spread to the nodes."
   },
   {
     "objectID": "lci_esot3.htm#m-stage",
@@ -543,14 +529,14 @@
     "href": "lci_esot3.htm#pet-scan",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "PET scan",
-    "text": "PET scan\n\n\nA PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer."
+    "text": "PET scan\n\n\nPET scan is similar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
   },
   {
     "objectID": "lci_esot3.htm#endoscopic-ultrasound",
     "href": "lci_esot3.htm#endoscopic-ultrasound",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Endoscopic Ultrasound",
-    "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound probe in scope\nEvaluates T stage of cancer"
+    "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound in scope\nEvaluates T stage"
   },
   {
     "objectID": "lci_esot3.htm#laparoscopy",
@@ -564,7 +550,7 @@
     "href": "lci_esot3.htm#laparoscopy-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral incisions 1/4” long\nA telescope is used to examine the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_esot3.htm#treatment-plan",
@@ -641,7 +627,7 @@
     "href": "lci_esot3.htm#chemotherapy-radiation-cross-trial-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_esot3.htm#chemotherapy-radiation-cross-trial-2",
@@ -655,7 +641,7 @@
     "href": "lci_esot3.htm#chemotherapy-radiation---side-effects",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also cause irritation of the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks.\nFeeding tube may be needed for hydration/nutrition."
+    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks.\nFeeding tube may be needed for hydration/nutrition."
   },
   {
     "objectID": "lci_esot3.htm#locally-advanced-adenocarcinoma",
@@ -697,7 +683,7 @@
     "href": "lci_esot3.htm#intravenous-catheter-in-peripheral-vein-iv",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemotherapy"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed in vein of hand or arm\nAllows administration of chemo and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemo"
   },
   {
     "objectID": "lci_esot3.htm#picc-lines",
@@ -711,14 +697,14 @@
     "href": "lci_esot3.htm#central-venous-port",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower in 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device makes chemo easier\nMay shower in 24 hrs\nNo special care at home\nOK for FLOT chemo\nAllows for blood draws"
   },
   {
     "objectID": "lci_esot3.htm#central-venous-port-1",
     "href": "lci_esot3.htm#central-venous-port-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_esot3.htm#central-venous-port-2",
@@ -739,7 +725,7 @@
     "href": "lci_esot3.htm#primary-care-practitioner-pcp",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Primary Care Practitioner (PCP)",
-    "text": "Primary Care Practitioner (PCP)\nA PCP is critical to coordinate care between specialists.\nWe will update your PCP after each visit\nCall our referral line at (844) 235-6998 if you need a PCP"
+    "text": "Primary Care Practitioner (PCP)\nCritical to coordinate care between specialists.\nWe will update your PCP after each visit\nPCP Referral Line (844) 235-6998"
   },
   {
     "objectID": "lci_esot3.htm#my-atrium-patient-portal",
@@ -753,7 +739,7 @@
     "href": "lci_esot3.htm#exercise",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_esot3.htm#smoking-cessation",
@@ -767,14 +753,14 @@
     "href": "lci_esot3.htm#protein-needs",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Protein Needs",
-    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes can provide protein with minimal sugar\n\nProtein Shakes"
+    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes provide protein with minimal sugar"
   },
   {
     "objectID": "lci_esot3.htm#feeding-tubes",
     "href": "lci_esot3.htm#feeding-tubes",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Feeding Tubes",
-    "text": "Feeding Tubes\n\n\nJejunostomy = Small Intestine \n\nGastrostomy = Stomach"
+    "text": "Feeding Tubes"
   },
   {
     "objectID": "lci_esot3.htm#gastrostomy-tube",
@@ -802,14 +788,14 @@
     "href": "lci_esot3.htm#jejunostomy-tube",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Jejunostomy Tube",
-    "text": "Jejunostomy Tube\n\n\n\nAllows nutrition to bypass the esophagus and stomach\nTube placed in small intestine\nRequires a pump to adminster feedings slowly\nFeeding usually done at night\n\n\nJejunostomy = Small Intestine"
+    "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding usually done at night"
   },
   {
     "objectID": "lci_esot3.htm#jejunostomy-typical-regimen",
     "href": "lci_esot3.htm#jejunostomy-typical-regimen",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Jejunostomy Typical Regimen",
-    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube pump"
+    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm-10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube"
   },
   {
     "objectID": "lci_esot3.htm#jejunostomy-feeds-with-diabetes",
@@ -886,7 +872,7 @@
     "href": "lci_esot3.htm#mckeown-esophagectomy",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "McKeown Esophagectomy",
-    "text": "McKeown Esophagectomy\n\n\nAll of esophagus removed \n\nConnection made in the neck"
+    "text": "McKeown Esophagectomy\n\n\n All of esophagus removed\n\n Connection made in the neck"
   },
   {
     "objectID": "lci_esot3.htm#colon-interposition",
@@ -921,7 +907,7 @@
     "href": "lci_esot3.htm#anastomotic-leak-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Anastomotic Leak",
-    "text": "Anastomotic Leak\n\n\nIf anastomosis does not heal:\n\nLeakage of fluid from the esophagus\nInfection in the space between the lungs\nRequires additional time in the hospital"
+    "text": "Anastomotic Leak\n\n\nIf anastomosis doesn’t heal:\n\nLeakage of fluid from the esophagus\nInfection in the space between the lungs\nRequires additional time in the hospital"
   },
   {
     "objectID": "lci_esot3.htm#anastomotic-leak-2",
@@ -942,14 +928,14 @@
     "href": "lci_esot3.htm#pneumonia",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Pneumonia",
-    "text": "Pneumonia\n\n\nPneumonia can occurs in about 10-15% of patients after esophagectomy.\nPneumonia requires treatment with antibiotics and frequently requires a longer hospitalization."
+    "text": "Pneumonia\n\n\nCan occur in 10-15% of patients after esophagectomy.\nRequires treatment with antibiotics and frequently requires a longer hospitalization."
   },
   {
     "objectID": "lci_esot3.htm#preventing-pneumonia",
     "href": "lci_esot3.htm#preventing-pneumonia",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Preventing Pneumonia",
-    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia after surgery:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
+    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
   },
   {
     "objectID": "lci_esot3.htm#minimally-invasive-esophagectomy",
@@ -1033,14 +1019,14 @@
     "href": "lci_esot3.htm#jejunostomy-tube-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Jejunostomy Tube",
-    "text": "Jejunostomy Tube\n\n\n\nAllows nutrition to bypass the esophagus and stomach\nTube placed in small intestine\nRequires a pump to adminster feedings slowly\nFeeding usually done at night\n\n\nJejunostomy = Small Intestine"
+    "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding usually done at night"
   },
   {
     "objectID": "lci_esot3.htm#jejunostomy-typical-regimen-1",
     "href": "lci_esot3.htm#jejunostomy-typical-regimen-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Jejunostomy Typical Regimen",
-    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube pump"
+    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm-10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube"
   },
   {
     "objectID": "lci_esot3.htm#jejunostomy-feeds-with-diabetes-1",
@@ -1278,7 +1264,7 @@
     "href": "lci_esot3.html#n-stage",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\nN1 cancers have spread to the lymph nodes."
+    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the nodes.\n\nN0 cancers have not spread to the nodes\nN1 cancers have spread to the nodes."
   },
   {
     "objectID": "lci_esot3.html#m-stage",
@@ -1292,14 +1278,14 @@
     "href": "lci_esot3.html#pet-scan",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "PET scan",
-    "text": "PET scan\n\n\nA PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer."
+    "text": "PET scan\n\n\nPET scan is similar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
   },
   {
     "objectID": "lci_esot3.html#endoscopic-ultrasound",
     "href": "lci_esot3.html#endoscopic-ultrasound",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Endoscopic Ultrasound",
-    "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound probe in scope\nEvaluates T stage of cancer"
+    "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound in scope\nEvaluates T stage"
   },
   {
     "objectID": "lci_esot3.html#laparoscopy",
@@ -1313,7 +1299,7 @@
     "href": "lci_esot3.html#laparoscopy-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral incisions 1/4” long\nA telescope is used to examine the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_esot3.html#treatment-plan",
@@ -1390,7 +1376,7 @@
     "href": "lci_esot3.html#chemotherapy-radiation-cross-trial-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_esot3.html#chemotherapy-radiation-cross-trial-2",
@@ -1404,7 +1390,7 @@
     "href": "lci_esot3.html#chemotherapy-radiation---side-effects",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also cause irritation of the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks.\nFeeding tube may be needed for hydration/nutrition."
+    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks.\nFeeding tube may be needed for hydration/nutrition."
   },
   {
     "objectID": "lci_esot3.html#locally-advanced-adenocarcinoma",
@@ -1446,7 +1432,7 @@
     "href": "lci_esot3.html#intravenous-catheter-in-peripheral-vein-iv",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemotherapy"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed in vein of hand or arm\nAllows administration of chemo and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemo"
   },
   {
     "objectID": "lci_esot3.html#picc-lines",
@@ -1460,14 +1446,14 @@
     "href": "lci_esot3.html#central-venous-port",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower in 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device makes chemo easier\nMay shower in 24 hrs\nNo special care at home\nOK for FLOT chemo\nAllows for blood draws"
   },
   {
     "objectID": "lci_esot3.html#central-venous-port-1",
     "href": "lci_esot3.html#central-venous-port-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_esot3.html#central-venous-port-2",
@@ -1488,7 +1474,7 @@
     "href": "lci_esot3.html#primary-care-practitioner-pcp",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Primary Care Practitioner (PCP)",
-    "text": "Primary Care Practitioner (PCP)\nA PCP is critical to coordinate care between specialists.\nWe will update your PCP after each visit\nCall our referral line at (844) 235-6998 if you need a PCP"
+    "text": "Primary Care Practitioner (PCP)\nCritical to coordinate care between specialists.\nWe will update your PCP after each visit\nPCP Referral Line (844) 235-6998"
   },
   {
     "objectID": "lci_esot3.html#my-atrium-patient-portal",
@@ -1502,7 +1488,7 @@
     "href": "lci_esot3.html#exercise",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_esot3.html#smoking-cessation",
@@ -1516,14 +1502,14 @@
     "href": "lci_esot3.html#protein-needs",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Protein Needs",
-    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes can provide protein with minimal sugar\n\nProtein Shakes"
+    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes provide protein with minimal sugar"
   },
   {
     "objectID": "lci_esot3.html#feeding-tubes",
     "href": "lci_esot3.html#feeding-tubes",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Feeding Tubes",
-    "text": "Feeding Tubes\n\n\nJejunostomy = Small Intestine \n\nGastrostomy = Stomach"
+    "text": "Feeding Tubes"
   },
   {
     "objectID": "lci_esot3.html#gastrostomy-tube",
@@ -1551,14 +1537,14 @@
     "href": "lci_esot3.html#jejunostomy-tube",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Jejunostomy Tube",
-    "text": "Jejunostomy Tube\n\n\n\nAllows nutrition to bypass the esophagus and stomach\nTube placed in small intestine\nRequires a pump to adminster feedings slowly\nFeeding usually done at night\n\n\nJejunostomy = Small Intestine"
+    "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding usually done at night"
   },
   {
     "objectID": "lci_esot3.html#jejunostomy-typical-regimen",
     "href": "lci_esot3.html#jejunostomy-typical-regimen",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Jejunostomy Typical Regimen",
-    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube pump"
+    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm-10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube"
   },
   {
     "objectID": "lci_esot3.html#jejunostomy-feeds-with-diabetes",
@@ -1635,7 +1621,7 @@
     "href": "lci_esot3.html#mckeown-esophagectomy",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "McKeown Esophagectomy",
-    "text": "McKeown Esophagectomy\n\n\nAll of esophagus removed \n\nConnection made in the neck"
+    "text": "McKeown Esophagectomy\n\n\n All of esophagus removed\n\n Connection made in the neck"
   },
   {
     "objectID": "lci_esot3.html#colon-interposition",
@@ -1670,7 +1656,7 @@
     "href": "lci_esot3.html#anastomotic-leak-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Anastomotic Leak",
-    "text": "Anastomotic Leak\n\n\nIf anastomosis does not heal:\n\nLeakage of fluid from the esophagus\nInfection in the space between the lungs\nRequires additional time in the hospital"
+    "text": "Anastomotic Leak\n\n\nIf anastomosis doesn’t heal:\n\nLeakage of fluid from the esophagus\nInfection in the space between the lungs\nRequires additional time in the hospital"
   },
   {
     "objectID": "lci_esot3.html#anastomotic-leak-2",
@@ -1691,14 +1677,14 @@
     "href": "lci_esot3.html#pneumonia",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Pneumonia",
-    "text": "Pneumonia\n\n\nPneumonia can occurs in about 10-15% of patients after esophagectomy.\nPneumonia requires treatment with antibiotics and frequently requires a longer hospitalization."
+    "text": "Pneumonia\n\n\nCan occur in 10-15% of patients after esophagectomy.\nRequires treatment with antibiotics and frequently requires a longer hospitalization."
   },
   {
     "objectID": "lci_esot3.html#preventing-pneumonia",
     "href": "lci_esot3.html#preventing-pneumonia",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Preventing Pneumonia",
-    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia after surgery:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
+    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
   },
   {
     "objectID": "lci_esot3.html#minimally-invasive-esophagectomy",
@@ -1782,14 +1768,14 @@
     "href": "lci_esot3.html#jejunostomy-tube-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Jejunostomy Tube",
-    "text": "Jejunostomy Tube\n\n\n\nAllows nutrition to bypass the esophagus and stomach\nTube placed in small intestine\nRequires a pump to adminster feedings slowly\nFeeding usually done at night\n\n\nJejunostomy = Small Intestine"
+    "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding usually done at night"
   },
   {
     "objectID": "lci_esot3.html#jejunostomy-typical-regimen-1",
     "href": "lci_esot3.html#jejunostomy-typical-regimen-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Jejunostomy Typical Regimen",
-    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube pump"
+    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm-10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube"
   },
   {
     "objectID": "lci_esot3.html#jejunostomy-feeds-with-diabetes-1",
@@ -1964,14 +1950,14 @@
     "href": "lci_treatment_prep_guts.html",
     "title": "Patient Education",
     "section": "",
-    "text": "A PCP is critical to coordinate care between specialists.\nWe will update your PCP after each visit\nCall our referral line at (844) 235-6998 if you need a PCP"
+    "text": "Critical to coordinate care between specialists.\nWe will update your PCP after each visit\nPCP Referral Line (844) 235-6998"
   },
   {
     "objectID": "lci_treatment_prep_guts.html#primary-care-practitioner-pcp",
     "href": "lci_treatment_prep_guts.html#primary-care-practitioner-pcp",
     "title": "Patient Education",
     "section": "",
-    "text": "A PCP is critical to coordinate care between specialists.\nWe will update your PCP after each visit\nCall our referral line at (844) 235-6998 if you need a PCP"
+    "text": "Critical to coordinate care between specialists.\nWe will update your PCP after each visit\nPCP Referral Line (844) 235-6998"
   },
   {
     "objectID": "lci_treatment_prep_guts.html#my-atrium-patient-portal",
@@ -1985,7 +1971,7 @@
     "href": "lci_treatment_prep_guts.html#exercise",
     "title": "Patient Education",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_treatment_prep_guts.html#smoking-cessation",
@@ -1999,7 +1985,7 @@
     "href": "lci_treatment_prep_guts.htm#primary-care-practitioner-pcp",
     "title": "Patient Education",
     "section": "Primary Care Practitioner (PCP)",
-    "text": "Primary Care Practitioner (PCP)\nA PCP is critical to coordinate care between specialists.\nWe will update your PCP after each visit\nCall our referral line at (844) 235-6998 if you need a PCP"
+    "text": "Primary Care Practitioner (PCP)\nCritical to coordinate care between specialists.\nWe will update your PCP after each visit\nPCP Referral Line (844) 235-6998"
   },
   {
     "objectID": "lci_treatment_prep_guts.htm#my-atrium-patient-portal",
@@ -2013,7 +1999,7 @@
     "href": "lci_treatment_prep_guts.htm#exercise",
     "title": "Patient Education",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_treatment_prep_guts.htm#smoking-cessation",
@@ -2216,21 +2202,21 @@
     "href": "lci_jejunostomy_guts.html",
     "title": "Patient Education",
     "section": "",
-    "text": "Allows nutrition to bypass the esophagus and stomach\nTube placed in small intestine\nRequires a pump to adminster feedings slowly\nFeeding usually done at night\n\n\nJejunostomy = Small Intestine"
+    "text": "Nutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding usually done at night"
   },
   {
     "objectID": "lci_jejunostomy_guts.html#jejunostomy-tube",
     "href": "lci_jejunostomy_guts.html#jejunostomy-tube",
     "title": "Patient Education",
     "section": "",
-    "text": "Allows nutrition to bypass the esophagus and stomach\nTube placed in small intestine\nRequires a pump to adminster feedings slowly\nFeeding usually done at night\n\n\nJejunostomy = Small Intestine"
+    "text": "Nutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding usually done at night"
   },
   {
     "objectID": "lci_jejunostomy_guts.html#jejunostomy-typical-regimen",
     "href": "lci_jejunostomy_guts.html#jejunostomy-typical-regimen",
     "title": "Patient Education",
     "section": "Jejunostomy Typical Regimen",
-    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube pump"
+    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm-10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube"
   },
   {
     "objectID": "lci_jejunostomy_guts.html#jejunostomy-feeds-with-diabetes",
@@ -2251,14 +2237,14 @@
     "href": "lci_jejunostomy_guts.htm#jejunostomy-tube",
     "title": "Patient Education",
     "section": "Jejunostomy Tube",
-    "text": "Jejunostomy Tube\n\n\n\nAllows nutrition to bypass the esophagus and stomach\nTube placed in small intestine\nRequires a pump to adminster feedings slowly\nFeeding usually done at night\n\n\nJejunostomy = Small Intestine"
+    "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding usually done at night"
   },
   {
     "objectID": "lci_jejunostomy_guts.htm#jejunostomy-typical-regimen",
     "href": "lci_jejunostomy_guts.htm#jejunostomy-typical-regimen",
     "title": "Patient Education",
     "section": "Jejunostomy Typical Regimen",
-    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube pump"
+    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm-10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube"
   },
   {
     "objectID": "lci_jejunostomy_guts.htm#jejunostomy-feeds-with-diabetes",
@@ -2391,7 +2377,7 @@
     "href": "lci_gastrectomy.htm#laparoscopy-1",
     "title": "Surgery of the Stomach",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral incisions 1/4” long\nA telescope is used to examine the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_gastrectomy.htm#risks-of-surgery",
@@ -2405,7 +2391,7 @@
     "href": "lci_gastrectomy.htm#primary-care-practitioner-pcp",
     "title": "Surgery of the Stomach",
     "section": "Primary Care Practitioner (PCP)",
-    "text": "Primary Care Practitioner (PCP)\nA PCP is critical to coordinate care between specialists.\nWe will update your PCP after each visit\nCall our referral line at (844) 235-6998 if you need a PCP"
+    "text": "Primary Care Practitioner (PCP)\nCritical to coordinate care between specialists.\nWe will update your PCP after each visit\nPCP Referral Line (844) 235-6998"
   },
   {
     "objectID": "lci_gastrectomy.htm#my-atrium-patient-portal",
@@ -2419,7 +2405,7 @@
     "href": "lci_gastrectomy.htm#exercise",
     "title": "Surgery of the Stomach",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_gastrectomy.htm#smoking-cessation",
@@ -2552,7 +2538,7 @@
     "href": "lci_gastrectomy.html#laparoscopy-1",
     "title": "Surgery of the Stomach",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral incisions 1/4” long\nA telescope is used to examine the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_gastrectomy.html#risks-of-surgery",
@@ -2566,7 +2552,7 @@
     "href": "lci_gastrectomy.html#primary-care-practitioner-pcp",
     "title": "Surgery of the Stomach",
     "section": "Primary Care Practitioner (PCP)",
-    "text": "Primary Care Practitioner (PCP)\nA PCP is critical to coordinate care between specialists.\nWe will update your PCP after each visit\nCall our referral line at (844) 235-6998 if you need a PCP"
+    "text": "Primary Care Practitioner (PCP)\nCritical to coordinate care between specialists.\nWe will update your PCP after each visit\nPCP Referral Line (844) 235-6998"
   },
   {
     "objectID": "lci_gastrectomy.html#my-atrium-patient-portal",
@@ -2580,7 +2566,7 @@
     "href": "lci_gastrectomy.html#exercise",
     "title": "Surgery of the Stomach",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_gastrectomy.html#smoking-cessation",
@@ -2608,7 +2594,7 @@
     "href": "lci_cvport_guts.html#intravenous-catheter-in-peripheral-vein-iv",
     "title": "Patient Education",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemotherapy"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed in vein of hand or arm\nAllows administration of chemo and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemo"
   },
   {
     "objectID": "lci_cvport_guts.html#picc-lines",
@@ -2622,14 +2608,14 @@
     "href": "lci_cvport_guts.html#central-venous-port",
     "title": "Patient Education",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower in 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device makes chemo easier\nMay shower in 24 hrs\nNo special care at home\nOK for FLOT chemo\nAllows for blood draws"
   },
   {
     "objectID": "lci_cvport_guts.html#central-venous-port-1",
     "href": "lci_cvport_guts.html#central-venous-port-1",
     "title": "Patient Education",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_cvport_guts.html#central-venous-port-2",
@@ -2650,7 +2636,7 @@
     "href": "lci_cvport_guts.htm#intravenous-catheter-in-peripheral-vein-iv",
     "title": "Patient Education",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemotherapy"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed in vein of hand or arm\nAllows administration of chemo and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemo"
   },
   {
     "objectID": "lci_cvport_guts.htm#picc-lines",
@@ -2664,14 +2650,14 @@
     "href": "lci_cvport_guts.htm#central-venous-port",
     "title": "Patient Education",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower in 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device makes chemo easier\nMay shower in 24 hrs\nNo special care at home\nOK for FLOT chemo\nAllows for blood draws"
   },
   {
     "objectID": "lci_cvport_guts.htm#central-venous-port-1",
     "href": "lci_cvport_guts.htm#central-venous-port-1",
     "title": "Patient Education",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_cvport_guts.htm#central-venous-port-2",
@@ -2741,7 +2727,7 @@
     "href": "lci_esom1.htm#intravenous-catheter-in-peripheral-vein-iv",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemotherapy"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed in vein of hand or arm\nAllows administration of chemo and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemo"
   },
   {
     "objectID": "lci_esom1.htm#picc-lines",
@@ -2755,14 +2741,14 @@
     "href": "lci_esom1.htm#central-venous-port",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower in 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device makes chemo easier\nMay shower in 24 hrs\nNo special care at home\nOK for FLOT chemo\nAllows for blood draws"
   },
   {
     "objectID": "lci_esom1.htm#central-venous-port-1",
     "href": "lci_esom1.htm#central-venous-port-1",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_esom1.htm#central-venous-port-2",
@@ -2818,7 +2804,7 @@
     "href": "lci_esom1.htm#primary-care-practitioner-pcp",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Primary Care Practitioner (PCP)",
-    "text": "Primary Care Practitioner (PCP)\nA PCP is critical to coordinate care between specialists.\nWe will update your PCP after each visit\nCall our referral line at (844) 235-6998 if you need a PCP"
+    "text": "Primary Care Practitioner (PCP)\nCritical to coordinate care between specialists.\nWe will update your PCP after each visit\nPCP Referral Line (844) 235-6998"
   },
   {
     "objectID": "lci_esom1.htm#my-atrium-patient-portal",
@@ -2832,7 +2818,7 @@
     "href": "lci_esom1.htm#exercise",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_esom1.htm#smoking-cessation",
@@ -2916,7 +2902,7 @@
     "href": "lci_esom1.html#intravenous-catheter-in-peripheral-vein-iv",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemotherapy"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed in vein of hand or arm\nAllows administration of chemo and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemo"
   },
   {
     "objectID": "lci_esom1.html#picc-lines",
@@ -2930,14 +2916,14 @@
     "href": "lci_esom1.html#central-venous-port",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower in 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device makes chemo easier\nMay shower in 24 hrs\nNo special care at home\nOK for FLOT chemo\nAllows for blood draws"
   },
   {
     "objectID": "lci_esom1.html#central-venous-port-1",
     "href": "lci_esom1.html#central-venous-port-1",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_esom1.html#central-venous-port-2",
@@ -2993,7 +2979,7 @@
     "href": "lci_esom1.html#primary-care-practitioner-pcp",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Primary Care Practitioner (PCP)",
-    "text": "Primary Care Practitioner (PCP)\nA PCP is critical to coordinate care between specialists.\nWe will update your PCP after each visit\nCall our referral line at (844) 235-6998 if you need a PCP"
+    "text": "Primary Care Practitioner (PCP)\nCritical to coordinate care between specialists.\nWe will update your PCP after each visit\nPCP Referral Line (844) 235-6998"
   },
   {
     "objectID": "lci_esom1.html#my-atrium-patient-portal",
@@ -3007,7 +2993,7 @@
     "href": "lci_esom1.html#exercise",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_esom1.html#smoking-cessation",
@@ -3091,7 +3077,7 @@
     "href": "lci_surgery_guts.html#mckeown-esophagectomy",
     "title": "Patient Education",
     "section": "McKeown Esophagectomy",
-    "text": "McKeown Esophagectomy\n\n\nAll of esophagus removed \n\nConnection made in the neck"
+    "text": "McKeown Esophagectomy\n\n\n All of esophagus removed\n\n Connection made in the neck"
   },
   {
     "objectID": "lci_surgery_guts.html#colon-interposition",
@@ -3126,7 +3112,7 @@
     "href": "lci_surgery_guts.html#anastomotic-leak-1",
     "title": "Patient Education",
     "section": "Anastomotic Leak",
-    "text": "Anastomotic Leak\n\n\nIf anastomosis does not heal:\n\nLeakage of fluid from the esophagus\nInfection in the space between the lungs\nRequires additional time in the hospital"
+    "text": "Anastomotic Leak\n\n\nIf anastomosis doesn’t heal:\n\nLeakage of fluid from the esophagus\nInfection in the space between the lungs\nRequires additional time in the hospital"
   },
   {
     "objectID": "lci_surgery_guts.html#anastomotic-leak-2",
@@ -3147,14 +3133,14 @@
     "href": "lci_surgery_guts.html#pneumonia",
     "title": "Patient Education",
     "section": "Pneumonia",
-    "text": "Pneumonia\n\n\nPneumonia can occurs in about 10-15% of patients after esophagectomy.\nPneumonia requires treatment with antibiotics and frequently requires a longer hospitalization."
+    "text": "Pneumonia\n\n\nCan occur in 10-15% of patients after esophagectomy.\nRequires treatment with antibiotics and frequently requires a longer hospitalization."
   },
   {
     "objectID": "lci_surgery_guts.html#preventing-pneumonia",
     "href": "lci_surgery_guts.html#preventing-pneumonia",
     "title": "Patient Education",
     "section": "Preventing Pneumonia",
-    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia after surgery:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
+    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
   },
   {
     "objectID": "lci_surgery_guts.html#minimally-invasive-esophagectomy",
@@ -3238,14 +3224,14 @@
     "href": "lci_surgery_guts.html#jejunostomy-tube",
     "title": "Patient Education",
     "section": "Jejunostomy Tube",
-    "text": "Jejunostomy Tube\n\n\n\nAllows nutrition to bypass the esophagus and stomach\nTube placed in small intestine\nRequires a pump to adminster feedings slowly\nFeeding usually done at night\n\n\nJejunostomy = Small Intestine"
+    "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding usually done at night"
   },
   {
     "objectID": "lci_surgery_guts.html#jejunostomy-typical-regimen",
     "href": "lci_surgery_guts.html#jejunostomy-typical-regimen",
     "title": "Patient Education",
     "section": "Jejunostomy Typical Regimen",
-    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube pump"
+    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm-10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube"
   },
   {
     "objectID": "lci_surgery_guts.html#jejunostomy-feeds-with-diabetes",
@@ -3476,7 +3462,7 @@
     "href": "lci_surgery_guts.htm#mckeown-esophagectomy",
     "title": "Patient Education",
     "section": "McKeown Esophagectomy",
-    "text": "McKeown Esophagectomy\n\n\nAll of esophagus removed \n\nConnection made in the neck"
+    "text": "McKeown Esophagectomy\n\n\n All of esophagus removed\n\n Connection made in the neck"
   },
   {
     "objectID": "lci_surgery_guts.htm#colon-interposition",
@@ -3511,7 +3497,7 @@
     "href": "lci_surgery_guts.htm#anastomotic-leak-1",
     "title": "Patient Education",
     "section": "Anastomotic Leak",
-    "text": "Anastomotic Leak\n\n\nIf anastomosis does not heal:\n\nLeakage of fluid from the esophagus\nInfection in the space between the lungs\nRequires additional time in the hospital"
+    "text": "Anastomotic Leak\n\n\nIf anastomosis doesn’t heal:\n\nLeakage of fluid from the esophagus\nInfection in the space between the lungs\nRequires additional time in the hospital"
   },
   {
     "objectID": "lci_surgery_guts.htm#anastomotic-leak-2",
@@ -3532,14 +3518,14 @@
     "href": "lci_surgery_guts.htm#pneumonia",
     "title": "Patient Education",
     "section": "Pneumonia",
-    "text": "Pneumonia\n\n\nPneumonia can occurs in about 10-15% of patients after esophagectomy.\nPneumonia requires treatment with antibiotics and frequently requires a longer hospitalization."
+    "text": "Pneumonia\n\n\nCan occur in 10-15% of patients after esophagectomy.\nRequires treatment with antibiotics and frequently requires a longer hospitalization."
   },
   {
     "objectID": "lci_surgery_guts.htm#preventing-pneumonia",
     "href": "lci_surgery_guts.htm#preventing-pneumonia",
     "title": "Patient Education",
     "section": "Preventing Pneumonia",
-    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia after surgery:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
+    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
   },
   {
     "objectID": "lci_surgery_guts.htm#minimally-invasive-esophagectomy",
@@ -3623,14 +3609,14 @@
     "href": "lci_surgery_guts.htm#jejunostomy-tube",
     "title": "Patient Education",
     "section": "Jejunostomy Tube",
-    "text": "Jejunostomy Tube\n\n\n\nAllows nutrition to bypass the esophagus and stomach\nTube placed in small intestine\nRequires a pump to adminster feedings slowly\nFeeding usually done at night\n\n\nJejunostomy = Small Intestine"
+    "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding usually done at night"
   },
   {
     "objectID": "lci_surgery_guts.htm#jejunostomy-typical-regimen",
     "href": "lci_surgery_guts.htm#jejunostomy-typical-regimen",
     "title": "Patient Education",
     "section": "Jejunostomy Typical Regimen",
-    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube pump"
+    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm-10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube"
   },
   {
     "objectID": "lci_surgery_guts.htm#jejunostomy-feeds-with-diabetes",
@@ -3861,7 +3847,7 @@
     "href": "lci_surgery.htm#mckeown-esophagectomy",
     "title": "Surgery of the Esophagus",
     "section": "McKeown Esophagectomy",
-    "text": "McKeown Esophagectomy\n\n\nAll of esophagus removed \n\nConnection made in the neck"
+    "text": "McKeown Esophagectomy\n\n\n All of esophagus removed\n\n Connection made in the neck"
   },
   {
     "objectID": "lci_surgery.htm#colon-interposition",
@@ -3896,7 +3882,7 @@
     "href": "lci_surgery.htm#anastomotic-leak-1",
     "title": "Surgery of the Esophagus",
     "section": "Anastomotic Leak",
-    "text": "Anastomotic Leak\n\n\nIf anastomosis does not heal:\n\nLeakage of fluid from the esophagus\nInfection in the space between the lungs\nRequires additional time in the hospital"
+    "text": "Anastomotic Leak\n\n\nIf anastomosis doesn’t heal:\n\nLeakage of fluid from the esophagus\nInfection in the space between the lungs\nRequires additional time in the hospital"
   },
   {
     "objectID": "lci_surgery.htm#anastomotic-leak-2",
@@ -3917,14 +3903,14 @@
     "href": "lci_surgery.htm#pneumonia",
     "title": "Surgery of the Esophagus",
     "section": "Pneumonia",
-    "text": "Pneumonia\n\n\nPneumonia can occurs in about 10-15% of patients after esophagectomy.\nPneumonia requires treatment with antibiotics and frequently requires a longer hospitalization."
+    "text": "Pneumonia\n\n\nCan occur in 10-15% of patients after esophagectomy.\nRequires treatment with antibiotics and frequently requires a longer hospitalization."
   },
   {
     "objectID": "lci_surgery.htm#preventing-pneumonia",
     "href": "lci_surgery.htm#preventing-pneumonia",
     "title": "Surgery of the Esophagus",
     "section": "Preventing Pneumonia",
-    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia after surgery:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
+    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
   },
   {
     "objectID": "lci_surgery.htm#minimally-invasive-esophagectomy",
@@ -4008,14 +3994,14 @@
     "href": "lci_surgery.htm#jejunostomy-tube",
     "title": "Surgery of the Esophagus",
     "section": "Jejunostomy Tube",
-    "text": "Jejunostomy Tube\n\n\n\nAllows nutrition to bypass the esophagus and stomach\nTube placed in small intestine\nRequires a pump to adminster feedings slowly\nFeeding usually done at night\n\n\nJejunostomy = Small Intestine"
+    "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding usually done at night"
   },
   {
     "objectID": "lci_surgery.htm#jejunostomy-typical-regimen",
     "href": "lci_surgery.htm#jejunostomy-typical-regimen",
     "title": "Surgery of the Esophagus",
     "section": "Jejunostomy Typical Regimen",
-    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube pump"
+    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm-10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube"
   },
   {
     "objectID": "lci_surgery.htm#jejunostomy-feeds-with-diabetes",
@@ -4253,7 +4239,7 @@
     "href": "lci_surgery.html#mckeown-esophagectomy",
     "title": "Surgery of the Esophagus",
     "section": "McKeown Esophagectomy",
-    "text": "McKeown Esophagectomy\n\n\nAll of esophagus removed \n\nConnection made in the neck"
+    "text": "McKeown Esophagectomy\n\n\n All of esophagus removed\n\n Connection made in the neck"
   },
   {
     "objectID": "lci_surgery.html#colon-interposition",
@@ -4288,7 +4274,7 @@
     "href": "lci_surgery.html#anastomotic-leak-1",
     "title": "Surgery of the Esophagus",
     "section": "Anastomotic Leak",
-    "text": "Anastomotic Leak\n\n\nIf anastomosis does not heal:\n\nLeakage of fluid from the esophagus\nInfection in the space between the lungs\nRequires additional time in the hospital"
+    "text": "Anastomotic Leak\n\n\nIf anastomosis doesn’t heal:\n\nLeakage of fluid from the esophagus\nInfection in the space between the lungs\nRequires additional time in the hospital"
   },
   {
     "objectID": "lci_surgery.html#anastomotic-leak-2",
@@ -4309,14 +4295,14 @@
     "href": "lci_surgery.html#pneumonia",
     "title": "Surgery of the Esophagus",
     "section": "Pneumonia",
-    "text": "Pneumonia\n\n\nPneumonia can occurs in about 10-15% of patients after esophagectomy.\nPneumonia requires treatment with antibiotics and frequently requires a longer hospitalization."
+    "text": "Pneumonia\n\n\nCan occur in 10-15% of patients after esophagectomy.\nRequires treatment with antibiotics and frequently requires a longer hospitalization."
   },
   {
     "objectID": "lci_surgery.html#preventing-pneumonia",
     "href": "lci_surgery.html#preventing-pneumonia",
     "title": "Surgery of the Esophagus",
     "section": "Preventing Pneumonia",
-    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia after surgery:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
+    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
   },
   {
     "objectID": "lci_surgery.html#minimally-invasive-esophagectomy",
@@ -4400,14 +4386,14 @@
     "href": "lci_surgery.html#jejunostomy-tube",
     "title": "Surgery of the Esophagus",
     "section": "Jejunostomy Tube",
-    "text": "Jejunostomy Tube\n\n\n\nAllows nutrition to bypass the esophagus and stomach\nTube placed in small intestine\nRequires a pump to adminster feedings slowly\nFeeding usually done at night\n\n\nJejunostomy = Small Intestine"
+    "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding usually done at night"
   },
   {
     "objectID": "lci_surgery.html#jejunostomy-typical-regimen",
     "href": "lci_surgery.html#jejunostomy-typical-regimen",
     "title": "Surgery of the Esophagus",
     "section": "Jejunostomy Typical Regimen",
-    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube pump"
+    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm-10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube"
   },
   {
     "objectID": "lci_surgery.html#jejunostomy-feeds-with-diabetes",
@@ -5163,21 +5149,21 @@
     "href": "lci_nutrition_guts.html",
     "title": "Patient Education",
     "section": "",
-    "text": "Men: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes can provide protein with minimal sugar\n\nProtein Shakes"
+    "text": "Men: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes provide protein with minimal sugar"
   },
   {
     "objectID": "lci_nutrition_guts.html#protein-needs",
     "href": "lci_nutrition_guts.html#protein-needs",
     "title": "Patient Education",
     "section": "",
-    "text": "Men: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes can provide protein with minimal sugar\n\nProtein Shakes"
+    "text": "Men: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes provide protein with minimal sugar"
   },
   {
     "objectID": "lci_nutrition_guts.htm#protein-needs",
     "href": "lci_nutrition_guts.htm#protein-needs",
     "title": "Patient Education",
     "section": "Protein Needs",
-    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes can provide protein with minimal sugar\n\nProtein Shakes"
+    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes provide protein with minimal sugar"
   },
   {
     "objectID": "lci_gastrict3.htm#anatomy",
@@ -5233,7 +5219,7 @@
     "href": "lci_gastrict3.htm#n-stage",
     "title": "T3 Cancer of the Stomach",
     "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\nN1 cancers have spread to the lymph nodes."
+    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the nodes.\n\nN0 cancers have not spread to the nodes\nN1 cancers have spread to the nodes."
   },
   {
     "objectID": "lci_gastrict3.htm#m-stage",
@@ -5247,14 +5233,14 @@
     "href": "lci_gastrict3.htm#pet-scan",
     "title": "T3 Cancer of the Stomach",
     "section": "PET scan",
-    "text": "PET scan\n\n\nA PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer."
+    "text": "PET scan\n\n\nPET scan is similar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
   },
   {
     "objectID": "lci_gastrict3.htm#endoscopic-ultrasound",
     "href": "lci_gastrict3.htm#endoscopic-ultrasound",
     "title": "T3 Cancer of the Stomach",
     "section": "Endoscopic Ultrasound",
-    "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound probe in scope\nEvaluates T stage of cancer"
+    "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound in scope\nEvaluates T stage"
   },
   {
     "objectID": "lci_gastrict3.htm#laparoscopy",
@@ -5268,7 +5254,7 @@
     "href": "lci_gastrict3.htm#laparoscopy-1",
     "title": "T3 Cancer of the Stomach",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral incisions 1/4” long\nA telescope is used to examine the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_gastrict3.htm#treatment-plan",
@@ -5310,7 +5296,7 @@
     "href": "lci_gastrict3.htm#intravenous-catheter-in-peripheral-vein-iv",
     "title": "T3 Cancer of the Stomach",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemotherapy"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed in vein of hand or arm\nAllows administration of chemo and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemo"
   },
   {
     "objectID": "lci_gastrict3.htm#picc-lines",
@@ -5324,14 +5310,14 @@
     "href": "lci_gastrict3.htm#central-venous-port",
     "title": "T3 Cancer of the Stomach",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower in 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device makes chemo easier\nMay shower in 24 hrs\nNo special care at home\nOK for FLOT chemo\nAllows for blood draws"
   },
   {
     "objectID": "lci_gastrict3.htm#central-venous-port-1",
     "href": "lci_gastrict3.htm#central-venous-port-1",
     "title": "T3 Cancer of the Stomach",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_gastrict3.htm#central-venous-port-2",
@@ -5352,7 +5338,7 @@
     "href": "lci_gastrict3.htm#primary-care-practitioner-pcp",
     "title": "T3 Cancer of the Stomach",
     "section": "Primary Care Practitioner (PCP)",
-    "text": "Primary Care Practitioner (PCP)\nA PCP is critical to coordinate care between specialists.\nWe will update your PCP after each visit\nCall our referral line at (844) 235-6998 if you need a PCP"
+    "text": "Primary Care Practitioner (PCP)\nCritical to coordinate care between specialists.\nWe will update your PCP after each visit\nPCP Referral Line (844) 235-6998"
   },
   {
     "objectID": "lci_gastrict3.htm#my-atrium-patient-portal",
@@ -5366,7 +5352,7 @@
     "href": "lci_gastrict3.htm#exercise",
     "title": "T3 Cancer of the Stomach",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_gastrict3.htm#smoking-cessation",
@@ -5380,21 +5366,21 @@
     "href": "lci_gastrict3.htm#protein-needs",
     "title": "T3 Cancer of the Stomach",
     "section": "Protein Needs",
-    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes can provide protein with minimal sugar\n\nProtein Shakes"
+    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes provide protein with minimal sugar"
   },
   {
     "objectID": "lci_gastrict3.htm#jejunostomy-tube",
     "href": "lci_gastrict3.htm#jejunostomy-tube",
     "title": "T3 Cancer of the Stomach",
     "section": "Jejunostomy Tube",
-    "text": "Jejunostomy Tube\n\n\n\nAllows nutrition to bypass the esophagus and stomach\nTube placed in small intestine\nRequires a pump to adminster feedings slowly\nFeeding usually done at night\n\n\nJejunostomy = Small Intestine"
+    "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding usually done at night"
   },
   {
     "objectID": "lci_gastrict3.htm#jejunostomy-typical-regimen",
     "href": "lci_gastrict3.htm#jejunostomy-typical-regimen",
     "title": "T3 Cancer of the Stomach",
     "section": "Jejunostomy Typical Regimen",
-    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube pump"
+    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm-10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube"
   },
   {
     "objectID": "lci_gastrict3.htm#jejunostomy-feeds-with-diabetes",
@@ -5527,7 +5513,7 @@
     "href": "lci_gastrict3.htm#laparoscopy-3",
     "title": "T3 Cancer of the Stomach",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral incisions 1/4” long\nA telescope is used to examine the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_gastrict3.htm#risks-of-surgery",
@@ -5597,7 +5583,7 @@
     "href": "lci_gastrict3.html#n-stage",
     "title": "T3 Cancer of the Stomach",
     "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\nN1 cancers have spread to the lymph nodes."
+    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the nodes.\n\nN0 cancers have not spread to the nodes\nN1 cancers have spread to the nodes."
   },
   {
     "objectID": "lci_gastrict3.html#m-stage",
@@ -5611,14 +5597,14 @@
     "href": "lci_gastrict3.html#pet-scan",
     "title": "T3 Cancer of the Stomach",
     "section": "PET scan",
-    "text": "PET scan\n\n\nA PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer."
+    "text": "PET scan\n\n\nPET scan is similar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
   },
   {
     "objectID": "lci_gastrict3.html#endoscopic-ultrasound",
     "href": "lci_gastrict3.html#endoscopic-ultrasound",
     "title": "T3 Cancer of the Stomach",
     "section": "Endoscopic Ultrasound",
-    "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound probe in scope\nEvaluates T stage of cancer"
+    "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound in scope\nEvaluates T stage"
   },
   {
     "objectID": "lci_gastrict3.html#laparoscopy",
@@ -5632,7 +5618,7 @@
     "href": "lci_gastrict3.html#laparoscopy-1",
     "title": "T3 Cancer of the Stomach",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral incisions 1/4” long\nA telescope is used to examine the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_gastrict3.html#treatment-plan",
@@ -5674,7 +5660,7 @@
     "href": "lci_gastrict3.html#intravenous-catheter-in-peripheral-vein-iv",
     "title": "T3 Cancer of the Stomach",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemotherapy"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed in vein of hand or arm\nAllows administration of chemo and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemo"
   },
   {
     "objectID": "lci_gastrict3.html#picc-lines",
@@ -5688,14 +5674,14 @@
     "href": "lci_gastrict3.html#central-venous-port",
     "title": "T3 Cancer of the Stomach",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower in 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device makes chemo easier\nMay shower in 24 hrs\nNo special care at home\nOK for FLOT chemo\nAllows for blood draws"
   },
   {
     "objectID": "lci_gastrict3.html#central-venous-port-1",
     "href": "lci_gastrict3.html#central-venous-port-1",
     "title": "T3 Cancer of the Stomach",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_gastrict3.html#central-venous-port-2",
@@ -5716,7 +5702,7 @@
     "href": "lci_gastrict3.html#primary-care-practitioner-pcp",
     "title": "T3 Cancer of the Stomach",
     "section": "Primary Care Practitioner (PCP)",
-    "text": "Primary Care Practitioner (PCP)\nA PCP is critical to coordinate care between specialists.\nWe will update your PCP after each visit\nCall our referral line at (844) 235-6998 if you need a PCP"
+    "text": "Primary Care Practitioner (PCP)\nCritical to coordinate care between specialists.\nWe will update your PCP after each visit\nPCP Referral Line (844) 235-6998"
   },
   {
     "objectID": "lci_gastrict3.html#my-atrium-patient-portal",
@@ -5730,7 +5716,7 @@
     "href": "lci_gastrict3.html#exercise",
     "title": "T3 Cancer of the Stomach",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_gastrict3.html#smoking-cessation",
@@ -5744,21 +5730,21 @@
     "href": "lci_gastrict3.html#protein-needs",
     "title": "T3 Cancer of the Stomach",
     "section": "Protein Needs",
-    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes can provide protein with minimal sugar\n\nProtein Shakes"
+    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes provide protein with minimal sugar"
   },
   {
     "objectID": "lci_gastrict3.html#jejunostomy-tube",
     "href": "lci_gastrict3.html#jejunostomy-tube",
     "title": "T3 Cancer of the Stomach",
     "section": "Jejunostomy Tube",
-    "text": "Jejunostomy Tube\n\n\n\nAllows nutrition to bypass the esophagus and stomach\nTube placed in small intestine\nRequires a pump to adminster feedings slowly\nFeeding usually done at night\n\n\nJejunostomy = Small Intestine"
+    "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding usually done at night"
   },
   {
     "objectID": "lci_gastrict3.html#jejunostomy-typical-regimen",
     "href": "lci_gastrict3.html#jejunostomy-typical-regimen",
     "title": "T3 Cancer of the Stomach",
     "section": "Jejunostomy Typical Regimen",
-    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube pump"
+    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm-10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube"
   },
   {
     "objectID": "lci_gastrict3.html#jejunostomy-feeds-with-diabetes",
@@ -5891,7 +5877,7 @@
     "href": "lci_gastrict3.html#laparoscopy-3",
     "title": "T3 Cancer of the Stomach",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral incisions 1/4” long\nA telescope is used to examine the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_gastrict3.html#risks-of-surgery",
@@ -6353,7 +6339,7 @@
     "href": "lci_cross_guts.html#chemotherapy-radiation-cross-trial-1",
     "title": "Patient Education",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_cross_guts.html#chemotherapy-radiation-cross-trial-2",
@@ -6367,7 +6353,7 @@
     "href": "lci_cross_guts.html#chemotherapy-radiation---side-effects",
     "title": "Patient Education",
     "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also cause irritation of the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks.\nFeeding tube may be needed for hydration/nutrition."
+    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks.\nFeeding tube may be needed for hydration/nutrition."
   },
   {
     "objectID": "lci_cross_guts.htm#chemotherapy-radiation-cross-trial",
@@ -6381,7 +6367,7 @@
     "href": "lci_cross_guts.htm#chemotherapy-radiation-cross-trial-1",
     "title": "Patient Education",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_cross_guts.htm#chemotherapy-radiation-cross-trial-2",
@@ -6395,7 +6381,7 @@
     "href": "lci_cross_guts.htm#chemotherapy-radiation---side-effects",
     "title": "Patient Education",
     "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also cause irritation of the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks.\nFeeding tube may be needed for hydration/nutrition."
+    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks.\nFeeding tube may be needed for hydration/nutrition."
   },
   {
     "objectID": "lci_treatment_prep.html",
@@ -6444,7 +6430,7 @@
     "href": "lci_treatment_prep.html#protein-needs",
     "title": "Patient Education",
     "section": "Protein Needs",
-    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes can provide protein with minimal sugar\n\nProtein Shakes"
+    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes provide protein with minimal sugar"
   },
   {
     "objectID": "lci_treatment_prep.htm#preparing-for-cancer-treatment",
@@ -6486,7 +6472,7 @@
     "href": "lci_treatment_prep.htm#protein-needs",
     "title": "Patient Education",
     "section": "Protein Needs",
-    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes can provide protein with minimal sugar\n\nProtein Shakes"
+    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes provide protein with minimal sugar"
   },
   {
     "objectID": "images.html",
@@ -6535,7 +6521,7 @@
     "href": "lci_laparoscopy.html#laparoscopy-1",
     "title": "Diagnostic Laparoscopy",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral incisions 1/4” long\nA telescope is used to examine the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_laparoscopy.htm#laparoscopy",
@@ -6549,7 +6535,7 @@
     "href": "lci_laparoscopy.htm#laparoscopy-1",
     "title": "Diagnostic Laparoscopy",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral incisions 1/4” long\nA telescope is used to examine the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_gastrectomyt3_guts.htm#stomach-cancer-surgery-goals",
@@ -6668,7 +6654,7 @@
     "href": "lci_gastrectomyt3_guts.htm#laparoscopy-1",
     "title": "Patient Education",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral incisions 1/4” long\nA telescope is used to examine the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_gastrectomyt3_guts.htm#risks-of-surgery",
@@ -6801,7 +6787,7 @@
     "href": "lci_gastrectomyt3_guts.html#laparoscopy-1",
     "title": "Patient Education",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral incisions 1/4” long\nA telescope is used to examine the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_gastrectomyt3_guts.html#risks-of-surgery",
@@ -6962,7 +6948,7 @@
     "href": "lci_gist.html#primary-care-practitioner-pcp",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "Primary Care Practitioner (PCP)",
-    "text": "Primary Care Practitioner (PCP)\nA PCP is critical to coordinate care between specialists.\nWe will update your PCP after each visit\nCall our referral line at (844) 235-6998 if you need a PCP"
+    "text": "Primary Care Practitioner (PCP)\nCritical to coordinate care between specialists.\nWe will update your PCP after each visit\nPCP Referral Line (844) 235-6998"
   },
   {
     "objectID": "lci_gist.html#my-atrium-patient-portal",
@@ -6976,7 +6962,7 @@
     "href": "lci_gist.html#exercise",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_gist.html#smoking-cessation",
@@ -7130,7 +7116,7 @@
     "href": "lci_gist.htm#primary-care-practitioner-pcp",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "Primary Care Practitioner (PCP)",
-    "text": "Primary Care Practitioner (PCP)\nA PCP is critical to coordinate care between specialists.\nWe will update your PCP after each visit\nCall our referral line at (844) 235-6998 if you need a PCP"
+    "text": "Primary Care Practitioner (PCP)\nCritical to coordinate care between specialists.\nWe will update your PCP after each visit\nPCP Referral Line (844) 235-6998"
   },
   {
     "objectID": "lci_gist.htm#my-atrium-patient-portal",
@@ -7144,7 +7130,7 @@
     "href": "lci_gist.htm#exercise",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_gist.htm#smoking-cessation",
@@ -7494,7 +7480,7 @@
     "href": "lci_staging_guts.htm#n-stage",
     "title": "Patient Education",
     "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\nN1 cancers have spread to the lymph nodes."
+    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the nodes.\n\nN0 cancers have not spread to the nodes\nN1 cancers have spread to the nodes."
   },
   {
     "objectID": "lci_staging_guts.htm#m-stage",
@@ -7508,14 +7494,14 @@
     "href": "lci_staging_guts.htm#pet-scan",
     "title": "Patient Education",
     "section": "PET scan",
-    "text": "PET scan\n\n\nA PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer."
+    "text": "PET scan\n\n\nPET scan is similar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
   },
   {
     "objectID": "lci_staging_guts.htm#endoscopic-ultrasound",
     "href": "lci_staging_guts.htm#endoscopic-ultrasound",
     "title": "Patient Education",
     "section": "Endoscopic Ultrasound",
-    "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound probe in scope\nEvaluates T stage of cancer"
+    "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound in scope\nEvaluates T stage"
   },
   {
     "objectID": "lci_staging_guts.html",
@@ -7571,7 +7557,7 @@
     "href": "lci_staging_guts.html#n-stage",
     "title": "Patient Education",
     "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\nN1 cancers have spread to the lymph nodes."
+    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the nodes.\n\nN0 cancers have not spread to the nodes\nN1 cancers have spread to the nodes."
   },
   {
     "objectID": "lci_staging_guts.html#m-stage",
@@ -7585,14 +7571,14 @@
     "href": "lci_staging_guts.html#pet-scan",
     "title": "Patient Education",
     "section": "PET scan",
-    "text": "PET scan\n\n\nA PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer."
+    "text": "PET scan\n\n\nPET scan is similar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
   },
   {
     "objectID": "lci_staging_guts.html#endoscopic-ultrasound",
     "href": "lci_staging_guts.html#endoscopic-ultrasound",
     "title": "Patient Education",
     "section": "Endoscopic Ultrasound",
-    "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound probe in scope\nEvaluates T stage of cancer"
+    "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound in scope\nEvaluates T stage"
   },
   {
     "objectID": "eso_dx_staging.html",
@@ -8131,7 +8117,7 @@
     "href": "lci_cvport.html#intravenous-catheter-in-peripheral-vein-iv",
     "title": "Central Venous Port",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemotherapy"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed in vein of hand or arm\nAllows administration of chemo and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemo"
   },
   {
     "objectID": "lci_cvport.html#picc-lines",
@@ -8145,14 +8131,14 @@
     "href": "lci_cvport.html#central-venous-port",
     "title": "Central Venous Port",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower in 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device makes chemo easier\nMay shower in 24 hrs\nNo special care at home\nOK for FLOT chemo\nAllows for blood draws"
   },
   {
     "objectID": "lci_cvport.html#central-venous-port-1",
     "href": "lci_cvport.html#central-venous-port-1",
     "title": "Central Venous Port",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_cvport.html#central-venous-port-2",
@@ -8173,7 +8159,7 @@
     "href": "lci_cvport.htm#intravenous-catheter-in-peripheral-vein-iv",
     "title": "Central Venous Port",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemotherapy"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed in vein of hand or arm\nAllows administration of chemo and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemo"
   },
   {
     "objectID": "lci_cvport.htm#picc-lines",
@@ -8187,14 +8173,14 @@
     "href": "lci_cvport.htm#central-venous-port",
     "title": "Central Venous Port",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower in 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device makes chemo easier\nMay shower in 24 hrs\nNo special care at home\nOK for FLOT chemo\nAllows for blood draws"
   },
   {
     "objectID": "lci_cvport.htm#central-venous-port-1",
     "href": "lci_cvport.htm#central-venous-port-1",
     "title": "Central Venous Port",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_cvport.htm#central-venous-port-2",
@@ -8299,7 +8285,7 @@
     "href": "lci_eso_scca.html#n-stage",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\nN1 cancers have spread to the lymph nodes."
+    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the nodes.\n\nN0 cancers have not spread to the nodes\nN1 cancers have spread to the nodes."
   },
   {
     "objectID": "lci_eso_scca.html#m-stage",
@@ -8313,14 +8299,14 @@
     "href": "lci_eso_scca.html#pet-scan",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "PET scan",
-    "text": "PET scan\n\n\nA PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer."
+    "text": "PET scan\n\n\nPET scan is similar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
   },
   {
     "objectID": "lci_eso_scca.html#endoscopic-ultrasound",
     "href": "lci_eso_scca.html#endoscopic-ultrasound",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Endoscopic Ultrasound",
-    "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound probe in scope\nEvaluates T stage of cancer"
+    "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound in scope\nEvaluates T stage"
   },
   {
     "objectID": "lci_eso_scca.html#treatment-plan",
@@ -8397,7 +8383,7 @@
     "href": "lci_eso_scca.html#chemotherapy-radiation-cross-trial-1",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_eso_scca.html#chemotherapy-radiation-cross-trial-2",
@@ -8411,7 +8397,7 @@
     "href": "lci_eso_scca.html#chemotherapy-radiation---side-effects",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also cause irritation of the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks.\nFeeding tube may be needed for hydration/nutrition."
+    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks.\nFeeding tube may be needed for hydration/nutrition."
   },
   {
     "objectID": "lci_eso_scca.html#chemotherapy",
@@ -8460,7 +8446,7 @@
     "href": "lci_eso_scca.html#primary-care-practitioner-pcp",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Primary Care Practitioner (PCP)",
-    "text": "Primary Care Practitioner (PCP)\nA PCP is critical to coordinate care between specialists.\nWe will update your PCP after each visit\nCall our referral line at (844) 235-6998 if you need a PCP"
+    "text": "Primary Care Practitioner (PCP)\nCritical to coordinate care between specialists.\nWe will update your PCP after each visit\nPCP Referral Line (844) 235-6998"
   },
   {
     "objectID": "lci_eso_scca.html#my-atrium-patient-portal",
@@ -8474,7 +8460,7 @@
     "href": "lci_eso_scca.html#exercise",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_eso_scca.html#smoking-cessation",
@@ -8488,14 +8474,14 @@
     "href": "lci_eso_scca.html#protein-needs",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Protein Needs",
-    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes can provide protein with minimal sugar\n\nProtein Shakes"
+    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes provide protein with minimal sugar"
   },
   {
     "objectID": "lci_eso_scca.html#feeding-tubes",
     "href": "lci_eso_scca.html#feeding-tubes",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Feeding Tubes",
-    "text": "Feeding Tubes\n\n\nJejunostomy = Small Intestine \n\nGastrostomy = Stomach"
+    "text": "Feeding Tubes"
   },
   {
     "objectID": "lci_eso_scca.html#gastrostomy-tube",
@@ -8579,7 +8565,7 @@
     "href": "lci_eso_scca.html#mckeown-esophagectomy",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "McKeown Esophagectomy",
-    "text": "McKeown Esophagectomy\n\n\nAll of esophagus removed \n\nConnection made in the neck"
+    "text": "McKeown Esophagectomy\n\n\n All of esophagus removed\n\n Connection made in the neck"
   },
   {
     "objectID": "lci_eso_scca.html#colon-interposition",
@@ -8614,7 +8600,7 @@
     "href": "lci_eso_scca.html#anastomotic-leak-1",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Anastomotic Leak",
-    "text": "Anastomotic Leak\n\n\nIf anastomosis does not heal:\n\nLeakage of fluid from the esophagus\nInfection in the space between the lungs\nRequires additional time in the hospital"
+    "text": "Anastomotic Leak\n\n\nIf anastomosis doesn’t heal:\n\nLeakage of fluid from the esophagus\nInfection in the space between the lungs\nRequires additional time in the hospital"
   },
   {
     "objectID": "lci_eso_scca.html#anastomotic-leak-2",
@@ -8635,14 +8621,14 @@
     "href": "lci_eso_scca.html#pneumonia",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Pneumonia",
-    "text": "Pneumonia\n\n\nPneumonia can occurs in about 10-15% of patients after esophagectomy.\nPneumonia requires treatment with antibiotics and frequently requires a longer hospitalization."
+    "text": "Pneumonia\n\n\nCan occur in 10-15% of patients after esophagectomy.\nRequires treatment with antibiotics and frequently requires a longer hospitalization."
   },
   {
     "objectID": "lci_eso_scca.html#preventing-pneumonia",
     "href": "lci_eso_scca.html#preventing-pneumonia",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Preventing Pneumonia",
-    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia after surgery:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
+    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
   },
   {
     "objectID": "lci_eso_scca.html#minimally-invasive-esophagectomy",
@@ -8726,14 +8712,14 @@
     "href": "lci_eso_scca.html#jejunostomy-tube",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Jejunostomy Tube",
-    "text": "Jejunostomy Tube\n\n\n\nAllows nutrition to bypass the esophagus and stomach\nTube placed in small intestine\nRequires a pump to adminster feedings slowly\nFeeding usually done at night\n\n\nJejunostomy = Small Intestine"
+    "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding usually done at night"
   },
   {
     "objectID": "lci_eso_scca.html#jejunostomy-typical-regimen",
     "href": "lci_eso_scca.html#jejunostomy-typical-regimen",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Jejunostomy Typical Regimen",
-    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube pump"
+    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm-10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube"
   },
   {
     "objectID": "lci_eso_scca.html#jejunostomy-feeds-with-diabetes",
@@ -8957,7 +8943,7 @@
     "href": "lci_eso_scca.htm#n-stage",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\nN1 cancers have spread to the lymph nodes."
+    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the nodes.\n\nN0 cancers have not spread to the nodes\nN1 cancers have spread to the nodes."
   },
   {
     "objectID": "lci_eso_scca.htm#m-stage",
@@ -8971,14 +8957,14 @@
     "href": "lci_eso_scca.htm#pet-scan",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "PET scan",
-    "text": "PET scan\n\n\nA PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer."
+    "text": "PET scan\n\n\nPET scan is similar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
   },
   {
     "objectID": "lci_eso_scca.htm#endoscopic-ultrasound",
     "href": "lci_eso_scca.htm#endoscopic-ultrasound",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Endoscopic Ultrasound",
-    "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound probe in scope\nEvaluates T stage of cancer"
+    "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound in scope\nEvaluates T stage"
   },
   {
     "objectID": "lci_eso_scca.htm#treatment-plan",
@@ -9055,7 +9041,7 @@
     "href": "lci_eso_scca.htm#chemotherapy-radiation-cross-trial-1",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_eso_scca.htm#chemotherapy-radiation-cross-trial-2",
@@ -9069,7 +9055,7 @@
     "href": "lci_eso_scca.htm#chemotherapy-radiation---side-effects",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also cause irritation of the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks.\nFeeding tube may be needed for hydration/nutrition."
+    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks.\nFeeding tube may be needed for hydration/nutrition."
   },
   {
     "objectID": "lci_eso_scca.htm#chemotherapy",
@@ -9118,7 +9104,7 @@
     "href": "lci_eso_scca.htm#primary-care-practitioner-pcp",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Primary Care Practitioner (PCP)",
-    "text": "Primary Care Practitioner (PCP)\nA PCP is critical to coordinate care between specialists.\nWe will update your PCP after each visit\nCall our referral line at (844) 235-6998 if you need a PCP"
+    "text": "Primary Care Practitioner (PCP)\nCritical to coordinate care between specialists.\nWe will update your PCP after each visit\nPCP Referral Line (844) 235-6998"
   },
   {
     "objectID": "lci_eso_scca.htm#my-atrium-patient-portal",
@@ -9132,7 +9118,7 @@
     "href": "lci_eso_scca.htm#exercise",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_eso_scca.htm#smoking-cessation",
@@ -9146,14 +9132,14 @@
     "href": "lci_eso_scca.htm#protein-needs",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Protein Needs",
-    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes can provide protein with minimal sugar\n\nProtein Shakes"
+    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes provide protein with minimal sugar"
   },
   {
     "objectID": "lci_eso_scca.htm#feeding-tubes",
     "href": "lci_eso_scca.htm#feeding-tubes",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Feeding Tubes",
-    "text": "Feeding Tubes\n\n\nJejunostomy = Small Intestine \n\nGastrostomy = Stomach"
+    "text": "Feeding Tubes"
   },
   {
     "objectID": "lci_eso_scca.htm#gastrostomy-tube",
@@ -9237,7 +9223,7 @@
     "href": "lci_eso_scca.htm#mckeown-esophagectomy",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "McKeown Esophagectomy",
-    "text": "McKeown Esophagectomy\n\n\nAll of esophagus removed \n\nConnection made in the neck"
+    "text": "McKeown Esophagectomy\n\n\n All of esophagus removed\n\n Connection made in the neck"
   },
   {
     "objectID": "lci_eso_scca.htm#colon-interposition",
@@ -9272,7 +9258,7 @@
     "href": "lci_eso_scca.htm#anastomotic-leak-1",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Anastomotic Leak",
-    "text": "Anastomotic Leak\n\n\nIf anastomosis does not heal:\n\nLeakage of fluid from the esophagus\nInfection in the space between the lungs\nRequires additional time in the hospital"
+    "text": "Anastomotic Leak\n\n\nIf anastomosis doesn’t heal:\n\nLeakage of fluid from the esophagus\nInfection in the space between the lungs\nRequires additional time in the hospital"
   },
   {
     "objectID": "lci_eso_scca.htm#anastomotic-leak-2",
@@ -9293,14 +9279,14 @@
     "href": "lci_eso_scca.htm#pneumonia",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Pneumonia",
-    "text": "Pneumonia\n\n\nPneumonia can occurs in about 10-15% of patients after esophagectomy.\nPneumonia requires treatment with antibiotics and frequently requires a longer hospitalization."
+    "text": "Pneumonia\n\n\nCan occur in 10-15% of patients after esophagectomy.\nRequires treatment with antibiotics and frequently requires a longer hospitalization."
   },
   {
     "objectID": "lci_eso_scca.htm#preventing-pneumonia",
     "href": "lci_eso_scca.htm#preventing-pneumonia",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Preventing Pneumonia",
-    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia after surgery:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
+    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
   },
   {
     "objectID": "lci_eso_scca.htm#minimally-invasive-esophagectomy",
@@ -9384,14 +9370,14 @@
     "href": "lci_eso_scca.htm#jejunostomy-tube",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Jejunostomy Tube",
-    "text": "Jejunostomy Tube\n\n\n\nAllows nutrition to bypass the esophagus and stomach\nTube placed in small intestine\nRequires a pump to adminster feedings slowly\nFeeding usually done at night\n\n\nJejunostomy = Small Intestine"
+    "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding usually done at night"
   },
   {
     "objectID": "lci_eso_scca.htm#jejunostomy-typical-regimen",
     "href": "lci_eso_scca.htm#jejunostomy-typical-regimen",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Jejunostomy Typical Regimen",
-    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube pump"
+    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm-10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube"
   },
   {
     "objectID": "lci_eso_scca.htm#jejunostomy-feeds-with-diabetes",
@@ -9622,7 +9608,7 @@
     "href": "lci_esot3_aca.html#n-stage",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\nN1 cancers have spread to the lymph nodes."
+    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the nodes.\n\nN0 cancers have not spread to the nodes\nN1 cancers have spread to the nodes."
   },
   {
     "objectID": "lci_esot3_aca.html#m-stage",
@@ -9636,14 +9622,14 @@
     "href": "lci_esot3_aca.html#pet-scan",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "PET scan",
-    "text": "PET scan\n\n\nA PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer."
+    "text": "PET scan\n\n\nPET scan is similar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
   },
   {
     "objectID": "lci_esot3_aca.html#endoscopic-ultrasound",
     "href": "lci_esot3_aca.html#endoscopic-ultrasound",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Endoscopic Ultrasound",
-    "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound probe in scope\nEvaluates T stage of cancer"
+    "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound in scope\nEvaluates T stage"
   },
   {
     "objectID": "lci_esot3_aca.html#laparoscopy",
@@ -9657,14 +9643,14 @@
     "href": "lci_esot3_aca.html#laparoscopy-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral incisions 1/4” long\nA telescope is used to examine the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_esot3_aca.html#treatment-plan",
     "href": "lci_esot3_aca.html#treatment-plan",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Treatment Plan",
-    "text": "Treatment Plan\n\n- Superficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\n- Localized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\n- Locally-advanced (T3/N1) \\(\\Rightarrow\\) Chemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\n- Metastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
+    "text": "Treatment Plan\n\nSuperficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\nLocalized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\nLocally-advanced (T3) \\(\\Rightarrow\\) Chemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\nMetastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
   },
   {
     "objectID": "lci_esot3_aca.html#locally-advanced-cancers-1",
@@ -9734,7 +9720,7 @@
     "href": "lci_esot3_aca.html#chemotherapy-radiation-cross-trial-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_esot3_aca.html#chemotherapy-radiation-cross-trial-2",
@@ -9748,7 +9734,7 @@
     "href": "lci_esot3_aca.html#chemotherapy-radiation---side-effects",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also cause irritation of the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks.\nFeeding tube may be needed for hydration/nutrition."
+    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks.\nFeeding tube may be needed for hydration/nutrition."
   },
   {
     "objectID": "lci_esot3_aca.html#locally-advanced-adenocarcinoma",
@@ -9769,14 +9755,14 @@
     "href": "lci_esot3_aca.html#adenocarcinoma-treatment-options",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Adenocarcinoma Treatment Options",
-    "text": "Adenocarcinoma Treatment Options\n\n\nChemo + Radiation\n\nChemo + Radiation (6 weeks)\nSurgery\n\n\nChemotherapy\n\nChemotherapy (8 weeks)\nSurgery\nChemotherapy (8 weeks)"
+    "text": "Adenocarcinoma Treatment Options\n\n\nChemo + Radiation\n\nChemo + Radiation (6wk)\nSurgery\n\n\nChemotherapy\n\nChemo (8wk)\nSurgery\nChemo (8wk)"
   },
   {
     "objectID": "lci_esot3_aca.html#adenocarcinoma-treatment-options-1",
     "href": "lci_esot3_aca.html#adenocarcinoma-treatment-options-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Adenocarcinoma Treatment Options",
-    "text": "Adenocarcinoma Treatment Options\n\n\nCROSS Chemo + Radiation\n\nLonger track record (2010)\nBetter tolerated\nPort usually placed\nEating gets worse \\(\\rightarrow\\) better\nMay need feeding tube\n\n\nFLOT Chemotherapy\n\nMore effective than CROSS\nMore side effects\nPort always required\nEating gets slowly better\nLess likely to need feeding tube"
+    "text": "Adenocarcinoma Treatment Options\n\n\nChemo + Radiation\n\nLonger track record\nBetter tolerated\nPort usually placed\nEating worse \\(\\rightarrow\\) better\nMay need feeding tube\n\n\nChemotherapy\n\nMore effective\nMore side effects\nPort always required\nEating slowly improves\nLess likely to need feeding tube"
   },
   {
     "objectID": "lci_esot3_aca.html#chemotherapy-administration",
@@ -9790,7 +9776,7 @@
     "href": "lci_esot3_aca.html#intravenous-catheter-in-peripheral-vein-iv",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemotherapy"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed in vein of hand or arm\nAllows administration of chemo and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemo"
   },
   {
     "objectID": "lci_esot3_aca.html#picc-lines",
@@ -9804,14 +9790,14 @@
     "href": "lci_esot3_aca.html#central-venous-port",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower in 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device makes chemo easier\nMay shower in 24 hrs\nNo special care at home\nOK for FLOT chemo\nAllows for blood draws"
   },
   {
     "objectID": "lci_esot3_aca.html#central-venous-port-1",
     "href": "lci_esot3_aca.html#central-venous-port-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_esot3_aca.html#central-venous-port-2",
@@ -9832,7 +9818,7 @@
     "href": "lci_esot3_aca.html#primary-care-practitioner-pcp",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Primary Care Practitioner (PCP)",
-    "text": "Primary Care Practitioner (PCP)\nA PCP is critical to coordinate care between specialists.\nWe will update your PCP after each visit\nCall our referral line at (844) 235-6998 if you need a PCP"
+    "text": "Primary Care Practitioner (PCP)\nCritical to coordinate care between specialists.\nWe will update your PCP after each visit\nPCP Referral Line (844) 235-6998"
   },
   {
     "objectID": "lci_esot3_aca.html#my-atrium-patient-portal",
@@ -9846,7 +9832,7 @@
     "href": "lci_esot3_aca.html#exercise",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_esot3_aca.html#smoking-cessation",
@@ -9860,14 +9846,14 @@
     "href": "lci_esot3_aca.html#protein-needs",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Protein Needs",
-    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes can provide protein with minimal sugar\n\nProtein Shakes"
+    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes provide protein with minimal sugar"
   },
   {
     "objectID": "lci_esot3_aca.html#feeding-tubes",
     "href": "lci_esot3_aca.html#feeding-tubes",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Feeding Tubes",
-    "text": "Feeding Tubes\n\n\nJejunostomy = Small Intestine \n\nGastrostomy = Stomach"
+    "text": "Feeding Tubes"
   },
   {
     "objectID": "lci_esot3_aca.html#gastrostomy-tube",
@@ -9895,14 +9881,14 @@
     "href": "lci_esot3_aca.html#jejunostomy-tube",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Jejunostomy Tube",
-    "text": "Jejunostomy Tube\n\n\n\nAllows nutrition to bypass the esophagus and stomach\nTube placed in small intestine\nRequires a pump to adminster feedings slowly\nFeeding usually done at night\n\n\nJejunostomy = Small Intestine"
+    "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding usually done at night"
   },
   {
     "objectID": "lci_esot3_aca.html#jejunostomy-typical-regimen",
     "href": "lci_esot3_aca.html#jejunostomy-typical-regimen",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Jejunostomy Typical Regimen",
-    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube pump"
+    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm-10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube"
   },
   {
     "objectID": "lci_esot3_aca.html#jejunostomy-feeds-with-diabetes",
@@ -9979,7 +9965,7 @@
     "href": "lci_esot3_aca.html#mckeown-esophagectomy",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "McKeown Esophagectomy",
-    "text": "McKeown Esophagectomy\n\n\nAll of esophagus removed \n\nConnection made in the neck"
+    "text": "McKeown Esophagectomy\n\n\n All of esophagus removed\n\n Connection made in the neck"
   },
   {
     "objectID": "lci_esot3_aca.html#colon-interposition",
@@ -10014,7 +10000,7 @@
     "href": "lci_esot3_aca.html#anastomotic-leak-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Anastomotic Leak",
-    "text": "Anastomotic Leak\n\n\nIf anastomosis does not heal:\n\nLeakage of fluid from the esophagus\nInfection in the space between the lungs\nRequires additional time in the hospital"
+    "text": "Anastomotic Leak\n\n\nIf anastomosis doesn’t heal:\n\nLeakage of fluid from the esophagus\nInfection in the space between the lungs\nRequires additional time in the hospital"
   },
   {
     "objectID": "lci_esot3_aca.html#anastomotic-leak-2",
@@ -10035,14 +10021,14 @@
     "href": "lci_esot3_aca.html#pneumonia",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Pneumonia",
-    "text": "Pneumonia\n\n\nPneumonia can occurs in about 10-15% of patients after esophagectomy.\nPneumonia requires treatment with antibiotics and frequently requires a longer hospitalization."
+    "text": "Pneumonia\n\n\nCan occur in 10-15% of patients after esophagectomy.\nRequires treatment with antibiotics and frequently requires a longer hospitalization."
   },
   {
     "objectID": "lci_esot3_aca.html#preventing-pneumonia",
     "href": "lci_esot3_aca.html#preventing-pneumonia",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Preventing Pneumonia",
-    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia after surgery:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
+    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
   },
   {
     "objectID": "lci_esot3_aca.html#minimally-invasive-esophagectomy",
@@ -10126,14 +10112,14 @@
     "href": "lci_esot3_aca.html#jejunostomy-tube-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Jejunostomy Tube",
-    "text": "Jejunostomy Tube\n\n\n\nAllows nutrition to bypass the esophagus and stomach\nTube placed in small intestine\nRequires a pump to adminster feedings slowly\nFeeding usually done at night\n\n\nJejunostomy = Small Intestine"
+    "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding usually done at night"
   },
   {
     "objectID": "lci_esot3_aca.html#jejunostomy-typical-regimen-1",
     "href": "lci_esot3_aca.html#jejunostomy-typical-regimen-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Jejunostomy Typical Regimen",
-    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube pump"
+    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm-10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube"
   },
   {
     "objectID": "lci_esot3_aca.html#jejunostomy-feeds-with-diabetes-1",
@@ -10357,7 +10343,7 @@
     "href": "lci_esot3_aca.htm#n-stage",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\nN1 cancers have spread to the lymph nodes."
+    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the nodes.\n\nN0 cancers have not spread to the nodes\nN1 cancers have spread to the nodes."
   },
   {
     "objectID": "lci_esot3_aca.htm#m-stage",
@@ -10371,14 +10357,14 @@
     "href": "lci_esot3_aca.htm#pet-scan",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "PET scan",
-    "text": "PET scan\n\n\nA PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer."
+    "text": "PET scan\n\n\nPET scan is similar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
   },
   {
     "objectID": "lci_esot3_aca.htm#endoscopic-ultrasound",
     "href": "lci_esot3_aca.htm#endoscopic-ultrasound",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Endoscopic Ultrasound",
-    "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound probe in scope\nEvaluates T stage of cancer"
+    "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound in scope\nEvaluates T stage"
   },
   {
     "objectID": "lci_esot3_aca.htm#laparoscopy",
@@ -10392,14 +10378,14 @@
     "href": "lci_esot3_aca.htm#laparoscopy-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral incisions 1/4” long\nA telescope is used to examine the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_esot3_aca.htm#treatment-plan",
     "href": "lci_esot3_aca.htm#treatment-plan",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Treatment Plan",
-    "text": "Treatment Plan\n\n- Superficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\n- Localized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\n- Locally-advanced (T3/N1) \\(\\Rightarrow\\) Chemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\n- Metastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
+    "text": "Treatment Plan\n\nSuperficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\nLocalized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\nLocally-advanced (T3) \\(\\Rightarrow\\) Chemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\nMetastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
   },
   {
     "objectID": "lci_esot3_aca.htm#locally-advanced-cancers-1",
@@ -10469,7 +10455,7 @@
     "href": "lci_esot3_aca.htm#chemotherapy-radiation-cross-trial-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation given together over 6 weeks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_esot3_aca.htm#chemotherapy-radiation-cross-trial-2",
@@ -10483,7 +10469,7 @@
     "href": "lci_esot3_aca.htm#chemotherapy-radiation---side-effects",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also cause irritation of the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks.\nFeeding tube may be needed for hydration/nutrition."
+    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks.\nFeeding tube may be needed for hydration/nutrition."
   },
   {
     "objectID": "lci_esot3_aca.htm#locally-advanced-adenocarcinoma",
@@ -10504,14 +10490,14 @@
     "href": "lci_esot3_aca.htm#adenocarcinoma-treatment-options",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Adenocarcinoma Treatment Options",
-    "text": "Adenocarcinoma Treatment Options\n\n\nChemo + Radiation\n\nChemo + Radiation (6 weeks)\nSurgery\n\n\nChemotherapy\n\nChemotherapy (8 weeks)\nSurgery\nChemotherapy (8 weeks)"
+    "text": "Adenocarcinoma Treatment Options\n\n\nChemo + Radiation\n\nChemo + Radiation (6wk)\nSurgery\n\n\nChemotherapy\n\nChemo (8wk)\nSurgery\nChemo (8wk)"
   },
   {
     "objectID": "lci_esot3_aca.htm#adenocarcinoma-treatment-options-1",
     "href": "lci_esot3_aca.htm#adenocarcinoma-treatment-options-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Adenocarcinoma Treatment Options",
-    "text": "Adenocarcinoma Treatment Options\n\n\nCROSS Chemo + Radiation\n\nLonger track record (2010)\nBetter tolerated\nPort usually placed\nEating gets worse \\(\\rightarrow\\) better\nMay need feeding tube\n\n\nFLOT Chemotherapy\n\nMore effective than CROSS\nMore side effects\nPort always required\nEating gets slowly better\nLess likely to need feeding tube"
+    "text": "Adenocarcinoma Treatment Options\n\n\nChemo + Radiation\n\nLonger track record\nBetter tolerated\nPort usually placed\nEating worse \\(\\rightarrow\\) better\nMay need feeding tube\n\n\nChemotherapy\n\nMore effective\nMore side effects\nPort always required\nEating slowly improves\nLess likely to need feeding tube"
   },
   {
     "objectID": "lci_esot3_aca.htm#chemotherapy-administration",
@@ -10525,7 +10511,7 @@
     "href": "lci_esot3_aca.htm#intravenous-catheter-in-peripheral-vein-iv",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
-    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed into a vein in the hand or arm\nAllows administration of chemotherapy and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemotherapy"
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed in vein of hand or arm\nAllows administration of chemo and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemo"
   },
   {
     "objectID": "lci_esot3_aca.htm#picc-lines",
@@ -10539,14 +10525,14 @@
     "href": "lci_esot3_aca.htm#central-venous-port",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplantable device that makes the administration of chemotherapy easier\nMay shower in 24 hrs\nNo special care at home\nSuitable for FLOT chemo\nAllows for blood draws"
+    "text": "Central Venous Port\n\n\n\nImplantable device makes chemo easier\nMay shower in 24 hrs\nNo special care at home\nOK for FLOT chemo\nAllows for blood draws"
   },
   {
     "objectID": "lci_esot3_aca.htm#central-venous-port-1",
     "href": "lci_esot3_aca.htm#central-venous-port-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve on their own\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_esot3_aca.htm#central-venous-port-2",
@@ -10567,7 +10553,7 @@
     "href": "lci_esot3_aca.htm#primary-care-practitioner-pcp",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Primary Care Practitioner (PCP)",
-    "text": "Primary Care Practitioner (PCP)\nA PCP is critical to coordinate care between specialists.\nWe will update your PCP after each visit\nCall our referral line at (844) 235-6998 if you need a PCP"
+    "text": "Primary Care Practitioner (PCP)\nCritical to coordinate care between specialists.\nWe will update your PCP after each visit\nPCP Referral Line (844) 235-6998"
   },
   {
     "objectID": "lci_esot3_aca.htm#my-atrium-patient-portal",
@@ -10581,7 +10567,7 @@
     "href": "lci_esot3_aca.htm#exercise",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for some activity every day)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_esot3_aca.htm#smoking-cessation",
@@ -10595,14 +10581,14 @@
     "href": "lci_esot3_aca.htm#protein-needs",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Protein Needs",
-    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes can provide protein with minimal sugar\n\nProtein Shakes"
+    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes provide protein with minimal sugar"
   },
   {
     "objectID": "lci_esot3_aca.htm#feeding-tubes",
     "href": "lci_esot3_aca.htm#feeding-tubes",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Feeding Tubes",
-    "text": "Feeding Tubes\n\n\nJejunostomy = Small Intestine \n\nGastrostomy = Stomach"
+    "text": "Feeding Tubes"
   },
   {
     "objectID": "lci_esot3_aca.htm#gastrostomy-tube",
@@ -10630,14 +10616,14 @@
     "href": "lci_esot3_aca.htm#jejunostomy-tube",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Jejunostomy Tube",
-    "text": "Jejunostomy Tube\n\n\n\nAllows nutrition to bypass the esophagus and stomach\nTube placed in small intestine\nRequires a pump to adminster feedings slowly\nFeeding usually done at night\n\n\nJejunostomy = Small Intestine"
+    "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding usually done at night"
   },
   {
     "objectID": "lci_esot3_aca.htm#jejunostomy-typical-regimen",
     "href": "lci_esot3_aca.htm#jejunostomy-typical-regimen",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Jejunostomy Typical Regimen",
-    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube pump"
+    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm-10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube"
   },
   {
     "objectID": "lci_esot3_aca.htm#jejunostomy-feeds-with-diabetes",
@@ -10714,7 +10700,7 @@
     "href": "lci_esot3_aca.htm#mckeown-esophagectomy",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "McKeown Esophagectomy",
-    "text": "McKeown Esophagectomy\n\n\nAll of esophagus removed \n\nConnection made in the neck"
+    "text": "McKeown Esophagectomy\n\n\n All of esophagus removed\n\n Connection made in the neck"
   },
   {
     "objectID": "lci_esot3_aca.htm#colon-interposition",
@@ -10749,7 +10735,7 @@
     "href": "lci_esot3_aca.htm#anastomotic-leak-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Anastomotic Leak",
-    "text": "Anastomotic Leak\n\n\nIf anastomosis does not heal:\n\nLeakage of fluid from the esophagus\nInfection in the space between the lungs\nRequires additional time in the hospital"
+    "text": "Anastomotic Leak\n\n\nIf anastomosis doesn’t heal:\n\nLeakage of fluid from the esophagus\nInfection in the space between the lungs\nRequires additional time in the hospital"
   },
   {
     "objectID": "lci_esot3_aca.htm#anastomotic-leak-2",
@@ -10770,14 +10756,14 @@
     "href": "lci_esot3_aca.htm#pneumonia",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Pneumonia",
-    "text": "Pneumonia\n\n\nPneumonia can occurs in about 10-15% of patients after esophagectomy.\nPneumonia requires treatment with antibiotics and frequently requires a longer hospitalization."
+    "text": "Pneumonia\n\n\nCan occur in 10-15% of patients after esophagectomy.\nRequires treatment with antibiotics and frequently requires a longer hospitalization."
   },
   {
     "objectID": "lci_esot3_aca.htm#preventing-pneumonia",
     "href": "lci_esot3_aca.htm#preventing-pneumonia",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Preventing Pneumonia",
-    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia after surgery:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
+    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
   },
   {
     "objectID": "lci_esot3_aca.htm#minimally-invasive-esophagectomy",
@@ -10861,14 +10847,14 @@
     "href": "lci_esot3_aca.htm#jejunostomy-tube-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Jejunostomy Tube",
-    "text": "Jejunostomy Tube\n\n\n\nAllows nutrition to bypass the esophagus and stomach\nTube placed in small intestine\nRequires a pump to adminster feedings slowly\nFeeding usually done at night\n\n\nJejunostomy = Small Intestine"
+    "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding usually done at night"
   },
   {
     "objectID": "lci_esot3_aca.htm#jejunostomy-typical-regimen-1",
     "href": "lci_esot3_aca.htm#jejunostomy-typical-regimen-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Jejunostomy Typical Regimen",
-    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube pump"
+    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm-10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube"
   },
   {
     "objectID": "lci_esot3_aca.htm#jejunostomy-feeds-with-diabetes-1",
@@ -11092,14 +11078,14 @@
     "href": "lci_mie_guts.htm#jejunostomy-tube",
     "title": "Patient Education",
     "section": "Jejunostomy Tube",
-    "text": "Jejunostomy Tube\n\n\n\nAllows nutrition to bypass the esophagus and stomach\nTube placed in small intestine\nRequires a pump to adminster feedings slowly\nFeeding usually done at night\n\n\nJejunostomy = Small Intestine"
+    "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding usually done at night"
   },
   {
     "objectID": "lci_mie_guts.htm#jejunostomy-typical-regimen",
     "href": "lci_mie_guts.htm#jejunostomy-typical-regimen",
     "title": "Patient Education",
     "section": "Jejunostomy Typical Regimen",
-    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube pump"
+    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm-10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube"
   },
   {
     "objectID": "lci_mie_guts.htm#jejunostomy-feeds-with-diabetes",
@@ -11330,14 +11316,14 @@
     "href": "lci_mie_guts.html#jejunostomy-tube",
     "title": "Patient Education",
     "section": "Jejunostomy Tube",
-    "text": "Jejunostomy Tube\n\n\n\nAllows nutrition to bypass the esophagus and stomach\nTube placed in small intestine\nRequires a pump to adminster feedings slowly\nFeeding usually done at night\n\n\nJejunostomy = Small Intestine"
+    "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding usually done at night"
   },
   {
     "objectID": "lci_mie_guts.html#jejunostomy-typical-regimen",
     "href": "lci_mie_guts.html#jejunostomy-typical-regimen",
     "title": "Patient Education",
     "section": "Jejunostomy Typical Regimen",
-    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube pump"
+    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm-10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube"
   },
   {
     "objectID": "lci_mie_guts.html#jejunostomy-feeds-with-diabetes",
@@ -11519,7 +11505,7 @@
     "href": "lci_laparoscopy_guts.htm#laparoscopy-1",
     "title": "Patient Education",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral incisions 1/4” long\nA telescope is used to examine the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_laparoscopy_guts.html",
@@ -11540,7 +11526,7 @@
     "href": "lci_laparoscopy_guts.html#laparoscopy-1",
     "title": "Patient Education",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral incisions 1/4” long\nA telescope is used to examine the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "eso_symptoms.html",
@@ -12170,14 +12156,14 @@
     "href": "lci_nutrition.html#protein-needs",
     "title": "Nutrition",
     "section": "Protein Needs",
-    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes can provide protein with minimal sugar\n\nProtein Shakes"
+    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes provide protein with minimal sugar"
   },
   {
     "objectID": "lci_nutrition.html#feeding-tubes",
     "href": "lci_nutrition.html#feeding-tubes",
     "title": "Nutrition",
     "section": "Feeding Tubes",
-    "text": "Feeding Tubes\n\n\nJejunostomy = Small Intestine \n\nGastrostomy = Stomach"
+    "text": "Feeding Tubes"
   },
   {
     "objectID": "lci_nutrition.html#gastrostomy-tube",
@@ -12205,14 +12191,14 @@
     "href": "lci_nutrition.html#jejunostomy-tube",
     "title": "Nutrition",
     "section": "Jejunostomy Tube",
-    "text": "Jejunostomy Tube\n\n\n\nAllows nutrition to bypass the esophagus and stomach\nTube placed in small intestine\nRequires a pump to adminster feedings slowly\nFeeding usually done at night\n\n\nJejunostomy = Small Intestine"
+    "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding usually done at night"
   },
   {
     "objectID": "lci_nutrition.html#jejunostomy-typical-regimen",
     "href": "lci_nutrition.html#jejunostomy-typical-regimen",
     "title": "Nutrition",
     "section": "Jejunostomy Typical Regimen",
-    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube pump"
+    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm-10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube"
   },
   {
     "objectID": "lci_nutrition.html#jejunostomy-feeds-with-diabetes",
@@ -12240,14 +12226,14 @@
     "href": "lci_nutrition.htm#protein-needs",
     "title": "Nutrition",
     "section": "Protein Needs",
-    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes can provide protein with minimal sugar\n\nProtein Shakes"
+    "text": "Protein Needs\n\n\n\nMen: Average 75 grams/day\nWomen: Average 60 grams/day\n\nProtein Shakes provide protein with minimal sugar"
   },
   {
     "objectID": "lci_nutrition.htm#feeding-tubes",
     "href": "lci_nutrition.htm#feeding-tubes",
     "title": "Nutrition",
     "section": "Feeding Tubes",
-    "text": "Feeding Tubes\n\n\nJejunostomy = Small Intestine \n\nGastrostomy = Stomach"
+    "text": "Feeding Tubes"
   },
   {
     "objectID": "lci_nutrition.htm#gastrostomy-tube",
@@ -12275,14 +12261,14 @@
     "href": "lci_nutrition.htm#jejunostomy-tube",
     "title": "Nutrition",
     "section": "Jejunostomy Tube",
-    "text": "Jejunostomy Tube\n\n\n\nAllows nutrition to bypass the esophagus and stomach\nTube placed in small intestine\nRequires a pump to adminster feedings slowly\nFeeding usually done at night\n\n\nJejunostomy = Small Intestine"
+    "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding usually done at night"
   },
   {
     "objectID": "lci_nutrition.htm#jejunostomy-typical-regimen",
     "href": "lci_nutrition.htm#jejunostomy-typical-regimen",
     "title": "Nutrition",
     "section": "Jejunostomy Typical Regimen",
-    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm to 10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube pump"
+    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm-10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube"
   },
   {
     "objectID": "lci_nutrition.htm#jejunostomy-feeds-with-diabetes",
