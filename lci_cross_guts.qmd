@@ -17,7 +17,7 @@ vs
 
 363 patients with esophageal cancer studied
 
-Chemotherapy + radiation given together over 6 weeks
+Chemotherapy + radiation together over 6 wks
 
 
 **Surgery Alone**
@@ -43,7 +43,7 @@ Typical schedule for chemotherapy + radiation:
 
 Kills cancer cells in the esophagus and lymph nodes
 
-Can also cause irritation of the lining of the esophagus.
+Can also irritate the lining of the esophagus.
 
 Swallowing can be difficult the last 2 weeks.
 

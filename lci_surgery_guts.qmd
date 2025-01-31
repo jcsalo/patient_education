@@ -105,11 +105,13 @@ We need to remove the whole esophagus, including the portion in the neck
 
 ::::: columns
 ::: {.column width="50%"}
-All of esophagus removed ![](https://deidt7p41jzcy.cloudfront.net/Eso_ResectionTotalArtboard.png)
+ ![](https://deidt7p41jzcy.cloudfront.net/Eso_ResectionTotalArtboard.png)
+All of esophagus removed
 :::
 
 ::: {.column width="50%"}
-Connection made in the neck ![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_McKeownArtboard.png)
+ ![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_McKeownArtboard.png)
+Connection made in the neck
 :::
 :::::
 
@@ -152,7 +154,7 @@ The anastomosis is surgical connection between the esophagus and the stomach.
 
 ::::: columns
 ::: {.column width="50%"}
-If anastomosis does not heal:
+If anastomosis doesn't heal:
 
 -   Leakage of fluid from the esophagus
 -   Infection in the space between the lungs
@@ -200,9 +202,9 @@ Risk of a leak depends upon:
 
 ::::: columns
 ::: {.column width="50%"}
-Pneumonia can occurs in about 10-15% of patients after esophagectomy.
+Can occur in 10-15% of patients after esophagectomy.
 
-Pneumonia requires treatment with antibiotics and frequently requires a longer hospitalization.
+Requires treatment with antibiotics and frequently requires a longer hospitalization.
 :::
 
 ::: {.column width="50%"}
@@ -212,7 +214,7 @@ Pneumonia requires treatment with antibiotics and frequently requires a longer h
 
 ## Preventing Pneumonia
 
-Several ways to help prevent pneumonia after surgery:
+Several ways to help prevent pneumonia:
 
 -   Deep breathing
 -   Coughing

@@ -3,13 +3,13 @@
 ::::::: columns
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-Jejunostomy = Small Intestine ![](https://deidt7p41jzcy.cloudfront.net/jtube_ai.png)
+![](https://deidt7p41jzcy.cloudfront.net/jtube_ai.png)
 :::
 ::::
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-Gastrostomy = Stomach ![](https://deidt7p41jzcy.cloudfront.net/gtube_ai.png)
+![](https://deidt7p41jzcy.cloudfront.net/gtube_ai.png)
 :::
 ::::
 :::::::

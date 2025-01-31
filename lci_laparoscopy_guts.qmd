@@ -22,11 +22,10 @@ Not all patients with gastric cancer need a laparoscopy.
 
 :::::: columns
 ::: {.column width="50%"}
-
-- General anesthetic
-- Several incisions 1/4" long
-- A telescope is used to examine the abdomen
-- Biopsies can be performed.
+-   General anesthetic
+-   Several 1/4" incisions 1/4"
+-   Telescope examines the abdomen
+-   Biopsies can be performed.
 :::
 
 :::: {.column width="50%"}

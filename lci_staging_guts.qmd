@@ -102,10 +102,10 @@ T1 tumors are early stage, and T4 tumors more advanced
 
 :::::: columns
 ::: {.column width="50%"}
-Cancers are categorized by whether there is spread to the lymph nodes.
+Cancers are categorized by whether there is spread to the nodes.
 
--   **N0** cancers have not spread to the lymph nodes
--   **N1** cancers have spread to the lymph nodes.
+-   **N0** cancers have not spread to the nodes
+-   **N1** cancers have spread to the nodes.
 :::
 
 :::: {.column width="50%"}
@@ -136,7 +136,16 @@ Some cancers spread to other parts of the body
 
 :::::: columns
 ::: {.column width="40%"}
-A PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer.
+
+PET scan is similar to CT scan
+
+- Tracer shows 'hot spots'
+  - Cancer
+  - Inflammation or infection
+  - Normal organs (heart)
+  
+  
+
 :::
 
 :::: {.column width="60%"}
@@ -155,8 +164,8 @@ In some cases, the PET scan is not performed until a CT scans bas been done.
 :::::: columns
 ::: {.column width="60%"}
 -   Similar to upper endoscopy (EGD)
--   Ultrasound probe in scope
--   Evaluates T stage of cancer
+-   Ultrasound in scope
+-   Evaluates T stage
 :::
 
 :::: {.column width="40%"}

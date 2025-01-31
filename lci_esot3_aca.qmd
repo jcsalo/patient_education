@@ -60,13 +60,13 @@ From the stomach, food moved through a valve called the pylorus into the small i
 ## Treatment Plan
 
 \
-- Superficial (T1) $\Rightarrow$ Endoscopic Therapy\
+Superficial (T1) $\Rightarrow$ Endoscopic Therapy\
 \
-- Localized (T1b/T2) $\Rightarrow$ Surgery\
+Localized (T1b/T2) $\Rightarrow$ Surgery\
 \
-- Locally-advanced (T3/N1) $\Rightarrow$ Chemo$\pm$Radiation $\rightarrow$Surgery\
+Locally-advanced (T3) $\Rightarrow$ Chemo$\pm$Radiation $\rightarrow$Surgery\
 \
-- Metastatic (M1) $\Rightarrow$ Chemotherapy
+Metastatic (M1) $\Rightarrow$ Chemotherapy
 
 ::: {.content-hidden unless-format="docx"}
 This table summarizes four different treatment categories:
@@ -203,16 +203,16 @@ The risk of cancer recurrence is minimized
 ::: {.column width="45%"}
 **Chemo + Radiation**
 
--   Chemo + Radiation (6 weeks)
+-   Chemo + Radiation (6wk)
 -   Surgery
 :::
 
 ::: {.column width="55%"}
 **Chemotherapy**
 
--   Chemotherapy (8 weeks)
+-   Chemo (8wk)
 -   Surgery
--   Chemotherapy (8 weeks)
+-   Chemo (8wk)
 :::
 :::::
 
@@ -220,22 +220,22 @@ The risk of cancer recurrence is minimized
 
 ::::: columns
 ::: {.column width="50%"}
-**CROSS Chemo + Radiation**
+**Chemo + Radiation**
 
--   Longer track record (2010)
+-   Longer track record
 -   Better tolerated
 -   Port usually placed
--   Eating gets worse $\rightarrow$ better
+-   Eating worse $\rightarrow$ better
 -   May need feeding tube
 :::
 
 ::: {.column width="50%"}
-**FLOT Chemotherapy**
+**Chemotherapy**
 
--   More effective than CROSS
+-   More effective
 -   More side effects
 -   Port always required
--   Eating gets slowly better
+-   Eating slowly improves
 -   Less likely to need feeding tube
 :::
 :::::

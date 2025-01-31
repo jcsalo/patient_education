@@ -12,11 +12,11 @@ Several options exist to administer chemotherapy:
 
 :::::: columns
 ::: {.column width="60%"}
--   IV catheter placed into a vein in the hand or arm
--   Allows administration of chemotherapy and fluids
+-   IV catheter placed in vein of hand or arm
+-   Allows administration of chemo and fluids
 -   Placed for each dose
 -   Removed that day
--   Not suitable for FLOT chemotherapy
+-   Not suitable for FLOT chemo
 :::
 
 :::: {.column width="40%"}
@@ -59,10 +59,10 @@ A PICC line is placed in Radiology and stays in place during the treatment cours
 
 :::::: columns
 ::: {.column width="50%"}
--   Implantable device that makes the administration of chemotherapy easier
+-   Implantable device makes chemo easier
 -   May shower in 24 hrs
 -   No special care at home
--   Suitable for FLOT chemo
+-   OK for FLOT chemo
 -   Allows for blood draws
 :::
 
@@ -92,7 +92,7 @@ A port can be used for blood draws for blood tests as well.
 -   Implanted under the skin
 -   Neck incision (1/4")
 -   Incision below the collarbone
--   Sutures dissolve on their own
+-   Sutures dissolve
 -   "Superglue" on incisions
 :::
 
