@@ -3,7 +3,7 @@ title: "Scripts"
 output: html_document
 ---
 
-[Introduction to LCI](lci_intro.qmd)
+[Introduction to LCI](lci_intro_script.qmd)
 
 [Gastroesophageal Dx and Staging](ge_dx_staging.qmd)
 
