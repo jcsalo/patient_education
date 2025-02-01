@@ -25,8 +25,13 @@ output: html_document
 ## Counseling Forms
 
 [Esophagus](4_EsophagusCounsel2.pdf)
+
 [Stomach](7_StomachCounsel3.pdf)
-[Gastric Carcinoid](7_Stomach_Counsel_Carcinoid.pldf)
-[Foregut](9_Foregut_Counsel2.pdf)
+
+[Gastric Carcinoid](7_Stomach_Counsel_Carcinoid.pdf)
+
+[Foregut](9_ForegutCounsel2.pdf)
+
 [Disability/Return to Work](DisabilityForm.pdf)
+
 [Google Review](GoogleReview.pdf)
