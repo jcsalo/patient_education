@@ -170,60 +170,66 @@ For the past 15 years, chemotherapy and radiation, followed by surgery, was esta
 
 ## (4) Adenocarcinoma Preoperative Therapy (27)
 
+The second and somewhat newer approach to preoperative therapy for esophgeal adenocarcinoma is treatment with chemotherapy, followed by surgery, followed by additional chemotherapy
 
 ## Chemo -> Surgery -> Chemo (28)
 
+Chemotherapy is administered intravenously every other week for 4 doses over 8 weeks
+
+Surgery is then performed 4-6 weeks later
+
+Chemotherapy is again administered intravenously every other week for 4 more doses over 8 weeks
+
 ## Chemotherapy Options (29)
+
+There are two commonly used "recipies" for chemotherapy:
+
+FLOT consists of four drugs
+
+FOLFOX consists of three drugs
+
+As you might expect, FLOT is more powerful against cancer, while FOLFOX is easier to tolerate
+
 
 ## (2) Preoperative Therapy (30)
 
+If we compare Chemotherapy + Radiation (or CROSS) with chemotherapy (FLOT)..
+
+We see that Chemotherapy + Radiation has a longer track record and is better tolerated
+
+A central venous port is usually placed to assist with chemotherapy
+
+The radiation can lead to irritation of the lining of the esophagus called radiation esophagitis.  One can think of this as a sunburn on the inside of the esophagus.  The result is that the therapy can make eating temporarily worse before it gets better.  Usually the last two weeks of radiation therapy are the worst.  By two weeks after radiation is completed, the tumor has shrunk enough that eating is usually better than before therapy.
+
+For this reason, a temporary feeding tube is frequently necessary for patients getting chemotherapy and radiation
+
 ##  Preoperative Therapy (31)
+
+On the other hand, FLOT chemotherapy, administered both before and after surgery, has been shown to be more effective than chemotherapy and radiation.
+
+FLOT chemotherapy, however, has more side effects than chemotherapy and radiation.  
+
+As the chemotherapy begins to work, patients who have trouble eating before therapy find gradual improvement in their eating.  As a result, a feeding tube might be less likely used with FLOT chemotherapy.
 
 ##  Preoperative Therapy (32)
 
+So we have two different approaches for therapy prior to surgery, and each has favorable and unfavorable features
+
 ##  Preoperative Therapy (33)
 
+In general, we think that FLOT may be more effective, but CROSS is better tolerated
+
 ##  Preoperative Therapy (34)
+
+A medical oncologist, who specializes in chemotherapy treatment, will make a recommnendation for preoperative therapy based upon a patient's age, overall health, and any medical problems such as heart disease or kidney disease.
 
 ##  Additional Topics (35)
 
 
-------------------------------------------------------------------------
-
-I hope you have found this video helpful. This videos and others like it are designed to educate patients and families about esophageal cancer and equip them for their discussions with their esophageal cancer care team.
-
-As always, these videos are no substitute for expert medical advice.
-
-------------------------------------------------------------------------
+We hope you have found this video helpful. Here are some other topics for which videos have been posted or are planned.
 
 Feel free to leave a comment or a question, or if you have suggestions for future videos.
 
 If you or a family member have had an encounter with esophageal cancer, I would love to hear about your experience, so please take a minute to leave a comment below.
 
 We're constantly creating new videos, so please subscribe to be notified of new videos when we post them.
-
-------------------------------------------------------------------------
-
-Here are some additional videos you may find helpful:
-
-[Locally Advanced Squamous Cell](eso_scca_locally_advanced.html) [Locally Advanced Adenocarcinoma](eso_aca_locally_advanced.html)
-
-------------------------------------------------------------------------
-
-
-## Nutrition
-
-For many patients with advanced cancers, nutrition is a challenge because the tumor can make it difficult to eat. You may find a consultation with a *Dietitian* to be helpful. Some patients with advanced esophageal cancer will need a *feeding tube* to help support their nutrition during their cancer treatment.
-
-
-## Histology
-
-To make things a bit more complicated, the best treatment for esophageal *adenocarcinoma* is different from that of *squamous cell carcinoma*.
-
-In general, squamous cell carcinoma is treated with a combination of chemotherapy and radiation therapy lasting about 5 1/2 weeks. We have a video here about treatment of squamous cell carcinoma. [Squamous Cell Carcinoma Treatment](eso_scca_locally_advanced.html)
-
-## Adenocarcinoma
-
-On the other hand, the treatment of adenocaricinoma is a bit more complex. Until recently, most patients were treated with a combination of chemotherapy and radiation. There is new evidence, however, that chemotherapy alone may also be helpful. We have video here about treatment of adenocarcinoma of the esophagus. [Adenocarcinoa Treatment](eso_aca_locally_advanced.html)
-
-At the end of this video there will be links to additional videos which address locally-advanced esophageal cancer and metastatic esophageal cancer. This way, if you already know the results of the staging studies, you can view specific information.
