@@ -74,7 +74,7 @@ If this terminology is not familiar to you, please refer to our video on Diagnos
 
 To make things a bit more complicated, there are two types of esophageal cancer: Adenocarcinoma and Squamous Cell Carcinoma.
 
-The treatment is in many ways similar, but there are enough differences that we will have a separate video that focuses on squamous cell carcinoma.
+The treatment is in many ways similar, but there are enough differences that we will have a separate video that focuses on squamous cell carcinoma. 
 
 ## Types of Esophageal Cancer (9)
 
@@ -83,39 +83,90 @@ This video will focus on locally-advanced *adenocarcinoma*
 
 ## (6) Locally Advanced (10)
 
+Locally-advanced cancers frequently have localized spread of cancer cells outside of the visible tumor.
+
 ##  Locally Advanced (11)
 
+Surgery removed the visible tumor and the surrounding tissue, but does not always remove microscopic spread of cancer which can't be seen with the naked eye.
 
 ##  Locally Advanced (12)
 
+If surgery is performed as the only therapy for locally-advanced cancer, there is a risk that cancer cells can be left behind
+
 ##  Locally Advanced (13)
+
+Preoperative therapy is administered before surgery
 
 ##  Locally Advanced (14)
 
+And is designed to kill cancer cells in the tumor, nodes, and any cancer cells in the surrounding area
+
 ##  Locally Advanced (15)
+
+This therapy typically involves chemotherapy
 
 ##  Locally Advanced (16)
 
+Which can circulate all throughout the body
+
 ##  Locally Advanced (17)
+
+Chemotherapy can be combined with radiation in some cases
 
 ##  Locally Advanced (18)
 
+The overall goal is shrinking the tumor and killing nearby cancer cells
+
+
 ##  Locally Advanced (19)
+
+After preoperative therapy has shrunk the tumor and any other cancer cells, surgery can be performed
 
 ##  Locally Advanced (20)
 
+Preoperative therapy combined with surgery offers the best chance to remove all of the cancer, without leaving any behind
+
 ## (4) Adenocarcinoma Preoperative Therapy (21)
+
+For adenocarcinoma of the esophagus, there are two different approaches to preoperative therapy.
+
+One uses chemotherapy and radiation together, followed by surgery
+
+The other uses chemotherapy before and after surgery, without radiation therapy
 
 ##  Chemotherapy + Radiation -> Surgery (22)
 
+The chemotherapy and radiation strategy uses chemotherapy and radiation together
+
+Chemotherapy is given intraveneously once per week for 6 weeks
+
+Radiation is given five days per week for 6 weeks
 
 ##  Chemotherapy + Radiation -> Surgery (23)
 
+The chemotherapy is a low dose, designed to make the radiation more effective
+
+The therapy is generally well tolerated
+
 ## (2) CROSS Clinical Trial (24)
+
+The effectiveness of this approach was proven scientifically in the CROSS clinical trial
+
+This was a scientific study published in 2010
+
+363 patients with locally-advanced esophageal cancer were divided into two treatment groups:
+
+One group was treated with surgery alone
+
+The other group was treated with chemotherapy and radiation first, followed by surgery
 
 ##  CROSS Clinical Trial (25)
 
+The results of the trial were quite dramatic: There was better control of the cancer in the group that received chemotherapy and radiation prior to surgery. This group had longer survival than the group treated with surgery alone.
+
 ##  CROSS Clinical Trial (26)
+
+For the past 15 years, chemotherapy and radiation, followed by surgery, was established as the most effective therapy. This is known as trimodality therapy, beause it uses a combination of three different therapies.
 
 ## (4) Adenocarcinoma Preoperative Therapy (27)
 
