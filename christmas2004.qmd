@@ -22,13 +22,12 @@ bibliography: zotero.bib
 
 ## Cast
 
-- Mary a young women who is about to deliver a baby
-- Joseph - Her husband - faithful but a bit puzzled
-- Innkeeper - Small business owner in Bethleham
-- Chief Sheep - Extroverted leader sheep
-- Under-sheep - Junior, but not used to following the crowd
-- Angels - God's "shock and awe" messengers
-
+-   Mary a young women who is about to deliver a baby
+-   Joseph - Her husband - faithful but a bit puzzled
+-   Innkeeper - Small business owner in Bethleham
+-   Chief Sheep - Extroverted leader sheep
+-   Under-sheep - Junior, but not used to following the crowd
+-   Angels - God's "shock and awe" messengers
 
 ## 
 
@@ -38,7 +37,7 @@ Many years ago, God sent the angel Gabriel to a town called Nazareth to tell Mar
 
 At first Mary was troubled. But the angel said
 
-*Do not be afraid, Mary.  God wants you to be the mother of his Son.*
+*Do not be afraid, Mary. God wants you to be the mother of his Son.*
 
 *You are to give him the name Jesus because he will save his people from their sins*
 
@@ -46,7 +45,7 @@ Mary said she would do whatever God wanted.
 
 Mary was very happy to become Jesus' mother
 
-##
+## 
 
 Now May was a virgin, promised to be married to a man named Joseph.
 
@@ -58,11 +57,12 @@ Finally, the innkeeper said that they could stay in his stable with the animals.
 
 Joseph made a soft bed for Mary. They lay down to sleep.
 
-God’s son was born that night. 
+God’s son was born that night.
 
 **Mary wrapped him in soft cloths and laid him in a manger. She named her baby Jesus**
 
-## Away in an Manger 
+## Away in an Manger
+
 ::: {style="font-size: 125%;"}
 Away in a manger, no crib for a bed
 
@@ -73,33 +73,33 @@ The stars in the bright sky looked down where He lay
 The little Lord Jesus asleep on the hay
 :::
 
-##
+## 
 
-One the night Jesus was bor, some shephers were in the field taking care of their sheep. 
+One the night Jesus was bor, some shephers were in the field taking care of their sheep.
 
 Suddenly, an angel appeared. The shepherds were afraid.
 
-But the angel said  **Do not be afraid. A savior is born in Bethleham. You will find him wrapped in swaddling clothes and lying in a manger**
+But the angel said **Do not be afraid. A savior is born in Bethleham. You will find him wrapped in swaddling clothes and lying in a manger**
 
-## First Noel 
+## First Noel
+
 ::: {style="font-size: 125%;"}
-The first Noel the angel did say 
+The first Noel the angel did say
 
 was to certain poor shepherds in fields as they lay;
 
 In fields where they lay tending their sheep,
 
-On a cold win­ter’s night that was so deep.
+On a cold win­ter’s night that was so deep.\
 \
-\
-Noel, Noel, Noel, Noel. 
+Noel, Noel, Noel, Noel.
 
 Born is the King of Israel
 :::
 
-##
+## 
 
-Suddenly thousands of ag=ngels appeared in the sky 
+Suddenly thousands of ag=ngels appeared in the sky
 
 **They praise God for sending Jesus to be our savior, saying “Glory to God in the highest. And on earth peace, goodwill toward men.”**
 
@@ -111,24 +111,21 @@ peace on earth, and mercy mild, God and sinners reconciled!"
 
 Joyful, all ye nations, rise, join the triumph of the skies;
 
-with th'angelic hosts proclaim, "Christ is born in Bethlehem!"
-\
+with th'angelic hosts proclaim, "Christ is born in Bethlehem!"\
 \
 Hark! the herald angels sing, "Glory to the newborn King"
 
+## 
 
-##
+When the angels left, the shepherds ran to Bethlehem. *"Let's see if we can find this baby"* they said.
 
-When the angels left, the shepherds ran to Bethlehem. *"Let's see if we can find this baby"* they said. 
-
-When they found Jesus lying in a manger, they worshipped him. 
+When they found Jesus lying in a manger, they worshipped him.
 
 How excited they were!
 
-**They told everyone the good news. They praised God all the way back to their fields**. 
+**They told everyone the good news. They praised God all the way back to their fields**.
 
-
-## O Come All ye Faithful 
+## O Come All ye Faithful
 
 O come, all ye faithful, joyful and triumphant
 
@@ -138,29 +135,24 @@ O come and behold Him, born the King of Angels
 
 O come, let us adore Him x2
 
-O come, let us adore Him, Christ the Lord
-\
+O come, let us adore Him, Christ the Lord\
 \
 
 O come, all ye faithful x2
 
 O come, all ye faithful to Bethlehem
 
-
-
 ## Coda
 
 When Jesus was about 1 or 2 years old, some wise man followed a special star in the sky.
 
-It led them to the house where the little boy Jesus liver. 
+It led them to the house where the little boy Jesus liver.
 
-The Wwise men gave gifts to Jesus: gold, frankinsense, and myrrh.  They got down on their knees  and worshiped him. They knew he was to be a great king.
+The Wwise men gave gifts to Jesus: gold, frankinsense, and myrrh. They got down on their knees and worshiped him. They knew he was to be a great king.
 
 ## We Three Kings of Orient Are
 
-
 ## God Rest Ye Merry Gentlemen
-
 
 God rest ye merry gentlemen, Let nothing you dismay
 
@@ -172,7 +164,7 @@ Oh tidings of comfort and joy, Comfort and joy
 
 Oh tidings of comfort and joy
 
-##
+## 
 
 In Bethlehem, in Israel This blessed Babe was born
 
@@ -184,7 +176,7 @@ Oh tidings of comfort and joy, Comfort and joy
 
 Oh tidings of comfort and joy
 
-##
+## 
 
 Fear not then, said the Angel Let nothing you affright
 
@@ -195,5 +187,3 @@ To free all those who trust in Him From Satan's pow'r and might
 Oh tidings of comfort and joy. Comfort and joy
 
 Oh tidings of comfort and joy
-
-
