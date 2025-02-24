@@ -3,8 +3,8 @@
 Surgery for esophageal cancer is performed for:
 
 -   Superficial Tumors (T1) not completely removed by endoscopy
--   Localized Tumors (T2N0)
--   Locally Advanced (T3) after preoperative therapy.
+-   Localized Tumors (T2N0M0)
+-   Locally Advanced (T3M0) after preoperative therapy.
 
 ## Goals of Surgery
 
@@ -39,7 +39,7 @@ Surgery for esophageal cancer is performed for:
 
 ::::: columns
 ::: {.column width="50%"}
-A new esophagus is created from the stomach in the abdomen by fashioning it into a tube.
+New esophagus is created from the stomach in the abdomen by fashioning it into a tube.
 :::
 
 ::: {.column width="50%"}
@@ -105,13 +105,11 @@ We need to remove the whole esophagus, including the portion in the neck
 
 ::::: columns
 ::: {.column width="50%"}
- ![](https://deidt7p41jzcy.cloudfront.net/Eso_ResectionTotalArtboard.png)
-All of esophagus removed
+![](https://deidt7p41jzcy.cloudfront.net/Eso_ResectionTotalArtboard.png) All of esophagus removed
 :::
 
 ::: {.column width="50%"}
- ![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_McKeownArtboard.png)
-Connection made in the neck
+![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_McKeownArtboard.png) Connection made in the neck
 :::
 :::::
 
@@ -266,6 +264,5 @@ Risks related to Surgery
 | Low Muscle (25%)    |   10%    |   30%    |
 
 : Risks of Death within 90 Days of Surgery
-
 
 {{< include lci_mie_guts.qmd >}}

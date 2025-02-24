@@ -72,16 +72,33 @@ We will see later that the treatment **can** be different depending upon whether
 
 ## Treatment Plan
 
-::: {style="font-size: 90%;"}
-\
-Superficial (T1) $\Rightarrow$ Endoscopic Therapy\
-\
-Localized (T1b/T2) $\Rightarrow$ Surgery\
-\
-Locally-advanced (T3) $\Rightarrow$ Chemo$\pm$Radiation $\rightarrow$Surgery\
-\
-Metastatic (M1) $\Rightarrow$ Chemotherapy
+::::: {style="font-size: 90%;"}
+
+::: {.fragment}
+Superficial (T1)
+
+- Endoscopic Therapy
 :::
+
+::: {.fragment}
+Localized (T1b/T2)
+
+- Surgery (esophagectomy)
+:::
+
+::: {.fragment}
+Locally-advanced (T3M0)
+
+- Chemo$\pm$Radiation $\rightarrow$Surgery
+:::
+
+::: {.fragment}
+Metastatic (M1)
+
+- Chemotherapy
+:::
+
+:::::
 
 ::: {.content-hidden unless-format="docx"}
 This table summarizes four different treatment categories:
@@ -209,6 +226,25 @@ The risk of cancer recurrence is minimized
 :::
 ::::
 ::::::
+
+
+## Preoperative Therapy
+
+:::::: columns
+::: {.column width="50%"}
+When surgery is then performed...
+
+The risk of cancer recurrence is minimized
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/ivor_lewis_simple2_900.png)
+:::
+::::
+::::::
+
+
 
 {{< include lci_cross_guts.qmd >}}
 

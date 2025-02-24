@@ -35,11 +35,11 @@ Feeding Gastrostomy
 
 ## Gastrostomy Tube Methods
 
-A gastrostomy tube can be placed either by endoscopy, which is called a PEG tube
+PEG: Tube placed by endoscopy
 
-A gastrostomy tube can also be placed by laparoscopy, which is usually preferred if surgery on the esophagus is planned in the future.
+Laparoscopic: Tube placed surgically by laparoscopy
 
-Your surgeon will help you decide which kind of tube is best for you. This is especially important if you will need esophageal surgery in the future, as the stomach is frequently used to make a new esophagus
+Preferred method depends upon whether esophagectomy is planned
 
 ## Gastrostomy Tube
 

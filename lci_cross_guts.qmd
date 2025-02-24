@@ -26,7 +26,7 @@ vs
 The results were quite dramatic: The group that was treated with all three therapies, chemotherapy and radiation and surgery, lived on average twice a long as patients who had surgery alone.
 :::
 
-## Chemotherapy + Radiation CROSS Trial
+## Chemo + Radiation CROSS Trial
 
 Typical schedule for chemotherapy + radiation:
 
@@ -41,11 +41,12 @@ Typical schedule for chemotherapy + radiation:
 -   Surgery 8 weeks after the end of radiation
 :::
 
-## Chemotherapy + Radiation - Side Effects
+## Chemo + Radiation - Side Effects
 
 Kills cancer cells in the esophagus and lymph nodes
 
 Can also irritate the lining of the esophagus.
+
 ::: {.fragment}
 Swallowing can be difficult the last 2 weeks.
 :::

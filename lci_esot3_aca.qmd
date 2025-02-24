@@ -59,14 +59,33 @@ From the stomach, food moved through a valve called the pylorus into the small i
 
 ## Treatment Plan
 
-\
-Superficial (T1): Endoscopic Therapy\
-\
-Localized (T1b/T2): Surgery\
-\
-Locally-advanced (T3M0): Chemo$\pm$Radiation $\rightarrow$Surgery\
-\
-Metastatic (M1): Chemotherapy
+::::: {style="font-size: 90%;"}
+
+::: {.fragment}
+Superficial (T1)
+
+- Endoscopic Therapy
+:::
+
+::: {.fragment}
+Localized (T1b/T2)
+
+- Surgery (esophagectomy)
+:::
+
+::: {.fragment}
+Locally-advanced (T3M0)
+
+- Chemo$\pm$Radiation $\rightarrow$Surgery
+:::
+
+::: {.fragment}
+Metastatic (M1)
+
+- Chemotherapy
+:::
+
+:::::
 
 ::: {.content-hidden unless-format="docx"}
 This table summarizes four different treatment categories:

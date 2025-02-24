@@ -1,12 +1,8 @@
 ## Protein Needs
 
-
-
-
 ::::::: columns
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-
 -   Men: Average 75 grams/day
 -   Women: Average 60 grams/day
 
@@ -22,5 +18,4 @@ Protein Shakes provide protein with minimal sugar
 :::::::
 
 ::: {.content-hidden unless-format="docx"}
-
 :::
