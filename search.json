@@ -2342,7 +2342,7 @@
     "href": "lci_esot3_aca.htm#pet-scan",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "PET scan",
-    "text": "PET scan\n\n\nPET scan is similar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
+    "text": "PET scan\n\n\nSimilar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
   },
   {
     "objectID": "lci_esot3_aca.htm#endoscopic-ultrasound",
@@ -2370,7 +2370,7 @@
     "href": "lci_esot3_aca.htm#treatment-plan",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Treatment Plan",
-    "text": "Treatment Plan\n\nSuperficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\nLocalized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\nLocally-advanced (T3) \\(\\Rightarrow\\) Chemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\nMetastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
+    "text": "Treatment Plan\n\nSuperficial (T1): Endoscopic Therapy\n\nLocalized (T1b/T2): Surgery\n\nLocally-advanced (T3M0): Chemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\nMetastatic (M1): Chemotherapy"
   },
   {
     "objectID": "lci_esot3_aca.htm#locally-advanced-cancers-1",
@@ -2429,39 +2429,46 @@
     "text": "Preoperative Therapy\n\n\nWhen surgery is then performed…\nThe risk of cancer recurrence is minimized"
   },
   {
+    "objectID": "lci_esot3_aca.htm#preoperative-therapy-4",
+    "href": "lci_esot3_aca.htm#preoperative-therapy-4",
+    "title": "Adenocarcinoma of the Esophagus and GE Junction",
+    "section": "Preoperative Therapy",
+    "text": "Preoperative Therapy\n\n\nWhen surgery is then performed…\nThe risk of cancer recurrence is minimized"
+  },
+  {
     "objectID": "lci_esot3_aca.htm#chemotherapy-radiation-cross-trial",
     "href": "lci_esot3_aca.htm#chemotherapy-radiation-cross-trial",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nPatients were treated in two groups:\nSurgery Alone\nvs\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nPatients were treated in two groups:\nSurgery Alone\nvs\nChemo + Radiation \\(\\rightarrow\\) Surgery"
   },
   {
     "objectID": "lci_esot3_aca.htm#chemotherapy-radiation-cross-trial-1",
     "href": "lci_esot3_aca.htm#chemotherapy-radiation-cross-trial-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemo + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_esot3_aca.htm#chemotherapy-radiation-cross-trial-2",
     "href": "lci_esot3_aca.htm#chemotherapy-radiation-cross-trial-2",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\nPET scan (or CT) 4 weeks after the end of radiation\nSurgery 8 weeks after the end of radiation"
+    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\n\n\n\nPET scan (or CT) 4 weeks after the end of radiation\n\n\n\n\nSurgery 8 weeks after the end of radiation"
   },
   {
     "objectID": "lci_esot3_aca.htm#chemotherapy-radiation---side-effects",
     "href": "lci_esot3_aca.htm#chemotherapy-radiation---side-effects",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks.\nFeeding tube may be needed for hydration/nutrition."
+    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus. ::: {.fragment} Swallowing can be difficult the last 2 weeks. :::\n\nFeeding tube may be needed for hydration/nutrition."
   },
   {
     "objectID": "lci_esot3_aca.htm#locally-advanced-adenocarcinoma",
     "href": "lci_esot3_aca.htm#locally-advanced-adenocarcinoma",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Locally-advanced Adenocarcinoma",
-    "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy before + after surgery:\nChemo (8 wks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (8 wks)\nTwo different drug combinations:\n\nFLOT (more effective)\nFOLFOX (better tolerated)"
+    "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy before + after surgery:\nChemo (8 wks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (8 wks)\n\nTwo different drug combinations:\n\n\n\nFLOT (more effective)\n\n\n\n\nFOLFOX (better tolerated)"
   },
   {
     "objectID": "lci_esot3_aca.htm#sandwich-chemotherapy-drugs",
@@ -2544,22 +2551,22 @@
     "objectID": "lci_esot3_aca.htm#my-atrium-patient-portal",
     "href": "lci_esot3_aca.htm#my-atrium-patient-portal",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
-    "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "section": "My Atrium Patient Portal",
+    "text": "My Atrium Patient Portal\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_esot3_aca.htm#exercise",
     "href": "lci_esot3_aca.htm#exercise",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/wk\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_esot3_aca.htm#smoking-cessation",
     "href": "lci_esot3_aca.htm#smoking-cessation",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freddomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freedomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_esot3_aca.htm#protein-needs",
@@ -3084,7 +3091,7 @@
     "href": "lci_esot3_aca.html#pet-scan",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "PET scan",
-    "text": "PET scan\n\n\nPET scan is similar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
+    "text": "PET scan\n\n\nSimilar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
   },
   {
     "objectID": "lci_esot3_aca.html#endoscopic-ultrasound",
@@ -3112,7 +3119,7 @@
     "href": "lci_esot3_aca.html#treatment-plan",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Treatment Plan",
-    "text": "Treatment Plan\n\nSuperficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\nLocalized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\nLocally-advanced (T3) \\(\\Rightarrow\\) Chemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\nMetastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
+    "text": "Treatment Plan\n\nSuperficial (T1): Endoscopic Therapy\n\nLocalized (T1b/T2): Surgery\n\nLocally-advanced (T3M0): Chemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\nMetastatic (M1): Chemotherapy"
   },
   {
     "objectID": "lci_esot3_aca.html#locally-advanced-cancers-1",
@@ -3171,39 +3178,46 @@
     "text": "Preoperative Therapy\n\n\nWhen surgery is then performed…\nThe risk of cancer recurrence is minimized"
   },
   {
+    "objectID": "lci_esot3_aca.html#preoperative-therapy-4",
+    "href": "lci_esot3_aca.html#preoperative-therapy-4",
+    "title": "Adenocarcinoma of the Esophagus and GE Junction",
+    "section": "Preoperative Therapy",
+    "text": "Preoperative Therapy\n\n\nWhen surgery is then performed…\nThe risk of cancer recurrence is minimized"
+  },
+  {
     "objectID": "lci_esot3_aca.html#chemotherapy-radiation-cross-trial",
     "href": "lci_esot3_aca.html#chemotherapy-radiation-cross-trial",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nPatients were treated in two groups:\nSurgery Alone\nvs\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nPatients were treated in two groups:\nSurgery Alone\nvs\nChemo + Radiation \\(\\rightarrow\\) Surgery"
   },
   {
     "objectID": "lci_esot3_aca.html#chemotherapy-radiation-cross-trial-1",
     "href": "lci_esot3_aca.html#chemotherapy-radiation-cross-trial-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemo + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_esot3_aca.html#chemotherapy-radiation-cross-trial-2",
     "href": "lci_esot3_aca.html#chemotherapy-radiation-cross-trial-2",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\nPET scan (or CT) 4 weeks after the end of radiation\nSurgery 8 weeks after the end of radiation"
+    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\n\n\n\nPET scan (or CT) 4 weeks after the end of radiation\n\n\n\n\nSurgery 8 weeks after the end of radiation"
   },
   {
     "objectID": "lci_esot3_aca.html#chemotherapy-radiation---side-effects",
     "href": "lci_esot3_aca.html#chemotherapy-radiation---side-effects",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks.\nFeeding tube may be needed for hydration/nutrition."
+    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus. ::: {.fragment} Swallowing can be difficult the last 2 weeks. :::\n\nFeeding tube may be needed for hydration/nutrition."
   },
   {
     "objectID": "lci_esot3_aca.html#locally-advanced-adenocarcinoma",
     "href": "lci_esot3_aca.html#locally-advanced-adenocarcinoma",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Locally-advanced Adenocarcinoma",
-    "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy before + after surgery:\nChemo (8 wks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (8 wks)\nTwo different drug combinations:\n\nFLOT (more effective)\nFOLFOX (better tolerated)"
+    "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy before + after surgery:\nChemo (8 wks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (8 wks)\n\nTwo different drug combinations:\n\n\n\nFLOT (more effective)\n\n\n\n\nFOLFOX (better tolerated)"
   },
   {
     "objectID": "lci_esot3_aca.html#sandwich-chemotherapy-drugs",
@@ -3286,22 +3300,22 @@
     "objectID": "lci_esot3_aca.html#my-atrium-patient-portal",
     "href": "lci_esot3_aca.html#my-atrium-patient-portal",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
-    "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "section": "My Atrium Patient Portal",
+    "text": "My Atrium Patient Portal\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_esot3_aca.html#exercise",
     "href": "lci_esot3_aca.html#exercise",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/wk\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_esot3_aca.html#smoking-cessation",
     "href": "lci_esot3_aca.html#smoking-cessation",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freddomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freedomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_esot3_aca.html#protein-needs",
@@ -3819,7 +3833,7 @@
     "href": "lci_eso_scca.htm#pet-scan",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "PET scan",
-    "text": "PET scan\n\n\nPET scan is similar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
+    "text": "PET scan\n\n\nSimilar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
   },
   {
     "objectID": "lci_eso_scca.htm#endoscopic-ultrasound",
@@ -3833,7 +3847,7 @@
     "href": "lci_eso_scca.htm#treatment-plan",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Treatment Plan",
-    "text": "Treatment Plan\nSuperficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\nLocalized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\nLocally-advanced (T3) \\(\\Rightarrow\\) Chemo \\(\\pm\\) Radiation \\(\\rightarrow\\)Surgery\n\nMetastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
+    "text": "Treatment Plan\nSuperficial (T1): Endoscopic Therapy\n\nLocalized (T1b/T2): Surgery\n\nLocally-advanced (T3M0): Chemo + Radiation \\(\\rightarrow\\)Surgery\n\nMetastatic (M1): Chemotherapy"
   },
   {
     "objectID": "lci_eso_scca.htm#locally-advanced-cancers-1",
@@ -3892,32 +3906,39 @@
     "text": "Preoperative Therapy\n\n\nWhen surgery is then performed…\nThe risk of cancer recurrence is minimized"
   },
   {
+    "objectID": "lci_eso_scca.htm#preoperative-therapy-4",
+    "href": "lci_eso_scca.htm#preoperative-therapy-4",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "Preoperative Therapy",
+    "text": "Preoperative Therapy\n\n\nWhen surgery is then performed…\nThe risk of cancer recurrence is minimized"
+  },
+  {
     "objectID": "lci_eso_scca.htm#chemotherapy-radiation-cross-trial",
     "href": "lci_eso_scca.htm#chemotherapy-radiation-cross-trial",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nPatients were treated in two groups:\nSurgery Alone\nvs\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nPatients were treated in two groups:\nSurgery Alone\nvs\nChemo + Radiation \\(\\rightarrow\\) Surgery"
   },
   {
     "objectID": "lci_eso_scca.htm#chemotherapy-radiation-cross-trial-1",
     "href": "lci_eso_scca.htm#chemotherapy-radiation-cross-trial-1",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemo + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_eso_scca.htm#chemotherapy-radiation-cross-trial-2",
     "href": "lci_eso_scca.htm#chemotherapy-radiation-cross-trial-2",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\nPET scan (or CT) 4 weeks after the end of radiation\nSurgery 8 weeks after the end of radiation"
+    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\n\n\n\nPET scan (or CT) 4 weeks after the end of radiation\n\n\n\n\nSurgery 8 weeks after the end of radiation"
   },
   {
     "objectID": "lci_eso_scca.htm#chemotherapy-radiation---side-effects",
     "href": "lci_eso_scca.htm#chemotherapy-radiation---side-effects",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks.\nFeeding tube may be needed for hydration/nutrition."
+    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus. ::: {.fragment} Swallowing can be difficult the last 2 weeks. :::\n\nFeeding tube may be needed for hydration/nutrition."
   },
   {
     "objectID": "lci_eso_scca.htm#chemotherapy",
@@ -3972,22 +3993,22 @@
     "objectID": "lci_eso_scca.htm#my-atrium-patient-portal",
     "href": "lci_eso_scca.htm#my-atrium-patient-portal",
     "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "section": "My Atrium Patient Portal",
+    "text": "My Atrium Patient Portal\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_eso_scca.htm#exercise",
     "href": "lci_eso_scca.htm#exercise",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/wk\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_eso_scca.htm#smoking-cessation",
     "href": "lci_eso_scca.htm#smoking-cessation",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freddomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freedomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_eso_scca.htm#protein-needs",
@@ -4484,7 +4505,7 @@
     "href": "lci_eso_scca.html#pet-scan",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "PET scan",
-    "text": "PET scan\n\n\nPET scan is similar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
+    "text": "PET scan\n\n\nSimilar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
   },
   {
     "objectID": "lci_eso_scca.html#endoscopic-ultrasound",
@@ -4498,7 +4519,7 @@
     "href": "lci_eso_scca.html#treatment-plan",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Treatment Plan",
-    "text": "Treatment Plan\nSuperficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\nLocalized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\nLocally-advanced (T3) \\(\\Rightarrow\\) Chemo \\(\\pm\\) Radiation \\(\\rightarrow\\)Surgery\n\nMetastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
+    "text": "Treatment Plan\nSuperficial (T1): Endoscopic Therapy\n\nLocalized (T1b/T2): Surgery\n\nLocally-advanced (T3M0): Chemo + Radiation \\(\\rightarrow\\)Surgery\n\nMetastatic (M1): Chemotherapy"
   },
   {
     "objectID": "lci_eso_scca.html#locally-advanced-cancers-1",
@@ -4557,32 +4578,39 @@
     "text": "Preoperative Therapy\n\n\nWhen surgery is then performed…\nThe risk of cancer recurrence is minimized"
   },
   {
+    "objectID": "lci_eso_scca.html#preoperative-therapy-4",
+    "href": "lci_eso_scca.html#preoperative-therapy-4",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "Preoperative Therapy",
+    "text": "Preoperative Therapy\n\n\nWhen surgery is then performed…\nThe risk of cancer recurrence is minimized"
+  },
+  {
     "objectID": "lci_eso_scca.html#chemotherapy-radiation-cross-trial",
     "href": "lci_eso_scca.html#chemotherapy-radiation-cross-trial",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nPatients were treated in two groups:\nSurgery Alone\nvs\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nPatients were treated in two groups:\nSurgery Alone\nvs\nChemo + Radiation \\(\\rightarrow\\) Surgery"
   },
   {
     "objectID": "lci_eso_scca.html#chemotherapy-radiation-cross-trial-1",
     "href": "lci_eso_scca.html#chemotherapy-radiation-cross-trial-1",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemo + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_eso_scca.html#chemotherapy-radiation-cross-trial-2",
     "href": "lci_eso_scca.html#chemotherapy-radiation-cross-trial-2",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\nPET scan (or CT) 4 weeks after the end of radiation\nSurgery 8 weeks after the end of radiation"
+    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\n\n\n\nPET scan (or CT) 4 weeks after the end of radiation\n\n\n\n\nSurgery 8 weeks after the end of radiation"
   },
   {
     "objectID": "lci_eso_scca.html#chemotherapy-radiation---side-effects",
     "href": "lci_eso_scca.html#chemotherapy-radiation---side-effects",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks.\nFeeding tube may be needed for hydration/nutrition."
+    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus. ::: {.fragment} Swallowing can be difficult the last 2 weeks. :::\n\nFeeding tube may be needed for hydration/nutrition."
   },
   {
     "objectID": "lci_eso_scca.html#chemotherapy",
@@ -4637,22 +4665,22 @@
     "objectID": "lci_eso_scca.html#my-atrium-patient-portal",
     "href": "lci_eso_scca.html#my-atrium-patient-portal",
     "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "section": "My Atrium Patient Portal",
+    "text": "My Atrium Patient Portal\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_eso_scca.html#exercise",
     "href": "lci_eso_scca.html#exercise",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/wk\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_eso_scca.html#smoking-cessation",
     "href": "lci_eso_scca.html#smoking-cessation",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freddomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freedomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_eso_scca.html#protein-needs",
@@ -5079,14 +5107,14 @@
     "href": "lci_flot_guts.html",
     "title": "Patient Education",
     "section": "",
-    "text": "“Sandwich” chemotherapy before + after surgery:\nChemo (8 wks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (8 wks)\nTwo different drug combinations:\n\nFLOT (more effective)\nFOLFOX (better tolerated)"
+    "text": "“Sandwich” chemotherapy before + after surgery:\nChemo (8 wks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (8 wks)\n\nTwo different drug combinations:\n\n\n\nFLOT (more effective)\n\n\n\n\nFOLFOX (better tolerated)"
   },
   {
     "objectID": "lci_flot_guts.html#locally-advanced-adenocarcinoma",
     "href": "lci_flot_guts.html#locally-advanced-adenocarcinoma",
     "title": "Patient Education",
     "section": "",
-    "text": "“Sandwich” chemotherapy before + after surgery:\nChemo (8 wks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (8 wks)\nTwo different drug combinations:\n\nFLOT (more effective)\nFOLFOX (better tolerated)"
+    "text": "“Sandwich” chemotherapy before + after surgery:\nChemo (8 wks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (8 wks)\n\nTwo different drug combinations:\n\n\n\nFLOT (more effective)\n\n\n\n\nFOLFOX (better tolerated)"
   },
   {
     "objectID": "lci_flot_guts.html#sandwich-chemotherapy-drugs",
@@ -5100,7 +5128,7 @@
     "href": "lci_flot_guts.htm#locally-advanced-adenocarcinoma",
     "title": "Patient Education",
     "section": "Locally-advanced Adenocarcinoma",
-    "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy before + after surgery:\nChemo (8 wks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (8 wks)\nTwo different drug combinations:\n\nFLOT (more effective)\nFOLFOX (better tolerated)"
+    "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy before + after surgery:\nChemo (8 wks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (8 wks)\n\nTwo different drug combinations:\n\n\n\nFLOT (more effective)\n\n\n\n\nFOLFOX (better tolerated)"
   },
   {
     "objectID": "lci_flot_guts.htm#sandwich-chemotherapy-drugs",
@@ -5800,7 +5828,7 @@
     "href": "lci_staging_guts.html#pet-scan",
     "title": "Patient Education",
     "section": "PET scan",
-    "text": "PET scan\n\n\nPET scan is similar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
+    "text": "PET scan\n\n\nSimilar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
   },
   {
     "objectID": "lci_staging_guts.html#endoscopic-ultrasound",
@@ -5870,7 +5898,7 @@
     "href": "lci_staging_guts.htm#pet-scan",
     "title": "Patient Education",
     "section": "PET scan",
-    "text": "PET scan\n\n\nPET scan is similar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
+    "text": "PET scan\n\n\nSimilar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
   },
   {
     "objectID": "lci_staging_guts.htm#endoscopic-ultrasound",
@@ -7410,63 +7438,63 @@
     "href": "lci_cross_guts.html",
     "title": "Patient Education",
     "section": "",
-    "text": "363 patients with esophageal cancer studied\nPatients were treated in two groups:\nSurgery Alone\nvs\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery"
+    "text": "363 patients with esophageal cancer studied\nPatients were treated in two groups:\nSurgery Alone\nvs\nChemo + Radiation \\(\\rightarrow\\) Surgery"
   },
   {
     "objectID": "lci_cross_guts.html#chemotherapy-radiation-cross-trial",
     "href": "lci_cross_guts.html#chemotherapy-radiation-cross-trial",
     "title": "Patient Education",
     "section": "",
-    "text": "363 patients with esophageal cancer studied\nPatients were treated in two groups:\nSurgery Alone\nvs\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery"
+    "text": "363 patients with esophageal cancer studied\nPatients were treated in two groups:\nSurgery Alone\nvs\nChemo + Radiation \\(\\rightarrow\\) Surgery"
   },
   {
     "objectID": "lci_cross_guts.html#chemotherapy-radiation-cross-trial-1",
     "href": "lci_cross_guts.html#chemotherapy-radiation-cross-trial-1",
     "title": "Patient Education",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemo + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_cross_guts.html#chemotherapy-radiation-cross-trial-2",
     "href": "lci_cross_guts.html#chemotherapy-radiation-cross-trial-2",
     "title": "Patient Education",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\nPET scan (or CT) 4 weeks after the end of radiation\nSurgery 8 weeks after the end of radiation"
+    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\n\n\n\nPET scan (or CT) 4 weeks after the end of radiation\n\n\n\n\nSurgery 8 weeks after the end of radiation"
   },
   {
     "objectID": "lci_cross_guts.html#chemotherapy-radiation---side-effects",
     "href": "lci_cross_guts.html#chemotherapy-radiation---side-effects",
     "title": "Patient Education",
     "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks.\nFeeding tube may be needed for hydration/nutrition."
+    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus. ::: {.fragment} Swallowing can be difficult the last 2 weeks. :::\n\nFeeding tube may be needed for hydration/nutrition."
   },
   {
     "objectID": "lci_cross_guts.htm#chemotherapy-radiation-cross-trial",
     "href": "lci_cross_guts.htm#chemotherapy-radiation-cross-trial",
     "title": "Patient Education",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nPatients were treated in two groups:\nSurgery Alone\nvs\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nPatients were treated in two groups:\nSurgery Alone\nvs\nChemo + Radiation \\(\\rightarrow\\) Surgery"
   },
   {
     "objectID": "lci_cross_guts.htm#chemotherapy-radiation-cross-trial-1",
     "href": "lci_cross_guts.htm#chemotherapy-radiation-cross-trial-1",
     "title": "Patient Education",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemo + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_cross_guts.htm#chemotherapy-radiation-cross-trial-2",
     "href": "lci_cross_guts.htm#chemotherapy-radiation-cross-trial-2",
     "title": "Patient Education",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\nPET scan (or CT) 4 weeks after the end of radiation\nSurgery 8 weeks after the end of radiation"
+    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\n\n\n\nPET scan (or CT) 4 weeks after the end of radiation\n\n\n\n\nSurgery 8 weeks after the end of radiation"
   },
   {
     "objectID": "lci_cross_guts.htm#chemotherapy-radiation---side-effects",
     "href": "lci_cross_guts.htm#chemotherapy-radiation---side-effects",
     "title": "Patient Education",
     "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks.\nFeeding tube may be needed for hydration/nutrition."
+    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus. ::: {.fragment} Swallowing can be difficult the last 2 weeks. :::\n\nFeeding tube may be needed for hydration/nutrition."
   },
   {
     "objectID": "lci_treatment_prep.html",
@@ -8067,22 +8095,22 @@
     "objectID": "lci_gist.html#my-atrium-patient-portal",
     "href": "lci_gist.html#my-atrium-patient-portal",
     "title": "GI Stromal Tumors of the Stomach",
-    "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "section": "My Atrium Patient Portal",
+    "text": "My Atrium Patient Portal\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_gist.html#exercise",
     "href": "lci_gist.html#exercise",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/wk\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_gist.html#smoking-cessation",
     "href": "lci_gist.html#smoking-cessation",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freddomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)\n\n\nGastrectomy Slideshow"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freedomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)\n\n\nGastrectomy Slideshow"
   },
   {
     "objectID": "lci_gist.htm#gi-stromal-tumors",
@@ -8235,22 +8263,22 @@
     "objectID": "lci_gist.htm#my-atrium-patient-portal",
     "href": "lci_gist.htm#my-atrium-patient-portal",
     "title": "GI Stromal Tumors of the Stomach",
-    "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "section": "My Atrium Patient Portal",
+    "text": "My Atrium Patient Portal\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_gist.htm#exercise",
     "href": "lci_gist.htm#exercise",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/wk\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_gist.htm#smoking-cessation",
     "href": "lci_gist.htm#smoking-cessation",
     "title": "GI Stromal Tumors of the Stomach",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freddomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)\n\n\nGastrectomy Slideshow"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freedomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)\n\n\nGastrectomy Slideshow"
   },
   {
     "objectID": "index.htm#patient-education-resources-for-gi-cancer-patients",
@@ -8390,7 +8418,7 @@
     "href": "lci_gastrict3.html#pet-scan",
     "title": "T3 Cancer of the Stomach",
     "section": "PET scan",
-    "text": "PET scan\n\n\nPET scan is similar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
+    "text": "PET scan\n\n\nSimilar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
   },
   {
     "objectID": "lci_gastrict3.html#endoscopic-ultrasound",
@@ -8425,7 +8453,7 @@
     "href": "lci_gastrict3.html#locally-advanced-adenocarcinoma",
     "title": "T3 Cancer of the Stomach",
     "section": "Locally-advanced Adenocarcinoma",
-    "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy before + after surgery:\nChemo (8 wks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (8 wks)\nTwo different drug combinations:\n\nFLOT (more effective)\nFOLFOX (better tolerated)"
+    "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy before + after surgery:\nChemo (8 wks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (8 wks)\n\nTwo different drug combinations:\n\n\n\nFLOT (more effective)\n\n\n\n\nFOLFOX (better tolerated)"
   },
   {
     "objectID": "lci_gastrict3.html#sandwich-chemotherapy-drugs",
@@ -8501,22 +8529,22 @@
     "objectID": "lci_gastrict3.html#my-atrium-patient-portal",
     "href": "lci_gastrict3.html#my-atrium-patient-portal",
     "title": "T3 Cancer of the Stomach",
-    "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "section": "My Atrium Patient Portal",
+    "text": "My Atrium Patient Portal\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_gastrict3.html#exercise",
     "href": "lci_gastrict3.html#exercise",
     "title": "T3 Cancer of the Stomach",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/wk\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_gastrict3.html#smoking-cessation",
     "href": "lci_gastrict3.html#smoking-cessation",
     "title": "T3 Cancer of the Stomach",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freddomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freedomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_gastrict3.html#protein-needs",
@@ -8761,7 +8789,7 @@
     "href": "lci_gastrict3.htm#pet-scan",
     "title": "T3 Cancer of the Stomach",
     "section": "PET scan",
-    "text": "PET scan\n\n\nPET scan is similar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
+    "text": "PET scan\n\n\nSimilar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
   },
   {
     "objectID": "lci_gastrict3.htm#endoscopic-ultrasound",
@@ -8796,7 +8824,7 @@
     "href": "lci_gastrict3.htm#locally-advanced-adenocarcinoma",
     "title": "T3 Cancer of the Stomach",
     "section": "Locally-advanced Adenocarcinoma",
-    "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy before + after surgery:\nChemo (8 wks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (8 wks)\nTwo different drug combinations:\n\nFLOT (more effective)\nFOLFOX (better tolerated)"
+    "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy before + after surgery:\nChemo (8 wks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (8 wks)\n\nTwo different drug combinations:\n\n\n\nFLOT (more effective)\n\n\n\n\nFOLFOX (better tolerated)"
   },
   {
     "objectID": "lci_gastrict3.htm#sandwich-chemotherapy-drugs",
@@ -8872,22 +8900,22 @@
     "objectID": "lci_gastrict3.htm#my-atrium-patient-portal",
     "href": "lci_gastrict3.htm#my-atrium-patient-portal",
     "title": "T3 Cancer of the Stomach",
-    "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "section": "My Atrium Patient Portal",
+    "text": "My Atrium Patient Portal\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_gastrict3.htm#exercise",
     "href": "lci_gastrict3.htm#exercise",
     "title": "T3 Cancer of the Stomach",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/wk\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_gastrict3.htm#smoking-cessation",
     "href": "lci_gastrict3.htm#smoking-cessation",
     "title": "T3 Cancer of the Stomach",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freddomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freedomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_gastrict3.htm#protein-needs",
@@ -11371,22 +11399,22 @@
     "objectID": "lci_esom1.html#my-atrium-patient-portal",
     "href": "lci_esom1.html#my-atrium-patient-portal",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
-    "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "section": "My Atrium Patient Portal",
+    "text": "My Atrium Patient Portal\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_esom1.html#exercise",
     "href": "lci_esom1.html#exercise",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/wk\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_esom1.html#smoking-cessation",
     "href": "lci_esom1.html#smoking-cessation",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freddomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freedomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_esom1.html#hospice",
@@ -11539,22 +11567,22 @@
     "objectID": "lci_esom1.htm#my-atrium-patient-portal",
     "href": "lci_esom1.htm#my-atrium-patient-portal",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
-    "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "section": "My Atrium Patient Portal",
+    "text": "My Atrium Patient Portal\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_esom1.htm#exercise",
     "href": "lci_esom1.htm#exercise",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/wk\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_esom1.htm#smoking-cessation",
     "href": "lci_esom1.htm#smoking-cessation",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freddomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freedomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_esom1.htm#hospice",
@@ -11812,22 +11840,22 @@
     "objectID": "lci_gastrectomy.html#my-atrium-patient-portal",
     "href": "lci_gastrectomy.html#my-atrium-patient-portal",
     "title": "Surgery of the Stomach",
-    "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "section": "My Atrium Patient Portal",
+    "text": "My Atrium Patient Portal\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_gastrectomy.html#exercise",
     "href": "lci_gastrectomy.html#exercise",
     "title": "Surgery of the Stomach",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/wk\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_gastrectomy.html#smoking-cessation",
     "href": "lci_gastrectomy.html#smoking-cessation",
     "title": "Surgery of the Stomach",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freddomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freedomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_gastrectomy.htm#stomach-cancer-surgery-goals",
@@ -11980,22 +12008,22 @@
     "objectID": "lci_gastrectomy.htm#my-atrium-patient-portal",
     "href": "lci_gastrectomy.htm#my-atrium-patient-portal",
     "title": "Surgery of the Stomach",
-    "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "section": "My Atrium Patient Portal",
+    "text": "My Atrium Patient Portal\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_gastrectomy.htm#exercise",
     "href": "lci_gastrectomy.htm#exercise",
     "title": "Surgery of the Stomach",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/wk\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_gastrectomy.htm#smoking-cessation",
     "href": "lci_gastrectomy.htm#smoking-cessation",
     "title": "Surgery of the Stomach",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freddomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freedomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_jejunostomy_guts.htm#jejunostomy-tube",
@@ -12260,22 +12288,22 @@
     "objectID": "lci_treatment_prep_guts.htm#my-atrium-patient-portal",
     "href": "lci_treatment_prep_guts.htm#my-atrium-patient-portal",
     "title": "Patient Education",
-    "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "section": "My Atrium Patient Portal",
+    "text": "My Atrium Patient Portal\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_treatment_prep_guts.htm#exercise",
     "href": "lci_treatment_prep_guts.htm#exercise",
     "title": "Patient Education",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/wk\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_treatment_prep_guts.htm#smoking-cessation",
     "href": "lci_treatment_prep_guts.htm#smoking-cessation",
     "title": "Patient Education",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freddomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freedomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_treatment_prep_guts.html",
@@ -12295,22 +12323,22 @@
     "objectID": "lci_treatment_prep_guts.html#my-atrium-patient-portal",
     "href": "lci_treatment_prep_guts.html#my-atrium-patient-portal",
     "title": "Patient Education",
-    "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "section": "My Atrium Patient Portal",
+    "text": "My Atrium Patient Portal\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_treatment_prep_guts.html#exercise",
     "href": "lci_treatment_prep_guts.html#exercise",
     "title": "Patient Education",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/wk\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_treatment_prep_guts.html#smoking-cessation",
     "href": "lci_treatment_prep_guts.html#smoking-cessation",
     "title": "Patient Education",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freddomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freedomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_esot3.html",
@@ -12394,7 +12422,7 @@
     "href": "lci_esot3.html#pet-scan",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "PET scan",
-    "text": "PET scan\n\n\nPET scan is similar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
+    "text": "PET scan\n\n\nSimilar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
   },
   {
     "objectID": "lci_esot3.html#endoscopic-ultrasound",
@@ -12485,35 +12513,35 @@
     "href": "lci_esot3.html#chemotherapy-radiation-cross-trial",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nPatients were treated in two groups:\nSurgery Alone\nvs\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nPatients were treated in two groups:\nSurgery Alone\nvs\nChemo + Radiation \\(\\rightarrow\\) Surgery"
   },
   {
     "objectID": "lci_esot3.html#chemotherapy-radiation-cross-trial-1",
     "href": "lci_esot3.html#chemotherapy-radiation-cross-trial-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemo + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_esot3.html#chemotherapy-radiation-cross-trial-2",
     "href": "lci_esot3.html#chemotherapy-radiation-cross-trial-2",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\nPET scan (or CT) 4 weeks after the end of radiation\nSurgery 8 weeks after the end of radiation"
+    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\n\n\n\nPET scan (or CT) 4 weeks after the end of radiation\n\n\n\n\nSurgery 8 weeks after the end of radiation"
   },
   {
     "objectID": "lci_esot3.html#chemotherapy-radiation---side-effects",
     "href": "lci_esot3.html#chemotherapy-radiation---side-effects",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks.\nFeeding tube may be needed for hydration/nutrition."
+    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus. ::: {.fragment} Swallowing can be difficult the last 2 weeks. :::\n\nFeeding tube may be needed for hydration/nutrition."
   },
   {
     "objectID": "lci_esot3.html#locally-advanced-adenocarcinoma",
     "href": "lci_esot3.html#locally-advanced-adenocarcinoma",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Locally-advanced Adenocarcinoma",
-    "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy before + after surgery:\nChemo (8 wks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (8 wks)\nTwo different drug combinations:\n\nFLOT (more effective)\nFOLFOX (better tolerated)"
+    "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy before + after surgery:\nChemo (8 wks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (8 wks)\n\nTwo different drug combinations:\n\n\n\nFLOT (more effective)\n\n\n\n\nFOLFOX (better tolerated)"
   },
   {
     "objectID": "lci_esot3.html#sandwich-chemotherapy-drugs",
@@ -12596,22 +12624,22 @@
     "objectID": "lci_esot3.html#my-atrium-patient-portal",
     "href": "lci_esot3.html#my-atrium-patient-portal",
     "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "section": "My Atrium Patient Portal",
+    "text": "My Atrium Patient Portal\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_esot3.html#exercise",
     "href": "lci_esot3.html#exercise",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/wk\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_esot3.html#smoking-cessation",
     "href": "lci_esot3.html#smoking-cessation",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freddomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freedomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_esot3.html#protein-needs",
@@ -13136,7 +13164,7 @@
     "href": "lci_esot3.htm#pet-scan",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "PET scan",
-    "text": "PET scan\n\n\nPET scan is similar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
+    "text": "PET scan\n\n\nSimilar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
   },
   {
     "objectID": "lci_esot3.htm#endoscopic-ultrasound",
@@ -13227,35 +13255,35 @@
     "href": "lci_esot3.htm#chemotherapy-radiation-cross-trial",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nPatients were treated in two groups:\nSurgery Alone\nvs\nChemotherapy + Radiation \\(\\rightarrow\\) Surgery"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nPatients were treated in two groups:\nSurgery Alone\nvs\nChemo + Radiation \\(\\rightarrow\\) Surgery"
   },
   {
     "objectID": "lci_esot3.htm#chemotherapy-radiation-cross-trial-1",
     "href": "lci_esot3.htm#chemotherapy-radiation-cross-trial-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemotherapy + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
+    "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemo + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
     "objectID": "lci_esot3.htm#chemotherapy-radiation-cross-trial-2",
     "href": "lci_esot3.htm#chemotherapy-radiation-cross-trial-2",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\nPET scan (or CT) 4 weeks after the end of radiation\nSurgery 8 weeks after the end of radiation"
+    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\n\n\n\nPET scan (or CT) 4 weeks after the end of radiation\n\n\n\n\nSurgery 8 weeks after the end of radiation"
   },
   {
     "objectID": "lci_esot3.htm#chemotherapy-radiation---side-effects",
     "href": "lci_esot3.htm#chemotherapy-radiation---side-effects",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\nSwallowing can be difficult the last 2 weeks.\nFeeding tube may be needed for hydration/nutrition."
+    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus. ::: {.fragment} Swallowing can be difficult the last 2 weeks. :::\n\nFeeding tube may be needed for hydration/nutrition."
   },
   {
     "objectID": "lci_esot3.htm#locally-advanced-adenocarcinoma",
     "href": "lci_esot3.htm#locally-advanced-adenocarcinoma",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Locally-advanced Adenocarcinoma",
-    "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy before + after surgery:\nChemo (8 wks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (8 wks)\nTwo different drug combinations:\n\nFLOT (more effective)\nFOLFOX (better tolerated)"
+    "text": "Locally-advanced Adenocarcinoma\n“Sandwich” chemotherapy before + after surgery:\nChemo (8 wks) \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (8 wks)\n\nTwo different drug combinations:\n\n\n\nFLOT (more effective)\n\n\n\n\nFOLFOX (better tolerated)"
   },
   {
     "objectID": "lci_esot3.htm#sandwich-chemotherapy-drugs",
@@ -13338,22 +13366,22 @@
     "objectID": "lci_esot3.htm#my-atrium-patient-portal",
     "href": "lci_esot3.htm#my-atrium-patient-portal",
     "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "My Atrium Patient Portal\n",
-    "text": "My Atrium Patient Portal\n\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+    "section": "My Atrium Patient Portal",
+    "text": "My Atrium Patient Portal\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
   },
   {
     "objectID": "lci_esot3.htm#exercise",
     "href": "lci_esot3.htm#exercise",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/week\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/wk\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
   },
   {
     "objectID": "lci_esot3.htm#smoking-cessation",
     "href": "lci_esot3.htm#smoking-cessation",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freddomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freedomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_esot3.htm#protein-needs",
