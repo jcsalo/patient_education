@@ -51,225 +51,11 @@ There are two common types of esophageal cancer
 
 In many ways, these to different types of esophageal cancer behave the same.
 
-We will see later in this video, however, that the treatment **can** be different depending upon whether the cancer is adenocarcinoma or squamous cell carcinoma.
 
-## Cancer Staging
+{{< include lci_staging_guts.qmd >}}
 
-Staging refers to the tests to determine
+{{< include lci_laparoscopy_guts.qmd >}}
 
--   How large is the tumor?
--   Has there been spread to lymph nodes?
--   Has it spread to other parts of the body?
-
-**Treatment options depend upon the cancer stage**
-
-## Esophageal Cancer Staging {tbl-colwidths="[20,10,70]"}
-
--   **T** = Tumor - How deep has cancer grown into the wall of the esophagus?
--   **N** = Nodes - Has cancer spread to the lymph nodes?
--   **M** = Metastasis - Has the cancer spread to other parts of the body? lungs or liver?
-
-## Layers of the Wall of the Esophagus
-
-::: {.content-hidden unless-format="docx"}
-If we look at the wasll of the esophagus, we see several layers:
-:::
-
-:::::: columns
-::: {.column width="50%"}
--   Mucosa - Inner layer
--   Muscle Wall (muscularis)
--   Lymph nodes located in fat outside the muscle
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor1_ai.png)
-:::
-::::
-::::::
-
-## Early Stage Cancers
-
-::: {.content-hidden unless-format="docx"}
-Early-stage cancers are those that are small and have not grown very far into the wall of the esophagus.
-:::
-
-:::::: columns
-::: {.column width="50%"}
-Cancers start on the very inside of the layer called the mucosa
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor21_ai.png)
-:::
-::::
-::::::
-
-## Locally-advanced Cancers
-
-:::::: columns
-::: {.column width="50%"}
-Over time, cancers can grow into the muscular wall
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor24_ai.png)
-:::
-::::
-::::::
-
-::: {.content-hidden unless-format="docx"}
-Locally-advanced cancers are those that have gorwn through the wall of the esophagus.
-:::
-
-## Lymph Nodes
-
-:::::: columns
-::: {.column width="50%"}
-In some cases, cancer cells can break off from the main tumor and spread to lymph nodes
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor25b_ai.png)
-:::
-::::
-::::::
-
-::: {.content-hidden unless-format="docx"}
-If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
-:::
-
-## T Stage
-
-:::::: columns
-::: {.column width="50%"}
-Cancers are categorized based upon the thickness of the tumor, known as the T stage
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor_t_full.png)
-:::
-::::
-::::::
-
-::: {.content-hidden unless-format="docx"}
-T1 tumors are early stage, and T4 tumors more advanced
-:::
-
-## N Stage
-
-:::::: columns
-::: {.column width="50%"}
-Cancers are categorized by whether there is spread to the lymph nodes.
-
--   **N0** cancers have not spread to the lymph nodes
--   **N1** cancers have spread to the lymph nodes.
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor_t3_nodes_labels.png)
-:::
-::::
-::::::
-
-## M Stage
-
-:::::: columns
-::: {.column width="50%"}
-Some cancers can also spread from the esophagus to the lungs or liver
-
--   **M0** cancers have not spread to other parts of the body
--   **N1** cancers have spread to other parts of the body such as lungs or liver
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_M_Stage.png)
-:::
-::::
-::::::
-
-## PET scan
-
-:::::: columns
-::: {.column width="50%"}
-A PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer.
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/PetImage.png)
-:::
-::::
-::::::
-
-::: {.content-hidden unless-format="docx"}
-In some cases, the PET scan is not performed until a CT scans bas been done.
-:::
-
-## Endoscopic Ultrasound
-
-:::::: columns
-::: {.column width="50%"}
-Endoscopic ultrasound (EUS) is a procedure similar to upper endoscopy (EGD) which has an ultrasound probe at the bottom of the scope. This allows measuring the thickness of the cancer. Endoscopic ultrasound can help determine the T stage of the cancer.
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/EUSArtboard.png)
-:::
-::::
-::::::
-
-::: {.content-hidden unless-format="docx"}
-Endoscopic ultrasound is most helpful in early stage cancers.
-:::
-
-## Laparoscopy
-
-:::::: columns
-::: {.column width="50%"}
-Some esophageal cancers can spread inside the abdominal cavity. These areas of spread can be very small, as small as a grain of rice.
-
-In order to detect spread within the abdominal cavity, a proceduce called a laparoscopy can be performed in some some patients.
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
-:::
-::::
-::::::
-
-::: {.content-hidden unless-format="docx"}
-Not all patients with esophageal cancer need a laparoscopy.
-
-In general, laparoscopy is considered for cancers that invade from the esophagus into the stomach.
-:::
-
-## Laparoscopy
-
-:::::: columns
-::: {.column width="50%"}
-A laparoscopy is performed under a general anesthetic.
-
--   Several incisions 1/4" long
--   A telescope is inserted to look inside the abdominal cavity.
--   Biopsies can be performed.
-:::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
-:::
-::::
-::::::
 
 ## Gastroesophageal Reflux
 
@@ -285,14 +71,13 @@ A one-way valve normally keeps acid within the stomach and prevents it from ente
 ::::
 ::::::
 
-
 ## Gastroesophageal Reflux
 
 :::::: columns
 ::: {.column width="50%"}
-A one-way valve normally keeps acid within the stomach and prevents it from entering the esophagus
+A one-way valve normally keeps acid within the stomach
 
-If the valve does not work properly, acid can enter the esophagus and cause heartburn and damage to the lining of the esophagus.
+If the valve does not work properly, acid enters the esophagus and cause heartburn and damage to the lining of the esophagus.
 :::
 
 :::: {.column width="50%"}
@@ -322,21 +107,30 @@ Over a period of years, pre-cancerous changes can develop within Barrett's esopa
 
 These changes can be seen by the pathologist from biopsies taken from the esophagus
 
+
+:::{.fragment}
 Over time, low-grade dysplasia can progress to high-grade dysplasia
+:::
+
 
 ## Dysplasia $\rightarrow$ Cancer
 
 Low grade dysplasia: Risk of cancer 0.5% per year
 
-High-grad dysplasia: Risk of cancer 5% per year
+:::{.fragment}
+High-grade dysplasia: Risk of cancer 5% per year
+:::
 
+:::{.fragment}
 $\Rightarrow$ Surveillance with upper endoscopy is critical
+:::
+
 
 ## Radiofrequency ablation for Dysplasia
 
 :::::: columns
 ::: {.column width="50%"}
-Dysplasia of the esphagus can be treated with destroying the mucosa, the inner layer of esophgus
+Dysplasia can be treated with destroying the mucosa, the inner layer of esophgus
 
 Ablation of the mucosa with microwave energy
 
@@ -354,21 +148,20 @@ Circular balloon with an antenna used to ablate the mucosa
 Becauase the risk of spread to the lymph nodes is very low, there tumors can often be removed with endoscopy without the need for surgery.
 :::
 
-
-
-
 ## Radiofrequency ablation for Dysplasia
 
 :::::: columns
 ::: {.column width="50%"}
-Before Ablation
+Before Ablation 
+
 ![](https://deidt7p41jzcy.cloudfront.net/25FF4.jpg)
 :::
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-After Ablation
-![](https://deidt7p41jzcy.cloudfront.net/25FF5after RFA.jpg)
+After Ablation 
+
+![](https://deidt7p41jzcy.cloudfront.net/25FF5after%20RFA.jpg)
 :::
 ::::
 ::::::
@@ -377,17 +170,35 @@ After Ablation
 Becauase the risk of spread to the lymph nodes is very low, there tumors can often be removed with endoscopy without the need for surgery.
 :::
 
+## Treatment Plan
 
+::::: {style="font-size: 90%;"}
 
+::: {.fragment}
+Superficial (T1)
 
+- Endoscopic Therapy
+:::
 
+::: {.fragment}
+Localized (T1b/T2)
 
-## Treatment Plans
+- Surgery (esophagectomy)
+:::
 
--   Superficial (T1) $\Rightarrow$ Endoscopic Therapy
--   Localized (T1b/T2) $\Rightarrow$ Surgery
--   Locally-advanced (T3/N1) $\Rightarrow$ Chemo $\pm$ Radiation $\rightarrow$Surgery
--   Metastatic (M1) $\Rightarrow$ Chemotherapy
+::: {.fragment}
+Locally-advanced (T3M0)
+
+- Chemo$\pm$Radiation $\rightarrow$Surgery
+:::
+
+::: {.fragment}
+Metastatic (M1)
+
+- Chemotherapy
+:::
+
+:::::
 
 ::: {.content-hidden unless-format="docx"}
 This table summarizes four different treatment categories:
@@ -398,11 +209,12 @@ This table summarizes four different treatment categories:
 -   Metastatic cancers are M1 and are treated primary by chemotherapy.
 :::
 
+
 ## Superficial Cancers
 
 :::::: columns
 ::: {.column width="50%"}
-Superficial Cancers = T1a N0
+Superficial Cancer: T1a N0
 
 Treatment is often with endoscopy without the need for surgery.
 :::
@@ -438,13 +250,15 @@ Endoscopic procedure to remove a superficial tumor from the inner layer of the e
 :::
 :::::
 
+
+
 ## Endoscopic Mucosal Resection - Favorable {auto-animate="true"}
 
 ::::: columns
 ::: {.column width="50%"}
 -   Clear margins at the edge *AND*
 -   Clear deep margin *AND*
--   Tumor appears slow-growing under microscope
+-   Tumor is slow-growing under microscope
 :::
 
 ::: {.column width="50%"}
@@ -452,7 +266,23 @@ Endoscopic procedure to remove a superficial tumor from the inner layer of the e
 :::
 :::::
 
-EMR may be sufficient treatment (without surgery)
+
+
+
+## Endoscopic Mucosal Resection - Favorable {auto-animate="true"}
+
+::::: columns
+::: {.column width="50%"}
+- EMR may be the only treatment required
+- Requires endoscopic surveillance
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/emr_favorable_16001200.png)
+:::
+:::::
+
+
 
 ## Endoscopic Mucosal Resection - Unfavorable {auto-animate="true" auto-animate-restart="true"}
 
@@ -460,7 +290,7 @@ EMR may be sufficient treatment (without surgery)
 ::: {.column width="50%"}
 -   Tumor at edge margin *OR*
 -   Tumor at deep margin *OR*
--   Tumor appears rapidly-growing under microscope
+-   Tumor rapidly-growing under microscope
 :::
 
 ::: {.column width="50%"}
@@ -474,7 +304,7 @@ EMR may be sufficient treatment (without surgery)
 ::: {.column width="50%"}
 -   Tumor at edge margin *OR*
 -   Tumor at deep margin *OR*
--   Tumor appears rapidly-growing under microscope
+-   Tumor rapidly-growing under microscope
 :::
 
 ::: {.column width="50%"}
@@ -482,13 +312,29 @@ EMR may be sufficient treatment (without surgery)
 :::
 :::::
 
-Esophagectomy (surgery) is standard recommendation
+
 
 ::: {.content-hidden unless-format="docx"}
 For patients with superficial cancers that can't be adequately treated with endoscopic therapy, surgery is usually recommended
 :::
 
-## Surgery
 
-[Surgery Slideshow](lci_surgery.htm)
+## Endoscopic Mucosal Resection - Unfavorable {auto-animate="true"}
 
+::::: columns
+::: {.column width="50%"}
+Esophagectomy (surgery) is standard recommendation
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/emr_unfavorable_16001200.png)
+:::
+:::::
+
+
+::: {.content-hidden unless-format="docx"}
+For patients with superficial cancers that can't be adequately treated with endoscopic therapy, surgery is usually recommended
+:::
+
+
+{{< include lci_surgery_guts.qmd >}}
