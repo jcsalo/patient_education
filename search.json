@@ -2524,7 +2524,7 @@
     "href": "lci_esot3_aca.htm#central-venous-port-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_esot3_aca.htm#central-venous-port-2",
@@ -3273,7 +3273,7 @@
     "href": "lci_esot3_aca.html#central-venous-port-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_esot3_aca.html#central-venous-port-2",
@@ -5170,7 +5170,7 @@
     "href": "lci_cvport.htm#central-venous-port-1",
     "title": "Central Venous Port",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_cvport.htm#central-venous-port-2",
@@ -5219,7 +5219,7 @@
     "href": "lci_cvport.html#central-venous-port-1",
     "title": "Central Venous Port",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_cvport.html#central-venous-port-2",
@@ -7018,7 +7018,7 @@
     "href": "lci_esot1.htm#types-of-esophageal-cancer",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Types of Esophageal Cancer",
-    "text": "Types of Esophageal Cancer\nThere are two common types of esophageal cancer\n\nAdenocarcinoma\nSquamous Cell Carcinoma\n\nIn many ways, these to different types of esophageal cancer behave the same.\nWe will see later in this video, however, that the treatment can be different depending upon whether the cancer is adenocarcinoma or squamous cell carcinoma."
+    "text": "Types of Esophageal Cancer\nThere are two common types of esophageal cancer\n\nAdenocarcinoma\nSquamous Cell Carcinoma\n\nIn many ways, these to different types of esophageal cancer behave the same."
   },
   {
     "objectID": "lci_esot1.htm#cancer-staging",
@@ -7028,88 +7028,81 @@
     "text": "Cancer Staging\nStaging refers to the tests to determine\n\nHow large is the tumor?\nHas there been spread to lymph nodes?\nHas it spread to other parts of the body?\n\nTreatment options depend upon the cancer stage"
   },
   {
-    "objectID": "lci_esot1.htm#esophageal-cancer-staging",
-    "href": "lci_esot1.htm#esophageal-cancer-staging",
+    "objectID": "lci_esot1.htm#cancer-staging-1",
+    "href": "lci_esot1.htm#cancer-staging-1",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
-    "section": "Esophageal Cancer Staging",
-    "text": "Esophageal Cancer Staging\n\nT = Tumor - How deep has cancer grown into the wall of the esophagus?\nN = Nodes - Has cancer spread to the lymph nodes?\nM = Metastasis - Has the cancer spread to other parts of the body? lungs or liver?"
-  },
-  {
-    "objectID": "lci_esot1.htm#layers-of-the-wall-of-the-esophagus",
-    "href": "lci_esot1.htm#layers-of-the-wall-of-the-esophagus",
-    "title": "Superficial Cancer of the Esophagus and GE Junction",
-    "section": "Layers of the Wall of the Esophagus",
-    "text": "Layers of the Wall of the Esophagus\n\n\n\nMucosa - Inner layer\nMuscle Wall (muscularis)\nLymph nodes located in fat outside the muscle"
+    "section": "Cancer Staging",
+    "text": "Cancer Staging\n\nT = Tumor - Depth of growth into the wall\n\n\nN = Nodes - Spread to the lymph nodes\n\n\nM = Metastasis - Spread to liver, lungs, or bone"
   },
   {
     "objectID": "lci_esot1.htm#early-stage-cancers",
     "href": "lci_esot1.htm#early-stage-cancers",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Early Stage Cancers",
-    "text": "Early Stage Cancers\n\n\nCancers start on the very inside of the layer called the mucosa"
+    "text": "Early Stage Cancers\n\n\n\n\nCancers start on the very inside layer called the mucosa"
   },
   {
     "objectID": "lci_esot1.htm#locally-advanced-cancers",
     "href": "lci_esot1.htm#locally-advanced-cancers",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Locally-advanced Cancers",
-    "text": "Locally-advanced Cancers\n\n\nOver time, cancers can grow into the muscular wall"
+    "text": "Locally-advanced Cancers\n\n\n\n\nOver time, cancers can grow into the muscular wall"
   },
   {
     "objectID": "lci_esot1.htm#lymph-nodes",
     "href": "lci_esot1.htm#lymph-nodes",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Lymph Nodes",
-    "text": "Lymph Nodes\n\n\nIn some cases, cancer cells can break off from the main tumor and spread to lymph nodes"
+    "text": "Lymph Nodes\n\n\n\n\nIn some cases, cancer cells can break off from the main tumor and spread to lymph nodes"
   },
   {
     "objectID": "lci_esot1.htm#t-stage",
     "href": "lci_esot1.htm#t-stage",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "T Stage",
-    "text": "T Stage\n\n\nCancers are categorized based upon the thickness of the tumor, known as the T stage"
+    "text": "T Stage\n\n\n\n\nCancers are categorized based upon the thickness of the tumor, known as the T stage"
   },
   {
     "objectID": "lci_esot1.htm#n-stage",
     "href": "lci_esot1.htm#n-stage",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\nN1 cancers have spread to the lymph nodes."
+    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the nodes.\n\nN0 cancers have not spread to the nodes\nN1 cancers have spread to the nodes."
   },
   {
     "objectID": "lci_esot1.htm#m-stage",
     "href": "lci_esot1.htm#m-stage",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "M Stage",
-    "text": "M Stage\n\n\nSome cancers can also spread from the esophagus to the lungs or liver\n\nM0 cancers have not spread to other parts of the body\nN1 cancers have spread to other parts of the body such as lungs or liver"
+    "text": "M Stage\n\n\nSome cancers spread to other parts of the body\n\nM0 cancers have not spread to other parts of the body\nM1 cancers have spread lungs, liver, or bone"
   },
   {
     "objectID": "lci_esot1.htm#pet-scan",
     "href": "lci_esot1.htm#pet-scan",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "PET scan",
-    "text": "PET scan\n\n\nA PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer."
+    "text": "PET scan\n\n\nSimilar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
   },
   {
     "objectID": "lci_esot1.htm#endoscopic-ultrasound",
     "href": "lci_esot1.htm#endoscopic-ultrasound",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Endoscopic Ultrasound",
-    "text": "Endoscopic Ultrasound\n\n\nEndoscopic ultrasound (EUS) is a procedure similar to upper endoscopy (EGD) which has an ultrasound probe at the bottom of the scope. This allows measuring the thickness of the cancer. Endoscopic ultrasound can help determine the T stage of the cancer."
+    "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound in scope\nEvaluates T stage"
   },
   {
     "objectID": "lci_esot1.htm#laparoscopy",
     "href": "lci_esot1.htm#laparoscopy",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\nSome esophageal cancers can spread inside the abdominal cavity. These areas of spread can be very small, as small as a grain of rice.\nIn order to detect spread within the abdominal cavity, a proceduce called a laparoscopy can be performed in some some patients."
+    "text": "Laparoscopy\n\n\n\nSome stomach cancers can spread inside the abdomen\nAreas of spread can be very small (grain of rice)\nLaparoscopy can detect spread inside the abdomen"
   },
   {
     "objectID": "lci_esot1.htm#laparoscopy-1",
     "href": "lci_esot1.htm#laparoscopy-1",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\nA laparoscopy is performed under a general anesthetic.\n\nSeveral incisions 1/4” long\nA telescope is inserted to look inside the abdominal cavity.\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_esot1.htm#gastroesophageal-reflux",
@@ -7123,7 +7116,7 @@
     "href": "lci_esot1.htm#gastroesophageal-reflux-1",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Gastroesophageal Reflux",
-    "text": "Gastroesophageal Reflux\n\n\nA one-way valve normally keeps acid within the stomach and prevents it from entering the esophagus\nIf the valve does not work properly, acid can enter the esophagus and cause heartburn and damage to the lining of the esophagus."
+    "text": "Gastroesophageal Reflux\n\n\nA one-way valve normally keeps acid within the stomach\nIf the valve does not work properly, acid enters the esophagus and cause heartburn and damage to the lining of the esophagus."
   },
   {
     "objectID": "lci_esot1.htm#barretts-espohagus",
@@ -7137,42 +7130,42 @@
     "href": "lci_esot1.htm#dysplasia",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Dysplasia",
-    "text": "Dysplasia\nOver a period of years, pre-cancerous changes can develop within Barrett’s esopahgus.\nThese changes can be seen by the pathologist from biopsies taken from the esophagus\nOver time, low-grade dysplasia can progress to high-grade dysplasia"
+    "text": "Dysplasia\nOver a period of years, pre-cancerous changes can develop within Barrett’s esopahgus.\nThese changes can be seen by the pathologist from biopsies taken from the esophagus\n\nOver time, low-grade dysplasia can progress to high-grade dysplasia"
   },
   {
     "objectID": "lci_esot1.htm#dysplasia-rightarrow-cancer",
     "href": "lci_esot1.htm#dysplasia-rightarrow-cancer",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Dysplasia \\(\\rightarrow\\) Cancer",
-    "text": "Dysplasia \\(\\rightarrow\\) Cancer\nLow grade dysplasia: Risk of cancer 0.5% per year\nHigh-grad dysplasia: Risk of cancer 5% per year\n\\(\\Rightarrow\\) Surveillance with upper endoscopy is critical"
+    "text": "Dysplasia \\(\\rightarrow\\) Cancer\nLow grade dysplasia: Risk of cancer 0.5% per year\n\nHigh-grade dysplasia: Risk of cancer 5% per year\n\n\n\\(\\Rightarrow\\) Surveillance with upper endoscopy is critical"
   },
   {
     "objectID": "lci_esot1.htm#radiofrequency-ablation-for-dysplasia",
     "href": "lci_esot1.htm#radiofrequency-ablation-for-dysplasia",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Radiofrequency ablation for Dysplasia",
-    "text": "Radiofrequency ablation for Dysplasia\n\n\nDysplasia of the esphagus can be treated with destroying the mucosa, the inner layer of esophgus\nAblation of the mucosa with microwave energy\nCircular balloon with an antenna used to ablate the mucosa"
+    "text": "Radiofrequency ablation for Dysplasia\n\n\nDysplasia can be treated with destroying the mucosa, the inner layer of esophgus\nAblation of the mucosa with microwave energy\nCircular balloon with an antenna used to ablate the mucosa"
   },
   {
     "objectID": "lci_esot1.htm#radiofrequency-ablation-for-dysplasia-1",
     "href": "lci_esot1.htm#radiofrequency-ablation-for-dysplasia-1",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Radiofrequency ablation for Dysplasia",
-    "text": "Radiofrequency ablation for Dysplasia\n\n\nBefore Ablation \n\nAfter Ablation"
+    "text": "Radiofrequency ablation for Dysplasia\n\n\nBefore Ablation\n\n\nAfter Ablation"
   },
   {
-    "objectID": "lci_esot1.htm#treatment-plans",
-    "href": "lci_esot1.htm#treatment-plans",
+    "objectID": "lci_esot1.htm#treatment-plan",
+    "href": "lci_esot1.htm#treatment-plan",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
-    "section": "Treatment Plans",
-    "text": "Treatment Plans\n\nSuperficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\nLocalized (T1b/T2) \\(\\Rightarrow\\) Surgery\nLocally-advanced (T3/N1) \\(\\Rightarrow\\) Chemo \\(\\pm\\) Radiation \\(\\rightarrow\\)Surgery\nMetastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
+    "section": "Treatment Plan",
+    "text": "Treatment Plan\n\n\nSuperficial (T1)\n\nEndoscopic Therapy\n\n\n\nLocalized (T1b/T2)\n\nSurgery (esophagectomy)\n\n\n\nLocally-advanced (T3M0)\n\nChemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\n\n\nMetastatic (M1)\n\nChemotherapy"
   },
   {
     "objectID": "lci_esot1.htm#superficial-cancers",
     "href": "lci_esot1.htm#superficial-cancers",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Superficial Cancers",
-    "text": "Superficial Cancers\n\n\nSuperficial Cancers = T1a N0\nTreatment is often with endoscopy without the need for surgery."
+    "text": "Superficial Cancers\n\n\nSuperficial Cancer: T1a N0\nTreatment is often with endoscopy without the need for surgery."
   },
   {
     "objectID": "lci_esot1.htm#endoscopic-mucosal-resection-emr",
@@ -7193,28 +7186,420 @@
     "href": "lci_esot1.htm#endoscopic-mucosal-resection---favorable-1",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Endoscopic Mucosal Resection - Favorable",
-    "text": "Endoscopic Mucosal Resection - Favorable\n\n\n\nClear margins at the edge AND\nClear deep margin AND\nTumor appears slow-growing under microscope\n\n\n\n\nEMR may be sufficient treatment (without surgery)"
+    "text": "Endoscopic Mucosal Resection - Favorable\n\n\n\nClear margins at the edge AND\nClear deep margin AND\nTumor is slow-growing under microscope"
+  },
+  {
+    "objectID": "lci_esot1.htm#endoscopic-mucosal-resection---favorable-2",
+    "href": "lci_esot1.htm#endoscopic-mucosal-resection---favorable-2",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Endoscopic Mucosal Resection - Favorable",
+    "text": "Endoscopic Mucosal Resection - Favorable\n\n\n\nEMR may be the only treatment required\nRequires endoscopic surveillance"
   },
   {
     "objectID": "lci_esot1.htm#endoscopic-mucosal-resection---unfavorable",
     "href": "lci_esot1.htm#endoscopic-mucosal-resection---unfavorable",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Endoscopic Mucosal Resection - Unfavorable",
-    "text": "Endoscopic Mucosal Resection - Unfavorable\n\n\n\nTumor at edge margin OR\nTumor at deep margin OR\nTumor appears rapidly-growing under microscope"
+    "text": "Endoscopic Mucosal Resection - Unfavorable\n\n\n\nTumor at edge margin OR\nTumor at deep margin OR\nTumor rapidly-growing under microscope"
   },
   {
     "objectID": "lci_esot1.htm#endoscopic-mucosal-resection---unfavorable-1",
     "href": "lci_esot1.htm#endoscopic-mucosal-resection---unfavorable-1",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Endoscopic Mucosal Resection - Unfavorable",
-    "text": "Endoscopic Mucosal Resection - Unfavorable\n\n\n\nTumor at edge margin OR\nTumor at deep margin OR\nTumor appears rapidly-growing under microscope\n\n\n\n\nEsophagectomy (surgery) is standard recommendation"
+    "text": "Endoscopic Mucosal Resection - Unfavorable\n\n\n\nTumor at edge margin OR\nTumor at deep margin OR\nTumor rapidly-growing under microscope"
   },
   {
-    "objectID": "lci_esot1.htm#surgery",
-    "href": "lci_esot1.htm#surgery",
+    "objectID": "lci_esot1.htm#endoscopic-mucosal-resection---unfavorable-2",
+    "href": "lci_esot1.htm#endoscopic-mucosal-resection---unfavorable-2",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
-    "section": "Surgery",
-    "text": "Surgery\nSurgery Slideshow"
+    "section": "Endoscopic Mucosal Resection - Unfavorable",
+    "text": "Endoscopic Mucosal Resection - Unfavorable\n\n\nEsophagectomy (surgery) is standard recommendation"
+  },
+  {
+    "objectID": "lci_esot1.htm#surgery-for-esophageal-cancer",
+    "href": "lci_esot1.htm#surgery-for-esophageal-cancer",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Surgery for Esophageal Cancer",
+    "text": "Surgery for Esophageal Cancer\nSurgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0M0)\nLocally Advanced (T3M0) after preoperative therapy."
+  },
+  {
+    "objectID": "lci_esot1.htm#goals-of-surgery",
+    "href": "lci_esot1.htm#goals-of-surgery",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Goals of Surgery",
+    "text": "Goals of Surgery\n\n\n\nRemove tumor from esophagus\nRemove surrounding lymph nodes\nCreate a new esophagus"
+  },
+  {
+    "objectID": "lci_esot1.htm#ivor-lewis-transthoracic-esophagectomy",
+    "href": "lci_esot1.htm#ivor-lewis-transthoracic-esophagectomy",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Ivor Lewis (Transthoracic) Esophagectomy",
+    "text": "Ivor Lewis (Transthoracic) Esophagectomy\n\n\n\nRemoves tumor\nRemoves lower 1/3 of esophagus\nRemoves surrounding lymph nodes\nReconstruction of GI tract"
+  },
+  {
+    "objectID": "lci_esot1.htm#reconstruction",
+    "href": "lci_esot1.htm#reconstruction",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Reconstruction",
+    "text": "Reconstruction\n\n\nNew esophagus is created from the stomach in the abdomen by fashioning it into a tube."
+  },
+  {
+    "objectID": "lci_esot1.htm#ivor-lewis-esophagectomy",
+    "href": "lci_esot1.htm#ivor-lewis-esophagectomy",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Ivor Lewis esophagectomy",
+    "text": "Ivor Lewis esophagectomy\n\n\nThe new esophagus is now brought up into the chest. A new connection is made between the esophagus and the stomach, called an anastomosis."
+  },
+  {
+    "objectID": "lci_esot1.htm#minimally-invasive-ivor-lewis",
+    "href": "lci_esot1.htm#minimally-invasive-ivor-lewis",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Minimally-invasive Ivor Lewis",
+    "text": "Minimally-invasive Ivor Lewis\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+  },
+  {
+    "objectID": "lci_esot1.htm#open-ivor-lewis",
+    "href": "lci_esot1.htm#open-ivor-lewis",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Open Ivor Lewis",
+    "text": "Open Ivor Lewis\n\n\nWe use the mininally-invasive approach in 95% of cases\nIn some cases, an open approach is still necessary."
+  },
+  {
+    "objectID": "lci_esot1.htm#total-esophagectomy",
+    "href": "lci_esot1.htm#total-esophagectomy",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Total Esophagectomy",
+    "text": "Total Esophagectomy\n\n\nFor patients with tumors in the upper esophagus, we need to remove more of the esophagus\nWe need to remove the whole esophagus, including the portion in the neck"
+  },
+  {
+    "objectID": "lci_esot1.htm#mckeown-esophagectomy",
+    "href": "lci_esot1.htm#mckeown-esophagectomy",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "McKeown Esophagectomy",
+    "text": "McKeown Esophagectomy\n\n\n All of esophagus removed\n\n Connection made in the neck"
+  },
+  {
+    "objectID": "lci_esot1.htm#colon-interposition",
+    "href": "lci_esot1.htm#colon-interposition",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Colon Interposition",
+    "text": "Colon Interposition\n\n\nIf the stomach is not suitable to make a new esophagus, the colon can be used to replace the esophagus"
+  },
+  {
+    "objectID": "lci_esot1.htm#colon-interposition-1",
+    "href": "lci_esot1.htm#colon-interposition-1",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Colon Interposition",
+    "text": "Colon Interposition"
+  },
+  {
+    "objectID": "lci_esot1.htm#risks-of-surgery",
+    "href": "lci_esot1.htm#risks-of-surgery",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Risks of Surgery",
+    "text": "Risks of Surgery\nAn esophagectomy is a substantial operation, and in some cases there can be postoperative complications. We’re going to talk about two of these complications and what you can do to reduce your risk of complications:\n\nAnastomotic leak\nPneumonia"
+  },
+  {
+    "objectID": "lci_esot1.htm#anastomotic-leak",
+    "href": "lci_esot1.htm#anastomotic-leak",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Anastomotic Leak",
+    "text": "Anastomotic Leak\n\n\nThe anastomosis is surgical connection between the esophagus and the stomach."
+  },
+  {
+    "objectID": "lci_esot1.htm#anastomotic-leak-1",
+    "href": "lci_esot1.htm#anastomotic-leak-1",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Anastomotic Leak",
+    "text": "Anastomotic Leak\n\n\nIf anastomosis doesn’t heal:\n\nLeakage of fluid from the esophagus\nInfection in the space between the lungs\nRequires additional time in the hospital"
+  },
+  {
+    "objectID": "lci_esot1.htm#anastomotic-leak-2",
+    "href": "lci_esot1.htm#anastomotic-leak-2",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Anastomotic Leak",
+    "text": "Anastomotic Leak\n\n\nIf an anastomotic leak occurs:\n\nSome leaks will seal on their own\nA stent may be required to help healing\nOccasionally additional surgey is required"
+  },
+  {
+    "objectID": "lci_esot1.htm#anastomotic-leak-3",
+    "href": "lci_esot1.htm#anastomotic-leak-3",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Anastomotic Leak",
+    "text": "Anastomotic Leak\n\n\nRisk of a leak depends upon:\n\nType of operation performed\nOverall nutritional status of patient\nExperience of the surgeon"
+  },
+  {
+    "objectID": "lci_esot1.htm#pneumonia",
+    "href": "lci_esot1.htm#pneumonia",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Pneumonia",
+    "text": "Pneumonia\n\n\nCan occur in 10-15% of patients after esophagectomy.\nRequires treatment with antibiotics and frequently requires a longer hospitalization."
+  },
+  {
+    "objectID": "lci_esot1.htm#preventing-pneumonia",
+    "href": "lci_esot1.htm#preventing-pneumonia",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Preventing Pneumonia",
+    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
+  },
+  {
+    "objectID": "lci_esot1.htm#minimally-invasive-esophagectomy",
+    "href": "lci_esot1.htm#minimally-invasive-esophagectomy",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Minimally-invasive Esophagectomy",
+    "text": "Minimally-invasive Esophagectomy"
+  },
+  {
+    "objectID": "lci_esot1.htm#risks-of-surgery-1",
+    "href": "lci_esot1.htm#risks-of-surgery-1",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Risks of Surgery",
+    "text": "Risks of Surgery\nRisks related to anesthesia\n\nHeart attack (5%)\nIrregular heart rhythm (15%)\nPneumonia (10%)\nBlood clots in legs (&lt;5%)\nPulmonary embolism (2%)"
+  },
+  {
+    "objectID": "lci_esot1.htm#risks-of-surgery-2",
+    "href": "lci_esot1.htm#risks-of-surgery-2",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Risks of Surgery",
+    "text": "Risks of Surgery\nRisks related to Surgery\n\nAnastomotic leak (5%)\nStricture at anastomosis (15%)\nDeath within 90 days of surgery\n\nLow risk patients = 2%\nIntermediate risk = 10%\nHigh risk = 30%"
+  },
+  {
+    "objectID": "lci_esot1.htm#risks-of-surgery-3",
+    "href": "lci_esot1.htm#risks-of-surgery-3",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Risks of Surgery",
+    "text": "Risks of Surgery\n\nRisks of Death within 90 Days of Surgery\n\n\n\nAge &lt;75\nAge &gt;75\n\n\n\n\nNormal Muscle (75%)\n2%\n10%\n\n\nLow Muscle (25%)\n10%\n30%"
+  },
+  {
+    "objectID": "lci_esot1.htm#day-prior-to-surgery",
+    "href": "lci_esot1.htm#day-prior-to-surgery",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Day Prior to Surgery",
+    "text": "Day Prior to Surgery\n\nClear liquids for 24 hours prior to surgery\nCheck with Pre-op nurse regarding medicines day prior to surgery\nNo tube feedings the night before surgery"
+  },
+  {
+    "objectID": "lci_esot1.htm#day-of-surgery",
+    "href": "lci_esot1.htm#day-of-surgery",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Day of Surgery",
+    "text": "Day of Surgery\n\nArrive at 5am – nothing to eat or drink after midnight.\nMedicines w/ a sip of water (or black coffee) but no cream.\nSurgery will be cancelled if you have cream/milk\nWaiting room for family and friends on 5th floor\nPost-operative care in STICU (11th floor)"
+  },
+  {
+    "objectID": "lci_esot1.htm#epidural-catheter-for-pain-control",
+    "href": "lci_esot1.htm#epidural-catheter-for-pain-control",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Epidural Catheter for Pain Control",
+    "text": "Epidural Catheter for Pain Control\n\nRemains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
+  },
+  {
+    "objectID": "lci_esot1.htm#icu-stay-2-4-days",
+    "href": "lci_esot1.htm#icu-stay-2-4-days",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "ICU Stay (2-4 days)",
+    "text": "ICU Stay (2-4 days)\n\nNG tube in nose to drain stomach and esophagus\nCatheter in bladder\nChest tube right chest\nAbdominal drains (usually 2)\nFeeding jejunostomy (usually stays in 8 wks)"
+  },
+  {
+    "objectID": "lci_esot1.htm#icu",
+    "href": "lci_esot1.htm#icu",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "ICU",
+    "text": "ICU\n\nBladder catheter removed → check that bladder empties properly\nChest tube removed (day 2-4) → follow-up chest x-ray\nFluid emptied from drains every few hours\nStart tube feedings by feeding\nFeeding jejunostomy (stays in 8 weeks)"
+  },
+  {
+    "objectID": "lci_esot1.htm#ward---6tower",
+    "href": "lci_esot1.htm#ward---6tower",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Ward - 6Tower",
+    "text": "Ward - 6Tower\n\nJejunostomy feeds started\nUp in a chair most of the day\nWalking in the halls\n\nStart with assistance\nImproves lung function\nPrevents loss of muscle strength"
+  },
+  {
+    "objectID": "lci_esot1.htm#jejunostomy-feeds",
+    "href": "lci_esot1.htm#jejunostomy-feeds",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Feeds",
+    "text": "Jejunostomy Feeds\nJejunostomy tube feeds\n\nStart continuous (24 hours)\nConvert to night-time only (16 hours)\n\nWater administered through feeding tube\n\nUsually 8oz 4 times/day\nImportant to prevent dehydration"
+  },
+  {
+    "objectID": "lci_esot1.htm#jejunostomy-tube",
+    "href": "lci_esot1.htm#jejunostomy-tube",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Tube",
+    "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding usually done at night"
+  },
+  {
+    "objectID": "lci_esot1.htm#jejunostomy-typical-regimen",
+    "href": "lci_esot1.htm#jejunostomy-typical-regimen",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Typical Regimen",
+    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm-10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube"
+  },
+  {
+    "objectID": "lci_esot1.htm#jejunostomy-feeds-with-diabetes",
+    "href": "lci_esot1.htm#jejunostomy-feeds-with-diabetes",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Feeds with Diabetes",
+    "text": "Jejunostomy Feeds with Diabetes\nJejunostomy feedings elevate blood sugars\n\nInsulin may be required along with feeds\n\nTypical Pattern for tube feeds\n\nFeeds run via pump from 6pm to 10am\nInsulin at 6pm (70/30 insulin)\nInsulin at Midnight (70/30 insulin)\nNo insulin if tube feedings are not run"
+  },
+  {
+    "objectID": "lci_esot1.htm#jejunostomy-video",
+    "href": "lci_esot1.htm#jejunostomy-video",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Video",
+    "text": "Jejunostomy Video\n\n\nA video is available to help become familiar with the feeding jejunostomy"
+  },
+  {
+    "objectID": "lci_esot1.htm#activity",
+    "href": "lci_esot1.htm#activity",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Activity",
+    "text": "Activity\n\nUp in chair most of the day\nWalking with help from nurse/Physical Therapist\nGoals:\n\nImprove lung function\nPrevent muscle loss"
+  },
+  {
+    "objectID": "lci_esot1.htm#nasogastric-ng-tube",
+    "href": "lci_esot1.htm#nasogastric-ng-tube",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Nasogastric (NG) Tube",
+    "text": "Nasogastric (NG) Tube\nTube passed through nose into stomach\n\nDrains fluid from stomach\nPrevents vomiting\n\nUpper GI X-ray on 2nd or 3rd day after surgery\n\nIf stomach empties well \\(\\rightarrow\\) NG tube removed\nOtherwise, X-ray repeated 2-3 days later"
+  },
+  {
+    "objectID": "lci_esot1.htm#swallowing-evaluation",
+    "href": "lci_esot1.htm#swallowing-evaluation",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Swallowing Evaluation",
+    "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology\n\nDrink a white chalky liquid (barium)\nLook for proper swallowing function\n70% of patients \\(\\Rightarrow\\) liquids started by mouth"
+  },
+  {
+    "objectID": "lci_esot1.htm#protein-shakes",
+    "href": "lci_esot1.htm#protein-shakes",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Protein Shakes",
+    "text": "Protein Shakes\nMost are taking protein shakes when they go home\nProtein shakes are started after tolerating water\n\n\n2 oz per hour to start\n4 oz per hour if 2oz are tolerated well"
+  },
+  {
+    "objectID": "lci_esot1.htm#discharge",
+    "href": "lci_esot1.htm#discharge",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Discharge",
+    "text": "Discharge\nGoal: ready to leave day #6/7 after surgery\n\nNight-time tube feedings (6pm to 10am)\nNutrition by mouth (70% of patients)\n\n1 oz of water per hour by mouth OR\nProtein shakes 4oz every 2 hours\n\nWater through tube 8oz four times per day\nHome care nursing (feeding tube teaching)\nHome infusion (tube feeding supplies)"
+  },
+  {
+    "objectID": "lci_esot1.htm#nutrition-after-surgery",
+    "href": "lci_esot1.htm#nutrition-after-surgery",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Nutrition after Surgery",
+    "text": "Nutrition after Surgery\nAt discharge home:\n\nProtein shakes 4oz every 2 hrs\nTube feeds 4-5 cans at night (6pm-10am)\n\n10-12 Days: Increase protein shakes\n\nTube feeds 3-4 cans at night\n\nThree weeks: Post-esophagectomy Diet\n8-12 weeks: Remove feeding tube (in office)"
+  },
+  {
+    "objectID": "lci_esot1.htm#transition-from-tube-feeds-rightarrow-eating",
+    "href": "lci_esot1.htm#transition-from-tube-feeds-rightarrow-eating",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Transition from Tube Feeds \\(\\rightarrow\\) Eating",
+    "text": "Transition from Tube Feeds \\(\\rightarrow\\) Eating\nDietitian will calculate daily protein goal\n\nTypically 60-75 grams protein/day\nEach carton of tube feeding has 15 grams\n\n75 grams protein = 5 cartons/night\n\nAs intake by mouth increases, tube feeds are reduced\n\nSpread out protein during the day (20gm/meal)\n\nThree meals + 2-3 high-protein snacks"
+  },
+  {
+    "objectID": "lci_esot1.htm#post-esophagectomy-diet",
+    "href": "lci_esot1.htm#post-esophagectomy-diet",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Post-esophagectomy Diet",
+    "text": "Post-esophagectomy Diet\n\nSoft Consistency\nHigh Protein\nAvoid sugary liquids (can cause ‘dumping’)\nAvoid raw vegetables (and salads)\nEating\n\nSmall, frequent meals\nSit up for 30-45 minutes after eating\nAvoid eating within 2 hours of bedtime"
+  },
+  {
+    "objectID": "lci_esot1.htm#medicines-at-home---pain",
+    "href": "lci_esot1.htm#medicines-at-home---pain",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Medicines at Home - Pain",
+    "text": "Medicines at Home - Pain\nAcetaminophen (Tylenol) 1000mg 4x/day\nGabapentin 300mg 3 times/day\nOxycodone\n\nAs needed in addition to Tylenol/gabapentin\nWill begin reducing dose at first postop visit\nCan usually discontinue by 4 weeks\nNO DRIVING WHILE ON OXYCODONE"
+  },
+  {
+    "objectID": "lci_esot1.htm#non-steroidals-anti-inflammatory-nsaid",
+    "href": "lci_esot1.htm#non-steroidals-anti-inflammatory-nsaid",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Non-steroidals Anti Inflammatory (NSAID)",
+    "text": "Non-steroidals Anti Inflammatory (NSAID)\nNon-steroidal anti-inflammatories (Celebrex)\n\n200 mg every 12 hours starting at 2 weeks\n\nNO GOODY POWDERS OR BCs\n\n(Can cause permanent scarring at the surgery site)"
+  },
+  {
+    "objectID": "lci_esot1.htm#acid-blockers-proton-pump-inhibitors",
+    "href": "lci_esot1.htm#acid-blockers-proton-pump-inhibitors",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Acid Blockers = Proton Pump Inhibitors",
+    "text": "Acid Blockers = Proton Pump Inhibitors\nExamples include ompeprazole and pantoprazole\n\nWill stay on for at 1-2 years to prevent acid reflux\nImportant in preventing scarring at anastomosis (new connection between esophagus and stomach)\nTo administer through feeding tube, open capsule and resuspend beads in 60mL (2oz) of water"
+  },
+  {
+    "objectID": "lci_esot1.htm#medicines-at-home",
+    "href": "lci_esot1.htm#medicines-at-home",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Medicines at Home",
+    "text": "Medicines at Home\nReglan – Helps stomach empty\n\nWill plan to stop after six weeks\n0.1% risk of tardive dyskinesia (nervous tic)\n\nRemeron – Helps improve appetite\n\nCan cause vivid dreams\nUsed for several weeks after surgery\nWill stop within first three months of surgery"
+  },
+  {
+    "objectID": "lci_esot1.htm#metoprolol-beta-blockers",
+    "href": "lci_esot1.htm#metoprolol-beta-blockers",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Metoprolol = Beta Blockers",
+    "text": "Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed to prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blockerprior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
+  },
+  {
+    "objectID": "lci_esot1.htm#sleeping",
+    "href": "lci_esot1.htm#sleeping",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Sleeping",
+    "text": "Sleeping\n\n\nReflux can occur the first few weeks/months after surgery\nThis improves over the first few months\nA wedge pillow can be helpful for sleep"
+  },
+  {
+    "objectID": "lci_esot1.htm#postoperative-visit",
+    "href": "lci_esot1.htm#postoperative-visit",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Postoperative Visit",
+    "text": "Postoperative Visit\nCheck surgical site\n\nRemove staples (if needed)\n\nAdjust medicines as needed\n\nInsulin (for diabetic patients on insulin)\nReduce beta blocker medicines\n\nAdvance diet\nReduce tube feeds"
+  },
+  {
+    "objectID": "lci_esot1.htm#after-surgery",
+    "href": "lci_esot1.htm#after-surgery",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "After surgery",
+    "text": "After surgery\nWean off medicines added after surgery\n\nPain medicines\nBeta-blockers\nReglan and Remeron\n\nContinue acid blockers for at least 1 year"
+  },
+  {
+    "objectID": "lci_esot1.htm#jejunostomy-removal",
+    "href": "lci_esot1.htm#jejunostomy-removal",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Removal",
+    "text": "Jejunostomy Removal\nJejunostomy tube is removed in the office once you can take in enough nutrients by mouth\nRemoval usually around 8 weeks after surgery\nMay take 30 minutes and some local anesthetic to loosen up the tube for removal."
+  },
+  {
+    "objectID": "lci_esot1.htm#nutritional-monitoring-after-surgery",
+    "href": "lci_esot1.htm#nutritional-monitoring-after-surgery",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Nutritional Monitoring after Surgery",
+    "text": "Nutritional Monitoring after Surgery\nYou may have difficulty absorbing some nutrients:\n\nIron\nVitamin B12\nVitamin D"
+  },
+  {
+    "objectID": "lci_esot1.htm#nutritional-monitoring-after-surgery-1",
+    "href": "lci_esot1.htm#nutritional-monitoring-after-surgery-1",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Nutritional Monitoring after Surgery",
+    "text": "Nutritional Monitoring after Surgery\nAbout 3 months after the jejunostomy tube is removed, we will check blood levels:\n\nIron (ferritin)\nVitamin B12\nVitamin D"
+  },
+  {
+    "objectID": "lci_esot1.htm#nutritional-replacements-after-surgery",
+    "href": "lci_esot1.htm#nutritional-replacements-after-surgery",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Nutritional Replacements after Surgery",
+    "text": "Nutritional Replacements after Surgery\nVitamin or iron replacements can be ordered by:\n\nPrimary Care Provider (PCP)\nMedical Oncologist\nSurgeon\n\nIf levels are low\n\nReplacement\nRepeat testing in 3-6 months"
+  },
+  {
+    "objectID": "lci_esot1.htm#team-members---physicians",
+    "href": "lci_esot1.htm#team-members---physicians",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Team Members - Physicians",
+    "text": "Team Members - Physicians\nPrimary Care Provider\nGastroenterologist\nMedical Oncologist (chemotherapy)\nRadiation Oncologist (radiation)\nSurgeons\n\nJonathan Salo\nJeffrey Hagen\nMichael Roach"
+  },
+  {
+    "objectID": "lci_esot1.htm#team-members---support-staff",
+    "href": "lci_esot1.htm#team-members---support-staff",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Team Members - Support Staff",
+    "text": "Team Members - Support Staff\nDietitian - Liz Koch\nNurses - Brandon Galloway & Kit Sluder & Rebecca Wicks\nSchedulers - Stacey Singleton & Tony Bethea\nNavigator - Laura Swift"
   },
   {
     "objectID": "lci_esot1.html",
@@ -7235,7 +7620,7 @@
     "href": "lci_esot1.html#types-of-esophageal-cancer",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Types of Esophageal Cancer",
-    "text": "Types of Esophageal Cancer\nThere are two common types of esophageal cancer\n\nAdenocarcinoma\nSquamous Cell Carcinoma\n\nIn many ways, these to different types of esophageal cancer behave the same.\nWe will see later in this video, however, that the treatment can be different depending upon whether the cancer is adenocarcinoma or squamous cell carcinoma."
+    "text": "Types of Esophageal Cancer\nThere are two common types of esophageal cancer\n\nAdenocarcinoma\nSquamous Cell Carcinoma\n\nIn many ways, these to different types of esophageal cancer behave the same."
   },
   {
     "objectID": "lci_esot1.html#cancer-staging",
@@ -7245,88 +7630,81 @@
     "text": "Cancer Staging\nStaging refers to the tests to determine\n\nHow large is the tumor?\nHas there been spread to lymph nodes?\nHas it spread to other parts of the body?\n\nTreatment options depend upon the cancer stage"
   },
   {
-    "objectID": "lci_esot1.html#esophageal-cancer-staging",
-    "href": "lci_esot1.html#esophageal-cancer-staging",
+    "objectID": "lci_esot1.html#cancer-staging-1",
+    "href": "lci_esot1.html#cancer-staging-1",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
-    "section": "Esophageal Cancer Staging",
-    "text": "Esophageal Cancer Staging\n\nT = Tumor - How deep has cancer grown into the wall of the esophagus?\nN = Nodes - Has cancer spread to the lymph nodes?\nM = Metastasis - Has the cancer spread to other parts of the body? lungs or liver?"
-  },
-  {
-    "objectID": "lci_esot1.html#layers-of-the-wall-of-the-esophagus",
-    "href": "lci_esot1.html#layers-of-the-wall-of-the-esophagus",
-    "title": "Superficial Cancer of the Esophagus and GE Junction",
-    "section": "Layers of the Wall of the Esophagus",
-    "text": "Layers of the Wall of the Esophagus\n\n\n\nMucosa - Inner layer\nMuscle Wall (muscularis)\nLymph nodes located in fat outside the muscle"
+    "section": "Cancer Staging",
+    "text": "Cancer Staging\n\nT = Tumor - Depth of growth into the wall\n\n\nN = Nodes - Spread to the lymph nodes\n\n\nM = Metastasis - Spread to liver, lungs, or bone"
   },
   {
     "objectID": "lci_esot1.html#early-stage-cancers",
     "href": "lci_esot1.html#early-stage-cancers",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Early Stage Cancers",
-    "text": "Early Stage Cancers\n\n\nCancers start on the very inside of the layer called the mucosa"
+    "text": "Early Stage Cancers\n\n\n\n\nCancers start on the very inside layer called the mucosa"
   },
   {
     "objectID": "lci_esot1.html#locally-advanced-cancers",
     "href": "lci_esot1.html#locally-advanced-cancers",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Locally-advanced Cancers",
-    "text": "Locally-advanced Cancers\n\n\nOver time, cancers can grow into the muscular wall"
+    "text": "Locally-advanced Cancers\n\n\n\n\nOver time, cancers can grow into the muscular wall"
   },
   {
     "objectID": "lci_esot1.html#lymph-nodes",
     "href": "lci_esot1.html#lymph-nodes",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Lymph Nodes",
-    "text": "Lymph Nodes\n\n\nIn some cases, cancer cells can break off from the main tumor and spread to lymph nodes"
+    "text": "Lymph Nodes\n\n\n\n\nIn some cases, cancer cells can break off from the main tumor and spread to lymph nodes"
   },
   {
     "objectID": "lci_esot1.html#t-stage",
     "href": "lci_esot1.html#t-stage",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "T Stage",
-    "text": "T Stage\n\n\nCancers are categorized based upon the thickness of the tumor, known as the T stage"
+    "text": "T Stage\n\n\n\n\nCancers are categorized based upon the thickness of the tumor, known as the T stage"
   },
   {
     "objectID": "lci_esot1.html#n-stage",
     "href": "lci_esot1.html#n-stage",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "N Stage",
-    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the lymph nodes.\n\nN0 cancers have not spread to the lymph nodes\nN1 cancers have spread to the lymph nodes."
+    "text": "N Stage\n\n\nCancers are categorized by whether there is spread to the nodes.\n\nN0 cancers have not spread to the nodes\nN1 cancers have spread to the nodes."
   },
   {
     "objectID": "lci_esot1.html#m-stage",
     "href": "lci_esot1.html#m-stage",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "M Stage",
-    "text": "M Stage\n\n\nSome cancers can also spread from the esophagus to the lungs or liver\n\nM0 cancers have not spread to other parts of the body\nN1 cancers have spread to other parts of the body such as lungs or liver"
+    "text": "M Stage\n\n\nSome cancers spread to other parts of the body\n\nM0 cancers have not spread to other parts of the body\nM1 cancers have spread lungs, liver, or bone"
   },
   {
     "objectID": "lci_esot1.html#pet-scan",
     "href": "lci_esot1.html#pet-scan",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "PET scan",
-    "text": "PET scan\n\n\nA PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer."
+    "text": "PET scan\n\n\nSimilar to CT scan\n\nTracer shows ‘hot spots’\n\nCancer\nInflammation or infection\nNormal organs (heart)"
   },
   {
     "objectID": "lci_esot1.html#endoscopic-ultrasound",
     "href": "lci_esot1.html#endoscopic-ultrasound",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Endoscopic Ultrasound",
-    "text": "Endoscopic Ultrasound\n\n\nEndoscopic ultrasound (EUS) is a procedure similar to upper endoscopy (EGD) which has an ultrasound probe at the bottom of the scope. This allows measuring the thickness of the cancer. Endoscopic ultrasound can help determine the T stage of the cancer."
+    "text": "Endoscopic Ultrasound\n\n\n\nSimilar to upper endoscopy (EGD)\nUltrasound in scope\nEvaluates T stage"
   },
   {
     "objectID": "lci_esot1.html#laparoscopy",
     "href": "lci_esot1.html#laparoscopy",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\nSome esophageal cancers can spread inside the abdominal cavity. These areas of spread can be very small, as small as a grain of rice.\nIn order to detect spread within the abdominal cavity, a proceduce called a laparoscopy can be performed in some some patients."
+    "text": "Laparoscopy\n\n\n\nSome stomach cancers can spread inside the abdomen\nAreas of spread can be very small (grain of rice)\nLaparoscopy can detect spread inside the abdomen"
   },
   {
     "objectID": "lci_esot1.html#laparoscopy-1",
     "href": "lci_esot1.html#laparoscopy-1",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\nA laparoscopy is performed under a general anesthetic.\n\nSeveral incisions 1/4” long\nA telescope is inserted to look inside the abdominal cavity.\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_esot1.html#gastroesophageal-reflux",
@@ -7340,7 +7718,7 @@
     "href": "lci_esot1.html#gastroesophageal-reflux-1",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Gastroesophageal Reflux",
-    "text": "Gastroesophageal Reflux\n\n\nA one-way valve normally keeps acid within the stomach and prevents it from entering the esophagus\nIf the valve does not work properly, acid can enter the esophagus and cause heartburn and damage to the lining of the esophagus."
+    "text": "Gastroesophageal Reflux\n\n\nA one-way valve normally keeps acid within the stomach\nIf the valve does not work properly, acid enters the esophagus and cause heartburn and damage to the lining of the esophagus."
   },
   {
     "objectID": "lci_esot1.html#barretts-espohagus",
@@ -7354,42 +7732,42 @@
     "href": "lci_esot1.html#dysplasia",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Dysplasia",
-    "text": "Dysplasia\nOver a period of years, pre-cancerous changes can develop within Barrett’s esopahgus.\nThese changes can be seen by the pathologist from biopsies taken from the esophagus\nOver time, low-grade dysplasia can progress to high-grade dysplasia"
+    "text": "Dysplasia\nOver a period of years, pre-cancerous changes can develop within Barrett’s esopahgus.\nThese changes can be seen by the pathologist from biopsies taken from the esophagus\n\nOver time, low-grade dysplasia can progress to high-grade dysplasia"
   },
   {
     "objectID": "lci_esot1.html#dysplasia-rightarrow-cancer",
     "href": "lci_esot1.html#dysplasia-rightarrow-cancer",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Dysplasia \\(\\rightarrow\\) Cancer",
-    "text": "Dysplasia \\(\\rightarrow\\) Cancer\nLow grade dysplasia: Risk of cancer 0.5% per year\nHigh-grad dysplasia: Risk of cancer 5% per year\n\\(\\Rightarrow\\) Surveillance with upper endoscopy is critical"
+    "text": "Dysplasia \\(\\rightarrow\\) Cancer\nLow grade dysplasia: Risk of cancer 0.5% per year\n\nHigh-grade dysplasia: Risk of cancer 5% per year\n\n\n\\(\\Rightarrow\\) Surveillance with upper endoscopy is critical"
   },
   {
     "objectID": "lci_esot1.html#radiofrequency-ablation-for-dysplasia",
     "href": "lci_esot1.html#radiofrequency-ablation-for-dysplasia",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Radiofrequency ablation for Dysplasia",
-    "text": "Radiofrequency ablation for Dysplasia\n\n\nDysplasia of the esphagus can be treated with destroying the mucosa, the inner layer of esophgus\nAblation of the mucosa with microwave energy\nCircular balloon with an antenna used to ablate the mucosa"
+    "text": "Radiofrequency ablation for Dysplasia\n\n\nDysplasia can be treated with destroying the mucosa, the inner layer of esophgus\nAblation of the mucosa with microwave energy\nCircular balloon with an antenna used to ablate the mucosa"
   },
   {
     "objectID": "lci_esot1.html#radiofrequency-ablation-for-dysplasia-1",
     "href": "lci_esot1.html#radiofrequency-ablation-for-dysplasia-1",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Radiofrequency ablation for Dysplasia",
-    "text": "Radiofrequency ablation for Dysplasia\n\n\nBefore Ablation \n\nAfter Ablation"
+    "text": "Radiofrequency ablation for Dysplasia\n\n\nBefore Ablation\n\n\nAfter Ablation"
   },
   {
-    "objectID": "lci_esot1.html#treatment-plans",
-    "href": "lci_esot1.html#treatment-plans",
+    "objectID": "lci_esot1.html#treatment-plan",
+    "href": "lci_esot1.html#treatment-plan",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
-    "section": "Treatment Plans",
-    "text": "Treatment Plans\n\nSuperficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\nLocalized (T1b/T2) \\(\\Rightarrow\\) Surgery\nLocally-advanced (T3/N1) \\(\\Rightarrow\\) Chemo \\(\\pm\\) Radiation \\(\\rightarrow\\)Surgery\nMetastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
+    "section": "Treatment Plan",
+    "text": "Treatment Plan\n\n\nSuperficial (T1)\n\nEndoscopic Therapy\n\n\n\nLocalized (T1b/T2)\n\nSurgery (esophagectomy)\n\n\n\nLocally-advanced (T3M0)\n\nChemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\n\n\nMetastatic (M1)\n\nChemotherapy"
   },
   {
     "objectID": "lci_esot1.html#superficial-cancers",
     "href": "lci_esot1.html#superficial-cancers",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Superficial Cancers",
-    "text": "Superficial Cancers\n\n\nSuperficial Cancers = T1a N0\nTreatment is often with endoscopy without the need for surgery."
+    "text": "Superficial Cancers\n\n\nSuperficial Cancer: T1a N0\nTreatment is often with endoscopy without the need for surgery."
   },
   {
     "objectID": "lci_esot1.html#endoscopic-mucosal-resection-emr",
@@ -7410,28 +7788,420 @@
     "href": "lci_esot1.html#endoscopic-mucosal-resection---favorable-1",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Endoscopic Mucosal Resection - Favorable",
-    "text": "Endoscopic Mucosal Resection - Favorable\n\n\n\nClear margins at the edge AND\nClear deep margin AND\nTumor appears slow-growing under microscope\n\n\n\n\n\nEMR may be sufficient treatment (without surgery)"
+    "text": "Endoscopic Mucosal Resection - Favorable\n\n\n\nClear margins at the edge AND\nClear deep margin AND\nTumor is slow-growing under microscope"
+  },
+  {
+    "objectID": "lci_esot1.html#endoscopic-mucosal-resection---favorable-2",
+    "href": "lci_esot1.html#endoscopic-mucosal-resection---favorable-2",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Endoscopic Mucosal Resection - Favorable",
+    "text": "Endoscopic Mucosal Resection - Favorable\n\n\n\nEMR may be the only treatment required\nRequires endoscopic surveillance"
   },
   {
     "objectID": "lci_esot1.html#endoscopic-mucosal-resection---unfavorable",
     "href": "lci_esot1.html#endoscopic-mucosal-resection---unfavorable",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Endoscopic Mucosal Resection - Unfavorable",
-    "text": "Endoscopic Mucosal Resection - Unfavorable\n\n\n\nTumor at edge margin OR\nTumor at deep margin OR\nTumor appears rapidly-growing under microscope"
+    "text": "Endoscopic Mucosal Resection - Unfavorable\n\n\n\nTumor at edge margin OR\nTumor at deep margin OR\nTumor rapidly-growing under microscope"
   },
   {
     "objectID": "lci_esot1.html#endoscopic-mucosal-resection---unfavorable-1",
     "href": "lci_esot1.html#endoscopic-mucosal-resection---unfavorable-1",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
     "section": "Endoscopic Mucosal Resection - Unfavorable",
-    "text": "Endoscopic Mucosal Resection - Unfavorable\n\n\n\nTumor at edge margin OR\nTumor at deep margin OR\nTumor appears rapidly-growing under microscope\n\n\n\n\n\nEsophagectomy (surgery) is standard recommendation"
+    "text": "Endoscopic Mucosal Resection - Unfavorable\n\n\n\nTumor at edge margin OR\nTumor at deep margin OR\nTumor rapidly-growing under microscope"
   },
   {
-    "objectID": "lci_esot1.html#surgery",
-    "href": "lci_esot1.html#surgery",
+    "objectID": "lci_esot1.html#endoscopic-mucosal-resection---unfavorable-2",
+    "href": "lci_esot1.html#endoscopic-mucosal-resection---unfavorable-2",
     "title": "Superficial Cancer of the Esophagus and GE Junction",
-    "section": "Surgery",
-    "text": "Surgery\nSurgery Slideshow"
+    "section": "Endoscopic Mucosal Resection - Unfavorable",
+    "text": "Endoscopic Mucosal Resection - Unfavorable\n\n\nEsophagectomy (surgery) is standard recommendation"
+  },
+  {
+    "objectID": "lci_esot1.html#surgery-for-esophageal-cancer",
+    "href": "lci_esot1.html#surgery-for-esophageal-cancer",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Surgery for Esophageal Cancer",
+    "text": "Surgery for Esophageal Cancer\nSurgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0M0)\nLocally Advanced (T3M0) after preoperative therapy."
+  },
+  {
+    "objectID": "lci_esot1.html#goals-of-surgery",
+    "href": "lci_esot1.html#goals-of-surgery",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Goals of Surgery",
+    "text": "Goals of Surgery\n\n\n\nRemove tumor from esophagus\nRemove surrounding lymph nodes\nCreate a new esophagus"
+  },
+  {
+    "objectID": "lci_esot1.html#ivor-lewis-transthoracic-esophagectomy",
+    "href": "lci_esot1.html#ivor-lewis-transthoracic-esophagectomy",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Ivor Lewis (Transthoracic) Esophagectomy",
+    "text": "Ivor Lewis (Transthoracic) Esophagectomy\n\n\n\nRemoves tumor\nRemoves lower 1/3 of esophagus\nRemoves surrounding lymph nodes\nReconstruction of GI tract"
+  },
+  {
+    "objectID": "lci_esot1.html#reconstruction",
+    "href": "lci_esot1.html#reconstruction",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Reconstruction",
+    "text": "Reconstruction\n\n\nNew esophagus is created from the stomach in the abdomen by fashioning it into a tube."
+  },
+  {
+    "objectID": "lci_esot1.html#ivor-lewis-esophagectomy",
+    "href": "lci_esot1.html#ivor-lewis-esophagectomy",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Ivor Lewis esophagectomy",
+    "text": "Ivor Lewis esophagectomy\n\n\nThe new esophagus is now brought up into the chest. A new connection is made between the esophagus and the stomach, called an anastomosis."
+  },
+  {
+    "objectID": "lci_esot1.html#minimally-invasive-ivor-lewis",
+    "href": "lci_esot1.html#minimally-invasive-ivor-lewis",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Minimally-invasive Ivor Lewis",
+    "text": "Minimally-invasive Ivor Lewis\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+  },
+  {
+    "objectID": "lci_esot1.html#open-ivor-lewis",
+    "href": "lci_esot1.html#open-ivor-lewis",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Open Ivor Lewis",
+    "text": "Open Ivor Lewis\n\n\nWe use the mininally-invasive approach in 95% of cases\nIn some cases, an open approach is still necessary."
+  },
+  {
+    "objectID": "lci_esot1.html#total-esophagectomy",
+    "href": "lci_esot1.html#total-esophagectomy",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Total Esophagectomy",
+    "text": "Total Esophagectomy\n\n\nFor patients with tumors in the upper esophagus, we need to remove more of the esophagus\nWe need to remove the whole esophagus, including the portion in the neck"
+  },
+  {
+    "objectID": "lci_esot1.html#mckeown-esophagectomy",
+    "href": "lci_esot1.html#mckeown-esophagectomy",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "McKeown Esophagectomy",
+    "text": "McKeown Esophagectomy\n\n\n All of esophagus removed\n\n Connection made in the neck"
+  },
+  {
+    "objectID": "lci_esot1.html#colon-interposition",
+    "href": "lci_esot1.html#colon-interposition",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Colon Interposition",
+    "text": "Colon Interposition\n\n\nIf the stomach is not suitable to make a new esophagus, the colon can be used to replace the esophagus"
+  },
+  {
+    "objectID": "lci_esot1.html#colon-interposition-1",
+    "href": "lci_esot1.html#colon-interposition-1",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Colon Interposition",
+    "text": "Colon Interposition"
+  },
+  {
+    "objectID": "lci_esot1.html#risks-of-surgery",
+    "href": "lci_esot1.html#risks-of-surgery",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Risks of Surgery",
+    "text": "Risks of Surgery\nAn esophagectomy is a substantial operation, and in some cases there can be postoperative complications. We’re going to talk about two of these complications and what you can do to reduce your risk of complications:\n\nAnastomotic leak\nPneumonia"
+  },
+  {
+    "objectID": "lci_esot1.html#anastomotic-leak",
+    "href": "lci_esot1.html#anastomotic-leak",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Anastomotic Leak",
+    "text": "Anastomotic Leak\n\n\nThe anastomosis is surgical connection between the esophagus and the stomach."
+  },
+  {
+    "objectID": "lci_esot1.html#anastomotic-leak-1",
+    "href": "lci_esot1.html#anastomotic-leak-1",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Anastomotic Leak",
+    "text": "Anastomotic Leak\n\n\nIf anastomosis doesn’t heal:\n\nLeakage of fluid from the esophagus\nInfection in the space between the lungs\nRequires additional time in the hospital"
+  },
+  {
+    "objectID": "lci_esot1.html#anastomotic-leak-2",
+    "href": "lci_esot1.html#anastomotic-leak-2",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Anastomotic Leak",
+    "text": "Anastomotic Leak\n\n\nIf an anastomotic leak occurs:\n\nSome leaks will seal on their own\nA stent may be required to help healing\nOccasionally additional surgey is required"
+  },
+  {
+    "objectID": "lci_esot1.html#anastomotic-leak-3",
+    "href": "lci_esot1.html#anastomotic-leak-3",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Anastomotic Leak",
+    "text": "Anastomotic Leak\n\n\nRisk of a leak depends upon:\n\nType of operation performed\nOverall nutritional status of patient\nExperience of the surgeon"
+  },
+  {
+    "objectID": "lci_esot1.html#pneumonia",
+    "href": "lci_esot1.html#pneumonia",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Pneumonia",
+    "text": "Pneumonia\n\n\nCan occur in 10-15% of patients after esophagectomy.\nRequires treatment with antibiotics and frequently requires a longer hospitalization."
+  },
+  {
+    "objectID": "lci_esot1.html#preventing-pneumonia",
+    "href": "lci_esot1.html#preventing-pneumonia",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Preventing Pneumonia",
+    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
+  },
+  {
+    "objectID": "lci_esot1.html#minimally-invasive-esophagectomy",
+    "href": "lci_esot1.html#minimally-invasive-esophagectomy",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Minimally-invasive Esophagectomy",
+    "text": "Minimally-invasive Esophagectomy"
+  },
+  {
+    "objectID": "lci_esot1.html#risks-of-surgery-1",
+    "href": "lci_esot1.html#risks-of-surgery-1",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Risks of Surgery",
+    "text": "Risks of Surgery\nRisks related to anesthesia\n\nHeart attack (5%)\nIrregular heart rhythm (15%)\nPneumonia (10%)\nBlood clots in legs (&lt;5%)\nPulmonary embolism (2%)"
+  },
+  {
+    "objectID": "lci_esot1.html#risks-of-surgery-2",
+    "href": "lci_esot1.html#risks-of-surgery-2",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Risks of Surgery",
+    "text": "Risks of Surgery\nRisks related to Surgery\n\nAnastomotic leak (5%)\nStricture at anastomosis (15%)\nDeath within 90 days of surgery\n\nLow risk patients = 2%\nIntermediate risk = 10%\nHigh risk = 30%"
+  },
+  {
+    "objectID": "lci_esot1.html#risks-of-surgery-3",
+    "href": "lci_esot1.html#risks-of-surgery-3",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Risks of Surgery",
+    "text": "Risks of Surgery\n\nRisks of Death within 90 Days of Surgery\n\n\n\nAge &lt;75\nAge &gt;75\n\n\n\n\nNormal Muscle (75%)\n2%\n10%\n\n\nLow Muscle (25%)\n10%\n30%"
+  },
+  {
+    "objectID": "lci_esot1.html#day-prior-to-surgery",
+    "href": "lci_esot1.html#day-prior-to-surgery",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Day Prior to Surgery",
+    "text": "Day Prior to Surgery\n\nClear liquids for 24 hours prior to surgery\nCheck with Pre-op nurse regarding medicines day prior to surgery\nNo tube feedings the night before surgery"
+  },
+  {
+    "objectID": "lci_esot1.html#day-of-surgery",
+    "href": "lci_esot1.html#day-of-surgery",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Day of Surgery",
+    "text": "Day of Surgery\n\nArrive at 5am – nothing to eat or drink after midnight.\nMedicines w/ a sip of water (or black coffee) but no cream.\nSurgery will be cancelled if you have cream/milk\nWaiting room for family and friends on 5th floor\nPost-operative care in STICU (11th floor)"
+  },
+  {
+    "objectID": "lci_esot1.html#epidural-catheter-for-pain-control",
+    "href": "lci_esot1.html#epidural-catheter-for-pain-control",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Epidural Catheter for Pain Control",
+    "text": "Epidural Catheter for Pain Control\n\nRemains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
+  },
+  {
+    "objectID": "lci_esot1.html#icu-stay-2-4-days",
+    "href": "lci_esot1.html#icu-stay-2-4-days",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "ICU Stay (2-4 days)",
+    "text": "ICU Stay (2-4 days)\n\nNG tube in nose to drain stomach and esophagus\nCatheter in bladder\nChest tube right chest\nAbdominal drains (usually 2)\nFeeding jejunostomy (usually stays in 8 wks)"
+  },
+  {
+    "objectID": "lci_esot1.html#icu",
+    "href": "lci_esot1.html#icu",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "ICU",
+    "text": "ICU\n\nBladder catheter removed → check that bladder empties properly\nChest tube removed (day 2-4) → follow-up chest x-ray\nFluid emptied from drains every few hours\nStart tube feedings by feeding\nFeeding jejunostomy (stays in 8 weeks)"
+  },
+  {
+    "objectID": "lci_esot1.html#ward---6tower",
+    "href": "lci_esot1.html#ward---6tower",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Ward - 6Tower",
+    "text": "Ward - 6Tower\n\nJejunostomy feeds started\nUp in a chair most of the day\nWalking in the halls\n\nStart with assistance\nImproves lung function\nPrevents loss of muscle strength"
+  },
+  {
+    "objectID": "lci_esot1.html#jejunostomy-feeds",
+    "href": "lci_esot1.html#jejunostomy-feeds",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Feeds",
+    "text": "Jejunostomy Feeds\nJejunostomy tube feeds\n\nStart continuous (24 hours)\nConvert to night-time only (16 hours)\n\nWater administered through feeding tube\n\nUsually 8oz 4 times/day\nImportant to prevent dehydration"
+  },
+  {
+    "objectID": "lci_esot1.html#jejunostomy-tube",
+    "href": "lci_esot1.html#jejunostomy-tube",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Tube",
+    "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding usually done at night"
+  },
+  {
+    "objectID": "lci_esot1.html#jejunostomy-typical-regimen",
+    "href": "lci_esot1.html#jejunostomy-typical-regimen",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Typical Regimen",
+    "text": "Jejunostomy Typical Regimen\n\nJejunostomy tube feeds for 16 hours (6pm-10am)\n\nMen: 75mL/hour x 16 hours = 5 cartons\nWomen: 60mL/hour x 16 hours = 4 cartons\n\nWater 240ml (8oz) via syringe 4x/day\n\nHospital nurses will teach use of the feeding tube"
+  },
+  {
+    "objectID": "lci_esot1.html#jejunostomy-feeds-with-diabetes",
+    "href": "lci_esot1.html#jejunostomy-feeds-with-diabetes",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Feeds with Diabetes",
+    "text": "Jejunostomy Feeds with Diabetes\nJejunostomy feedings elevate blood sugars\n\nInsulin may be required along with feeds\n\nTypical Pattern for tube feeds\n\nFeeds run via pump from 6pm to 10am\nInsulin at 6pm (70/30 insulin)\nInsulin at Midnight (70/30 insulin)\nNo insulin if tube feedings are not run"
+  },
+  {
+    "objectID": "lci_esot1.html#jejunostomy-video",
+    "href": "lci_esot1.html#jejunostomy-video",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Video",
+    "text": "Jejunostomy Video\n\n\nA video is available to help become familiar with the feeding jejunostomy"
+  },
+  {
+    "objectID": "lci_esot1.html#activity",
+    "href": "lci_esot1.html#activity",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Activity",
+    "text": "Activity\n\nUp in chair most of the day\nWalking with help from nurse/Physical Therapist\nGoals:\n\nImprove lung function\nPrevent muscle loss"
+  },
+  {
+    "objectID": "lci_esot1.html#nasogastric-ng-tube",
+    "href": "lci_esot1.html#nasogastric-ng-tube",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Nasogastric (NG) Tube",
+    "text": "Nasogastric (NG) Tube\nTube passed through nose into stomach\n\nDrains fluid from stomach\nPrevents vomiting\n\nUpper GI X-ray on 2nd or 3rd day after surgery\n\nIf stomach empties well \\(\\rightarrow\\) NG tube removed\nOtherwise, X-ray repeated 2-3 days later"
+  },
+  {
+    "objectID": "lci_esot1.html#swallowing-evaluation",
+    "href": "lci_esot1.html#swallowing-evaluation",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Swallowing Evaluation",
+    "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology\n\nDrink a white chalky liquid (barium)\nLook for proper swallowing function\n70% of patients \\(\\Rightarrow\\) liquids started by mouth"
+  },
+  {
+    "objectID": "lci_esot1.html#protein-shakes",
+    "href": "lci_esot1.html#protein-shakes",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Protein Shakes",
+    "text": "Protein Shakes\nMost are taking protein shakes when they go home\nProtein shakes are started after tolerating water\n\n\n2 oz per hour to start\n4 oz per hour if 2oz are tolerated well"
+  },
+  {
+    "objectID": "lci_esot1.html#discharge",
+    "href": "lci_esot1.html#discharge",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Discharge",
+    "text": "Discharge\nGoal: ready to leave day #6/7 after surgery\n\nNight-time tube feedings (6pm to 10am)\nNutrition by mouth (70% of patients)\n\n1 oz of water per hour by mouth OR\nProtein shakes 4oz every 2 hours\n\nWater through tube 8oz four times per day\nHome care nursing (feeding tube teaching)\nHome infusion (tube feeding supplies)"
+  },
+  {
+    "objectID": "lci_esot1.html#nutrition-after-surgery",
+    "href": "lci_esot1.html#nutrition-after-surgery",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Nutrition after Surgery",
+    "text": "Nutrition after Surgery\nAt discharge home:\n\nProtein shakes 4oz every 2 hrs\nTube feeds 4-5 cans at night (6pm-10am)\n\n10-12 Days: Increase protein shakes\n\nTube feeds 3-4 cans at night\n\nThree weeks: Post-esophagectomy Diet\n8-12 weeks: Remove feeding tube (in office)"
+  },
+  {
+    "objectID": "lci_esot1.html#transition-from-tube-feeds-rightarrow-eating",
+    "href": "lci_esot1.html#transition-from-tube-feeds-rightarrow-eating",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Transition from Tube Feeds \\(\\rightarrow\\) Eating",
+    "text": "Transition from Tube Feeds \\(\\rightarrow\\) Eating\nDietitian will calculate daily protein goal\n\nTypically 60-75 grams protein/day\nEach carton of tube feeding has 15 grams\n\n75 grams protein = 5 cartons/night\n\nAs intake by mouth increases, tube feeds are reduced\n\nSpread out protein during the day (20gm/meal)\n\nThree meals + 2-3 high-protein snacks"
+  },
+  {
+    "objectID": "lci_esot1.html#post-esophagectomy-diet",
+    "href": "lci_esot1.html#post-esophagectomy-diet",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Post-esophagectomy Diet",
+    "text": "Post-esophagectomy Diet\n\nSoft Consistency\nHigh Protein\nAvoid sugary liquids (can cause ‘dumping’)\nAvoid raw vegetables (and salads)\nEating\n\nSmall, frequent meals\nSit up for 30-45 minutes after eating\nAvoid eating within 2 hours of bedtime"
+  },
+  {
+    "objectID": "lci_esot1.html#medicines-at-home---pain",
+    "href": "lci_esot1.html#medicines-at-home---pain",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Medicines at Home - Pain",
+    "text": "Medicines at Home - Pain\nAcetaminophen (Tylenol) 1000mg 4x/day\nGabapentin 300mg 3 times/day\nOxycodone\n\nAs needed in addition to Tylenol/gabapentin\nWill begin reducing dose at first postop visit\nCan usually discontinue by 4 weeks\nNO DRIVING WHILE ON OXYCODONE"
+  },
+  {
+    "objectID": "lci_esot1.html#non-steroidals-anti-inflammatory-nsaid",
+    "href": "lci_esot1.html#non-steroidals-anti-inflammatory-nsaid",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Non-steroidals Anti Inflammatory (NSAID)",
+    "text": "Non-steroidals Anti Inflammatory (NSAID)\nNon-steroidal anti-inflammatories (Celebrex)\n\n200 mg every 12 hours starting at 2 weeks\n\nNO GOODY POWDERS OR BCs\n\n(Can cause permanent scarring at the surgery site)"
+  },
+  {
+    "objectID": "lci_esot1.html#acid-blockers-proton-pump-inhibitors",
+    "href": "lci_esot1.html#acid-blockers-proton-pump-inhibitors",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Acid Blockers = Proton Pump Inhibitors",
+    "text": "Acid Blockers = Proton Pump Inhibitors\nExamples include ompeprazole and pantoprazole\n\nWill stay on for at 1-2 years to prevent acid reflux\nImportant in preventing scarring at anastomosis (new connection between esophagus and stomach)\nTo administer through feeding tube, open capsule and resuspend beads in 60mL (2oz) of water"
+  },
+  {
+    "objectID": "lci_esot1.html#medicines-at-home",
+    "href": "lci_esot1.html#medicines-at-home",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Medicines at Home",
+    "text": "Medicines at Home\nReglan – Helps stomach empty\n\nWill plan to stop after six weeks\n0.1% risk of tardive dyskinesia (nervous tic)\n\nRemeron – Helps improve appetite\n\nCan cause vivid dreams\nUsed for several weeks after surgery\nWill stop within first three months of surgery"
+  },
+  {
+    "objectID": "lci_esot1.html#metoprolol-beta-blockers",
+    "href": "lci_esot1.html#metoprolol-beta-blockers",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Metoprolol = Beta Blockers",
+    "text": "Metoprolol = Beta Blockers\n\nSlows heart rate and lowers blood pressure\n\nUsed to prevent rapid heart rate\nPatients not taking a beta blocker prior to surgery \\(\\rightarrow\\) wean after after surgery\nPatients taking a beta blockerprior to surgery \\(\\rightarrow\\) return to prior dose and drug after surgery"
+  },
+  {
+    "objectID": "lci_esot1.html#sleeping",
+    "href": "lci_esot1.html#sleeping",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Sleeping",
+    "text": "Sleeping\n\n\nReflux can occur the first few weeks/months after surgery\nThis improves over the first few months\nA wedge pillow can be helpful for sleep"
+  },
+  {
+    "objectID": "lci_esot1.html#postoperative-visit",
+    "href": "lci_esot1.html#postoperative-visit",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Postoperative Visit",
+    "text": "Postoperative Visit\nCheck surgical site\n\nRemove staples (if needed)\n\nAdjust medicines as needed\n\nInsulin (for diabetic patients on insulin)\nReduce beta blocker medicines\n\nAdvance diet\nReduce tube feeds"
+  },
+  {
+    "objectID": "lci_esot1.html#after-surgery",
+    "href": "lci_esot1.html#after-surgery",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "After surgery",
+    "text": "After surgery\nWean off medicines added after surgery\n\nPain medicines\nBeta-blockers\nReglan and Remeron\n\nContinue acid blockers for at least 1 year"
+  },
+  {
+    "objectID": "lci_esot1.html#jejunostomy-removal",
+    "href": "lci_esot1.html#jejunostomy-removal",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Removal",
+    "text": "Jejunostomy Removal\nJejunostomy tube is removed in the office once you can take in enough nutrients by mouth\nRemoval usually around 8 weeks after surgery\nMay take 30 minutes and some local anesthetic to loosen up the tube for removal."
+  },
+  {
+    "objectID": "lci_esot1.html#nutritional-monitoring-after-surgery",
+    "href": "lci_esot1.html#nutritional-monitoring-after-surgery",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Nutritional Monitoring after Surgery",
+    "text": "Nutritional Monitoring after Surgery\nYou may have difficulty absorbing some nutrients:\n\nIron\nVitamin B12\nVitamin D"
+  },
+  {
+    "objectID": "lci_esot1.html#nutritional-monitoring-after-surgery-1",
+    "href": "lci_esot1.html#nutritional-monitoring-after-surgery-1",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Nutritional Monitoring after Surgery",
+    "text": "Nutritional Monitoring after Surgery\nAbout 3 months after the jejunostomy tube is removed, we will check blood levels:\n\nIron (ferritin)\nVitamin B12\nVitamin D"
+  },
+  {
+    "objectID": "lci_esot1.html#nutritional-replacements-after-surgery",
+    "href": "lci_esot1.html#nutritional-replacements-after-surgery",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Nutritional Replacements after Surgery",
+    "text": "Nutritional Replacements after Surgery\nVitamin or iron replacements can be ordered by:\n\nPrimary Care Provider (PCP)\nMedical Oncologist\nSurgeon\n\nIf levels are low\n\nReplacement\nRepeat testing in 3-6 months"
+  },
+  {
+    "objectID": "lci_esot1.html#team-members---physicians",
+    "href": "lci_esot1.html#team-members---physicians",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Team Members - Physicians",
+    "text": "Team Members - Physicians\nPrimary Care Provider\nGastroenterologist\nMedical Oncologist (chemotherapy)\nRadiation Oncologist (radiation)\nSurgeons\n\nJonathan Salo\nJeffrey Hagen\nMichael Roach"
+  },
+  {
+    "objectID": "lci_esot1.html#team-members---support-staff",
+    "href": "lci_esot1.html#team-members---support-staff",
+    "title": "Superficial Cancer of the Esophagus and GE Junction",
+    "section": "Team Members - Support Staff",
+    "text": "Team Members - Support Staff\nDietitian - Liz Koch\nNurses - Brandon Galloway & Kit Sluder & Rebecca Wicks\nSchedulers - Stacey Singleton & Tony Bethea\nNavigator - Laura Swift"
   },
   {
     "objectID": "lci_cross_guts.html",
@@ -8502,7 +9272,7 @@
     "href": "lci_gastrict3.html#central-venous-port-1",
     "title": "T3 Cancer of the Stomach",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_gastrict3.html#central-venous-port-2",
@@ -8873,7 +9643,7 @@
     "href": "lci_gastrict3.htm#central-venous-port-1",
     "title": "T3 Cancer of the Stomach",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_gastrict3.htm#central-venous-port-2",
@@ -11274,14 +12044,14 @@
     "href": "lci_esom1.html#metastatic-cancers",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Metastatic Cancers",
-    "text": "Metastatic Cancers\n\n\nMetastatic cancers spread from the esophagus to other parts of the body\n\nM0 cancers have not spread to other parts of the body\nM1 cancers have spread lungs, liver, or bone\n\nM1 cancers is also known as Stage 4"
+    "text": "Metastatic Cancers\n\n\nMetastatic cancers spread to other parts of the body\n\nM0 cancers have not spread to other parts of the body\nM1 cancers have spread lungs, liver, or bone\n\nM1 cancers is also known as Stage 4"
   },
   {
     "objectID": "lci_esom1.html#treatment-plan",
     "href": "lci_esom1.html#treatment-plan",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Treatment Plan",
-    "text": "Treatment Plan\n\nSuperficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\nLocalized (T1b/T2) \\(\\Rightarrow\\) Surgery\nLocally-advanced (T3/N1) \\(\\Rightarrow\\) Chemo \\(\\pm\\) Radiation \\(\\rightarrow\\)Surgery\nMetastatic (M1) \\(\\Rightarrow\\) Systemic Therapy \\(\\pm\\) Radiation"
+    "text": "Treatment Plan\n\nSuperficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\nLocalized (T1b/T2) \\(\\Rightarrow\\) Surgery\nLocally-advanced (T3M0) \\(\\Rightarrow\\) Chemo \\(\\pm\\) Radiation \\(\\rightarrow\\)Surgery\nMetastatic (M1) \\(\\Rightarrow\\) Systemic Therapy \\(\\pm\\) Radiation"
   },
   {
     "objectID": "lci_esom1.html#systemic-therapy",
@@ -11337,7 +12107,7 @@
     "href": "lci_esom1.html#central-venous-port-1",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_esom1.html#central-venous-port-2",
@@ -11442,14 +12212,14 @@
     "href": "lci_esom1.htm#metastatic-cancers",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Metastatic Cancers",
-    "text": "Metastatic Cancers\n\n\nMetastatic cancers spread from the esophagus to other parts of the body\n\nM0 cancers have not spread to other parts of the body\nM1 cancers have spread lungs, liver, or bone\n\nM1 cancers is also known as Stage 4"
+    "text": "Metastatic Cancers\n\n\nMetastatic cancers spread to other parts of the body\n\nM0 cancers have not spread to other parts of the body\nM1 cancers have spread lungs, liver, or bone\n\nM1 cancers is also known as Stage 4"
   },
   {
     "objectID": "lci_esom1.htm#treatment-plan",
     "href": "lci_esom1.htm#treatment-plan",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Treatment Plan",
-    "text": "Treatment Plan\n\nSuperficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\nLocalized (T1b/T2) \\(\\Rightarrow\\) Surgery\nLocally-advanced (T3/N1) \\(\\Rightarrow\\) Chemo \\(\\pm\\) Radiation \\(\\rightarrow\\)Surgery\nMetastatic (M1) \\(\\Rightarrow\\) Systemic Therapy \\(\\pm\\) Radiation"
+    "text": "Treatment Plan\n\nSuperficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\nLocalized (T1b/T2) \\(\\Rightarrow\\) Surgery\nLocally-advanced (T3M0) \\(\\Rightarrow\\) Chemo \\(\\pm\\) Radiation \\(\\rightarrow\\)Surgery\nMetastatic (M1) \\(\\Rightarrow\\) Systemic Therapy \\(\\pm\\) Radiation"
   },
   {
     "objectID": "lci_esom1.htm#systemic-therapy",
@@ -11505,7 +12275,7 @@
     "href": "lci_esom1.htm#central-venous-port-1",
     "title": "Stage IV Cancer of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_esom1.htm#central-venous-port-2",
@@ -11624,7 +12394,7 @@
     "href": "lci_cvport_guts.htm#central-venous-port-1",
     "title": "Patient Education",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_cvport_guts.htm#central-venous-port-2",
@@ -11673,7 +12443,7 @@
     "href": "lci_cvport_guts.html#central-venous-port-1",
     "title": "Patient Education",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_cvport_guts.html#central-venous-port-2",
@@ -12604,7 +13374,7 @@
     "href": "lci_esot3.html#central-venous-port-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_esot3.html#central-venous-port-2",
@@ -13353,7 +14123,7 @@
     "href": "lci_esot3.htm#central-venous-port-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Central Venous Port",
-    "text": "Central Venous Port\n\n\n\nImplanted under the skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
+    "text": "Central Venous Port\n\n\n\nImplanted under skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
   },
   {
     "objectID": "lci_esot3.htm#central-venous-port-2",
