@@ -1047,7 +1047,7 @@
     "href": "lci_nutrition.htm#gastrostomy-tube-methods",
     "title": "Nutrition",
     "section": "Gastrostomy Tube Methods",
-    "text": "Gastrostomy Tube Methods\nA gastrostomy tube can be placed either by endoscopy, which is called a PEG tube\nA gastrostomy tube can also be placed by laparoscopy, which is usually preferred if surgery on the esophagus is planned in the future.\nYour surgeon will help you decide which kind of tube is best for you. This is especially important if you will need esophageal surgery in the future, as the stomach is frequently used to make a new esophagus"
+    "text": "Gastrostomy Tube Methods\nPEG: Tube placed by endoscopy\nLaparoscopic: Tube placed surgically by laparoscopy\nPreferred method depends upon whether esophagectomy is planned"
   },
   {
     "objectID": "lci_nutrition.htm#gastrostomy-tube-1",
@@ -1124,7 +1124,7 @@
     "href": "lci_nutrition.html#gastrostomy-tube-methods",
     "title": "Nutrition",
     "section": "Gastrostomy Tube Methods",
-    "text": "Gastrostomy Tube Methods\nA gastrostomy tube can be placed either by endoscopy, which is called a PEG tube\nA gastrostomy tube can also be placed by laparoscopy, which is usually preferred if surgery on the esophagus is planned in the future.\nYour surgeon will help you decide which kind of tube is best for you. This is especially important if you will need esophageal surgery in the future, as the stomach is frequently used to make a new esophagus"
+    "text": "Gastrostomy Tube Methods\nPEG: Tube placed by endoscopy\nLaparoscopic: Tube placed surgically by laparoscopy\nPreferred method depends upon whether esophagectomy is planned"
   },
   {
     "objectID": "lci_nutrition.html#gastrostomy-tube-1",
@@ -2370,7 +2370,7 @@
     "href": "lci_esot3_aca.htm#treatment-plan",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Treatment Plan",
-    "text": "Treatment Plan\n\nSuperficial (T1): Endoscopic Therapy\n\nLocalized (T1b/T2): Surgery\n\nLocally-advanced (T3M0): Chemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\nMetastatic (M1): Chemotherapy"
+    "text": "Treatment Plan\n\n\nSuperficial (T1)\n\nEndoscopic Therapy\n\n\n\nLocalized (T1b/T2)\n\nSurgery (esophagectomy)\n\n\n\nLocally-advanced (T3M0)\n\nChemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\n\n\nMetastatic (M1)\n\nChemotherapy"
   },
   {
     "objectID": "lci_esot3_aca.htm#locally-advanced-cancers-1",
@@ -2450,18 +2450,18 @@
     "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemo + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
-    "objectID": "lci_esot3_aca.htm#chemotherapy-radiation-cross-trial-2",
-    "href": "lci_esot3_aca.htm#chemotherapy-radiation-cross-trial-2",
+    "objectID": "lci_esot3_aca.htm#chemo-radiation-cross-trial",
+    "href": "lci_esot3_aca.htm#chemo-radiation-cross-trial",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
-    "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\n\n\n\nPET scan (or CT) 4 weeks after the end of radiation\n\n\n\n\nSurgery 8 weeks after the end of radiation"
+    "section": "Chemo + Radiation CROSS Trial",
+    "text": "Chemo + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\n\n\n\nPET scan (or CT) 4 weeks after the end of radiation\n\n\n\n\nSurgery 8 weeks after the end of radiation"
   },
   {
-    "objectID": "lci_esot3_aca.htm#chemotherapy-radiation---side-effects",
-    "href": "lci_esot3_aca.htm#chemotherapy-radiation---side-effects",
+    "objectID": "lci_esot3_aca.htm#chemo-radiation---side-effects",
+    "href": "lci_esot3_aca.htm#chemo-radiation---side-effects",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
-    "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus. ::: {.fragment} Swallowing can be difficult the last 2 weeks. :::\n\nFeeding tube may be needed for hydration/nutrition."
+    "section": "Chemo + Radiation - Side Effects",
+    "text": "Chemo + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\n\nSwallowing can be difficult the last 2 weeks.\n\n\nFeeding tube may be needed for hydration/nutrition."
   },
   {
     "objectID": "lci_esot3_aca.htm#locally-advanced-adenocarcinoma",
@@ -2594,7 +2594,7 @@
     "href": "lci_esot3_aca.htm#gastrostomy-tube-methods",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Gastrostomy Tube Methods",
-    "text": "Gastrostomy Tube Methods\nA gastrostomy tube can be placed either by endoscopy, which is called a PEG tube\nA gastrostomy tube can also be placed by laparoscopy, which is usually preferred if surgery on the esophagus is planned in the future.\nYour surgeon will help you decide which kind of tube is best for you. This is especially important if you will need esophageal surgery in the future, as the stomach is frequently used to make a new esophagus"
+    "text": "Gastrostomy Tube Methods\nPEG: Tube placed by endoscopy\nLaparoscopic: Tube placed surgically by laparoscopy\nPreferred method depends upon whether esophagectomy is planned"
   },
   {
     "objectID": "lci_esot3_aca.htm#gastrostomy-tube-1",
@@ -2636,7 +2636,7 @@
     "href": "lci_esot3_aca.htm#surgery-for-esophageal-cancer",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Surgery for Esophageal Cancer",
-    "text": "Surgery for Esophageal Cancer\nSurgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0)\nLocally Advanced (T3) after preoperative therapy."
+    "text": "Surgery for Esophageal Cancer\nSurgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0M0)\nLocally Advanced (T3M0) after preoperative therapy."
   },
   {
     "objectID": "lci_esot3_aca.htm#goals-of-surgery",
@@ -2657,7 +2657,7 @@
     "href": "lci_esot3_aca.htm#reconstruction",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Reconstruction",
-    "text": "Reconstruction\n\n\nA new esophagus is created from the stomach in the abdomen by fashioning it into a tube."
+    "text": "Reconstruction\n\n\nNew esophagus is created from the stomach in the abdomen by fashioning it into a tube."
   },
   {
     "objectID": "lci_esot3_aca.htm#ivor-lewis-esophagectomy",
@@ -3119,7 +3119,7 @@
     "href": "lci_esot3_aca.html#treatment-plan",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Treatment Plan",
-    "text": "Treatment Plan\n\nSuperficial (T1): Endoscopic Therapy\n\nLocalized (T1b/T2): Surgery\n\nLocally-advanced (T3M0): Chemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\nMetastatic (M1): Chemotherapy"
+    "text": "Treatment Plan\n\n\nSuperficial (T1)\n\nEndoscopic Therapy\n\n\n\nLocalized (T1b/T2)\n\nSurgery (esophagectomy)\n\n\n\nLocally-advanced (T3M0)\n\nChemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\n\n\nMetastatic (M1)\n\nChemotherapy"
   },
   {
     "objectID": "lci_esot3_aca.html#locally-advanced-cancers-1",
@@ -3199,18 +3199,18 @@
     "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemo + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
-    "objectID": "lci_esot3_aca.html#chemotherapy-radiation-cross-trial-2",
-    "href": "lci_esot3_aca.html#chemotherapy-radiation-cross-trial-2",
+    "objectID": "lci_esot3_aca.html#chemo-radiation-cross-trial",
+    "href": "lci_esot3_aca.html#chemo-radiation-cross-trial",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
-    "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\n\n\n\nPET scan (or CT) 4 weeks after the end of radiation\n\n\n\n\nSurgery 8 weeks after the end of radiation"
+    "section": "Chemo + Radiation CROSS Trial",
+    "text": "Chemo + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\n\n\n\nPET scan (or CT) 4 weeks after the end of radiation\n\n\n\n\nSurgery 8 weeks after the end of radiation"
   },
   {
-    "objectID": "lci_esot3_aca.html#chemotherapy-radiation---side-effects",
-    "href": "lci_esot3_aca.html#chemotherapy-radiation---side-effects",
+    "objectID": "lci_esot3_aca.html#chemo-radiation---side-effects",
+    "href": "lci_esot3_aca.html#chemo-radiation---side-effects",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
-    "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus. ::: {.fragment} Swallowing can be difficult the last 2 weeks. :::\n\nFeeding tube may be needed for hydration/nutrition."
+    "section": "Chemo + Radiation - Side Effects",
+    "text": "Chemo + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\n\nSwallowing can be difficult the last 2 weeks.\n\n\nFeeding tube may be needed for hydration/nutrition."
   },
   {
     "objectID": "lci_esot3_aca.html#locally-advanced-adenocarcinoma",
@@ -3343,7 +3343,7 @@
     "href": "lci_esot3_aca.html#gastrostomy-tube-methods",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Gastrostomy Tube Methods",
-    "text": "Gastrostomy Tube Methods\nA gastrostomy tube can be placed either by endoscopy, which is called a PEG tube\nA gastrostomy tube can also be placed by laparoscopy, which is usually preferred if surgery on the esophagus is planned in the future.\nYour surgeon will help you decide which kind of tube is best for you. This is especially important if you will need esophageal surgery in the future, as the stomach is frequently used to make a new esophagus"
+    "text": "Gastrostomy Tube Methods\nPEG: Tube placed by endoscopy\nLaparoscopic: Tube placed surgically by laparoscopy\nPreferred method depends upon whether esophagectomy is planned"
   },
   {
     "objectID": "lci_esot3_aca.html#gastrostomy-tube-1",
@@ -3385,7 +3385,7 @@
     "href": "lci_esot3_aca.html#surgery-for-esophageal-cancer",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Surgery for Esophageal Cancer",
-    "text": "Surgery for Esophageal Cancer\nSurgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0)\nLocally Advanced (T3) after preoperative therapy."
+    "text": "Surgery for Esophageal Cancer\nSurgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0M0)\nLocally Advanced (T3M0) after preoperative therapy."
   },
   {
     "objectID": "lci_esot3_aca.html#goals-of-surgery",
@@ -3406,7 +3406,7 @@
     "href": "lci_esot3_aca.html#reconstruction",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Reconstruction",
-    "text": "Reconstruction\n\n\nA new esophagus is created from the stomach in the abdomen by fashioning it into a tube."
+    "text": "Reconstruction\n\n\nNew esophagus is created from the stomach in the abdomen by fashioning it into a tube."
   },
   {
     "objectID": "lci_esot3_aca.html#ivor-lewis-esophagectomy",
@@ -3847,7 +3847,7 @@
     "href": "lci_eso_scca.htm#treatment-plan",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Treatment Plan",
-    "text": "Treatment Plan\nSuperficial (T1): Endoscopic Therapy\n\nLocalized (T1b/T2): Surgery\n\nLocally-advanced (T3M0): Chemo + Radiation \\(\\rightarrow\\)Surgery\n\nMetastatic (M1): Chemotherapy"
+    "text": "Treatment Plan\n\n\nSuperficial (T1)\n\nEndoscopic Therapy\n\n\n\nLocalized (T1b)\n\nSurgery (esophagectomy)\n\n\n\nLocally-advanced (T2M0 or T3M0)\n\nChemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\n\n\nMetastatic (M1)\n\nChemotherapy"
   },
   {
     "objectID": "lci_eso_scca.htm#locally-advanced-cancers-1",
@@ -3927,18 +3927,18 @@
     "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemo + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
-    "objectID": "lci_eso_scca.htm#chemotherapy-radiation-cross-trial-2",
-    "href": "lci_eso_scca.htm#chemotherapy-radiation-cross-trial-2",
+    "objectID": "lci_eso_scca.htm#chemo-radiation-cross-trial",
+    "href": "lci_eso_scca.htm#chemo-radiation-cross-trial",
     "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\n\n\n\nPET scan (or CT) 4 weeks after the end of radiation\n\n\n\n\nSurgery 8 weeks after the end of radiation"
+    "section": "Chemo + Radiation CROSS Trial",
+    "text": "Chemo + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\n\n\n\nPET scan (or CT) 4 weeks after the end of radiation\n\n\n\n\nSurgery 8 weeks after the end of radiation"
   },
   {
-    "objectID": "lci_eso_scca.htm#chemotherapy-radiation---side-effects",
-    "href": "lci_eso_scca.htm#chemotherapy-radiation---side-effects",
+    "objectID": "lci_eso_scca.htm#chemo-radiation---side-effects",
+    "href": "lci_eso_scca.htm#chemo-radiation---side-effects",
     "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus. ::: {.fragment} Swallowing can be difficult the last 2 weeks. :::\n\nFeeding tube may be needed for hydration/nutrition."
+    "section": "Chemo + Radiation - Side Effects",
+    "text": "Chemo + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\n\nSwallowing can be difficult the last 2 weeks.\n\n\nFeeding tube may be needed for hydration/nutrition."
   },
   {
     "objectID": "lci_eso_scca.htm#chemotherapy",
@@ -4036,7 +4036,7 @@
     "href": "lci_eso_scca.htm#gastrostomy-tube-methods",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Gastrostomy Tube Methods",
-    "text": "Gastrostomy Tube Methods\nA gastrostomy tube can be placed either by endoscopy, which is called a PEG tube\nA gastrostomy tube can also be placed by laparoscopy, which is usually preferred if surgery on the esophagus is planned in the future.\nYour surgeon will help you decide which kind of tube is best for you. This is especially important if you will need esophageal surgery in the future, as the stomach is frequently used to make a new esophagus"
+    "text": "Gastrostomy Tube Methods\nPEG: Tube placed by endoscopy\nLaparoscopic: Tube placed surgically by laparoscopy\nPreferred method depends upon whether esophagectomy is planned"
   },
   {
     "objectID": "lci_eso_scca.htm#gastrostomy-tube-1",
@@ -4050,7 +4050,7 @@
     "href": "lci_eso_scca.htm#surgery-for-esophageal-cancer",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Surgery for Esophageal Cancer",
-    "text": "Surgery for Esophageal Cancer\nSurgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0)\nLocally Advanced (T3) after preoperative therapy."
+    "text": "Surgery for Esophageal Cancer\nSurgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0M0)\nLocally Advanced (T3M0) after preoperative therapy."
   },
   {
     "objectID": "lci_eso_scca.htm#goals-of-surgery",
@@ -4071,7 +4071,7 @@
     "href": "lci_eso_scca.htm#reconstruction",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Reconstruction",
-    "text": "Reconstruction\n\n\nA new esophagus is created from the stomach in the abdomen by fashioning it into a tube."
+    "text": "Reconstruction\n\n\nNew esophagus is created from the stomach in the abdomen by fashioning it into a tube."
   },
   {
     "objectID": "lci_eso_scca.htm#ivor-lewis-esophagectomy",
@@ -4519,7 +4519,7 @@
     "href": "lci_eso_scca.html#treatment-plan",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Treatment Plan",
-    "text": "Treatment Plan\nSuperficial (T1): Endoscopic Therapy\n\nLocalized (T1b/T2): Surgery\n\nLocally-advanced (T3M0): Chemo + Radiation \\(\\rightarrow\\)Surgery\n\nMetastatic (M1): Chemotherapy"
+    "text": "Treatment Plan\n\n\nSuperficial (T1)\n\nEndoscopic Therapy\n\n\n\nLocalized (T1b)\n\nSurgery (esophagectomy)\n\n\n\nLocally-advanced (T2M0 or T3M0)\n\nChemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\n\n\nMetastatic (M1)\n\nChemotherapy"
   },
   {
     "objectID": "lci_eso_scca.html#locally-advanced-cancers-1",
@@ -4599,18 +4599,18 @@
     "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemo + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
-    "objectID": "lci_eso_scca.html#chemotherapy-radiation-cross-trial-2",
-    "href": "lci_eso_scca.html#chemotherapy-radiation-cross-trial-2",
+    "objectID": "lci_eso_scca.html#chemo-radiation-cross-trial",
+    "href": "lci_eso_scca.html#chemo-radiation-cross-trial",
     "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\n\n\n\nPET scan (or CT) 4 weeks after the end of radiation\n\n\n\n\nSurgery 8 weeks after the end of radiation"
+    "section": "Chemo + Radiation CROSS Trial",
+    "text": "Chemo + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\n\n\n\nPET scan (or CT) 4 weeks after the end of radiation\n\n\n\n\nSurgery 8 weeks after the end of radiation"
   },
   {
-    "objectID": "lci_eso_scca.html#chemotherapy-radiation---side-effects",
-    "href": "lci_eso_scca.html#chemotherapy-radiation---side-effects",
+    "objectID": "lci_eso_scca.html#chemo-radiation---side-effects",
+    "href": "lci_eso_scca.html#chemo-radiation---side-effects",
     "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus. ::: {.fragment} Swallowing can be difficult the last 2 weeks. :::\n\nFeeding tube may be needed for hydration/nutrition."
+    "section": "Chemo + Radiation - Side Effects",
+    "text": "Chemo + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\n\nSwallowing can be difficult the last 2 weeks.\n\n\nFeeding tube may be needed for hydration/nutrition."
   },
   {
     "objectID": "lci_eso_scca.html#chemotherapy",
@@ -4708,7 +4708,7 @@
     "href": "lci_eso_scca.html#gastrostomy-tube-methods",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Gastrostomy Tube Methods",
-    "text": "Gastrostomy Tube Methods\nA gastrostomy tube can be placed either by endoscopy, which is called a PEG tube\nA gastrostomy tube can also be placed by laparoscopy, which is usually preferred if surgery on the esophagus is planned in the future.\nYour surgeon will help you decide which kind of tube is best for you. This is especially important if you will need esophageal surgery in the future, as the stomach is frequently used to make a new esophagus"
+    "text": "Gastrostomy Tube Methods\nPEG: Tube placed by endoscopy\nLaparoscopic: Tube placed surgically by laparoscopy\nPreferred method depends upon whether esophagectomy is planned"
   },
   {
     "objectID": "lci_eso_scca.html#gastrostomy-tube-1",
@@ -4722,7 +4722,7 @@
     "href": "lci_eso_scca.html#surgery-for-esophageal-cancer",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Surgery for Esophageal Cancer",
-    "text": "Surgery for Esophageal Cancer\nSurgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0)\nLocally Advanced (T3) after preoperative therapy."
+    "text": "Surgery for Esophageal Cancer\nSurgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0M0)\nLocally Advanced (T3M0) after preoperative therapy."
   },
   {
     "objectID": "lci_eso_scca.html#goals-of-surgery",
@@ -4743,7 +4743,7 @@
     "href": "lci_eso_scca.html#reconstruction",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Reconstruction",
-    "text": "Reconstruction\n\n\nA new esophagus is created from the stomach in the abdomen by fashioning it into a tube."
+    "text": "Reconstruction\n\n\nNew esophagus is created from the stomach in the abdomen by fashioning it into a tube."
   },
   {
     "objectID": "lci_eso_scca.html#ivor-lewis-esophagectomy",
@@ -7455,18 +7455,18 @@
     "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemo + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
-    "objectID": "lci_cross_guts.html#chemotherapy-radiation-cross-trial-2",
-    "href": "lci_cross_guts.html#chemotherapy-radiation-cross-trial-2",
+    "objectID": "lci_cross_guts.html#chemo-radiation-cross-trial",
+    "href": "lci_cross_guts.html#chemo-radiation-cross-trial",
     "title": "Patient Education",
-    "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\n\n\n\nPET scan (or CT) 4 weeks after the end of radiation\n\n\n\n\nSurgery 8 weeks after the end of radiation"
+    "section": "Chemo + Radiation CROSS Trial",
+    "text": "Chemo + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\n\n\n\nPET scan (or CT) 4 weeks after the end of radiation\n\n\n\n\nSurgery 8 weeks after the end of radiation"
   },
   {
-    "objectID": "lci_cross_guts.html#chemotherapy-radiation---side-effects",
-    "href": "lci_cross_guts.html#chemotherapy-radiation---side-effects",
+    "objectID": "lci_cross_guts.html#chemo-radiation---side-effects",
+    "href": "lci_cross_guts.html#chemo-radiation---side-effects",
     "title": "Patient Education",
-    "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus. ::: {.fragment} Swallowing can be difficult the last 2 weeks. :::\n\nFeeding tube may be needed for hydration/nutrition."
+    "section": "Chemo + Radiation - Side Effects",
+    "text": "Chemo + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\n\nSwallowing can be difficult the last 2 weeks.\n\n\nFeeding tube may be needed for hydration/nutrition."
   },
   {
     "objectID": "lci_cross_guts.htm#chemotherapy-radiation-cross-trial",
@@ -7483,18 +7483,18 @@
     "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemo + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
-    "objectID": "lci_cross_guts.htm#chemotherapy-radiation-cross-trial-2",
-    "href": "lci_cross_guts.htm#chemotherapy-radiation-cross-trial-2",
+    "objectID": "lci_cross_guts.htm#chemo-radiation-cross-trial",
+    "href": "lci_cross_guts.htm#chemo-radiation-cross-trial",
     "title": "Patient Education",
-    "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\n\n\n\nPET scan (or CT) 4 weeks after the end of radiation\n\n\n\n\nSurgery 8 weeks after the end of radiation"
+    "section": "Chemo + Radiation CROSS Trial",
+    "text": "Chemo + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\n\n\n\nPET scan (or CT) 4 weeks after the end of radiation\n\n\n\n\nSurgery 8 weeks after the end of radiation"
   },
   {
-    "objectID": "lci_cross_guts.htm#chemotherapy-radiation---side-effects",
-    "href": "lci_cross_guts.htm#chemotherapy-radiation---side-effects",
+    "objectID": "lci_cross_guts.htm#chemo-radiation---side-effects",
+    "href": "lci_cross_guts.htm#chemo-radiation---side-effects",
     "title": "Patient Education",
-    "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus. ::: {.fragment} Swallowing can be difficult the last 2 weeks. :::\n\nFeeding tube may be needed for hydration/nutrition."
+    "section": "Chemo + Radiation - Side Effects",
+    "text": "Chemo + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\n\nSwallowing can be difficult the last 2 weeks.\n\n\nFeeding tube may be needed for hydration/nutrition."
   },
   {
     "objectID": "lci_treatment_prep.html",
@@ -9699,14 +9699,14 @@
     "href": "lci_surgery.html",
     "title": "Surgery of the Esophagus",
     "section": "",
-    "text": "Surgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0)\nLocally Advanced (T3) after preoperative therapy."
+    "text": "Surgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0M0)\nLocally Advanced (T3M0) after preoperative therapy."
   },
   {
     "objectID": "lci_surgery.html#surgery-for-esophageal-cancer",
     "href": "lci_surgery.html#surgery-for-esophageal-cancer",
     "title": "Surgery of the Esophagus",
     "section": "",
-    "text": "Surgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0)\nLocally Advanced (T3) after preoperative therapy."
+    "text": "Surgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0M0)\nLocally Advanced (T3M0) after preoperative therapy."
   },
   {
     "objectID": "lci_surgery.html#goals-of-surgery",
@@ -9727,7 +9727,7 @@
     "href": "lci_surgery.html#reconstruction",
     "title": "Surgery of the Esophagus",
     "section": "Reconstruction",
-    "text": "Reconstruction\n\n\nA new esophagus is created from the stomach in the abdomen by fashioning it into a tube."
+    "text": "Reconstruction\n\n\nNew esophagus is created from the stomach in the abdomen by fashioning it into a tube."
   },
   {
     "objectID": "lci_surgery.html#ivor-lewis-esophagectomy",
@@ -10091,7 +10091,7 @@
     "href": "lci_surgery.htm#surgery-for-esophageal-cancer",
     "title": "Surgery of the Esophagus",
     "section": "Surgery for Esophageal Cancer",
-    "text": "Surgery for Esophageal Cancer\nSurgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0)\nLocally Advanced (T3) after preoperative therapy."
+    "text": "Surgery for Esophageal Cancer\nSurgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0M0)\nLocally Advanced (T3M0) after preoperative therapy."
   },
   {
     "objectID": "lci_surgery.htm#goals-of-surgery",
@@ -10112,7 +10112,7 @@
     "href": "lci_surgery.htm#reconstruction",
     "title": "Surgery of the Esophagus",
     "section": "Reconstruction",
-    "text": "Reconstruction\n\n\nA new esophagus is created from the stomach in the abdomen by fashioning it into a tube."
+    "text": "Reconstruction\n\n\nNew esophagus is created from the stomach in the abdomen by fashioning it into a tube."
   },
   {
     "objectID": "lci_surgery.htm#ivor-lewis-esophagectomy",
@@ -10476,7 +10476,7 @@
     "href": "lci_surgery_guts.htm#surgery-for-esophageal-cancer",
     "title": "Patient Education",
     "section": "Surgery for Esophageal Cancer",
-    "text": "Surgery for Esophageal Cancer\nSurgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0)\nLocally Advanced (T3) after preoperative therapy."
+    "text": "Surgery for Esophageal Cancer\nSurgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0M0)\nLocally Advanced (T3M0) after preoperative therapy."
   },
   {
     "objectID": "lci_surgery_guts.htm#goals-of-surgery",
@@ -10497,7 +10497,7 @@
     "href": "lci_surgery_guts.htm#reconstruction",
     "title": "Patient Education",
     "section": "Reconstruction",
-    "text": "Reconstruction\n\n\nA new esophagus is created from the stomach in the abdomen by fashioning it into a tube."
+    "text": "Reconstruction\n\n\nNew esophagus is created from the stomach in the abdomen by fashioning it into a tube."
   },
   {
     "objectID": "lci_surgery_guts.htm#ivor-lewis-esophagectomy",
@@ -10861,14 +10861,14 @@
     "href": "lci_surgery_guts.html",
     "title": "Patient Education",
     "section": "",
-    "text": "Surgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0)\nLocally Advanced (T3) after preoperative therapy."
+    "text": "Surgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0M0)\nLocally Advanced (T3M0) after preoperative therapy."
   },
   {
     "objectID": "lci_surgery_guts.html#surgery-for-esophageal-cancer",
     "href": "lci_surgery_guts.html#surgery-for-esophageal-cancer",
     "title": "Patient Education",
     "section": "",
-    "text": "Surgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0)\nLocally Advanced (T3) after preoperative therapy."
+    "text": "Surgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0M0)\nLocally Advanced (T3M0) after preoperative therapy."
   },
   {
     "objectID": "lci_surgery_guts.html#goals-of-surgery",
@@ -10889,7 +10889,7 @@
     "href": "lci_surgery_guts.html#reconstruction",
     "title": "Patient Education",
     "section": "Reconstruction",
-    "text": "Reconstruction\n\n\nA new esophagus is created from the stomach in the abdomen by fashioning it into a tube."
+    "text": "Reconstruction\n\n\nNew esophagus is created from the stomach in the abdomen by fashioning it into a tube."
   },
   {
     "objectID": "lci_surgery_guts.html#ivor-lewis-esophagectomy",
@@ -12450,7 +12450,7 @@
     "href": "lci_esot3.html#treatment-plan",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Treatment Plan",
-    "text": "Treatment Plan\n\n\nSuperficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\nLocalized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\nLocally-advanced (T3) \\(\\Rightarrow\\) Chemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\nMetastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
+    "text": "Treatment Plan\n\n\nSuperficial (T1)\n\nEndoscopic Therapy\n\n\n\nLocalized (T1b/T2)\n\nSurgery (esophagectomy)\n\n\n\nLocally-advanced (T3M0)\n\nChemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\n\n\nMetastatic (M1)\n\nChemotherapy"
   },
   {
     "objectID": "lci_esot3.html#locally-advanced-cancers-1",
@@ -12509,6 +12509,13 @@
     "text": "Preoperative Therapy\n\n\nWhen surgery is then performed…\nThe risk of cancer recurrence is minimized"
   },
   {
+    "objectID": "lci_esot3.html#preoperative-therapy-4",
+    "href": "lci_esot3.html#preoperative-therapy-4",
+    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "section": "Preoperative Therapy",
+    "text": "Preoperative Therapy\n\n\nWhen surgery is then performed…\nThe risk of cancer recurrence is minimized"
+  },
+  {
     "objectID": "lci_esot3.html#chemotherapy-radiation-cross-trial",
     "href": "lci_esot3.html#chemotherapy-radiation-cross-trial",
     "title": "T3 Cancer of the Esophagus and GE Junction",
@@ -12523,18 +12530,18 @@
     "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemo + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
-    "objectID": "lci_esot3.html#chemotherapy-radiation-cross-trial-2",
-    "href": "lci_esot3.html#chemotherapy-radiation-cross-trial-2",
+    "objectID": "lci_esot3.html#chemo-radiation-cross-trial",
+    "href": "lci_esot3.html#chemo-radiation-cross-trial",
     "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\n\n\n\nPET scan (or CT) 4 weeks after the end of radiation\n\n\n\n\nSurgery 8 weeks after the end of radiation"
+    "section": "Chemo + Radiation CROSS Trial",
+    "text": "Chemo + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\n\n\n\nPET scan (or CT) 4 weeks after the end of radiation\n\n\n\n\nSurgery 8 weeks after the end of radiation"
   },
   {
-    "objectID": "lci_esot3.html#chemotherapy-radiation---side-effects",
-    "href": "lci_esot3.html#chemotherapy-radiation---side-effects",
+    "objectID": "lci_esot3.html#chemo-radiation---side-effects",
+    "href": "lci_esot3.html#chemo-radiation---side-effects",
     "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus. ::: {.fragment} Swallowing can be difficult the last 2 weeks. :::\n\nFeeding tube may be needed for hydration/nutrition."
+    "section": "Chemo + Radiation - Side Effects",
+    "text": "Chemo + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\n\nSwallowing can be difficult the last 2 weeks.\n\n\nFeeding tube may be needed for hydration/nutrition."
   },
   {
     "objectID": "lci_esot3.html#locally-advanced-adenocarcinoma",
@@ -12667,7 +12674,7 @@
     "href": "lci_esot3.html#gastrostomy-tube-methods",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Gastrostomy Tube Methods",
-    "text": "Gastrostomy Tube Methods\nA gastrostomy tube can be placed either by endoscopy, which is called a PEG tube\nA gastrostomy tube can also be placed by laparoscopy, which is usually preferred if surgery on the esophagus is planned in the future.\nYour surgeon will help you decide which kind of tube is best for you. This is especially important if you will need esophageal surgery in the future, as the stomach is frequently used to make a new esophagus"
+    "text": "Gastrostomy Tube Methods\nPEG: Tube placed by endoscopy\nLaparoscopic: Tube placed surgically by laparoscopy\nPreferred method depends upon whether esophagectomy is planned"
   },
   {
     "objectID": "lci_esot3.html#gastrostomy-tube-1",
@@ -12709,7 +12716,7 @@
     "href": "lci_esot3.html#surgery-for-esophageal-cancer",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Surgery for Esophageal Cancer",
-    "text": "Surgery for Esophageal Cancer\nSurgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0)\nLocally Advanced (T3) after preoperative therapy."
+    "text": "Surgery for Esophageal Cancer\nSurgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0M0)\nLocally Advanced (T3M0) after preoperative therapy."
   },
   {
     "objectID": "lci_esot3.html#goals-of-surgery",
@@ -12730,7 +12737,7 @@
     "href": "lci_esot3.html#reconstruction",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Reconstruction",
-    "text": "Reconstruction\n\n\nA new esophagus is created from the stomach in the abdomen by fashioning it into a tube."
+    "text": "Reconstruction\n\n\nNew esophagus is created from the stomach in the abdomen by fashioning it into a tube."
   },
   {
     "objectID": "lci_esot3.html#ivor-lewis-esophagectomy",
@@ -13192,7 +13199,7 @@
     "href": "lci_esot3.htm#treatment-plan",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Treatment Plan",
-    "text": "Treatment Plan\n\n\nSuperficial (T1) \\(\\Rightarrow\\) Endoscopic Therapy\n\nLocalized (T1b/T2) \\(\\Rightarrow\\) Surgery\n\nLocally-advanced (T3) \\(\\Rightarrow\\) Chemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\nMetastatic (M1) \\(\\Rightarrow\\) Chemotherapy"
+    "text": "Treatment Plan\n\n\nSuperficial (T1)\n\nEndoscopic Therapy\n\n\n\nLocalized (T1b/T2)\n\nSurgery (esophagectomy)\n\n\n\nLocally-advanced (T3M0)\n\nChemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\n\n\nMetastatic (M1)\n\nChemotherapy"
   },
   {
     "objectID": "lci_esot3.htm#locally-advanced-cancers-1",
@@ -13251,6 +13258,13 @@
     "text": "Preoperative Therapy\n\n\nWhen surgery is then performed…\nThe risk of cancer recurrence is minimized"
   },
   {
+    "objectID": "lci_esot3.htm#preoperative-therapy-4",
+    "href": "lci_esot3.htm#preoperative-therapy-4",
+    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "section": "Preoperative Therapy",
+    "text": "Preoperative Therapy\n\n\nWhen surgery is then performed…\nThe risk of cancer recurrence is minimized"
+  },
+  {
     "objectID": "lci_esot3.htm#chemotherapy-radiation-cross-trial",
     "href": "lci_esot3.htm#chemotherapy-radiation-cross-trial",
     "title": "T3 Cancer of the Esophagus and GE Junction",
@@ -13265,18 +13279,18 @@
     "text": "Chemotherapy + Radiation CROSS Trial\n363 patients with esophageal cancer studied\nChemotherapy + radiation together over 6 wks\nSurgery Alone\nvs\nChemo + Radiation\\(\\rightarrow\\)Surgery \\(\\Rightarrow\\) Longer Survival"
   },
   {
-    "objectID": "lci_esot3.htm#chemotherapy-radiation-cross-trial-2",
-    "href": "lci_esot3.htm#chemotherapy-radiation-cross-trial-2",
+    "objectID": "lci_esot3.htm#chemo-radiation-cross-trial",
+    "href": "lci_esot3.htm#chemo-radiation-cross-trial",
     "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "Chemotherapy + Radiation CROSS Trial",
-    "text": "Chemotherapy + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\n\n\n\nPET scan (or CT) 4 weeks after the end of radiation\n\n\n\n\nSurgery 8 weeks after the end of radiation"
+    "section": "Chemo + Radiation CROSS Trial",
+    "text": "Chemo + Radiation CROSS Trial\nTypical schedule for chemotherapy + radiation:\n\nChemotherapy once per week for six weeks\nRadiation five days per week for six weeks (28)\n\n\n\nPET scan (or CT) 4 weeks after the end of radiation\n\n\n\n\nSurgery 8 weeks after the end of radiation"
   },
   {
-    "objectID": "lci_esot3.htm#chemotherapy-radiation---side-effects",
-    "href": "lci_esot3.htm#chemotherapy-radiation---side-effects",
+    "objectID": "lci_esot3.htm#chemo-radiation---side-effects",
+    "href": "lci_esot3.htm#chemo-radiation---side-effects",
     "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "Chemotherapy + Radiation - Side Effects",
-    "text": "Chemotherapy + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus. ::: {.fragment} Swallowing can be difficult the last 2 weeks. :::\n\nFeeding tube may be needed for hydration/nutrition."
+    "section": "Chemo + Radiation - Side Effects",
+    "text": "Chemo + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\n\nSwallowing can be difficult the last 2 weeks.\n\n\nFeeding tube may be needed for hydration/nutrition."
   },
   {
     "objectID": "lci_esot3.htm#locally-advanced-adenocarcinoma",
@@ -13409,7 +13423,7 @@
     "href": "lci_esot3.htm#gastrostomy-tube-methods",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Gastrostomy Tube Methods",
-    "text": "Gastrostomy Tube Methods\nA gastrostomy tube can be placed either by endoscopy, which is called a PEG tube\nA gastrostomy tube can also be placed by laparoscopy, which is usually preferred if surgery on the esophagus is planned in the future.\nYour surgeon will help you decide which kind of tube is best for you. This is especially important if you will need esophageal surgery in the future, as the stomach is frequently used to make a new esophagus"
+    "text": "Gastrostomy Tube Methods\nPEG: Tube placed by endoscopy\nLaparoscopic: Tube placed surgically by laparoscopy\nPreferred method depends upon whether esophagectomy is planned"
   },
   {
     "objectID": "lci_esot3.htm#gastrostomy-tube-1",
@@ -13451,7 +13465,7 @@
     "href": "lci_esot3.htm#surgery-for-esophageal-cancer",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Surgery for Esophageal Cancer",
-    "text": "Surgery for Esophageal Cancer\nSurgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0)\nLocally Advanced (T3) after preoperative therapy."
+    "text": "Surgery for Esophageal Cancer\nSurgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0M0)\nLocally Advanced (T3M0) after preoperative therapy."
   },
   {
     "objectID": "lci_esot3.htm#goals-of-surgery",
@@ -13472,7 +13486,7 @@
     "href": "lci_esot3.htm#reconstruction",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Reconstruction",
-    "text": "Reconstruction\n\n\nA new esophagus is created from the stomach in the abdomen by fashioning it into a tube."
+    "text": "Reconstruction\n\n\nNew esophagus is created from the stomach in the abdomen by fashioning it into a tube."
   },
   {
     "objectID": "lci_esot3.htm#ivor-lewis-esophagectomy",
@@ -14123,7 +14137,7 @@
     "href": "lci_gastrostomy_guts.htm#gastrostomy-tube-methods",
     "title": "Patient Education",
     "section": "Gastrostomy Tube Methods",
-    "text": "Gastrostomy Tube Methods\nA gastrostomy tube can be placed either by endoscopy, which is called a PEG tube\nA gastrostomy tube can also be placed by laparoscopy, which is usually preferred if surgery on the esophagus is planned in the future.\nYour surgeon will help you decide which kind of tube is best for you. This is especially important if you will need esophageal surgery in the future, as the stomach is frequently used to make a new esophagus"
+    "text": "Gastrostomy Tube Methods\nPEG: Tube placed by endoscopy\nLaparoscopic: Tube placed surgically by laparoscopy\nPreferred method depends upon whether esophagectomy is planned"
   },
   {
     "objectID": "lci_gastrostomy_guts.htm#gastrostomy-tube-1",
@@ -14144,7 +14158,7 @@
     "href": "lci_gastrostomy_guts.html#gastrostomy-tube-methods",
     "title": "Patient Education",
     "section": "Gastrostomy Tube Methods",
-    "text": "Gastrostomy Tube Methods\nA gastrostomy tube can be placed either by endoscopy, which is called a PEG tube\nA gastrostomy tube can also be placed by laparoscopy, which is usually preferred if surgery on the esophagus is planned in the future.\nYour surgeon will help you decide which kind of tube is best for you. This is especially important if you will need esophageal surgery in the future, as the stomach is frequently used to make a new esophagus"
+    "text": "Gastrostomy Tube Methods\nPEG: Tube placed by endoscopy\nLaparoscopic: Tube placed surgically by laparoscopy\nPreferred method depends upon whether esophagectomy is planned"
   },
   {
     "objectID": "lci_gastrostomy_guts.html#gastrostomy-tube-1",
