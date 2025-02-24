@@ -57,20 +57,20 @@ From the stomach, food moved through a valve called the pylorus into the small i
 
 ## Treatment Plan
 
-Superficial (T1) $\Rightarrow$ Endoscopic Therapy\
+Superficial (T1): Endoscopic Therapy\
 \
-Localized (T1b/T2) $\Rightarrow$ Surgery\
+Localized (T1b/T2): Surgery\
 \
-Locally-advanced (T3) $\Rightarrow$ Chemo $\pm$ Radiation $\rightarrow$Surgery\
+Locally-advanced (T3M0): Chemo + Radiation $\rightarrow$Surgery\
 \
-Metastatic (M1) $\Rightarrow$ Chemotherapy
+Metastatic (M1): Chemotherapy
 
 ::: {.content-hidden unless-format="docx"}
 This table summarizes four different treatment categories:
 
 -   Superficial cancers are T1 and can be treated by endoscopic therapy without the need for surgery
 -   Localized cancers are T1b or T2 and are frequently treated by surgery alone without the need for chemotherapy or radiation
--   Locally-advanced cancers are T3 or N1 and are usually treated with some combination of chemotherapy and radiation prior to surgery
+-   Locally-advanced cancers are T3 and M0 and are usually treated with some combination of chemotherapy and radiation prior to surgery
 -   Metastatic cancers are M1 and are treated primary by chemotherapy.
 :::
 
@@ -189,6 +189,23 @@ The risk of cancer recurrence is minimized
 :::
 ::::
 ::::::
+
+## Preoperative Therapy
+
+:::::: columns
+::: {.column width="50%"}
+When surgery is then performed...
+
+The risk of cancer recurrence is minimized
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/ivor_lewis_simple2_900.png)
+:::
+::::
+::::::
+
 
 {{< include lci_cross_guts.qmd >}}
 

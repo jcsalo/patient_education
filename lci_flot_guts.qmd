@@ -4,10 +4,15 @@
 
 Chemo (8 wks) $\rightarrow$ Surgery $\rightarrow$ Chemo (8 wks)
 
+::: {.fragment}
 Two different drug combinations:
-
+:::
+::: {.fragment}
 -   FLOT (more effective)
+:::
+::: {.fragment}
 -   FOLFOX (better tolerated)
+:::
 
 ## "Sandwich" Chemotherapy Drugs
 
