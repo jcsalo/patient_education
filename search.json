@@ -1789,7 +1789,7 @@
     "href": "lci_laparoscopy_guts.html#laparoscopy-1",
     "title": "Patient Education",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_laparoscopy_guts.htm#laparoscopy",
@@ -1803,7 +1803,7 @@
     "href": "lci_laparoscopy_guts.htm#laparoscopy-1",
     "title": "Patient Education",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_mie_guts.html",
@@ -2363,7 +2363,7 @@
     "href": "lci_esot3_aca.htm#laparoscopy-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_esot3_aca.htm#treatment-plan",
@@ -3105,7 +3105,7 @@
     "href": "lci_esot3_aca.html#laparoscopy-1",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_esot3_aca.html#treatment-plan",
@@ -7606,7 +7606,7 @@
     "href": "lci_laparoscopy.html#laparoscopy-1",
     "title": "Diagnostic Laparoscopy",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_laparoscopy.htm#laparoscopy",
@@ -7620,7 +7620,7 @@
     "href": "lci_laparoscopy.htm#laparoscopy-1",
     "title": "Diagnostic Laparoscopy",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_gastrectomyt3_guts.htm#stomach-cancer-surgery-goals",
@@ -7655,7 +7655,7 @@
     "href": "lci_gastrectomyt3_guts.htm#distal-gastrectomy",
     "title": "Patient Education",
     "section": "Distal Gastrectomy",
-    "text": "Distal Gastrectomy\n\n\n\nRemoves bottom half of the stomach\nDoes not remove all lymph nodes"
+    "text": "Distal Gastrectomy\n\n\n\nRemoves bottom half of the stomach\nDoes lower lymph nodes"
   },
   {
     "objectID": "lci_gastrectomyt3_guts.htm#distal-gastrectomy-1",
@@ -7676,7 +7676,7 @@
     "href": "lci_gastrectomyt3_guts.htm#subtotal-gastrectomy",
     "title": "Patient Education",
     "section": "Subtotal Gastrectomy",
-    "text": "Subtotal Gastrectomy\n\n\n\n\n\n\nRemoves bottom 2/3 of stomach\nRemoves nearby lymph nodes\nReconstruction with small intestine"
+    "text": "Subtotal Gastrectomy\n\n\n\nRemoves bottom 2/3 of stomach\nRemoves nearby lymph nodes\nReconstruction with small intestine"
   },
   {
     "objectID": "lci_gastrectomyt3_guts.htm#subtotal-gastrectomy-1",
@@ -7714,6 +7714,20 @@
     "text": "Esophagogastrectomy\n\n\n\n\n\nRemoves top part of stomach\nRemove bottom half of esophagus\nSurgery in both abdomen and chest"
   },
   {
+    "objectID": "lci_gastrectomyt3_guts.htm#esophagogastrectomy-1",
+    "href": "lci_gastrectomyt3_guts.htm#esophagogastrectomy-1",
+    "title": "Patient Education",
+    "section": "Esophagogastrectomy",
+    "text": "Esophagogastrectomy\n\n\n\n\n\nRemoves top part of stomach\nRemove bottom half of esophagus\nSurgery in both abdomen and chest"
+  },
+  {
+    "objectID": "lci_gastrectomyt3_guts.htm#esophagogastrectomy-2",
+    "href": "lci_gastrectomyt3_guts.htm#esophagogastrectomy-2",
+    "title": "Patient Education",
+    "section": "Esophagogastrectomy",
+    "text": "Esophagogastrectomy\n\n\n\n\n\nRemoves top part of stomach\nRemove bottom half of esophagus\nSurgery in both abdomen and chest"
+  },
+  {
     "objectID": "lci_gastrectomyt3_guts.htm#dual-tract-gastrectomy",
     "href": "lci_gastrectomyt3_guts.htm#dual-tract-gastrectomy",
     "title": "Patient Education",
@@ -7739,7 +7753,7 @@
     "href": "lci_gastrectomyt3_guts.htm#laparoscopy-1",
     "title": "Patient Education",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_gastrectomyt3_guts.htm#risks-of-surgery",
@@ -7788,7 +7802,7 @@
     "href": "lci_gastrectomyt3_guts.html#distal-gastrectomy",
     "title": "Patient Education",
     "section": "Distal Gastrectomy",
-    "text": "Distal Gastrectomy\n\n\n\nRemoves bottom half of the stomach\nDoes not remove all lymph nodes"
+    "text": "Distal Gastrectomy\n\n\n\nRemoves bottom half of the stomach\nDoes lower lymph nodes"
   },
   {
     "objectID": "lci_gastrectomyt3_guts.html#distal-gastrectomy-1",
@@ -7809,7 +7823,7 @@
     "href": "lci_gastrectomyt3_guts.html#subtotal-gastrectomy",
     "title": "Patient Education",
     "section": "Subtotal Gastrectomy",
-    "text": "Subtotal Gastrectomy\n\n\n\n\n\n\nRemoves bottom 2/3 of stomach\nRemoves nearby lymph nodes\nReconstruction with small intestine"
+    "text": "Subtotal Gastrectomy\n\n\n\nRemoves bottom 2/3 of stomach\nRemoves nearby lymph nodes\nReconstruction with small intestine"
   },
   {
     "objectID": "lci_gastrectomyt3_guts.html#subtotal-gastrectomy-1",
@@ -7847,6 +7861,20 @@
     "text": "Esophagogastrectomy\n\n\n\n\n\nRemoves top part of stomach\nRemove bottom half of esophagus\nSurgery in both abdomen and chest"
   },
   {
+    "objectID": "lci_gastrectomyt3_guts.html#esophagogastrectomy-1",
+    "href": "lci_gastrectomyt3_guts.html#esophagogastrectomy-1",
+    "title": "Patient Education",
+    "section": "Esophagogastrectomy",
+    "text": "Esophagogastrectomy\n\n\n\n\n\nRemoves top part of stomach\nRemove bottom half of esophagus\nSurgery in both abdomen and chest"
+  },
+  {
+    "objectID": "lci_gastrectomyt3_guts.html#esophagogastrectomy-2",
+    "href": "lci_gastrectomyt3_guts.html#esophagogastrectomy-2",
+    "title": "Patient Education",
+    "section": "Esophagogastrectomy",
+    "text": "Esophagogastrectomy\n\n\n\n\n\nRemoves top part of stomach\nRemove bottom half of esophagus\nSurgery in both abdomen and chest"
+  },
+  {
     "objectID": "lci_gastrectomyt3_guts.html#dual-tract-gastrectomy",
     "href": "lci_gastrectomyt3_guts.html#dual-tract-gastrectomy",
     "title": "Patient Education",
@@ -7872,7 +7900,7 @@
     "href": "lci_gastrectomyt3_guts.html#laparoscopy-1",
     "title": "Patient Education",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_gastrectomyt3_guts.html#risks-of-surgery",
@@ -8383,7 +8411,7 @@
     "href": "lci_gastrict3.html#laparoscopy-1",
     "title": "T3 Cancer of the Stomach",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_gastrict3.html#treatment-plan",
@@ -8558,7 +8586,7 @@
     "href": "lci_gastrict3.html#distal-gastrectomy",
     "title": "T3 Cancer of the Stomach",
     "section": "Distal Gastrectomy",
-    "text": "Distal Gastrectomy\n\n\n\nRemoves bottom half of the stomach\nDoes not remove all lymph nodes"
+    "text": "Distal Gastrectomy\n\n\n\nRemoves bottom half of the stomach\nDoes lower lymph nodes"
   },
   {
     "objectID": "lci_gastrict3.html#distal-gastrectomy-1",
@@ -8579,7 +8607,7 @@
     "href": "lci_gastrict3.html#subtotal-gastrectomy",
     "title": "T3 Cancer of the Stomach",
     "section": "Subtotal Gastrectomy",
-    "text": "Subtotal Gastrectomy\n\n\n\n\n\n\nRemoves bottom 2/3 of stomach\nRemoves nearby lymph nodes\nReconstruction with small intestine"
+    "text": "Subtotal Gastrectomy\n\n\n\nRemoves bottom 2/3 of stomach\nRemoves nearby lymph nodes\nReconstruction with small intestine"
   },
   {
     "objectID": "lci_gastrict3.html#subtotal-gastrectomy-1",
@@ -8617,6 +8645,20 @@
     "text": "Esophagogastrectomy\n\n\n\n\n\nRemoves top part of stomach\nRemove bottom half of esophagus\nSurgery in both abdomen and chest"
   },
   {
+    "objectID": "lci_gastrict3.html#esophagogastrectomy-1",
+    "href": "lci_gastrict3.html#esophagogastrectomy-1",
+    "title": "T3 Cancer of the Stomach",
+    "section": "Esophagogastrectomy",
+    "text": "Esophagogastrectomy\n\n\n\n\n\nRemoves top part of stomach\nRemove bottom half of esophagus\nSurgery in both abdomen and chest"
+  },
+  {
+    "objectID": "lci_gastrict3.html#esophagogastrectomy-2",
+    "href": "lci_gastrict3.html#esophagogastrectomy-2",
+    "title": "T3 Cancer of the Stomach",
+    "section": "Esophagogastrectomy",
+    "text": "Esophagogastrectomy\n\n\n\n\n\nRemoves top part of stomach\nRemove bottom half of esophagus\nSurgery in both abdomen and chest"
+  },
+  {
     "objectID": "lci_gastrict3.html#dual-tract-gastrectomy",
     "href": "lci_gastrict3.html#dual-tract-gastrectomy",
     "title": "T3 Cancer of the Stomach",
@@ -8642,7 +8684,7 @@
     "href": "lci_gastrict3.html#laparoscopy-3",
     "title": "T3 Cancer of the Stomach",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_gastrict3.html#risks-of-surgery",
@@ -8740,7 +8782,7 @@
     "href": "lci_gastrict3.htm#laparoscopy-1",
     "title": "T3 Cancer of the Stomach",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_gastrict3.htm#treatment-plan",
@@ -8915,7 +8957,7 @@
     "href": "lci_gastrict3.htm#distal-gastrectomy",
     "title": "T3 Cancer of the Stomach",
     "section": "Distal Gastrectomy",
-    "text": "Distal Gastrectomy\n\n\n\nRemoves bottom half of the stomach\nDoes not remove all lymph nodes"
+    "text": "Distal Gastrectomy\n\n\n\nRemoves bottom half of the stomach\nDoes lower lymph nodes"
   },
   {
     "objectID": "lci_gastrict3.htm#distal-gastrectomy-1",
@@ -8936,7 +8978,7 @@
     "href": "lci_gastrict3.htm#subtotal-gastrectomy",
     "title": "T3 Cancer of the Stomach",
     "section": "Subtotal Gastrectomy",
-    "text": "Subtotal Gastrectomy\n\n\n\n\n\n\nRemoves bottom 2/3 of stomach\nRemoves nearby lymph nodes\nReconstruction with small intestine"
+    "text": "Subtotal Gastrectomy\n\n\n\nRemoves bottom 2/3 of stomach\nRemoves nearby lymph nodes\nReconstruction with small intestine"
   },
   {
     "objectID": "lci_gastrict3.htm#subtotal-gastrectomy-1",
@@ -8974,6 +9016,20 @@
     "text": "Esophagogastrectomy\n\n\n\n\n\nRemoves top part of stomach\nRemove bottom half of esophagus\nSurgery in both abdomen and chest"
   },
   {
+    "objectID": "lci_gastrict3.htm#esophagogastrectomy-1",
+    "href": "lci_gastrict3.htm#esophagogastrectomy-1",
+    "title": "T3 Cancer of the Stomach",
+    "section": "Esophagogastrectomy",
+    "text": "Esophagogastrectomy\n\n\n\n\n\nRemoves top part of stomach\nRemove bottom half of esophagus\nSurgery in both abdomen and chest"
+  },
+  {
+    "objectID": "lci_gastrict3.htm#esophagogastrectomy-2",
+    "href": "lci_gastrict3.htm#esophagogastrectomy-2",
+    "title": "T3 Cancer of the Stomach",
+    "section": "Esophagogastrectomy",
+    "text": "Esophagogastrectomy\n\n\n\n\n\nRemoves top part of stomach\nRemove bottom half of esophagus\nSurgery in both abdomen and chest"
+  },
+  {
     "objectID": "lci_gastrict3.htm#dual-tract-gastrectomy",
     "href": "lci_gastrict3.htm#dual-tract-gastrectomy",
     "title": "T3 Cancer of the Stomach",
@@ -8999,7 +9055,7 @@
     "href": "lci_gastrict3.htm#laparoscopy-3",
     "title": "T3 Cancer of the Stomach",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_gastrict3.htm#risks-of-surgery",
@@ -11638,7 +11694,7 @@
     "href": "lci_gastrectomy.html#distal-gastrectomy",
     "title": "Surgery of the Stomach",
     "section": "Distal Gastrectomy",
-    "text": "Distal Gastrectomy\n\n\n\nRemoves bottom half of the stomach\nDoes not remove all lymph nodes"
+    "text": "Distal Gastrectomy\n\n\n\nRemoves bottom half of the stomach\nDoes lower lymph nodes"
   },
   {
     "objectID": "lci_gastrectomy.html#distal-gastrectomy-1",
@@ -11659,7 +11715,7 @@
     "href": "lci_gastrectomy.html#subtotal-gastrectomy",
     "title": "Surgery of the Stomach",
     "section": "Subtotal Gastrectomy",
-    "text": "Subtotal Gastrectomy\n\n\n\n\n\n\nRemoves bottom 2/3 of stomach\nRemoves nearby lymph nodes\nReconstruction with small intestine"
+    "text": "Subtotal Gastrectomy\n\n\n\nRemoves bottom 2/3 of stomach\nRemoves nearby lymph nodes\nReconstruction with small intestine"
   },
   {
     "objectID": "lci_gastrectomy.html#subtotal-gastrectomy-1",
@@ -11697,6 +11753,20 @@
     "text": "Esophagogastrectomy\n\n\n\n\n\nRemoves top part of stomach\nRemove bottom half of esophagus\nSurgery in both abdomen and chest"
   },
   {
+    "objectID": "lci_gastrectomy.html#esophagogastrectomy-1",
+    "href": "lci_gastrectomy.html#esophagogastrectomy-1",
+    "title": "Surgery of the Stomach",
+    "section": "Esophagogastrectomy",
+    "text": "Esophagogastrectomy\n\n\n\n\n\nRemoves top part of stomach\nRemove bottom half of esophagus\nSurgery in both abdomen and chest"
+  },
+  {
+    "objectID": "lci_gastrectomy.html#esophagogastrectomy-2",
+    "href": "lci_gastrectomy.html#esophagogastrectomy-2",
+    "title": "Surgery of the Stomach",
+    "section": "Esophagogastrectomy",
+    "text": "Esophagogastrectomy\n\n\n\n\n\nRemoves top part of stomach\nRemove bottom half of esophagus\nSurgery in both abdomen and chest"
+  },
+  {
     "objectID": "lci_gastrectomy.html#dual-tract-gastrectomy",
     "href": "lci_gastrectomy.html#dual-tract-gastrectomy",
     "title": "Surgery of the Stomach",
@@ -11722,7 +11792,7 @@
     "href": "lci_gastrectomy.html#laparoscopy-1",
     "title": "Surgery of the Stomach",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_gastrectomy.html#risks-of-surgery",
@@ -11792,7 +11862,7 @@
     "href": "lci_gastrectomy.htm#distal-gastrectomy",
     "title": "Surgery of the Stomach",
     "section": "Distal Gastrectomy",
-    "text": "Distal Gastrectomy\n\n\n\nRemoves bottom half of the stomach\nDoes not remove all lymph nodes"
+    "text": "Distal Gastrectomy\n\n\n\nRemoves bottom half of the stomach\nDoes lower lymph nodes"
   },
   {
     "objectID": "lci_gastrectomy.htm#distal-gastrectomy-1",
@@ -11813,7 +11883,7 @@
     "href": "lci_gastrectomy.htm#subtotal-gastrectomy",
     "title": "Surgery of the Stomach",
     "section": "Subtotal Gastrectomy",
-    "text": "Subtotal Gastrectomy\n\n\n\n\n\n\nRemoves bottom 2/3 of stomach\nRemoves nearby lymph nodes\nReconstruction with small intestine"
+    "text": "Subtotal Gastrectomy\n\n\n\nRemoves bottom 2/3 of stomach\nRemoves nearby lymph nodes\nReconstruction with small intestine"
   },
   {
     "objectID": "lci_gastrectomy.htm#subtotal-gastrectomy-1",
@@ -11851,6 +11921,20 @@
     "text": "Esophagogastrectomy\n\n\n\n\n\nRemoves top part of stomach\nRemove bottom half of esophagus\nSurgery in both abdomen and chest"
   },
   {
+    "objectID": "lci_gastrectomy.htm#esophagogastrectomy-1",
+    "href": "lci_gastrectomy.htm#esophagogastrectomy-1",
+    "title": "Surgery of the Stomach",
+    "section": "Esophagogastrectomy",
+    "text": "Esophagogastrectomy\n\n\n\n\n\nRemoves top part of stomach\nRemove bottom half of esophagus\nSurgery in both abdomen and chest"
+  },
+  {
+    "objectID": "lci_gastrectomy.htm#esophagogastrectomy-2",
+    "href": "lci_gastrectomy.htm#esophagogastrectomy-2",
+    "title": "Surgery of the Stomach",
+    "section": "Esophagogastrectomy",
+    "text": "Esophagogastrectomy\n\n\n\n\n\nRemoves top part of stomach\nRemove bottom half of esophagus\nSurgery in both abdomen and chest"
+  },
+  {
     "objectID": "lci_gastrectomy.htm#dual-tract-gastrectomy",
     "href": "lci_gastrectomy.htm#dual-tract-gastrectomy",
     "title": "Surgery of the Stomach",
@@ -11876,7 +11960,7 @@
     "href": "lci_gastrectomy.htm#laparoscopy-1",
     "title": "Surgery of the Stomach",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_gastrectomy.htm#risks-of-surgery",
@@ -12331,7 +12415,7 @@
     "href": "lci_esot3.html#laparoscopy-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_esot3.html#treatment-plan",
@@ -13073,7 +13157,7 @@
     "href": "lci_esot3.htm#laparoscopy-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Laparoscopy",
-    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions 1/4”\nTelescope examines the abdomen\nBiopsies can be performed."
+    "text": "Laparoscopy\n\n\n\nGeneral anesthetic\nSeveral 1/4” incisions\nTelescope examines the abdomen\nBiopsies can be performed."
   },
   {
     "objectID": "lci_esot3.htm#treatment-plan",
