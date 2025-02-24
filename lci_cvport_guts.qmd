@@ -89,7 +89,7 @@ A port can be used for blood draws for blood tests as well.
 
 :::::: columns
 ::: {.column width="50%"}
--   Implanted under the skin
+-   Implanted under skin
 -   Neck incision (1/4")
 -   Incision below the collarbone
 -   Sutures dissolve

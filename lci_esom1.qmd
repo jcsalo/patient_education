@@ -63,7 +63,7 @@ From the stomach, food moved through a valve called the pylorus into the small i
 
 :::::: columns
 ::: {.column width="50%"}
-Metastatic cancers spread from the esophagus to other parts of the body
+Metastatic cancers spread to other parts of the body
 
 -   **M0** cancers have not spread to other parts of the body
 -   **M1** cancers have spread lungs, liver, or bone
@@ -84,7 +84,7 @@ M1 cancers is also known as Stage 4
 
 -   Localized (T1b/T2) $\Rightarrow$ Surgery
 
--   Locally-advanced (T3/N1) $\Rightarrow$ Chemo $\pm$ Radiation $\rightarrow$Surgery
+-   Locally-advanced (T3M0) $\Rightarrow$ Chemo $\pm$ Radiation $\rightarrow$Surgery
 
 -   Metastatic (M1) $\Rightarrow$ Systemic Therapy $\pm$ Radiation
 
