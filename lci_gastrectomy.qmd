@@ -22,6 +22,7 @@ format:
 editor: visual
 bibliography: zotero.bib
 ---
+
 {{< include lci_gastrectomyt3_guts.qmd >}}
 
 {{< include lci_treatment_prep_guts.qmd >}}

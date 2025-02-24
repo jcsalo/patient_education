@@ -78,8 +78,7 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 :::::: columns
 ::: {.column width="50%"}
 -   Removes bottom half of the stomach
--   Does not remove all lymph nodes
-
+-   Does lower lymph nodes
 :::
 
 :::: {.column width="50%"}
@@ -137,8 +136,6 @@ Body is the mid-portion of the stomach
 
 :::::: columns
 ::: {.column width="50%"}
-\
-\
 
 -   Removes bottom 2/3 of stomach
 -   Removes nearby lymph nodes
@@ -212,7 +209,7 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/MIE_IvorLewisArtboard.png)
+![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor00_resection2_1600.png)
 :::
 ::::
 ::::::
@@ -220,6 +217,54 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 ::: {.content-hidden unless-format="docx"}
 If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
 :::
+
+## Esophagogastrectomy
+
+:::::: columns
+::: {.column width="50%"}
+\
+
+-   Removes top part of stomach
+-   Remove bottom half of esophagus
+-   Surgery in both abdomen and chest
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+
+![](https://deidt7p41jzcy.cloudfront.net/ivor_lewis_simple2_900.png)
+:::
+::::
+::::::
+
+::: {.content-hidden unless-format="docx"}
+If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
+:::
+
+
+## Esophagogastrectomy
+
+:::::: columns
+::: {.column width="50%"}
+\
+
+-   Removes top part of stomach
+-   Remove bottom half of esophagus
+-   Surgery in both abdomen and chest
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+
+![](https://deidt7p41jzcy.cloudfront.net/ivor_lewis_simple2.png)
+:::
+::::
+::::::
+
+::: {.content-hidden unless-format="docx"}
+If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
+:::
+
 
 ## Dual Tract Gastrectomy
 

@@ -257,8 +257,6 @@ The risk of cancer recurrence is minimized
 :::
 :::::
 
-
-
 {{< include lci_cvport_guts.qmd >}}
 
 ## Restaging
@@ -280,4 +278,3 @@ CT (or PET) scan performed after preoperative therapy
 {{< include lci_jejunostomy_guts.qmd >}}
 
 {{< include lci_surgery_guts.qmd >}}
-
