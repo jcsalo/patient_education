@@ -129,9 +129,11 @@ If the stomach is not suitable to make a new esophagus, the colon can be used to
 
 ![](https://deidt7p41jzcy.cloudfront.net/colon_interposition_elseiver.jpg)
 
-## Risks of Surgery
+## Risks of Esophagectomy
 
-An esophagectomy is a substantial operation, and in some cases there can be postoperative complications. We're going to talk about two of these complications and what you can do to reduce your risk of complications:
+Esophagectomy is a complex operation, with a real risk of complications.
+
+Two significant complications:
 
 -   Anastomotic leak
 -   Pneumonia
@@ -152,7 +154,7 @@ The anastomosis is surgical connection between the esophagus and the stomach.
 
 ::::: columns
 ::: {.column width="50%"}
-If anastomosis doesn't heal:
+If healing doesn't occur:
 
 -   Leakage of fluid from the esophagus
 -   Infection in the space between the lungs
@@ -168,7 +170,7 @@ If anastomosis doesn't heal:
 
 ::::: columns
 ::: {.column width="50%"}
-If an anastomotic leak occurs:
+If leak occurs:
 
 -   Some leaks will seal on their own
 -   A stent may be required to help healing
@@ -184,7 +186,7 @@ If an anastomotic leak occurs:
 
 ::::: columns
 ::: {.column width="50%"}
-Risk of a leak depends upon:
+Risk of leak depends on:
 
 -   Type of operation performed
 -   Overall nutritional status of patient

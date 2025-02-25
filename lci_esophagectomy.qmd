@@ -23,4 +23,6 @@ editor: visual
 bibliography: zotero.bib
 ---
 
-{{< include lci_surgery_guts.qmd >}}
+{{< include lci_esophagectomy_guts.qmd >}}
+
+{{< include lci_preop_guts.qmd >}}

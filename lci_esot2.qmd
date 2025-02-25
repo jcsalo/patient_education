@@ -500,6 +500,4 @@ When it is time for chemotherapy, a needle is inserted through the skin into the
 
 CT or PET scan will be performed after preoperative therapy
 
-## Surgery
-
-[Surgery Slideshow](lci_surgery.htm)
+{{< include lci_esophagectomy_guts.qmd >}}

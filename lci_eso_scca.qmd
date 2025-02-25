@@ -288,4 +288,4 @@ $\Rightarrow$ Surgery if a recurrence in the esophagus is found
 
 {{< include lci_gastrostomy_guts.qmd >}}
 
-{{< include lci_surgery_guts.qmd >}}
+{{< include lci_esophagectomy_guts.qmd >}}

@@ -313,4 +313,4 @@ CT (or PET) scan performed after preoperative therapy
 
 {{< include lci_jejunostomy_guts.qmd >}}
 
-{{< include lci_surgery_guts.qmd >}}
+{{< include lci_esophagectomy_guts.qmd >}}

@@ -11,7 +11,7 @@ output: html_document
 | Esophagus T2 | [HTML Slides](lci_esot2.htm) | [Handout](lci_esot2.pdf) | [PPTx](lci_esot2.pptx) | [Script](lci_esot2.docx) |
 | Esophagus T1 | [HTML Slides](lci_esot1.htm) | [Handout](lci_esot1.pdf) | [PPTx](lci_esot1.pptx) | [Script](lci_esot1.docx) |
 | Esophagus M1 | [HTML Slides](lci_esom1.htm) | [Handout](lci_esom1.pdf) | [PPTx](lci_esom1.pptx) | [Script](lci_esom1.docx) |
-| Esophagectomy | [HTML Slides](lci_surgery.htm) | [Handout](lci_surgery.pdf) | [PPTx](lci_surgery.pptx) | [Script](lci_surgery.docx) |
+| Esophagectomy | [HTML Slides](lci_esophagectomy.htm) | [Handout](lci_esophagectomy.pdf) | [PPTx](lci_esophagectomy.pptx) | [Script](lci_esophagectomy.docx) |
 ||||||
 | Gastric T3 | [HTML Slides](lci_gastrict3.htm) | [Handout](lci_gastrict3.pdf) | [PPTx](lci_gastrict3.pptx) | [Script](lci_gastrict3.docx) |
 | CDH1 | [HTML Slides](lci_cdh1.htm) | [Handout](lci_cdh1.pdf) | [PPTx](lci_cdh1.pptx) | [Script](lci_cdh1.docx) |

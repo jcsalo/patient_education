@@ -15,7 +15,7 @@ title: "Patient Education"
 
 [Esophagus T2](lci_esot2.htm)
 
-[Esophagectomy](lci_surgery.htm)
+[Esophagectomy](lci_esophagectomy.htm)
 
 
 ### Gastroesophageal Cancer

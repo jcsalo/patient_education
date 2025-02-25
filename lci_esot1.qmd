@@ -337,4 +337,4 @@ For patients with superficial cancers that can't be adequately treated with endo
 :::
 
 
-{{< include lci_surgery_guts.qmd >}}
+{{< include lci_esophagectomy_guts.qmd >}}
