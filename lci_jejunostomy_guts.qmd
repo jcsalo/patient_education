@@ -6,7 +6,7 @@
 -   Nutrition to bypasses the esophagus and stomach
 -   Placed in small intestine
 -   Pump administers feedings slowly
--   Feeding usually done at night
+-   Feeding done at night
 :::
 ::::
 
@@ -41,7 +41,6 @@ Typical Pattern for tube feeds
 -   Insulin at 6pm (70/30 insulin)
 -   Insulin at Midnight (70/30 insulin)
 -   No insulin if tube feedings are not run
-
 
 ## Jejunostomy Video
 

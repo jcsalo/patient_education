@@ -7,10 +7,10 @@
 ## Day of Surgery
 
 -   Arrive at 5am – nothing to eat or drink after midnight.
--   Medicines w/ a sip of water (or black coffee) but **no cream**.
--   Surgery will be cancelled if you have cream/milk
+-   Medicines OK w/ a sip of water 
+  - sip of black coffee but **no cream**.
+  - Surgery will be cancelled if you have cream/milk
 -   Waiting room for family and friends on 5th floor
--   Post-operative care in STICU (11th floor)
 
 ## Epidural Catheter for Pain Control
 
@@ -22,6 +22,7 @@
 
 ## ICU Stay (2-4 days)
 
+- Surgical ICU on 11th floor
 -   NG tube in nose to drain stomach and esophagus
 -   Catheter in bladder
 -   Chest tube right chest
@@ -31,7 +32,7 @@
 ## ICU
 
 -   Bladder catheter removed → check that bladder empties properly
--   Chest tube removed (day 2-4) → follow-up chest x-ray
+-   Chest tube removed (day 2-4) → follow-up x-ray
 -   Fluid emptied from drains every few hours
 -   Start tube feedings by feeding
 -   Feeding jejunostomy (stays in 8 weeks)
@@ -132,7 +133,7 @@ Dietitian will calculate daily protein goal
 -   Typically 60-75 grams protein/day
 -   Each carton of tube feeding has 15 grams
     -   75 grams protein = 5 cartons/night
--   As intake by mouth increases, tube feeds are reduced
+-   More intake by mouth $\rightarrow$ tube feeds reduced
 
 Spread out protein during the day (20gm/meal)
 
