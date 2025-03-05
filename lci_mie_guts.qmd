@@ -20,7 +20,7 @@
 -   May require foley catheter in bladder
 -   Foley catheter removed after epidural removed
 
-## ICU Stay (2-4 days)
+## Intensive Care Unit (ICU) (2-4 days)
 
 - Surgical ICU on 11th floor
 -   NG tube in nose to drain stomach and esophagus
@@ -29,7 +29,7 @@
 -   Abdominal drains (usually 2)
 -   Feeding jejunostomy (usually stays in 8 wks)
 
-## ICU
+## Intensive Care Unit (ICU)
 
 -   Bladder catheter removed → check that bladder empties properly
 -   Chest tube removed (day 2-4) → follow-up x-ray
@@ -60,7 +60,7 @@ Water administered through feeding tube
 
 {{< include lci_jejunostomy_guts.qmd >}}
 
-## Activity
+## Activity after Surgery
 
 -   Up in chair most of the day
 -   Walking with help from nurse/Physical Therapist
@@ -90,7 +90,7 @@ Modified barium swallow in radiology
 -   Look for proper swallowing function
 -   70% of patients $\Rightarrow$ liquids started by mouth
 
-## Protein Shakes
+## Oral Intake at Home
 
 Most are taking protein shakes when they go home
 
@@ -201,7 +201,7 @@ Remeron – Helps improve appetite
 -   Patients not taking a beta blocker prior to surgery $\rightarrow$ wean after after surgery
 -   Patients taking a beta blockerprior to surgery $\rightarrow$ return to prior dose and drug after surgery
 
-## Sleeping
+## Sleeping at Home
 
 ::::: columns
 ::: {.column width="50%"}
@@ -217,7 +217,7 @@ A wedge pillow can be helpful for sleep
 :::
 :::::
 
-## Postoperative Visit
+## Postoperative Visit at 7-10 Days
 
 Check surgical site
 
@@ -299,8 +299,10 @@ Surgeons
 
 Dietitian - Liz Koch
 
-Nurses - Brandon Galloway & Kit Sluder & Rebecca Wicks
-
-Schedulers - Stacey Singleton & Tony Bethea
+Nurses 
+- Brandon Galloway
+- Kit Sluder
+- Sarah Ezell
+- Rebecca Wicks
 
 Navigator - Laura Swift
