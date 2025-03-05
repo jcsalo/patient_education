@@ -4771,14 +4771,14 @@
     "href": "lci_esot3.htm#treatment-plan",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Treatment Plan",
-    "text": "Treatment Plan\n\n\nSuperficial (T1)\n\nEndoscopic Therapy\n\n\n\nLocalized (T1b/T2)\n\nSurgery (esophagectomy)\n\n\n\nLocally-advanced (T3M0)\n\nChemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\n\n\nMetastatic (M1)\n\nChemotherapy"
+    "text": "Treatment Plan\n\n\nSuperficial (T1): Endoscopic Therapy\n\n\n\nLocalized (T1b/T2): Surgery (esophagectomy)\n\n\n\nLocally-advanced (T3M0): Chemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\n\n\nMetastatic (M1): Chemotherapy"
   },
   {
     "objectID": "lci_esot3.htm#locally-advanced-cancers-1",
     "href": "lci_esot3.htm#locally-advanced-cancers-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Locally-advanced cancers",
-    "text": "Locally-advanced cancers\n\n\n\nPatients with locally-advanced esophageal cancer often have localized spread of cancer cells in the surrounding area"
+    "text": "Locally-advanced cancers\n\n\nPatients with locally-advanced esophageal cancer often have localized spread of cancer cells in the surrounding area"
   },
   {
     "objectID": "lci_esot3.htm#locally-advanced-cancers-2",
@@ -4865,6 +4865,13 @@
     "text": "Chemo + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\n\nSwallowing can be difficult the last 2 weeks.\n\n\nFeeding tube may be needed for hydration/nutrition."
   },
   {
+    "objectID": "lci_esot3.htm#adenocarcinoma-treatment-options",
+    "href": "lci_esot3.htm#adenocarcinoma-treatment-options",
+    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "section": "Adenocarcinoma Treatment Options",
+    "text": "Adenocarcinoma Treatment Options\nFor patients with adenocarcinoma an alternative to chemotherapy + radiation is “Sandwich” chemotherapy"
+  },
+  {
     "objectID": "lci_esot3.htm#locally-advanced-adenocarcinoma",
     "href": "lci_esot3.htm#locally-advanced-adenocarcinoma",
     "title": "T3 Cancer of the Esophagus and GE Junction",
@@ -4879,15 +4886,15 @@
     "text": "“Sandwich” Chemotherapy Drugs\n\n\nFLOT\n\n5-FU\nLeucovorion\nOxaliplatin\nTaxotere\n\n\nFOLFOX\n\n5-FU\nLeucovorin\nOxaliplatin"
   },
   {
-    "objectID": "lci_esot3.htm#adenocarcinoma-treatment-options",
-    "href": "lci_esot3.htm#adenocarcinoma-treatment-options",
+    "objectID": "lci_esot3.htm#adenocarcinoma-treatment-options-1",
+    "href": "lci_esot3.htm#adenocarcinoma-treatment-options-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Adenocarcinoma Treatment Options",
     "text": "Adenocarcinoma Treatment Options\n\n\nChemo + Radiation\n\nChemo+Radiation (6 wks)\nSurgery\n\n\nChemotherapy\n\nChemotherapy (8 wks)\nSurgery\nChemotherapy (8 wks)"
   },
   {
-    "objectID": "lci_esot3.htm#adenocarcinoma-treatment-options-1",
-    "href": "lci_esot3.htm#adenocarcinoma-treatment-options-1",
+    "objectID": "lci_esot3.htm#adenocarcinoma-treatment-options-2",
+    "href": "lci_esot3.htm#adenocarcinoma-treatment-options-2",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Adenocarcinoma Treatment Options",
     "text": "Adenocarcinoma Treatment Options\n\n\nCROSS Chemo + Radiation\n\nLonger track record\nBetter tolerated\nPort usually placed\nEating worse \\(\\rightarrow\\) better\nMay need feeding tube\n\n\nFLOT Chemotherapy\n\nMore effective\nMore side effects\nPort always required\nEating gets slowly better\nFeeding tube less likely"
@@ -5527,14 +5534,14 @@
     "href": "lci_esot3.html#treatment-plan",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Treatment Plan",
-    "text": "Treatment Plan\n\n\nSuperficial (T1)\n\nEndoscopic Therapy\n\n\n\nLocalized (T1b/T2)\n\nSurgery (esophagectomy)\n\n\n\nLocally-advanced (T3M0)\n\nChemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\n\n\nMetastatic (M1)\n\nChemotherapy"
+    "text": "Treatment Plan\n\n\nSuperficial (T1): Endoscopic Therapy\n\n\n\nLocalized (T1b/T2): Surgery (esophagectomy)\n\n\n\nLocally-advanced (T3M0): Chemo\\(\\pm\\)Radiation \\(\\rightarrow\\)Surgery\n\n\n\nMetastatic (M1): Chemotherapy"
   },
   {
     "objectID": "lci_esot3.html#locally-advanced-cancers-1",
     "href": "lci_esot3.html#locally-advanced-cancers-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Locally-advanced cancers",
-    "text": "Locally-advanced cancers\n\n\n\nPatients with locally-advanced esophageal cancer often have localized spread of cancer cells in the surrounding area"
+    "text": "Locally-advanced cancers\n\n\nPatients with locally-advanced esophageal cancer often have localized spread of cancer cells in the surrounding area"
   },
   {
     "objectID": "lci_esot3.html#locally-advanced-cancers-2",
@@ -5621,6 +5628,13 @@
     "text": "Chemo + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\n\nSwallowing can be difficult the last 2 weeks.\n\n\nFeeding tube may be needed for hydration/nutrition."
   },
   {
+    "objectID": "lci_esot3.html#adenocarcinoma-treatment-options",
+    "href": "lci_esot3.html#adenocarcinoma-treatment-options",
+    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "section": "Adenocarcinoma Treatment Options",
+    "text": "Adenocarcinoma Treatment Options\nFor patients with adenocarcinoma an alternative to chemotherapy + radiation is “Sandwich” chemotherapy"
+  },
+  {
     "objectID": "lci_esot3.html#locally-advanced-adenocarcinoma",
     "href": "lci_esot3.html#locally-advanced-adenocarcinoma",
     "title": "T3 Cancer of the Esophagus and GE Junction",
@@ -5635,15 +5649,15 @@
     "text": "“Sandwich” Chemotherapy Drugs\n\n\nFLOT\n\n5-FU\nLeucovorion\nOxaliplatin\nTaxotere\n\n\nFOLFOX\n\n5-FU\nLeucovorin\nOxaliplatin"
   },
   {
-    "objectID": "lci_esot3.html#adenocarcinoma-treatment-options",
-    "href": "lci_esot3.html#adenocarcinoma-treatment-options",
+    "objectID": "lci_esot3.html#adenocarcinoma-treatment-options-1",
+    "href": "lci_esot3.html#adenocarcinoma-treatment-options-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Adenocarcinoma Treatment Options",
     "text": "Adenocarcinoma Treatment Options\n\n\nChemo + Radiation\n\nChemo+Radiation (6 wks)\nSurgery\n\n\nChemotherapy\n\nChemotherapy (8 wks)\nSurgery\nChemotherapy (8 wks)"
   },
   {
-    "objectID": "lci_esot3.html#adenocarcinoma-treatment-options-1",
-    "href": "lci_esot3.html#adenocarcinoma-treatment-options-1",
+    "objectID": "lci_esot3.html#adenocarcinoma-treatment-options-2",
+    "href": "lci_esot3.html#adenocarcinoma-treatment-options-2",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Adenocarcinoma Treatment Options",
     "text": "Adenocarcinoma Treatment Options\n\n\nCROSS Chemo + Radiation\n\nLonger track record\nBetter tolerated\nPort usually placed\nEating worse \\(\\rightarrow\\) better\nMay need feeding tube\n\n\nFLOT Chemotherapy\n\nMore effective\nMore side effects\nPort always required\nEating gets slowly better\nFeeding tube less likely"
@@ -6349,25 +6363,60 @@
     "text": "Chemo + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\n\nSwallowing can be difficult the last 2 weeks.\n\n\nFeeding tube may be needed for hydration/nutrition."
   },
   {
-    "objectID": "lci_eso_scca.htm#chemotherapy",
-    "href": "lci_eso_scca.htm#chemotherapy",
+    "objectID": "lci_eso_scca.htm#chemotherapy-administration",
+    "href": "lci_eso_scca.htm#chemotherapy-administration",
     "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "Chemotherapy",
-    "text": "Chemotherapy\nChemotherapy drugs are administered intravenously.\nThere are several options for intravenous access:\n\nPeripheral IVs in the hand\nPICC line (Peripheral Inserted Central Catheter)\nCentral Venous Port\n\nCentral Venous Port"
+    "section": "Chemotherapy Administration",
+    "text": "Chemotherapy Administration\nMost chemotherapy is administered by vein.\nSeveral options exist to administer chemotherapy:\n\nIntravenous catheter in peripheral veins\nPeripheral Intravenous Central Catheter (PICC)\nCentral Venous port"
+  },
+  {
+    "objectID": "lci_eso_scca.htm#intravenous-catheter-in-peripheral-vein-iv",
+    "href": "lci_eso_scca.htm#intravenous-catheter-in-peripheral-vein-iv",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed in vein of hand or arm\nAllows administration of chemo and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemo"
+  },
+  {
+    "objectID": "lci_eso_scca.htm#picc-lines",
+    "href": "lci_eso_scca.htm#picc-lines",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "PICC Lines",
+    "text": "PICC Lines\n\n\n\nPlaced in Radiology\nStay in place during all of treatment\nNeeds to be kept clean and dry\nSuitable for FLOT chemotherapy"
+  },
+  {
+    "objectID": "lci_eso_scca.htm#central-venous-port",
+    "href": "lci_eso_scca.htm#central-venous-port",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "Central Venous Port",
+    "text": "Central Venous Port\n\n\n\nImplantable device makes chemo easier\nMay shower in 24 hrs\nNo special care at home\nOK for FLOT chemo\nAllows for blood draws"
+  },
+  {
+    "objectID": "lci_eso_scca.htm#central-venous-port-1",
+    "href": "lci_eso_scca.htm#central-venous-port-1",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "Central Venous Port",
+    "text": "Central Venous Port\n\n\n\nImplanted under skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
+  },
+  {
+    "objectID": "lci_eso_scca.htm#central-venous-port-2",
+    "href": "lci_eso_scca.htm#central-venous-port-2",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "Central Venous Port",
+    "text": "Central Venous Port\n\n\nWhen it is time for chemotherapy, a needle is inserted through the skin into the port"
   },
   {
     "objectID": "lci_eso_scca.htm#restaging",
     "href": "lci_eso_scca.htm#restaging",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Restaging",
-    "text": "Restaging\nCT or PET scan will be performed after preoperative therapy\n\n\n\nSurgery performed after restaging\nTiming depends upon recovery from therapy"
+    "text": "Restaging\nCT or PET scan performed after initial therapy\n\n\n\nSurgery performed after restaging\nTiming depends upon recovery from therapy"
   },
   {
-    "objectID": "lci_eso_scca.htm#restaging-endoscopy-after-chemo-radiation",
-    "href": "lci_eso_scca.htm#restaging-endoscopy-after-chemo-radiation",
+    "objectID": "lci_eso_scca.htm#endoscopy-after-initial-therapy",
+    "href": "lci_eso_scca.htm#endoscopy-after-initial-therapy",
     "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "Restaging Endoscopy after Chemo + Radiation",
-    "text": "Restaging Endoscopy after Chemo + Radiation\nEndoscopy is performed to look for signs of persistent cancer\nBiopsies are negative in approximately 75% of cases\nComplete disappearance of cancer is only found in 40% of cases\n\\(\\Rightarrow\\) cancer cells can hide in the wall of the esophagus"
+    "section": "Endoscopy after Initial Therapy",
+    "text": "Endoscopy after Initial Therapy\nPerformed to look for signs of persistent cancer\nBiopsies show no cancer in 75% of cases\nDisappearance of cancer in 40% of cases - Persistent cancer in 60%\n\\(\\Rightarrow\\) cancer cells can hide in the wall of the esophagus\nRegular endoscopy is important to look for regrowth of cancer"
   },
   {
     "objectID": "lci_eso_scca.htm#surgery-for-squamous-cell-carcinoma",
@@ -6389,34 +6438,6 @@
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Surveillance if Surgery Not Performed",
     "text": "Surveillance if Surgery Not Performed\n\nUpper endoscopy (EGD) every 3-6 months\nPET every 6 months\n\n\\(\\Rightarrow\\) Surgery if a recurrence in the esophagus is found"
-  },
-  {
-    "objectID": "lci_eso_scca.htm#primary-care-practitioner-pcp",
-    "href": "lci_eso_scca.htm#primary-care-practitioner-pcp",
-    "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "Primary Care Practitioner (PCP)",
-    "text": "Primary Care Practitioner (PCP)\nCritical to coordinate care between specialists.\nWe will update your PCP after each visit\nPCP Referral Line (844) 235-6998"
-  },
-  {
-    "objectID": "lci_eso_scca.htm#my-atrium-patient-portal",
-    "href": "lci_eso_scca.htm#my-atrium-patient-portal",
-    "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "My Atrium Patient Portal",
-    "text": "My Atrium Patient Portal\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
-  },
-  {
-    "objectID": "lci_eso_scca.htm#exercise",
-    "href": "lci_eso_scca.htm#exercise",
-    "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/wk\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
-  },
-  {
-    "objectID": "lci_eso_scca.htm#smoking-cessation",
-    "href": "lci_eso_scca.htm#smoking-cessation",
-    "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freedomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_eso_scca.htm#protein-needs",
@@ -6452,6 +6473,34 @@
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Gastrostomy Tube",
     "text": "Gastrostomy Tube\n\nOutpatient Placement (go home the same day)\nCentral venous port can be placed at the same time (if needed)"
+  },
+  {
+    "objectID": "lci_eso_scca.htm#primary-care-practitioner-pcp",
+    "href": "lci_eso_scca.htm#primary-care-practitioner-pcp",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "Primary Care Practitioner (PCP)",
+    "text": "Primary Care Practitioner (PCP)\nCritical to coordinate care between specialists.\nWe will update your PCP after each visit\nPCP Referral Line (844) 235-6998"
+  },
+  {
+    "objectID": "lci_eso_scca.htm#my-atrium-patient-portal",
+    "href": "lci_eso_scca.htm#my-atrium-patient-portal",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "My Atrium Patient Portal",
+    "text": "My Atrium Patient Portal\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+  },
+  {
+    "objectID": "lci_eso_scca.htm#exercise",
+    "href": "lci_eso_scca.htm#exercise",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "Exercise",
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/wk\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
+  },
+  {
+    "objectID": "lci_eso_scca.htm#smoking-cessation",
+    "href": "lci_eso_scca.htm#smoking-cessation",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "Smoking Cessation",
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freedomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_eso_scca.htm#surgery-for-esophageal-cancer",
@@ -7021,25 +7070,60 @@
     "text": "Chemo + Radiation - Side Effects\nKills cancer cells in the esophagus and lymph nodes\nCan also irritate the lining of the esophagus.\n\nSwallowing can be difficult the last 2 weeks.\n\n\nFeeding tube may be needed for hydration/nutrition."
   },
   {
-    "objectID": "lci_eso_scca.html#chemotherapy",
-    "href": "lci_eso_scca.html#chemotherapy",
+    "objectID": "lci_eso_scca.html#chemotherapy-administration",
+    "href": "lci_eso_scca.html#chemotherapy-administration",
     "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "Chemotherapy",
-    "text": "Chemotherapy\nChemotherapy drugs are administered intravenously.\nThere are several options for intravenous access:\n\nPeripheral IVs in the hand\nPICC line (Peripheral Inserted Central Catheter)\nCentral Venous Port\n\nCentral Venous Port"
+    "section": "Chemotherapy Administration",
+    "text": "Chemotherapy Administration\nMost chemotherapy is administered by vein.\nSeveral options exist to administer chemotherapy:\n\nIntravenous catheter in peripheral veins\nPeripheral Intravenous Central Catheter (PICC)\nCentral Venous port"
+  },
+  {
+    "objectID": "lci_eso_scca.html#intravenous-catheter-in-peripheral-vein-iv",
+    "href": "lci_eso_scca.html#intravenous-catheter-in-peripheral-vein-iv",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "Intravenous Catheter in Peripheral Vein (“IV”)",
+    "text": "Intravenous Catheter in Peripheral Vein (“IV”)\n\n\n\nIV catheter placed in vein of hand or arm\nAllows administration of chemo and fluids\nPlaced for each dose\nRemoved that day\nNot suitable for FLOT chemo"
+  },
+  {
+    "objectID": "lci_eso_scca.html#picc-lines",
+    "href": "lci_eso_scca.html#picc-lines",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "PICC Lines",
+    "text": "PICC Lines\n\n\n\nPlaced in Radiology\nStay in place during all of treatment\nNeeds to be kept clean and dry\nSuitable for FLOT chemotherapy"
+  },
+  {
+    "objectID": "lci_eso_scca.html#central-venous-port",
+    "href": "lci_eso_scca.html#central-venous-port",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "Central Venous Port",
+    "text": "Central Venous Port\n\n\n\nImplantable device makes chemo easier\nMay shower in 24 hrs\nNo special care at home\nOK for FLOT chemo\nAllows for blood draws"
+  },
+  {
+    "objectID": "lci_eso_scca.html#central-venous-port-1",
+    "href": "lci_eso_scca.html#central-venous-port-1",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "Central Venous Port",
+    "text": "Central Venous Port\n\n\n\nImplanted under skin\nNeck incision (1/4”)\nIncision below the collarbone\nSutures dissolve\n“Superglue” on incisions"
+  },
+  {
+    "objectID": "lci_eso_scca.html#central-venous-port-2",
+    "href": "lci_eso_scca.html#central-venous-port-2",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "Central Venous Port",
+    "text": "Central Venous Port\n\n\nWhen it is time for chemotherapy, a needle is inserted through the skin into the port"
   },
   {
     "objectID": "lci_eso_scca.html#restaging",
     "href": "lci_eso_scca.html#restaging",
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Restaging",
-    "text": "Restaging\nCT or PET scan will be performed after preoperative therapy\n\n\n\nSurgery performed after restaging\nTiming depends upon recovery from therapy"
+    "text": "Restaging\nCT or PET scan performed after initial therapy\n\n\n\nSurgery performed after restaging\nTiming depends upon recovery from therapy"
   },
   {
-    "objectID": "lci_eso_scca.html#restaging-endoscopy-after-chemo-radiation",
-    "href": "lci_eso_scca.html#restaging-endoscopy-after-chemo-radiation",
+    "objectID": "lci_eso_scca.html#endoscopy-after-initial-therapy",
+    "href": "lci_eso_scca.html#endoscopy-after-initial-therapy",
     "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "Restaging Endoscopy after Chemo + Radiation",
-    "text": "Restaging Endoscopy after Chemo + Radiation\nEndoscopy is performed to look for signs of persistent cancer\nBiopsies are negative in approximately 75% of cases\nComplete disappearance of cancer is only found in 40% of cases\n\\(\\Rightarrow\\) cancer cells can hide in the wall of the esophagus"
+    "section": "Endoscopy after Initial Therapy",
+    "text": "Endoscopy after Initial Therapy\nPerformed to look for signs of persistent cancer\nBiopsies show no cancer in 75% of cases\nDisappearance of cancer in 40% of cases - Persistent cancer in 60%\n\\(\\Rightarrow\\) cancer cells can hide in the wall of the esophagus\nRegular endoscopy is important to look for regrowth of cancer"
   },
   {
     "objectID": "lci_eso_scca.html#surgery-for-squamous-cell-carcinoma",
@@ -7061,34 +7145,6 @@
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Surveillance if Surgery Not Performed",
     "text": "Surveillance if Surgery Not Performed\n\nUpper endoscopy (EGD) every 3-6 months\nPET every 6 months\n\n\\(\\Rightarrow\\) Surgery if a recurrence in the esophagus is found"
-  },
-  {
-    "objectID": "lci_eso_scca.html#primary-care-practitioner-pcp",
-    "href": "lci_eso_scca.html#primary-care-practitioner-pcp",
-    "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "Primary Care Practitioner (PCP)",
-    "text": "Primary Care Practitioner (PCP)\nCritical to coordinate care between specialists.\nWe will update your PCP after each visit\nPCP Referral Line (844) 235-6998"
-  },
-  {
-    "objectID": "lci_eso_scca.html#my-atrium-patient-portal",
-    "href": "lci_eso_scca.html#my-atrium-patient-portal",
-    "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "My Atrium Patient Portal",
-    "text": "My Atrium Patient Portal\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
-  },
-  {
-    "objectID": "lci_eso_scca.html#exercise",
-    "href": "lci_eso_scca.html#exercise",
-    "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "Exercise",
-    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/wk\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
-  },
-  {
-    "objectID": "lci_eso_scca.html#smoking-cessation",
-    "href": "lci_eso_scca.html#smoking-cessation",
-    "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "Smoking Cessation",
-    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freedomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_eso_scca.html#protein-needs",
@@ -7124,6 +7180,34 @@
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Gastrostomy Tube",
     "text": "Gastrostomy Tube\n\nOutpatient Placement (go home the same day)\nCentral venous port can be placed at the same time (if needed)"
+  },
+  {
+    "objectID": "lci_eso_scca.html#primary-care-practitioner-pcp",
+    "href": "lci_eso_scca.html#primary-care-practitioner-pcp",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "Primary Care Practitioner (PCP)",
+    "text": "Primary Care Practitioner (PCP)\nCritical to coordinate care between specialists.\nWe will update your PCP after each visit\nPCP Referral Line (844) 235-6998"
+  },
+  {
+    "objectID": "lci_eso_scca.html#my-atrium-patient-portal",
+    "href": "lci_eso_scca.html#my-atrium-patient-portal",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "My Atrium Patient Portal",
+    "text": "My Atrium Patient Portal\n\nCritical to good communication with your care team\nAvailable for desktop or laptop or phone\nSign up at my.atriumhealth.org"
+  },
+  {
+    "objectID": "lci_eso_scca.html#exercise",
+    "href": "lci_eso_scca.html#exercise",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "Exercise",
+    "text": "Exercise\n\nReduces risk of complications from treatment\nGoal is 30min/day of vigorous exercise 6 days/wk\n\nWorking hard enough that you can’t converse\nStart slowly and build up\nEvery day counts! (Aim for daily activity)"
+  },
+  {
+    "objectID": "lci_eso_scca.html#smoking-cessation",
+    "href": "lci_eso_scca.html#smoking-cessation",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "Smoking Cessation",
+    "text": "Smoking Cessation\n\nSmoking makes cancer treatment more difficult\n\nIncreases risk of complications after surgery\n\nOptions for help with smoking cessation:\n\nNC Quit Line 1-800-QUIT-NOW (1-800-784-8669)\nAmerican Lung Assn www.freedomfromsmoking.org\nSmoking Cessation Counseling (Metro Charlotte)"
   },
   {
     "objectID": "lci_eso_scca.html#surgery-for-esophageal-cancer",
