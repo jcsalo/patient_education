@@ -1,14 +1,12 @@
-
 ## Total Gastrectomy
 
 :::::: columns
 ::: {.column width="50%"}
-\
 
-- Removes all of the stomach 
-- Reconstruction with small intestine 
-- Needed for those with CDH1 mutations
 
+-   Removes all of the stomach
+-   Reconstruction with small intestine
+-   Needed for those with CDH1 mutations
 :::
 
 :::: {.column width="50%"}

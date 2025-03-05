@@ -60,32 +60,32 @@ From the stomach, food moved through a valve called the pylorus into the small i
 ## Treatment Plan
 
 \
-Superficial (T1) $\Rightarrow$ Endoscopic Therapy\
+Superficial (T1a): Endoscopic Therapy\
 \
-Localized (T1b/T2) $\Rightarrow$ Surgery\
+Localized (T1b/T2): Surgery\
 \
-Locally-advanced (T3/N1) $\Rightarrow$ Chemo $\rightarrow$ Surgery$\rightarrow$Chemo\
+Locally-advanced (T3M0): Chemo $\rightarrow$ Surgery\
 \
-Metastatic (M1) $\Rightarrow$ Chemotherapy
+Metastatic (M1): Chemotherapy
 
 ::: {.content-hidden unless-format="docx"}
 This table summarizes four different treatment categories:
 
 -   Superficial cancers are T1 and can be treated by endoscopic therapy without the need for surgery
--   Localized cancers are T1b or T2 and are frequently treated by surgery alone without the need for chemotherapy or radiation
--   Locally-advanced cancers are T3 or N1 and are usually treated with chemotherapy prior to surgery
+-   Localized cancers are T1b or T2 and are frequently treated by surgery alone 
+-   Locally-advanced cancers are T3 and M0 and are usually treated with chemotherapy prior to surgery
 -   Metastatic cancers are M1 and are treated primary by chemotherapy.
 :::
 
 {{< include lci_flot_guts.qmd >}}
 
-## Tumor Biomarkers
+## Tumor Biomarkers - Additional Pathology Tests
 
-Pathology tests show whether other drugs may be helpful:
+Show whether other drugs may be helpful:
 
 -   HER-2 $\rightarrow$ Herceptin can be helpful
 -   PD-L1 $\rightarrow$ Immunotherapy can be helpful
--   MMR $\rightarrow$ Immunotherapy can be helpful
+-   MMR $\rightarrow$ Immunotherapy can be very helpful
 
 Biomarkers reported in a separate pathology report
 

@@ -36,7 +36,7 @@ Distal cancers are those in the lower part of the stomach
 \
 
 -   Removes the tumor
--   Does not remove lymph nodes
+-   Lymph nodes not removed
 -   Best suited for:
     -   Small adenocarcinoma
     -   GI Stromal Tumors
@@ -136,9 +136,8 @@ Body is the mid-portion of the stomach
 
 :::::: columns
 ::: {.column width="50%"}
-
 -   Removes bottom 2/3 of stomach
--   Removes nearby lymph nodes
+-   Removes lymph nodes
 -   Reconstruction with small intestine
 :::
 
@@ -231,7 +230,6 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-
 ![](https://deidt7p41jzcy.cloudfront.net/ivor_lewis_simple2_900.png)
 :::
 ::::
@@ -240,7 +238,6 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 ::: {.content-hidden unless-format="docx"}
 If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
 :::
-
 
 ## Esophagogastrectomy
 
@@ -255,7 +252,6 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-
 ![](https://deidt7p41jzcy.cloudfront.net/ivor_lewis_simple2.png)
 :::
 ::::
@@ -264,7 +260,6 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 ::: {.content-hidden unless-format="docx"}
 If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
 :::
-
 
 ## Dual Tract Gastrectomy
 
