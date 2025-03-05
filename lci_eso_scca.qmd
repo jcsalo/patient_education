@@ -137,10 +137,11 @@ Surgery is also recommended for patients who:
 
 $\Rightarrow$ Surgery if a recurrence in the esophagus is found
 
-{{< include lci_treatment_prep_guts.qmd >}}
-
 {{< include lci_nutrition_guts.qmd >}}
 
 {{< include lci_gastrostomy_guts.qmd >}}
+
+
+{{< include lci_treatment_prep_guts.qmd >}}
 
 {{< include lci_esophagectomy_guts.qmd >}}
