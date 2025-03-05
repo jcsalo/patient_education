@@ -89,36 +89,30 @@ This table summarizes four different treatment categories:
 
 {{< include lci_cross_guts.qmd >}}
 
-## Chemotherapy
+{{< include lci_cvport_guts.qmd >}}
 
-Chemotherapy drugs are administered intravenously.
-
-There are several options for intravenous access:
-
--   Peripheral IVs in the hand
--   PICC line (Peripheral Inserted Central Catheter)
--   Central Venous Port
-
-[Central Venous Port](lci_cvport.htm)
 
 ## Restaging
 
-CT or PET scan will be performed after preoperative therapy
+CT or PET scan performed after initial therapy
 
 \
 
 -   Surgery performed after restaging
 -   Timing depends upon recovery from therapy
 
-## Restaging Endoscopy after Chemo + Radiation
+## Endoscopy after Initial Therapy
 
-Endoscopy is performed to look for signs of persistent cancer
+Performed to look for signs of persistent cancer
 
-Biopsies are negative in approximately 75% of cases
+Biopsies show no cancer in 75% of cases
 
-Complete disappearance of cancer is only found in 40% of cases
+Disappearance of cancer in 40% of cases
+- Persistent cancer in 60%
 
 $\Rightarrow$ cancer cells can hide in the wall of the esophagus
+
+Regular endoscopy is important to look for regrowth of cancer
 
 ## Surgery for Squamous Cell Carcinoma
 
