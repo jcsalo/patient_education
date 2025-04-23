@@ -60,3 +60,18 @@ click exercise "exercise.html"
 
 
 ```
+
+
+```{mermaid}
+flowchart LR
+
+A[Preop Therapy] --> B{EGD + PET}
+
+B--> |Persistent Cancer| C(Surgery)
+B--> |No Cancer Seen| D{EGD every 3 months}
+
+D--> |No Cancer Seen| --> D
+D--> |Recurrent Cancer| 
+
+
+```

@@ -51,11 +51,9 @@ There are two common types of esophageal cancer
 
 In many ways, these to different types of esophageal cancer behave the same.
 
-
 {{< include lci_staging_guts.qmd >}}
 
 {{< include lci_laparoscopy_guts.qmd >}}
-
 
 ## Gastroesophageal Reflux
 
@@ -107,24 +105,21 @@ Over a period of years, pre-cancerous changes can develop within Barrett's esopa
 
 These changes can be seen by the pathologist from biopsies taken from the esophagus
 
-
-:::{.fragment}
+::: fragment
 Over time, low-grade dysplasia can progress to high-grade dysplasia
 :::
-
 
 ## Dysplasia $\rightarrow$ Cancer
 
 Low grade dysplasia: Risk of cancer 0.5% per year
 
-:::{.fragment}
+::: fragment
 High-grade dysplasia: Risk of cancer 5% per year
 :::
 
-:::{.fragment}
+::: fragment
 $\Rightarrow$ Surveillance with upper endoscopy is critical
 :::
-
 
 ## Radiofrequency ablation for Dysplasia
 
@@ -152,14 +147,14 @@ Becauase the risk of spread to the lymph nodes is very low, there tumors can oft
 
 :::::: columns
 ::: {.column width="50%"}
-Before Ablation 
+Before Ablation
 
 ![](https://deidt7p41jzcy.cloudfront.net/25FF4.jpg)
 :::
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-After Ablation 
+After Ablation
 
 ![](https://deidt7p41jzcy.cloudfront.net/25FF5after%20RFA.jpg)
 :::
@@ -172,33 +167,31 @@ Becauase the risk of spread to the lymph nodes is very low, there tumors can oft
 
 ## Treatment Plan
 
-::::: {style="font-size: 90%;"}
-
-::: {.fragment}
+::::::: {style="font-size: 90%;"}
+::: fragment
 Superficial (T1)
 
-- Endoscopic Therapy
+-   Endoscopic Therapy
 :::
 
-::: {.fragment}
+::: fragment
 Localized (T1b/T2)
 
-- Surgery (esophagectomy)
+-   Surgery (esophagectomy)
 :::
 
-::: {.fragment}
+::: fragment
 Locally-advanced (T3M0)
 
-- Chemo$\pm$Radiation $\rightarrow$Surgery
+-   Chemo$\pm$Radiation $\rightarrow$Surgery
 :::
 
-::: {.fragment}
+::: fragment
 Metastatic (M1)
 
-- Chemotherapy
+-   Chemotherapy
 :::
-
-:::::
+:::::::
 
 ::: {.content-hidden unless-format="docx"}
 This table summarizes four different treatment categories:
@@ -208,7 +201,6 @@ This table summarizes four different treatment categories:
 -   Locally-advanced cancers are T3 or N1 and are usually treated with some combination of chemotherapy and radiation prior to surgery
 -   Metastatic cancers are M1 and are treated primary by chemotherapy.
 :::
-
 
 ## Superficial Cancers
 
@@ -250,8 +242,6 @@ Endoscopic procedure to remove a superficial tumor from the inner layer of the e
 :::
 :::::
 
-
-
 ## Endoscopic Mucosal Resection - Favorable {auto-animate="true"}
 
 ::::: columns
@@ -266,23 +256,18 @@ Endoscopic procedure to remove a superficial tumor from the inner layer of the e
 :::
 :::::
 
-
-
-
 ## Endoscopic Mucosal Resection - Favorable {auto-animate="true"}
 
 ::::: columns
 ::: {.column width="50%"}
-- EMR may be the only treatment required
-- Requires endoscopic surveillance
+-   EMR may be the only treatment required
+-   Requires endoscopic surveillance
 :::
 
 ::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/emr_favorable_16001200.png)
 :::
 :::::
-
-
 
 ## Endoscopic Mucosal Resection - Unfavorable {auto-animate="true" auto-animate-restart="true"}
 
@@ -312,12 +297,9 @@ Endoscopic procedure to remove a superficial tumor from the inner layer of the e
 :::
 :::::
 
-
-
 ::: {.content-hidden unless-format="docx"}
 For patients with superficial cancers that can't be adequately treated with endoscopic therapy, surgery is usually recommended
 :::
-
 
 ## Endoscopic Mucosal Resection - Unfavorable {auto-animate="true"}
 
@@ -331,10 +313,8 @@ Esophagectomy (surgery) is standard recommendation
 :::
 :::::
 
-
 ::: {.content-hidden unless-format="docx"}
 For patients with superficial cancers that can't be adequately treated with endoscopic therapy, surgery is usually recommended
 :::
-
 
 {{< include lci_esophagectomy_guts.qmd >}}

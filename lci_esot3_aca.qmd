@@ -59,33 +59,31 @@ From the stomach, food moved through a valve called the pylorus into the small i
 
 ## Treatment Plan
 
-::::: {style="font-size: 90%;"}
-
-::: {.fragment}
+::::::: {style="font-size: 90%;"}
+::: fragment
 Superficial (T1)
 
-- Endoscopic Therapy
+-   Endoscopic Therapy
 :::
 
-::: {.fragment}
+::: fragment
 Localized (T1b/T2)
 
-- Surgery (esophagectomy)
+-   Surgery (esophagectomy)
 :::
 
-::: {.fragment}
+::: fragment
 Locally-advanced (T3M0)
 
-- Chemo$\pm$Radiation $\rightarrow$Surgery
+-   Chemo$\pm$Radiation $\rightarrow$Surgery
 :::
 
-::: {.fragment}
+::: fragment
 Metastatic (M1)
 
-- Chemotherapy
+-   Chemotherapy
 :::
-
-:::::
+:::::::
 
 ::: {.content-hidden unless-format="docx"}
 This table summarizes four different treatment categories:
@@ -95,8 +93,6 @@ This table summarizes four different treatment categories:
 -   Locally-advanced cancers are T3 or N1 and are usually treated with some combination of chemotherapy and radiation prior to surgery
 -   Metastatic cancers are M1 and are treated primary by chemotherapy.
 :::
-
-
 
 {{< include lci_la_guts.qmd >}}
 

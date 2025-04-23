@@ -1,6 +1,7 @@
 ---
 title: "Patient Education"
 ---
+
 [Images](images.html)
 
 <br/>
@@ -9,7 +10,7 @@ title: "Patient Education"
 
 ## [LCI Presentations](LCI.html)
 
-[Esophagus T3](lci_esot3.htm) 
+[Esophagus T3](lci_esot3.htm)
 
 [Esophagus T1-T2](lci_esot1.htm)
 
@@ -17,11 +18,10 @@ title: "Patient Education"
 
 [Esophagectomy](lci_esophagectomy.htm)
 
-
 ### Gastroesophageal Cancer
 
 | Topic | Script | HTML | PDF | Video |
-|:--------------|:-------------:|:-------------:|:-------------:|:-------------:|
+|:---|:--:|:--:|:--:|:--:|
 | LCI Introduction | [Script](lci_intro_script.docx) | [HTML](lci_intro.html) | [PDF](lci_intro.pdf) | [OLD Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
 | GE Diagnosis & Staging | [Script](ge_dx_staging_slides.html) | [HTML](ge_dx_staging.html) | [PDF](ge_dx_staging.pdf) | [OLD Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
 | Eso Treatment Options | [Script](eso_rx_options_slides.html) | [HTML](eso_tx_options.html) | [PDF](eso_rx_options.pdf) | [OLD Video](https://www.youtube.com/watch?v=Tk8cp3uL-lU) |
