@@ -22,7 +22,6 @@ format:
 editor: visual
 bibliography: zotero.bib
 ---
-
 ## GI Stromal Tumors
 
 -   Arise from the wall of the stomach
