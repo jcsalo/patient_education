@@ -50,7 +50,7 @@ bibliography: zotero.bib
 :::
 :::::
 
-## Benign or Malignant?
+## GIST: Benign or Malignant?
 
 GIST tumors have a range of behavior:
 
