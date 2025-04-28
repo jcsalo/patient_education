@@ -1,0 +1,167 @@
+---
+title: "Adenocarcinoma of the Esophagus and GE Junction"
+format: 
+  pptx: 
+    reference-doc: template.pptx
+  revealjs:
+    slide-number: c/t
+    width: 1280
+    height: 720
+    logo: "atriumlogo.jpg"
+    footer: "[LCI GI Oncology](https://jcsalo.github.io/patient_education/LCI.html)"
+    css: "lci_styles.css"
+    theme: [simple, lci.scss]
+    echo: false
+    transition: fade
+    #output-file: lci_esot3_slides.html
+    pdf-separate-fragments: true
+  html: default
+  docx:
+    number-sections: true
+    number-depth: 3
+editor: visual
+bibliography: zotero.bib
+---
+
+## Anatomy
+
+::::::: columns
+:::: {.column width="50%"}
+::: {style="font-size: 95%;"}
+Food moves from the throat
+
+$\rightarrow$ esophagus
+
+$\rightarrow$ stomach
+
+$\rightarrow$ small bowel (jejunum)
+:::
+::::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_Anatomy_Labels.png)\]
+:::
+::::
+:::::::
+
+::: {.content-hidden unless-format="docx"}
+We'll start with reviewing some anatomy about how the body digests food.
+
+Food moves from the throat to the esophagus, and from there to the stomach.
+
+From the stomach, food moved through a valve called the pylorus into the small intestines
+:::
+
+{{< include lci_staging_guts.qmd >}}
+
+{{< include lci_laparoscopy_guts.qmd >}}
+
+## Treatment Plan
+
+::::::: {style="font-size: 90%;"}
+::: fragment
+Superficial (T1)
+
+-   Endoscopic Therapy
+:::
+
+::: fragment
+Localized (T1b/T2)
+
+-   Surgery (esophagectomy)
+:::
+
+::: fragment
+Locally-advanced (T3M0)
+
+-   Chemo$\pm$Radiation $\rightarrow$Surgery
+:::
+
+::: fragment
+Metastatic (M1)
+
+-   Chemotherapy
+:::
+:::::::
+
+::: {.content-hidden unless-format="docx"}
+This table summarizes four different treatment categories:
+
+-   Superficial cancers are T1 and can be treated by endoscopic therapy without the need for surgery
+-   Localized cancers are T1b or T2 and are frequently treated by surgery alone without the need for chemotherapy or radiation
+-   Locally-advanced cancers are T3 or N1 and are usually treated with some combination of chemotherapy and radiation prior to surgery
+-   Metastatic cancers are M1 and are treated primary by chemotherapy.
+:::
+
+{{< include lci_la_guts.qmd >}}
+
+{{< include lci_cross_guts.qmd >}}
+
+{{< include lci_flot_guts.qmd >}}
+
+## Adenocarcinoma Treatment Options
+
+::::: columns
+::: {.column width="45%"}
+**Chemo + Radiation**
+
+-   Chemo + Radiation (6wk)
+-   Surgery
+:::
+
+::: {.column width="55%"}
+**Chemotherapy**
+
+-   Chemo (8wk)
+-   Surgery
+-   Chemo (8wk)
+:::
+:::::
+
+## Adenocarcinoma Treatment Options
+
+::::: columns
+::: {.column width="50%"}
+**Chemo + Radiation**
+
+-   Longer track record
+-   Better tolerated
+-   Port usually placed
+-   Eating worse $\rightarrow$ better
+-   May need feeding tube
+:::
+
+::: {.column width="50%"}
+**Chemotherapy**
+
+-   More effective
+-   More side effects
+-   Port always required
+-   Eating slowly improves
+-   Less likely to need feeding tube
+:::
+:::::
+
+{{< include lci_cvport_guts.qmd >}}
+
+## Restaging
+
+CT or PET scan will be performed after preoperative therapy
+
+\
+
+-   Surgery performed after restaging
+-   Timing depends upon recovery from therapy
+
+{{< include lci_active_surveillance_guts.qmd >}}
+
+{{< include lci_treatment_prep_guts.qmd >}}
+
+{{< include lci_nutrition_guts.qmd >}}
+
+{{< include lci_gastrostomy_guts.qmd >}}
+
+{{< include lci_jejunostomy_guts.qmd >}}
+
+{{< include lci_esophagectomy_guts.qmd >}}
