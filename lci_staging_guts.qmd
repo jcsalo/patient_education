@@ -137,6 +137,7 @@ Some cancers spread to other parts of the body
 Similar to CT scan
 
 Tracer shows 'hot spots'
+
 -   Cancer
 -   Inflammation or infection
 -   Normal organs (heart)
