@@ -34,3 +34,58 @@ Two different drug combinations:
 -   Oxaliplatin
 :::
 :::::
+
+## FLOT Treatment Plan
+
+- FLOT Chemo every 2 weeks x 4 (=8 weeks total)
+- Surgery (4-6 weeks later)
+- FLOT Chemo every 2 weeks x 4 (=8 weeks total)
+
+
+
+## Immunotherapy
+
+Immunotherapy is a form of cancer treatment that stimulates your immune system to fight cancer.
+
+Some cancer cells will turn off immune cells using a protein called PD-L1.  Immunotherapy can counteract this "off signal" and gives immune cells a "turn on signal" so that they fight cancer.
+
+Darvalumab is an immunotherapy drug that fights cancers by counteracting PD-L1
+
+## Matterhorn Trial
+
+The Matterhorn clinical trial compared two types of treatment:
+
+FLOT x 4 doses -> Surgery -> FLOT x 4 doses
+
+FLOT + Durvalumab -> Surgery -> FLOT + Durvalumab -> Durvalumab
+
+Better survival with addition of durvalumab
+
+## 
+
+
+::::: columns
+::: {.column width="50%"}
+**FLOT**
+
+- FLOT Chemo every 2 weeks x 4 (=8 weeks total)
+- Surgery (4-6 weeks later)
+- FLOT Chemo every 2 weeks x 4 (=8 weeks total)
+
+:::
+
+::: {.column width="50%"}
+**FLOT + Durvalumab**
+
+- FLOT Chemo every 2 weeks x 4 (=8 weeks total)
+  - Durvalumab 2 doses
+- Surgery (4-6 weeks later)
+- FLOT Chemo every 2 weeks x 4 (=8 weeks total)
+  - Durvalumab 2 doses
+Durvalumab 10 doses every month
+
+
+
+
+:::
+:::::
