@@ -4,10 +4,10 @@ output: html_document
 ---
 
 |  |  |  |  |  |
-|---------------|---------------|---------------|---------------|---------------|
+|----|----|----|----|----|
 | Esophagus T3 | [HTML Slides](lci_esot3.htm) | [Handout](lci_esot3.pdf) | [PPTx](lci_esot3.pptx) | [Script](lci_esot3.docx) |
 | Esophagus ACA | [HTML Slides](lci_esot3_aca.htm) | [Handout](lci_esot3_aca.pdf) | [PPTx](lci_esot3_aca.pptx) | [Script](lci_esot3_aca.docx) |
-| Esophagus ACA_AS | [HTML Slides](lci_esot3_aca_as.htm) | [Handout](lci_esot3_aca_as.pdf)  | [PPTx](lci_esot3_aca_as.pptx) | [Script](lci_esot3_aca_as.docx) |
+| Esophagus ACA_AS | [HTML Slides](lci_esot3_aca_as.htm) | [Handout](lci_esot3_aca_as.pdf) | [PPTx](lci_esot3_aca_as.pptx) | [Script](lci_esot3_aca_as.docx) |
 | Esophagus SCCA | [HTML Slides](lci_eso_scca.htm) | [Handout](lci_eso_scca.pdf) | [PPTx](lci_eso_scca.pptx) | [Script](lci_eso_scca.docx) |
 | Esophagus T2 | [HTML Slides](lci_esot2.htm) | [Handout](lci_esot2.pdf) | [PPTx](lci_esot2.pptx) | [Script](lci_esot2.docx) |
 | Esophagus T1 | [HTML Slides](lci_esot1.htm) | [Handout](lci_esot1.pdf) | [PPTx](lci_esot1.pptx) | [Script](lci_esot1.docx) |
