@@ -43,55 +43,43 @@ Two different drug combinations:
 -   Surgery (4-6 weeks later)
 -   FLOT Chemo every 2 weeks x 4 (=8 weeks total)
 
-## Immunotherapy
+## Durvalumab Immunotherapy
 
-Immunotherapy is a form of cancer treatment that stimulates your immune system to fight cancer.
+Cancer cells can turn off immune cells using a protein PD-L1
 
-Some cancer cells will turn off immune cells using a protein called PD-L1. Immunotherapy can counteract this "off signal" and gives immune cells a "turn on signal" so that they fight cancer.
+Darvalumab turns on immune cells by counteracting PD-L1
 
-Darvalumab is an immunotherapy drug that fights cancers by counteracting PD-L1
+Durvalumab strengthens the immmune system to fight cancer
 
 ## Matterhorn Trial
 
 The Matterhorn clinical trial compared two types of treatment:
 
-FLOT x 4 doses -\> Surgery -\> FLOT x 4 doses
+FLOT  $\rightarrow$ Surgery $\rightarrow$ FLOT 
 
-FLOT + Durvalumab -\> Surgery -\> FLOT + Durvalumab -\> Durvalumab
+FLOT + Durvalumab $\rightarrow$ Surgery $\rightarrow$ FLOT + Durvalumab 
 
-Better survival with addition of durvalumab
+Better survival with addition of durvalumab to FLOT
 
-## FLOT± Durvalumab
+**Treatment with durvalumab depends upon approval from insurance company**
+
+## FLOT Chemo ± Durvalumab
 
 ::::: columns
 ::: {.column width="50%"}
-**FLOT**
+**FLOT Chemotherapy**
 
--   FLOT Chemo every 2 weeks x 4 (=8 weeks total)
+-   FLOT  (8 weeks)
 -   Surgery (4-6 weeks later)
--   FLOT Chemo every 2 weeks x 4 (=8 weeks total)
+-   FLOT  (8 weeks)
 :::
 
 ::: {.column width="50%"}
 **FLOT + Durvalumab**
 
--   FLOT Chemo every 2 weeks x 4 (=8 weeks total)
-    -   Durvalumab 2 doses
+-   FLOT + Durvalumab  (8 wks)
 -   Surgery (4-6 weeks later)
--   FLOT Chemo every 2 weeks x 4 (=8 weeks total)
-  -   Durvalumab 2 doses
--   Durvalumab 10 doses every month
+-   FLOT  + Durvalumab (8 wks)
+-   Durvalumab monthly x10
 :::
 :::::
-
-## Matterhorn Trial
-
-The Matterhorn clinical trial compared two types of treatment:
-
-FLOT x 4 doses -\> Surgery -\> FLOT x 4 doses
-
-FLOT + Durvalumab -\> Surgery -\> FLOT + Durvalumab -\> Durvalumab
-
-Better survival with addition of durvalumab
-
-**Treatment with durvalumab depends upon approval from insurance company**
