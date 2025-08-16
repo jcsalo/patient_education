@@ -4032,32 +4032,25 @@
     "text": "FLOT Treatment Plan\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)"
   },
   {
-    "objectID": "lci_esot3_aca_as.htm#immunotherapy",
-    "href": "lci_esot3_aca_as.htm#immunotherapy",
+    "objectID": "lci_esot3_aca_as.htm#durvalumab-immunotherapy",
+    "href": "lci_esot3_aca_as.htm#durvalumab-immunotherapy",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
-    "section": "Immunotherapy",
-    "text": "Immunotherapy\nImmunotherapy is a form of cancer treatment that stimulates your immune system to fight cancer.\nSome cancer cells will turn off immune cells using a protein called PD-L1. Immunotherapy can counteract this “off signal” and gives immune cells a “turn on signal” so that they fight cancer.\nDarvalumab is an immunotherapy drug that fights cancers by counteracting PD-L1"
+    "section": "Durvalumab Immunotherapy",
+    "text": "Durvalumab Immunotherapy\nCancer cells can turn off immune cells using a protein PD-L1\nDarvalumab turns on immune cells by counteracting PD-L1\nDurvalumab strengthens the immmune system to fight cancer"
   },
   {
     "objectID": "lci_esot3_aca_as.htm#matterhorn-trial",
     "href": "lci_esot3_aca_as.htm#matterhorn-trial",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Matterhorn Trial",
-    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT x 4 doses -&gt; Surgery -&gt; FLOT x 4 doses\nFLOT + Durvalumab -&gt; Surgery -&gt; FLOT + Durvalumab -&gt; Durvalumab\nBetter survival with addition of durvalumab"
+    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT\nFLOT + Durvalumab \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT + Durvalumab\nBetter survival with addition of durvalumab to FLOT\nTreatment with durvalumab depends upon approval from insurance company"
   },
   {
-    "objectID": "lci_esot3_aca_as.htm#flot-durvalumab",
-    "href": "lci_esot3_aca_as.htm#flot-durvalumab",
+    "objectID": "lci_esot3_aca_as.htm#flot-chemo-durvalumab",
+    "href": "lci_esot3_aca_as.htm#flot-chemo-durvalumab",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
-    "section": "FLOT± Durvalumab",
-    "text": "FLOT± Durvalumab\n\n\nFLOT\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\n\n\nFLOT + Durvalumab\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\n\nDurvalumab 2 doses\n\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nDurvalumab 2 doses\nDurvalumab 10 doses every month"
-  },
-  {
-    "objectID": "lci_esot3_aca_as.htm#matterhorn-trial-1",
-    "href": "lci_esot3_aca_as.htm#matterhorn-trial-1",
-    "title": "Adenocarcinoma of the Esophagus and GE Junction",
-    "section": "Matterhorn Trial",
-    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT x 4 doses -&gt; Surgery -&gt; FLOT x 4 doses\nFLOT + Durvalumab -&gt; Surgery -&gt; FLOT + Durvalumab -&gt; Durvalumab\nBetter survival with addition of durvalumab\nTreatment with durvalumab depends upon approval from insurance company"
+    "section": "FLOT Chemo ± Durvalumab",
+    "text": "FLOT Chemo ± Durvalumab\n\n\nFLOT Chemotherapy\n\nFLOT (8 weeks)\nSurgery (4-6 weeks later)\nFLOT (8 weeks)\n\n\nFLOT + Durvalumab\n\nFLOT + Durvalumab (8 wks)\nSurgery (4-6 weeks later)\nFLOT + Durvalumab (8 wks)\nDurvalumab monthly x10"
   },
   {
     "objectID": "lci_esot3_aca_as.htm#adenocarcinoma-treatment-options",
@@ -4858,32 +4851,25 @@
     "text": "FLOT Treatment Plan\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)"
   },
   {
-    "objectID": "lci_esot3_aca_as.html#immunotherapy",
-    "href": "lci_esot3_aca_as.html#immunotherapy",
+    "objectID": "lci_esot3_aca_as.html#durvalumab-immunotherapy",
+    "href": "lci_esot3_aca_as.html#durvalumab-immunotherapy",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
-    "section": "Immunotherapy",
-    "text": "Immunotherapy\nImmunotherapy is a form of cancer treatment that stimulates your immune system to fight cancer.\nSome cancer cells will turn off immune cells using a protein called PD-L1. Immunotherapy can counteract this “off signal” and gives immune cells a “turn on signal” so that they fight cancer.\nDarvalumab is an immunotherapy drug that fights cancers by counteracting PD-L1"
+    "section": "Durvalumab Immunotherapy",
+    "text": "Durvalumab Immunotherapy\nCancer cells can turn off immune cells using a protein PD-L1\nDarvalumab turns on immune cells by counteracting PD-L1\nDurvalumab strengthens the immmune system to fight cancer"
   },
   {
     "objectID": "lci_esot3_aca_as.html#matterhorn-trial",
     "href": "lci_esot3_aca_as.html#matterhorn-trial",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Matterhorn Trial",
-    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT x 4 doses -&gt; Surgery -&gt; FLOT x 4 doses\nFLOT + Durvalumab -&gt; Surgery -&gt; FLOT + Durvalumab -&gt; Durvalumab\nBetter survival with addition of durvalumab"
+    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT\nFLOT + Durvalumab \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT + Durvalumab\nBetter survival with addition of durvalumab to FLOT\nTreatment with durvalumab depends upon approval from insurance company"
   },
   {
-    "objectID": "lci_esot3_aca_as.html#flot-durvalumab",
-    "href": "lci_esot3_aca_as.html#flot-durvalumab",
+    "objectID": "lci_esot3_aca_as.html#flot-chemo-durvalumab",
+    "href": "lci_esot3_aca_as.html#flot-chemo-durvalumab",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
-    "section": "FLOT± Durvalumab",
-    "text": "FLOT± Durvalumab\n\n\nFLOT\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\n\n\nFLOT + Durvalumab\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\n\nDurvalumab 2 doses\n\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nDurvalumab 2 doses\nDurvalumab 10 doses every month"
-  },
-  {
-    "objectID": "lci_esot3_aca_as.html#matterhorn-trial-1",
-    "href": "lci_esot3_aca_as.html#matterhorn-trial-1",
-    "title": "Adenocarcinoma of the Esophagus and GE Junction",
-    "section": "Matterhorn Trial",
-    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT x 4 doses -&gt; Surgery -&gt; FLOT x 4 doses\nFLOT + Durvalumab -&gt; Surgery -&gt; FLOT + Durvalumab -&gt; Durvalumab\nBetter survival with addition of durvalumab\nTreatment with durvalumab depends upon approval from insurance company"
+    "section": "FLOT Chemo ± Durvalumab",
+    "text": "FLOT Chemo ± Durvalumab\n\n\nFLOT Chemotherapy\n\nFLOT (8 weeks)\nSurgery (4-6 weeks later)\nFLOT (8 weeks)\n\n\nFLOT + Durvalumab\n\nFLOT + Durvalumab (8 wks)\nSurgery (4-6 weeks later)\nFLOT + Durvalumab (8 wks)\nDurvalumab monthly x10"
   },
   {
     "objectID": "lci_esot3_aca_as.html#adenocarcinoma-treatment-options",
@@ -8484,32 +8470,25 @@
     "text": "FLOT Treatment Plan\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)"
   },
   {
-    "objectID": "lci_gastrict3.htm#immunotherapy",
-    "href": "lci_gastrict3.htm#immunotherapy",
+    "objectID": "lci_gastrict3.htm#durvalumab-immunotherapy",
+    "href": "lci_gastrict3.htm#durvalumab-immunotherapy",
     "title": "T3 Cancer of the Stomach",
-    "section": "Immunotherapy",
-    "text": "Immunotherapy\nImmunotherapy is a form of cancer treatment that stimulates your immune system to fight cancer.\nSome cancer cells will turn off immune cells using a protein called PD-L1. Immunotherapy can counteract this “off signal” and gives immune cells a “turn on signal” so that they fight cancer.\nDarvalumab is an immunotherapy drug that fights cancers by counteracting PD-L1"
+    "section": "Durvalumab Immunotherapy",
+    "text": "Durvalumab Immunotherapy\nCancer cells can turn off immune cells using a protein PD-L1\nDarvalumab turns on immune cells by counteracting PD-L1\nDurvalumab strengthens the immmune system to fight cancer"
   },
   {
     "objectID": "lci_gastrict3.htm#matterhorn-trial",
     "href": "lci_gastrict3.htm#matterhorn-trial",
     "title": "T3 Cancer of the Stomach",
     "section": "Matterhorn Trial",
-    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT x 4 doses -&gt; Surgery -&gt; FLOT x 4 doses\nFLOT + Durvalumab -&gt; Surgery -&gt; FLOT + Durvalumab -&gt; Durvalumab\nBetter survival with addition of durvalumab"
+    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT\nFLOT + Durvalumab \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT + Durvalumab\nBetter survival with addition of durvalumab to FLOT\nTreatment with durvalumab depends upon approval from insurance company"
   },
   {
-    "objectID": "lci_gastrict3.htm#flot-durvalumab",
-    "href": "lci_gastrict3.htm#flot-durvalumab",
+    "objectID": "lci_gastrict3.htm#flot-chemo-durvalumab",
+    "href": "lci_gastrict3.htm#flot-chemo-durvalumab",
     "title": "T3 Cancer of the Stomach",
-    "section": "FLOT± Durvalumab",
-    "text": "FLOT± Durvalumab\n\n\nFLOT\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\n\n\nFLOT + Durvalumab\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\n\nDurvalumab 2 doses\n\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nDurvalumab 2 doses\nDurvalumab 10 doses every month"
-  },
-  {
-    "objectID": "lci_gastrict3.htm#matterhorn-trial-1",
-    "href": "lci_gastrict3.htm#matterhorn-trial-1",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Matterhorn Trial",
-    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT x 4 doses -&gt; Surgery -&gt; FLOT x 4 doses\nFLOT + Durvalumab -&gt; Surgery -&gt; FLOT + Durvalumab -&gt; Durvalumab\nBetter survival with addition of durvalumab\nTreatment with durvalumab depends upon approval from insurance company"
+    "section": "FLOT Chemo ± Durvalumab",
+    "text": "FLOT Chemo ± Durvalumab\n\n\nFLOT Chemotherapy\n\nFLOT (8 weeks)\nSurgery (4-6 weeks later)\nFLOT (8 weeks)\n\n\nFLOT + Durvalumab\n\nFLOT + Durvalumab (8 wks)\nSurgery (4-6 weeks later)\nFLOT + Durvalumab (8 wks)\nDurvalumab monthly x10"
   },
   {
     "objectID": "lci_gastrict3.htm#tumor-biomarkers---additional-pathology-tests",
@@ -8897,32 +8876,25 @@
     "text": "FLOT Treatment Plan\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)"
   },
   {
-    "objectID": "lci_gastrict3.html#immunotherapy",
-    "href": "lci_gastrict3.html#immunotherapy",
+    "objectID": "lci_gastrict3.html#durvalumab-immunotherapy",
+    "href": "lci_gastrict3.html#durvalumab-immunotherapy",
     "title": "T3 Cancer of the Stomach",
-    "section": "Immunotherapy",
-    "text": "Immunotherapy\nImmunotherapy is a form of cancer treatment that stimulates your immune system to fight cancer.\nSome cancer cells will turn off immune cells using a protein called PD-L1. Immunotherapy can counteract this “off signal” and gives immune cells a “turn on signal” so that they fight cancer.\nDarvalumab is an immunotherapy drug that fights cancers by counteracting PD-L1"
+    "section": "Durvalumab Immunotherapy",
+    "text": "Durvalumab Immunotherapy\nCancer cells can turn off immune cells using a protein PD-L1\nDarvalumab turns on immune cells by counteracting PD-L1\nDurvalumab strengthens the immmune system to fight cancer"
   },
   {
     "objectID": "lci_gastrict3.html#matterhorn-trial",
     "href": "lci_gastrict3.html#matterhorn-trial",
     "title": "T3 Cancer of the Stomach",
     "section": "Matterhorn Trial",
-    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT x 4 doses -&gt; Surgery -&gt; FLOT x 4 doses\nFLOT + Durvalumab -&gt; Surgery -&gt; FLOT + Durvalumab -&gt; Durvalumab\nBetter survival with addition of durvalumab"
+    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT\nFLOT + Durvalumab \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT + Durvalumab\nBetter survival with addition of durvalumab to FLOT\nTreatment with durvalumab depends upon approval from insurance company"
   },
   {
-    "objectID": "lci_gastrict3.html#flot-durvalumab",
-    "href": "lci_gastrict3.html#flot-durvalumab",
+    "objectID": "lci_gastrict3.html#flot-chemo-durvalumab",
+    "href": "lci_gastrict3.html#flot-chemo-durvalumab",
     "title": "T3 Cancer of the Stomach",
-    "section": "FLOT± Durvalumab",
-    "text": "FLOT± Durvalumab\n\n\nFLOT\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\n\n\nFLOT + Durvalumab\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\n\nDurvalumab 2 doses\n\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nDurvalumab 2 doses\nDurvalumab 10 doses every month"
-  },
-  {
-    "objectID": "lci_gastrict3.html#matterhorn-trial-1",
-    "href": "lci_gastrict3.html#matterhorn-trial-1",
-    "title": "T3 Cancer of the Stomach",
-    "section": "Matterhorn Trial",
-    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT x 4 doses -&gt; Surgery -&gt; FLOT x 4 doses\nFLOT + Durvalumab -&gt; Surgery -&gt; FLOT + Durvalumab -&gt; Durvalumab\nBetter survival with addition of durvalumab\nTreatment with durvalumab depends upon approval from insurance company"
+    "section": "FLOT Chemo ± Durvalumab",
+    "text": "FLOT Chemo ± Durvalumab\n\n\nFLOT Chemotherapy\n\nFLOT (8 weeks)\nSurgery (4-6 weeks later)\nFLOT (8 weeks)\n\n\nFLOT + Durvalumab\n\nFLOT + Durvalumab (8 wks)\nSurgery (4-6 weeks later)\nFLOT + Durvalumab (8 wks)\nDurvalumab monthly x10"
   },
   {
     "objectID": "lci_gastrict3.html#tumor-biomarkers---additional-pathology-tests",
@@ -10927,32 +10899,25 @@
     "text": "FLOT Treatment Plan\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)"
   },
   {
-    "objectID": "lci_flot_guts.htm#immunotherapy",
-    "href": "lci_flot_guts.htm#immunotherapy",
+    "objectID": "lci_flot_guts.htm#durvalumab-immunotherapy",
+    "href": "lci_flot_guts.htm#durvalumab-immunotherapy",
     "title": "Patient Education",
-    "section": "Immunotherapy",
-    "text": "Immunotherapy\nImmunotherapy is a form of cancer treatment that stimulates your immune system to fight cancer.\nSome cancer cells will turn off immune cells using a protein called PD-L1. Immunotherapy can counteract this “off signal” and gives immune cells a “turn on signal” so that they fight cancer.\nDarvalumab is an immunotherapy drug that fights cancers by counteracting PD-L1"
+    "section": "Durvalumab Immunotherapy",
+    "text": "Durvalumab Immunotherapy\nCancer cells can turn off immune cells using a protein PD-L1\nDarvalumab turns on immune cells by counteracting PD-L1\nDurvalumab strengthens the immmune system to fight cancer"
   },
   {
     "objectID": "lci_flot_guts.htm#matterhorn-trial",
     "href": "lci_flot_guts.htm#matterhorn-trial",
     "title": "Patient Education",
     "section": "Matterhorn Trial",
-    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT x 4 doses -&gt; Surgery -&gt; FLOT x 4 doses\nFLOT + Durvalumab -&gt; Surgery -&gt; FLOT + Durvalumab -&gt; Durvalumab\nBetter survival with addition of durvalumab"
+    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT\nFLOT + Durvalumab \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT + Durvalumab\nBetter survival with addition of durvalumab to FLOT\nTreatment with durvalumab depends upon approval from insurance company"
   },
   {
-    "objectID": "lci_flot_guts.htm#flot-durvalumab",
-    "href": "lci_flot_guts.htm#flot-durvalumab",
+    "objectID": "lci_flot_guts.htm#flot-chemo-durvalumab",
+    "href": "lci_flot_guts.htm#flot-chemo-durvalumab",
     "title": "Patient Education",
-    "section": "FLOT± Durvalumab",
-    "text": "FLOT± Durvalumab\n\n\nFLOT\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\n\n\nFLOT + Durvalumab\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\n\nDurvalumab 2 doses\n\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nDurvalumab 2 doses\nDurvalumab 10 doses every month"
-  },
-  {
-    "objectID": "lci_flot_guts.htm#matterhorn-trial-1",
-    "href": "lci_flot_guts.htm#matterhorn-trial-1",
-    "title": "Patient Education",
-    "section": "Matterhorn Trial",
-    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT x 4 doses -&gt; Surgery -&gt; FLOT x 4 doses\nFLOT + Durvalumab -&gt; Surgery -&gt; FLOT + Durvalumab -&gt; Durvalumab\nBetter survival with addition of durvalumab\nTreatment with durvalumab depends upon approval from insurance company"
+    "section": "FLOT Chemo ± Durvalumab",
+    "text": "FLOT Chemo ± Durvalumab\n\n\nFLOT Chemotherapy\n\nFLOT (8 weeks)\nSurgery (4-6 weeks later)\nFLOT (8 weeks)\n\n\nFLOT + Durvalumab\n\nFLOT + Durvalumab (8 wks)\nSurgery (4-6 weeks later)\nFLOT + Durvalumab (8 wks)\nDurvalumab monthly x10"
   },
   {
     "objectID": "lci_flot_guts.html",
@@ -10983,32 +10948,25 @@
     "text": "FLOT Treatment Plan\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)"
   },
   {
-    "objectID": "lci_flot_guts.html#immunotherapy",
-    "href": "lci_flot_guts.html#immunotherapy",
+    "objectID": "lci_flot_guts.html#durvalumab-immunotherapy",
+    "href": "lci_flot_guts.html#durvalumab-immunotherapy",
     "title": "Patient Education",
-    "section": "Immunotherapy",
-    "text": "Immunotherapy\nImmunotherapy is a form of cancer treatment that stimulates your immune system to fight cancer.\nSome cancer cells will turn off immune cells using a protein called PD-L1. Immunotherapy can counteract this “off signal” and gives immune cells a “turn on signal” so that they fight cancer.\nDarvalumab is an immunotherapy drug that fights cancers by counteracting PD-L1"
+    "section": "Durvalumab Immunotherapy",
+    "text": "Durvalumab Immunotherapy\nCancer cells can turn off immune cells using a protein PD-L1\nDarvalumab turns on immune cells by counteracting PD-L1\nDurvalumab strengthens the immmune system to fight cancer"
   },
   {
     "objectID": "lci_flot_guts.html#matterhorn-trial",
     "href": "lci_flot_guts.html#matterhorn-trial",
     "title": "Patient Education",
     "section": "Matterhorn Trial",
-    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT x 4 doses -&gt; Surgery -&gt; FLOT x 4 doses\nFLOT + Durvalumab -&gt; Surgery -&gt; FLOT + Durvalumab -&gt; Durvalumab\nBetter survival with addition of durvalumab"
+    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT\nFLOT + Durvalumab \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT + Durvalumab\nBetter survival with addition of durvalumab to FLOT\nTreatment with durvalumab depends upon approval from insurance company"
   },
   {
-    "objectID": "lci_flot_guts.html#flot-durvalumab",
-    "href": "lci_flot_guts.html#flot-durvalumab",
+    "objectID": "lci_flot_guts.html#flot-chemo-durvalumab",
+    "href": "lci_flot_guts.html#flot-chemo-durvalumab",
     "title": "Patient Education",
-    "section": "FLOT± Durvalumab",
-    "text": "FLOT± Durvalumab\n\n\nFLOT\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\n\n\nFLOT + Durvalumab\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\n\nDurvalumab 2 doses\n\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nDurvalumab 2 doses\nDurvalumab 10 doses every month"
-  },
-  {
-    "objectID": "lci_flot_guts.html#matterhorn-trial-1",
-    "href": "lci_flot_guts.html#matterhorn-trial-1",
-    "title": "Patient Education",
-    "section": "Matterhorn Trial",
-    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT x 4 doses -&gt; Surgery -&gt; FLOT x 4 doses\nFLOT + Durvalumab -&gt; Surgery -&gt; FLOT + Durvalumab -&gt; Durvalumab\nBetter survival with addition of durvalumab\nTreatment with durvalumab depends upon approval from insurance company"
+    "section": "FLOT Chemo ± Durvalumab",
+    "text": "FLOT Chemo ± Durvalumab\n\n\nFLOT Chemotherapy\n\nFLOT (8 weeks)\nSurgery (4-6 weeks later)\nFLOT (8 weeks)\n\n\nFLOT + Durvalumab\n\nFLOT + Durvalumab (8 wks)\nSurgery (4-6 weeks later)\nFLOT + Durvalumab (8 wks)\nDurvalumab monthly x10"
   },
   {
     "objectID": "lci_esot3.html",
@@ -11242,32 +11200,25 @@
     "text": "FLOT Treatment Plan\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)"
   },
   {
-    "objectID": "lci_esot3.html#immunotherapy",
-    "href": "lci_esot3.html#immunotherapy",
+    "objectID": "lci_esot3.html#durvalumab-immunotherapy",
+    "href": "lci_esot3.html#durvalumab-immunotherapy",
     "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "Immunotherapy",
-    "text": "Immunotherapy\nImmunotherapy is a form of cancer treatment that stimulates your immune system to fight cancer.\nSome cancer cells will turn off immune cells using a protein called PD-L1. Immunotherapy can counteract this “off signal” and gives immune cells a “turn on signal” so that they fight cancer.\nDarvalumab is an immunotherapy drug that fights cancers by counteracting PD-L1"
+    "section": "Durvalumab Immunotherapy",
+    "text": "Durvalumab Immunotherapy\nCancer cells can turn off immune cells using a protein PD-L1\nDarvalumab turns on immune cells by counteracting PD-L1\nDurvalumab strengthens the immmune system to fight cancer"
   },
   {
     "objectID": "lci_esot3.html#matterhorn-trial",
     "href": "lci_esot3.html#matterhorn-trial",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Matterhorn Trial",
-    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT x 4 doses -&gt; Surgery -&gt; FLOT x 4 doses\nFLOT + Durvalumab -&gt; Surgery -&gt; FLOT + Durvalumab -&gt; Durvalumab\nBetter survival with addition of durvalumab"
+    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT\nFLOT + Durvalumab \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT + Durvalumab\nBetter survival with addition of durvalumab to FLOT\nTreatment with durvalumab depends upon approval from insurance company"
   },
   {
-    "objectID": "lci_esot3.html#flot-durvalumab",
-    "href": "lci_esot3.html#flot-durvalumab",
+    "objectID": "lci_esot3.html#flot-chemo-durvalumab",
+    "href": "lci_esot3.html#flot-chemo-durvalumab",
     "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "FLOT± Durvalumab",
-    "text": "FLOT± Durvalumab\n\n\nFLOT\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\n\n\nFLOT + Durvalumab\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\n\nDurvalumab 2 doses\n\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nDurvalumab 2 doses\nDurvalumab 10 doses every month"
-  },
-  {
-    "objectID": "lci_esot3.html#matterhorn-trial-1",
-    "href": "lci_esot3.html#matterhorn-trial-1",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "Matterhorn Trial",
-    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT x 4 doses -&gt; Surgery -&gt; FLOT x 4 doses\nFLOT + Durvalumab -&gt; Surgery -&gt; FLOT + Durvalumab -&gt; Durvalumab\nBetter survival with addition of durvalumab\nTreatment with durvalumab depends upon approval from insurance company"
+    "section": "FLOT Chemo ± Durvalumab",
+    "text": "FLOT Chemo ± Durvalumab\n\n\nFLOT Chemotherapy\n\nFLOT (8 weeks)\nSurgery (4-6 weeks later)\nFLOT (8 weeks)\n\n\nFLOT + Durvalumab\n\nFLOT + Durvalumab (8 wks)\nSurgery (4-6 weeks later)\nFLOT + Durvalumab (8 wks)\nDurvalumab monthly x10"
   },
   {
     "objectID": "lci_esot3.html#adenocarcinoma-treatment-options-1",
@@ -12033,32 +11984,25 @@
     "text": "FLOT Treatment Plan\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)"
   },
   {
-    "objectID": "lci_esot3.htm#immunotherapy",
-    "href": "lci_esot3.htm#immunotherapy",
+    "objectID": "lci_esot3.htm#durvalumab-immunotherapy",
+    "href": "lci_esot3.htm#durvalumab-immunotherapy",
     "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "Immunotherapy",
-    "text": "Immunotherapy\nImmunotherapy is a form of cancer treatment that stimulates your immune system to fight cancer.\nSome cancer cells will turn off immune cells using a protein called PD-L1. Immunotherapy can counteract this “off signal” and gives immune cells a “turn on signal” so that they fight cancer.\nDarvalumab is an immunotherapy drug that fights cancers by counteracting PD-L1"
+    "section": "Durvalumab Immunotherapy",
+    "text": "Durvalumab Immunotherapy\nCancer cells can turn off immune cells using a protein PD-L1\nDarvalumab turns on immune cells by counteracting PD-L1\nDurvalumab strengthens the immmune system to fight cancer"
   },
   {
     "objectID": "lci_esot3.htm#matterhorn-trial",
     "href": "lci_esot3.htm#matterhorn-trial",
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Matterhorn Trial",
-    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT x 4 doses -&gt; Surgery -&gt; FLOT x 4 doses\nFLOT + Durvalumab -&gt; Surgery -&gt; FLOT + Durvalumab -&gt; Durvalumab\nBetter survival with addition of durvalumab"
+    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT\nFLOT + Durvalumab \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT + Durvalumab\nBetter survival with addition of durvalumab to FLOT\nTreatment with durvalumab depends upon approval from insurance company"
   },
   {
-    "objectID": "lci_esot3.htm#flot-durvalumab",
-    "href": "lci_esot3.htm#flot-durvalumab",
+    "objectID": "lci_esot3.htm#flot-chemo-durvalumab",
+    "href": "lci_esot3.htm#flot-chemo-durvalumab",
     "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "FLOT± Durvalumab",
-    "text": "FLOT± Durvalumab\n\n\nFLOT\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\n\n\nFLOT + Durvalumab\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\n\nDurvalumab 2 doses\n\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nDurvalumab 2 doses\nDurvalumab 10 doses every month"
-  },
-  {
-    "objectID": "lci_esot3.htm#matterhorn-trial-1",
-    "href": "lci_esot3.htm#matterhorn-trial-1",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "Matterhorn Trial",
-    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT x 4 doses -&gt; Surgery -&gt; FLOT x 4 doses\nFLOT + Durvalumab -&gt; Surgery -&gt; FLOT + Durvalumab -&gt; Durvalumab\nBetter survival with addition of durvalumab\nTreatment with durvalumab depends upon approval from insurance company"
+    "section": "FLOT Chemo ± Durvalumab",
+    "text": "FLOT Chemo ± Durvalumab\n\n\nFLOT Chemotherapy\n\nFLOT (8 weeks)\nSurgery (4-6 weeks later)\nFLOT (8 weeks)\n\n\nFLOT + Durvalumab\n\nFLOT + Durvalumab (8 wks)\nSurgery (4-6 weeks later)\nFLOT + Durvalumab (8 wks)\nDurvalumab monthly x10"
   },
   {
     "objectID": "lci_esot3.htm#adenocarcinoma-treatment-options-1",
@@ -13769,32 +13713,25 @@
     "text": "FLOT Treatment Plan\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)"
   },
   {
-    "objectID": "lci_esot3_aca.html#immunotherapy",
-    "href": "lci_esot3_aca.html#immunotherapy",
+    "objectID": "lci_esot3_aca.html#durvalumab-immunotherapy",
+    "href": "lci_esot3_aca.html#durvalumab-immunotherapy",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
-    "section": "Immunotherapy",
-    "text": "Immunotherapy\nImmunotherapy is a form of cancer treatment that stimulates your immune system to fight cancer.\nSome cancer cells will turn off immune cells using a protein called PD-L1. Immunotherapy can counteract this “off signal” and gives immune cells a “turn on signal” so that they fight cancer.\nDarvalumab is an immunotherapy drug that fights cancers by counteracting PD-L1"
+    "section": "Durvalumab Immunotherapy",
+    "text": "Durvalumab Immunotherapy\nCancer cells can turn off immune cells using a protein PD-L1\nDarvalumab turns on immune cells by counteracting PD-L1\nDurvalumab strengthens the immmune system to fight cancer"
   },
   {
     "objectID": "lci_esot3_aca.html#matterhorn-trial",
     "href": "lci_esot3_aca.html#matterhorn-trial",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Matterhorn Trial",
-    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT x 4 doses -&gt; Surgery -&gt; FLOT x 4 doses\nFLOT + Durvalumab -&gt; Surgery -&gt; FLOT + Durvalumab -&gt; Durvalumab\nBetter survival with addition of durvalumab"
+    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT\nFLOT + Durvalumab \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT + Durvalumab\nBetter survival with addition of durvalumab to FLOT\nTreatment with durvalumab depends upon approval from insurance company"
   },
   {
-    "objectID": "lci_esot3_aca.html#flot-durvalumab",
-    "href": "lci_esot3_aca.html#flot-durvalumab",
+    "objectID": "lci_esot3_aca.html#flot-chemo-durvalumab",
+    "href": "lci_esot3_aca.html#flot-chemo-durvalumab",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
-    "section": "FLOT± Durvalumab",
-    "text": "FLOT± Durvalumab\n\n\nFLOT\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\n\n\nFLOT + Durvalumab\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\n\nDurvalumab 2 doses\n\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nDurvalumab 2 doses\nDurvalumab 10 doses every month"
-  },
-  {
-    "objectID": "lci_esot3_aca.html#matterhorn-trial-1",
-    "href": "lci_esot3_aca.html#matterhorn-trial-1",
-    "title": "Adenocarcinoma of the Esophagus and GE Junction",
-    "section": "Matterhorn Trial",
-    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT x 4 doses -&gt; Surgery -&gt; FLOT x 4 doses\nFLOT + Durvalumab -&gt; Surgery -&gt; FLOT + Durvalumab -&gt; Durvalumab\nBetter survival with addition of durvalumab\nTreatment with durvalumab depends upon approval from insurance company"
+    "section": "FLOT Chemo ± Durvalumab",
+    "text": "FLOT Chemo ± Durvalumab\n\n\nFLOT Chemotherapy\n\nFLOT (8 weeks)\nSurgery (4-6 weeks later)\nFLOT (8 weeks)\n\n\nFLOT + Durvalumab\n\nFLOT + Durvalumab (8 wks)\nSurgery (4-6 weeks later)\nFLOT + Durvalumab (8 wks)\nDurvalumab monthly x10"
   },
   {
     "objectID": "lci_esot3_aca.html#adenocarcinoma-treatment-options",
@@ -14546,32 +14483,25 @@
     "text": "FLOT Treatment Plan\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)"
   },
   {
-    "objectID": "lci_esot3_aca.htm#immunotherapy",
-    "href": "lci_esot3_aca.htm#immunotherapy",
+    "objectID": "lci_esot3_aca.htm#durvalumab-immunotherapy",
+    "href": "lci_esot3_aca.htm#durvalumab-immunotherapy",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
-    "section": "Immunotherapy",
-    "text": "Immunotherapy\nImmunotherapy is a form of cancer treatment that stimulates your immune system to fight cancer.\nSome cancer cells will turn off immune cells using a protein called PD-L1. Immunotherapy can counteract this “off signal” and gives immune cells a “turn on signal” so that they fight cancer.\nDarvalumab is an immunotherapy drug that fights cancers by counteracting PD-L1"
+    "section": "Durvalumab Immunotherapy",
+    "text": "Durvalumab Immunotherapy\nCancer cells can turn off immune cells using a protein PD-L1\nDarvalumab turns on immune cells by counteracting PD-L1\nDurvalumab strengthens the immmune system to fight cancer"
   },
   {
     "objectID": "lci_esot3_aca.htm#matterhorn-trial",
     "href": "lci_esot3_aca.htm#matterhorn-trial",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Matterhorn Trial",
-    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT x 4 doses -&gt; Surgery -&gt; FLOT x 4 doses\nFLOT + Durvalumab -&gt; Surgery -&gt; FLOT + Durvalumab -&gt; Durvalumab\nBetter survival with addition of durvalumab"
+    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT\nFLOT + Durvalumab \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT + Durvalumab\nBetter survival with addition of durvalumab to FLOT\nTreatment with durvalumab depends upon approval from insurance company"
   },
   {
-    "objectID": "lci_esot3_aca.htm#flot-durvalumab",
-    "href": "lci_esot3_aca.htm#flot-durvalumab",
+    "objectID": "lci_esot3_aca.htm#flot-chemo-durvalumab",
+    "href": "lci_esot3_aca.htm#flot-chemo-durvalumab",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
-    "section": "FLOT± Durvalumab",
-    "text": "FLOT± Durvalumab\n\n\nFLOT\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\n\n\nFLOT + Durvalumab\n\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\n\nDurvalumab 2 doses\n\nSurgery (4-6 weeks later)\nFLOT Chemo every 2 weeks x 4 (=8 weeks total)\nDurvalumab 2 doses\nDurvalumab 10 doses every month"
-  },
-  {
-    "objectID": "lci_esot3_aca.htm#matterhorn-trial-1",
-    "href": "lci_esot3_aca.htm#matterhorn-trial-1",
-    "title": "Adenocarcinoma of the Esophagus and GE Junction",
-    "section": "Matterhorn Trial",
-    "text": "Matterhorn Trial\nThe Matterhorn clinical trial compared two types of treatment:\nFLOT x 4 doses -&gt; Surgery -&gt; FLOT x 4 doses\nFLOT + Durvalumab -&gt; Surgery -&gt; FLOT + Durvalumab -&gt; Durvalumab\nBetter survival with addition of durvalumab\nTreatment with durvalumab depends upon approval from insurance company"
+    "section": "FLOT Chemo ± Durvalumab",
+    "text": "FLOT Chemo ± Durvalumab\n\n\nFLOT Chemotherapy\n\nFLOT (8 weeks)\nSurgery (4-6 weeks later)\nFLOT (8 weeks)\n\n\nFLOT + Durvalumab\n\nFLOT + Durvalumab (8 wks)\nSurgery (4-6 weeks later)\nFLOT + Durvalumab (8 wks)\nDurvalumab monthly x10"
   },
   {
     "objectID": "lci_esot3_aca.htm#adenocarcinoma-treatment-options",
