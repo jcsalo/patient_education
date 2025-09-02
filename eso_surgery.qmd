@@ -70,8 +70,6 @@ The *Ivor Lewis* esophagectomy, shown here, removes the lower 2/3 of the esophag
 
 ::: {.column .fragment width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_Resection2_ai.png)
-
-
 :::
 :::::
 
