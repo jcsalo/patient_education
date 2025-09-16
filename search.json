@@ -9909,7 +9909,7 @@
     "href": "eso_surgery.html#patient-strength-and-esophagectomy-outcomes",
     "title": "Esophagectomy",
     "section": "Patient Strength and Esophagectomy Outcomes",
-    "text": "Patient Strength and Esophagectomy Outcomes\nAbout half of our patients have good strength, shown in green. A quarter are have low strength, shown in red Another quarter are in the middle, shown in yellow"
+    "text": "Patient Strength and Esophagectomy Outcomes\nAbout half of our patients have good strength, shown in green. A quarter are have low strength, shown in red Another quarter are in the middle, shown in yellow\n\n\n\nIgnoring unknown labels:\n• face : \"bold\"\n• size : \"14\""
   },
   {
     "objectID": "eso_surgery.html#pneumonia-1",
@@ -11235,6 +11235,13 @@
     "text": "FLOT Chemo ± Durvalumab\n\n\nFLOT Chemotherapy\n\nFLOT (8 weeks)\nSurgery (4-6 weeks later)\nFLOT (8 weeks)\n\n\nFLOT + Durvalumab\n\nFLOT + Durvalumab (8 wks)\nSurgery (4-6 weeks later)\nFLOT + Durvalumab (8 wks)\nDurvalumab monthly x10"
   },
   {
+    "objectID": "lci_esot3.html#tumor-biomarkers---pathology-tests",
+    "href": "lci_esot3.html#tumor-biomarkers---pathology-tests",
+    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "section": "Tumor Biomarkers - Pathology Tests",
+    "text": "Tumor Biomarkers - Pathology Tests\nShow whether other drugs may be helpful:\n\nHER-2 \\(\\rightarrow\\) Herceptin can be helpful\nPD-L1 \\(\\rightarrow\\) Immunotherapy can be helpful\nMMR \\(\\rightarrow\\) Immunotherapy can be very helpful\n\nBiomarkers reported in a separate pathology report\nYour medical oncologist will review these with you"
+  },
+  {
     "objectID": "lci_esot3.html#adenocarcinoma-treatment-options-1",
     "href": "lci_esot3.html#adenocarcinoma-treatment-options-1",
     "title": "T3 Cancer of the Esophagus and GE Junction",
@@ -12017,6 +12024,13 @@
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "FLOT Chemo ± Durvalumab",
     "text": "FLOT Chemo ± Durvalumab\n\n\nFLOT Chemotherapy\n\nFLOT (8 weeks)\nSurgery (4-6 weeks later)\nFLOT (8 weeks)\n\n\nFLOT + Durvalumab\n\nFLOT + Durvalumab (8 wks)\nSurgery (4-6 weeks later)\nFLOT + Durvalumab (8 wks)\nDurvalumab monthly x10"
+  },
+  {
+    "objectID": "lci_esot3.htm#tumor-biomarkers---pathology-tests",
+    "href": "lci_esot3.htm#tumor-biomarkers---pathology-tests",
+    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "section": "Tumor Biomarkers - Pathology Tests",
+    "text": "Tumor Biomarkers - Pathology Tests\nShow whether other drugs may be helpful:\n\nHER-2 \\(\\rightarrow\\) Herceptin can be helpful\nPD-L1 \\(\\rightarrow\\) Immunotherapy can be helpful\nMMR \\(\\rightarrow\\) Immunotherapy can be very helpful\n\nBiomarkers reported in a separate pathology report\nYour medical oncologist will review these with you"
   },
   {
     "objectID": "lci_esot3.htm#adenocarcinoma-treatment-options-1",
