@@ -118,6 +118,17 @@ For patients with *adenocarcinoma* an alternative to chemotherapy + radiation is
 {{< include lci_flot_guts.qmd >}}
 
 
+## Tumor Biomarkers - Pathology Tests
+
+Show whether other drugs may be helpful:
+
+-   HER-2 $\rightarrow$ Herceptin can be helpful
+-   PD-L1 $\rightarrow$ Immunotherapy can be helpful
+-   MMR $\rightarrow$ Immunotherapy can be very helpful
+
+Biomarkers reported in a separate pathology report
+
+Your medical oncologist will review these with you
 
 ## Adenocarcinoma Treatment Options
 
