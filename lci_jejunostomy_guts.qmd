@@ -12,7 +12,7 @@
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/jtube_ai.png)
+![](images/nutrition_jtube.png)
 :::
 ::::
 :::::::
@@ -53,7 +53,7 @@ A video is available to help become familiar with the feeding jejunostomy
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/jejunostomy_qrcode.png)
+![](images/nutrition_jejunostomy_qrcode.png)
 :::
 ::::
 :::::::

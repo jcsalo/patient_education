@@ -199,8 +199,6 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 
 :::::: columns
 ::: {.column width="50%"}
-
-
 -   Removes top part of stomach
 -   Remove bottom half of esophagus
 -   Surgery in both abdomen and chest

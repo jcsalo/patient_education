@@ -55,7 +55,7 @@ If you haven't seen it already, this may be a good time to view the Esophageal C
 :::
 
 ::: {.column .fragment width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Resection1_ai.png)
+![](images/Eso_Resection1_ai.png)
 :::
 :::::
 
@@ -69,7 +69,7 @@ The *Ivor Lewis* esophagectomy, shown here, removes the lower 2/3 of the esophag
 :::
 
 ::: {.column .fragment width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Resection2_ai.png)
+![](images/Eso_Resection2_ai.png)
 :::
 :::::
 
@@ -83,7 +83,7 @@ A new esophagus is created from the stomach in the abdomen by fashioning it into
 :::
 
 ::: {.column .fragment width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Resection3_ai.png)
+![](images/Eso_Resection3_ai.png)
 :::
 :::::
 
@@ -97,7 +97,7 @@ The new esophagus is now brought up into the chest. A new connection is made bet
 :::
 
 ::: {.column .fragment width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Anastomosis.png)
+![](images/Eso_IvorLewis_Anastomosis.png)
 :::
 :::::
 
@@ -111,7 +111,7 @@ Open esophagectomy uses conventional incisions in the abdomen and the right ches
 :::
 
 ::: {.column .fragment width="35%"}
-![](images/IvorLewisArtboard%202@4x.png)
+![](images/eso_IvorLewis_ai.png)
 :::
 :::::
 
@@ -141,7 +141,7 @@ We have found this is the best option for most of our patients. In some cases, a
 :::
 
 ::: {.column .fragment width="50%"}
-![](images/MIE_IvorLewisArtboard%202@4x.png)
+![](images/MIE_IvorLewisArtboard_2.png)
 :::
 :::::
 
@@ -155,7 +155,7 @@ For patients with tumors in the upper esophagus, we need to remove more of the e
 :::
 
 ::: {.column .fragment width="50%"}
-![](images/Eso_ProxTumorArtboard%202@4x.png)
+![](images/Eso_ProxTumorArtboard_2.png)
 :::
 :::::
 
@@ -169,7 +169,7 @@ For those patients, we need to remove the whole esophagus
 :::
 
 ::: {.column .fragment width="50%"}
-![](images/Eso_ResectionTotalArtboard%202@4x.png)
+![](images/Eso_ResectionTotalArtboard_2.png)
 :::
 :::::
 
@@ -183,7 +183,7 @@ In this case, a connection between the esophagus and the stomach is made in the 
 :::
 
 ::: {.column .fragment width="50%"}
-![](images/Eso_MIE_McKeownArtboard%202@4x.png)
+![](images/Eso_MIE_McKeownArtboard_2.png)
 :::
 :::::
 
@@ -197,7 +197,7 @@ Another option is a transhiatal esohagectomy, which avoids the need to make inci
 :::
 
 ::: {.column .fragment width="50%"}
-![](images/Eso_MIE_THEArtboard%202@4x.png)
+![](images/Eso_MIE_THEArtboard_2.png)
 :::
 :::::
 
