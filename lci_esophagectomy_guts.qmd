@@ -16,7 +16,7 @@ Surgery for esophageal cancer is performed for:
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Resection1_ai.png)
+![](images/Eso_Resection1_ai.png)
 :::
 :::::
 
@@ -30,7 +30,7 @@ Surgery for esophageal cancer is performed for:
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Resection2_ai.png)
+![](images/Eso_Resection2_ai.png)
 :::
 :::::
 
@@ -42,7 +42,7 @@ New esophagus is created from the stomach in the abdomen by fashioning it into a
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Resection3_ai.png)
+![](images/Eso_Resection3_ai.png)
 :::
 :::::
 
@@ -54,7 +54,7 @@ The new esophagus is now brought up into the chest. A connection is made between
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Anastomosis.png)
+![](images/Eso_IvorLewis_Anastomosis.png)
 :::
 :::::
 
@@ -68,7 +68,7 @@ The new esophagus is now brought up into the chest. A connection is made between
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/MIE_IvorLewisArtboard.png)
+![](images/MIE_IvorLewisArtboard.png)
 :::
 :::::
 
@@ -82,7 +82,7 @@ In some cases, an open approach is still necessary.
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/IvorLewisArtboard.png)
+![](images/IvorLewisArtboard.png)
 :::
 :::::
 
@@ -96,7 +96,7 @@ We need to remove the whole esophagus, including the portion in the neck
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_ProxTumorArtboard.png)
+![](images/Eso_ProxTumorArtboard.png)
 :::
 :::::
 
@@ -104,29 +104,14 @@ We need to remove the whole esophagus, including the portion in the neck
 
 ::::: columns
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_ResectionTotalArtboard.png) All of esophagus removed
+![](images/Eso_ResectionTotalArtboard.png) All of esophagus removed
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_McKeownArtboard.png) Connection made in the neck
+![](images/Eso_MIE_McKeownArtboard.png) Connection made in the neck
 :::
 :::::
 
-## Colon Interposition
-
-::::: columns
-::: {.column width="50%"}
-If the stomach is not suitable to make a new esophagus, the colon can be used to replace the esophagus
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/colon-interposition2.jpg)
-:::
-:::::
-
-## Colon Interposition
-
-![](https://deidt7p41jzcy.cloudfront.net/colon_interposition_elseiver.jpg)
 
 ## Risks of Esophagectomy
 
@@ -145,7 +130,7 @@ The anastomosis is surgical connection between the esophagus and the stomach.
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Anastomosis.png)
+![](images/Eso_IvorLewis_Anastomosis.png)
 :::
 :::::
 
@@ -161,7 +146,7 @@ If healing doesn't occur:
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Leak.png)
+![](images/Eso_IvorLewis_Leak.png)
 :::
 :::::
 
@@ -177,7 +162,7 @@ If leak occurs:
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Leak.png)
+![](images/Eso_IvorLewis_Leak.png)
 :::
 :::::
 
@@ -193,7 +178,7 @@ Risk of leak depends on:
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Leak.png)
+![](images/Eso_IvorLewis_Leak.png)
 :::
 :::::
 
@@ -209,7 +194,7 @@ Risk of leak depends on:
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_LungsArtboard.png)
+![](images/Eso_LungsArtboard.png)
 :::
 :::::
 
@@ -230,11 +215,11 @@ After surgery, this means:
 
 ::::: columns
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/mie_abd.png)
+![](images/mie_abd.png)
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/mie_chest.png)
+![](images/mie_chest.png)
 :::
 :::::
 

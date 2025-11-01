@@ -21,7 +21,8 @@ Several options exist to administer chemotherapy:
 
 :::: {.column width="40%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/peripheral-venous-catheter-427167-7_960_720-pixabay.jpg)
+
+![](images/access_peripheral-venous-catheter-427167-7_960_720-pixabay.jpeg)
 :::
 ::::
 ::::::
@@ -46,7 +47,7 @@ FLOT chemotherapy requires a home infusion pump, got which a peripheral IV won't
 
 :::: {.column width="35%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/comm_picc.jpeg)
+![](images/comm_picc.jpeg)
 :::
 ::::
 ::::::
@@ -68,7 +69,7 @@ A PICC line is placed in Radiology and stays in place during the treatment cours
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/cv_port.png)
+![](images/access_cv_port.png)
 :::
 ::::
 ::::::
@@ -98,7 +99,7 @@ A port can be used for blood draws for blood tests as well.
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/cv_port_1700.png)
+![](images/access_cv_port_1700.png)
 :::
 ::::
 ::::::
@@ -122,7 +123,7 @@ When it is time for chemotherapy, a needle is inserted through the skin into the
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/cv_port_detail_1700.png)
+![](images/access_cv_port_detail_1700.png)
 :::
 ::::
 ::::::

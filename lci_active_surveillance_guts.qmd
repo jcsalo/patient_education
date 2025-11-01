@@ -1,38 +1,38 @@
 ## Restaging after Chemotherapy $\pm$ Radiation
 
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/EsoRx2.png)
+![](images/EsoRx2.png)
 :::
 
 ## Fitness Evaluation prior to Surgery
 
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/EsoRx.png)
+![](images/EsoRx.png)
 :::
 
 
 ## Surgery vs No Surgery
 
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/EsoRx5.png)
+![](images/EsoRx5.png)
 :::
 
 ## Surgery Advantages + Disadvantages
 
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/EsoRx6.png)
+![](images/EsoRx6.png)
 :::
 
 ## Outcomes after Chemotherapy $\pm$ Radiation
 
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/EsoRx7.png)
+![](images/EsoRx7.png)
 :::
 
 ## 
 
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/EsoRx8.png)
+![](images/EsoRx8.png)
 :::
 
 ## Active Surveillance
