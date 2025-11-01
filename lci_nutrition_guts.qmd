@@ -12,7 +12,7 @@ Protein Shakes provide protein with minimal sugar
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/protein_shakes.png)
+![](images/nutrition_protein_shakes.png)
 :::
 ::::
 :::::::
