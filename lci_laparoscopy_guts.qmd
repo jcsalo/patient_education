@@ -9,7 +9,8 @@
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
+
+![](images/Eso_Laparoscopy.png)
 :::
 ::::
 ::::::
@@ -30,7 +31,9 @@ Not all patients with gastric cancer need a laparoscopy.
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
+![](images/Eso_Laparoscopy.png)
 :::
 ::::
 ::::::
+
+
