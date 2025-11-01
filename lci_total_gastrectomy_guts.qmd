@@ -11,7 +11,7 @@
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_total.png)
+![](images/gast_total.png)
 :::
 ::::
 ::::::
@@ -25,13 +25,13 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 ::::::: columns
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_proximal_tumor.png)
+![](images/gast_proximal_tumor.png)
 :::
 ::::
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_total.png)
+![](images/gast_total.png)
 :::
 ::::
 :::::::

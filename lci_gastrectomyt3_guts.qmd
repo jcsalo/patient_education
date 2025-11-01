@@ -24,7 +24,7 @@ Distal cancers are those in the lower part of the stomach
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_distal_tumor.png)
+![](images/gast_distal_tumor.png)
 :::
 ::::
 ::::::
@@ -44,7 +44,7 @@ Distal cancers are those in the lower part of the stomach
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_partial.png)
+![](images/gast_partial.png)
 :::
 ::::
 ::::::
@@ -58,13 +58,13 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 ::::::: columns
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_distal_tumor.png)
+![](images/gast_distal_tumor.png)
 :::
 ::::
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_partial.png)
+![](images/gast_partial.png)
 :::
 ::::
 :::::::
@@ -83,7 +83,7 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_distal_gastrectomy.png)
+![](images/gast_distal_gastrectomy.png)
 :::
 ::::
 ::::::
@@ -97,13 +97,13 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 ::::::: columns
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_distal_tumor.png)
+![](images/gast_distal_tumor.png)
 :::
 ::::
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_distal_gastrectomy.png)
+![](images/gast_distal_gastrectomy.png)
 :::
 ::::
 :::::::
@@ -127,7 +127,7 @@ Body is the mid-portion of the stomach
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_body.png)
+![](images/gast_body.png)
 :::
 ::::
 ::::::
@@ -143,7 +143,7 @@ Body is the mid-portion of the stomach
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_subtotal.png)
+![](images/gast_subtotal.png)
 :::
 ::::
 ::::::
@@ -157,13 +157,13 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 ::::::: columns
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_body.png)
+![](images/gast_body.png)
 :::
 ::::
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_subtotal.png)
+![](images/gast_subtotal.png)
 :::
 ::::
 :::::::
@@ -184,7 +184,7 @@ Locally-advanced cancers are those that have grown through the wall of the stoma
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_proximal_tumor.png)
+![](images/gast_proximal_tumor.png)
 :::
 ::::
 ::::::
@@ -206,7 +206,7 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor00_resection2_1600.png)
+![](images/Eso_tumor00_resection2_1600.png)
 :::
 ::::
 ::::::
@@ -228,7 +228,7 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/ivor_lewis_simple2_900.png)
+![](images/ivor_lewis_simple2_900.png)
 :::
 ::::
 ::::::
@@ -250,7 +250,7 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/ivor_lewis_simple2.png)
+![](images/ivor_lewis_simple2.png)
 :::
 ::::
 ::::::
@@ -271,7 +271,7 @@ Alternative surgical approach for small tumors near the top of the stomach
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_dualtract.png)
+![](images/gast_dualtract.png)
 :::
 ::::
 ::::::
@@ -285,13 +285,13 @@ If the lymph nodes contain enough cancer cells, they can be seen on CT scans or 
 ::::::: columns
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_proximal_tumor.png)
+![](images/gast_proximal_tumor.png)
 :::
 ::::
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/gast_dualtract.png)
+![](images/gast_dualtract.png)
 :::
 ::::
 :::::::

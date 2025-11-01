@@ -7,7 +7,7 @@ Patients with locally-advanced esophageal cancer often have localized spread of 
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor_100_1600.png)
+![](images/Eso_tumor_100_1600.png)
 :::
 ::::
 ::::::
@@ -21,7 +21,7 @@ If locally-advanced cancers are treated with surgery alone...
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor100_resection_intra.png)
+![](images/Eso_tumor100_resection_intra.png)
 :::
 ::::
 ::::::
@@ -37,7 +37,7 @@ There is a risk that cancer cells can be left behind
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor100_resection_post.png)
+![](images/Eso_tumor100_resection_post.png)
 :::
 ::::
 ::::::
@@ -51,7 +51,7 @@ It is helpful to start with therapy *before* surgery that will shrink the cancer
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor_100_1600.png)
+![](images/Eso_tumor_100_1600.png)
 :::
 ::::
 ::::::
@@ -65,7 +65,7 @@ It is helpful to start with therapy *before* surgery that will shrink the cancer
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor40_1600.png)
+![](images/Eso_tumor40_1600.png)
 :::
 ::::
 ::::::
@@ -79,7 +79,7 @@ It is helpful to start with therapy *before* surgery that will shrink the cancer
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Tumor_00_1600.png)
+![](images/Eso_Tumor_00_1600.png)
 :::
 ::::
 ::::::
@@ -93,7 +93,7 @@ When surgery is then performed...
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor00_resection1_1600.png)
+![](images/Eso_tumor00_resection1_1600.png)
 :::
 ::::
 ::::::
@@ -109,7 +109,7 @@ The risk of cancer recurrence is minimized
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor00_resection2_1600.png)
+![](images/Eso_tumor00_resection2_1600.png)
 :::
 ::::
 ::::::
@@ -125,7 +125,7 @@ The risk of cancer recurrence is minimized
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/ivor_lewis_simple2_900.png)
+![](images/ivor_lewis_simple2_900.png)
 :::
 ::::
 ::::::

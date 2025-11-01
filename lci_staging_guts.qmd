@@ -31,7 +31,7 @@ Cancers start on the very inside layer called the mucosa
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor21_ai.png)
+![](images/tumor21_ai.png)
 :::
 ::::
 ::::::
@@ -47,7 +47,7 @@ Over time, cancers can grow into the muscular wall
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor24_ai.png)
+![](images/tumor24_ai.png)
 :::
 ::::
 ::::::
@@ -67,7 +67,7 @@ In some cases, cancer cells can break off from the main tumor and spread to lymp
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor25b_ai.png)
+![](images/tumor25b_ai.png)
 :::
 ::::
 ::::::
@@ -87,7 +87,7 @@ Cancers are categorized based upon the thickness of the tumor, known as the T st
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor_t_full.png)
+![](images/tumor_t_full.png)
 :::
 ::::
 ::::::
@@ -108,7 +108,7 @@ Cancers are categorized by whether there is spread to the nodes.
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor_t3_nodes_labels.png)
+![](images/tumor_t3_nodes_labels.png)
 :::
 ::::
 ::::::
@@ -125,7 +125,7 @@ Some cancers spread to other parts of the body
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_M_Stage.png)
+![](images/Eso_M_Stage.png)
 :::
 ::::
 ::::::
@@ -145,7 +145,7 @@ Tracer shows 'hot spots'
 
 :::: {.column width="60%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/PetImage.png)
+![](images/PetImage.png)
 :::
 ::::
 ::::::
@@ -165,7 +165,7 @@ In some cases, the PET scan is not performed until a CT scans b=has been done.
 
 :::: {.column width="40%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/EUSArtboard.png)
+![](images/EUSArtboard.png)
 :::
 ::::
 ::::::
