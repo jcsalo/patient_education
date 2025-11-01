@@ -127,7 +127,7 @@ The smaller incisions mean faster recovery and less discomfort
 :::
 
 ::: {.column .fragment width="50%"}
-![](images/MIE_IvorLewisArtboard%202@4x.png)
+![](images/MIE_IvorLewisArtboard.png)
 :::
 :::::
 

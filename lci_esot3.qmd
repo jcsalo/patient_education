@@ -40,7 +40,7 @@ $\rightarrow$ small bowel (jejunum)
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](images/Eso_Anatomy_Labels.png)\]
+![](images/Eso_Anatomy_Labels.png)]
 :::
 ::::
 :::::::
