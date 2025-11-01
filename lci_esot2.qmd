@@ -37,7 +37,7 @@ $\rightarrow$ small bowel (jejunum)
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Anatomy_Labels.png)\]
+![](images/Eso_Anatomy_Labels.png)\]
 :::
 ::::
 ::::::
@@ -84,7 +84,7 @@ If we look at the walls of the esophagus, we see several layers:
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor1_ai.png)
+![](images/tumor1_ai.png)
 :::
 ::::
 ::::::
@@ -102,7 +102,7 @@ Cancers start on the very inside of the layer called the mucosa
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor21_ai.png)
+![](images/tumor21_ai.png)
 :::
 ::::
 ::::::
@@ -116,7 +116,7 @@ Over time, cancers can grow into the muscular wall
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor24_ai.png)
+![](images/tumor24_ai.png)
 :::
 ::::
 ::::::
@@ -134,7 +134,7 @@ In some cases, cancer cells can break off from the main tumor and spread to lymp
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor25b_ai.png)
+![](images/tumor25b_ai.png)
 :::
 ::::
 ::::::
@@ -152,7 +152,7 @@ Cancers are categorized based upon the thickness of the tumor, known as the T st
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor_t_full.png)
+![](images/tumor_t_full.png)
 :::
 ::::
 ::::::
@@ -173,7 +173,7 @@ Cancers are categorized by whether there is spread to the lymph nodes.
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/tumor_t3_nodes_labels.png)
+![](images/tumor_t3_nodes_labels.png)
 :::
 ::::
 ::::::
@@ -190,7 +190,7 @@ Some cancers can also spread from the esophagus to the lungs or liver
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_M_Stage.png)
+![](images/Eso_M_Stage.png)
 :::
 ::::
 ::::::
@@ -204,7 +204,7 @@ A PET scan is similar to a CT scan, and uses a small amount of tracer to light u
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/PetImage.png)
+![](images/PetImage.png)
 :::
 ::::
 ::::::
@@ -222,7 +222,7 @@ Endoscopic ultrasound (EUS) is a procedure similar to upper endoscopy (EGD) whic
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/EUSArtboard.png)
+![](images/EUSArtboard.png)
 :::
 ::::
 ::::::
@@ -242,7 +242,7 @@ In order to detect spread within the abdominal cavity, a proceduce called a lapa
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
+![](images/Eso_Laparoscopy.png)
 :::
 ::::
 ::::::
@@ -266,7 +266,7 @@ A laparoscopy is performed under a general anesthetic.
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Laparoscopy.png)
+![](images/Eso_Laparoscopy.png)
 :::
 ::::
 ::::::
@@ -296,7 +296,7 @@ Patients with locally-advanced esophageal cancer have smaller tumors which have 
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor_t12t2.png)
+![](images/Eso_tumor_t12t2.png)
 :::
 ::::
 ::::::
@@ -312,7 +312,7 @@ Localized cancers are less likely to need chemotherapy or radiation because the 
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor_t12t2.png)
+![](images/Eso_tumor_t12t2.png)
 :::
 ::::
 ::::::
@@ -326,7 +326,7 @@ Localized cancers are not very common, because most people don't know that they 
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor_t12t2.png)
+![](images/Eso_tumor_t12t2.png)
 :::
 ::::
 ::::::
@@ -343,7 +343,7 @@ Localized cancers are generally diagnosed with a combination of endoscopic ultra
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_tumor_100_1600.png)
+![](images/Eso_tumor_100_1600.png)
 :::
 ::::
 ::::::
@@ -361,7 +361,7 @@ Surgery to remove the esophagus is frequently done for localized esophageal canc
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_simple.png)
+![](images/Eso_IvorLewis_simple.png)
 :::
 ::::
 ::::::
@@ -435,7 +435,7 @@ Some patients can be treated with an intravenous line placed in the hand or arm 
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/peripheral-venous-catheter-427167-7_960_720-pixabay.jpg)
+![](images/access_peripheral-venous-catheter-427167-7_960_720-pixabay.jpeg)
 :::
 ::::
 ::::::
@@ -449,7 +449,7 @@ A PICC line is placed in Radiology and stays in place during the treatment cours
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/comm_picc.jpeg)
+![](images/comm_picc.jpeg)
 :::
 ::::
 ::::::
@@ -463,7 +463,7 @@ A central venous port is an implantable device that makes the administration of 
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/cv_port.png)
+![](images/access_cv_port.png)
 :::
 ::::
 ::::::
@@ -477,7 +477,7 @@ A central venous port is typically placed underneath the skin below the right co
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/cv_port_1700.png)
+![](images/access_cv_port_1700.png)
 :::
 ::::
 ::::::
@@ -491,7 +491,7 @@ When it is time for chemotherapy, a needle is inserted through the skin into the
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/cv_port_detail_1700.png)
+![](images/access_cv_port_detail_1700.png)
 :::
 ::::
 ::::::
