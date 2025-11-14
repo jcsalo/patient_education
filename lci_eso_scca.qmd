@@ -84,13 +84,11 @@ This table summarizes four different treatment categories:
 -   Metastatic cancers are M1 and are treated primary by chemotherapy.
 :::
 
-
 {{< include lci_la_guts.qmd >}}
 
 {{< include lci_cross_guts.qmd >}}
 
 {{< include lci_cvport_guts.qmd >}}
-
 
 ## Restaging
 
@@ -107,8 +105,7 @@ Performed to look for signs of persistent cancer
 
 Biopsies show no cancer in 75% of cases
 
-Disappearance of cancer in 40% of cases
-- Persistent cancer in 60%
+Disappearance of cancer in 40% of cases - Persistent cancer in 60%
 
 $\Rightarrow$ cancer cells can hide in the wall of the esophagus
 
@@ -140,7 +137,6 @@ $\Rightarrow$ Surgery if a recurrence in the esophagus is found
 {{< include lci_nutrition_guts.qmd >}}
 
 {{< include lci_gastrostomy_guts.qmd >}}
-
 
 {{< include lci_treatment_prep_guts.qmd >}}
 

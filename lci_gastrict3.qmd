@@ -72,7 +72,7 @@ Metastatic (M1): Chemotherapy
 This table summarizes four different treatment categories:
 
 -   Superficial cancers are T1 and can be treated by endoscopic therapy without the need for surgery
--   Localized cancers are T1b or T2 and are frequently treated by surgery alone 
+-   Localized cancers are T1b or T2 and are frequently treated by surgery alone
 -   Locally-advanced cancers are T3 and M0 and are usually treated with chemotherapy prior to surgery
 -   Metastatic cancers are M1 and are treated primary by chemotherapy.
 :::
