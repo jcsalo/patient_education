@@ -26,3 +26,5 @@ bibliography: zotero.bib
 {{< include lci_esophagectomy_guts.qmd >}}
 
 {{< include lci_preop_guts.qmd >}}
+
+{{< include lci_staff_guts.qmd >}}

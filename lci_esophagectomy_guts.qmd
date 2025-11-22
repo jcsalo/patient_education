@@ -112,7 +112,6 @@ We need to remove the whole esophagus, including the portion in the neck
 :::
 :::::
 
-
 ## Risks of Esophagectomy
 
 Esophagectomy is a complex operation, with a real risk of complications.
@@ -186,11 +185,11 @@ Risk of leak depends on:
 
 ::::: columns
 ::: {.column width="50%"}
-- Occurs in 10-15% of patients after esophagectomy.
+-   Occurs in 10-15% of patients after esophagectomy.
 
-- Requires treatment with antibiotics 
+-   Requires treatment with antibiotics
 
-- Requires a longer hospitalization.
+-   Requires a longer hospitalization.
 :::
 
 ::: {.column width="50%"}
