@@ -1,22 +1,13 @@
 ---
 title: "Locally-Advanced Adenocarcinoma"
 format: 
-  revealjs:
-    slide-number: c/t
-    width: 1280
-    height: 720
-    logo: "atriumlogo.jpg"
-    footer: "[Patient Education](https://jcsalo.github.io/patient _education/)"
-    #css: ["theme/theme.css"]
-    css: ["lci_styles.css"]
-    theme: default
-    echo: false
-    #output-file: eso_advanced_slides.html
-  pdf:
-    documentclass: scrartcl
+  docx:
+    number-sections: true
+    number-depth: 2
   html: default
+  pdf: default
 editor: visual
-bibliography: zotero.bib
+from: markdown+emoji
 ---
 
 ## 1 Intro
