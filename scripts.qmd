@@ -5,7 +5,9 @@ output: html_document
 
 [Introduction to LCI](script_lci_intro.qmd)
 
-[htm](script_lci_intro.htm)
+[Locally-Advanced Adenocarcinoma of the Esophagus](eso_la_adenoca.qmd)
+
+
 
 [Gastroesophageal Dx and Staging](ge_dx_staging.qmd)
 

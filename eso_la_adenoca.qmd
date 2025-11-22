@@ -1,0 +1,347 @@
+---
+title: "Locally-Advanced Esophageal Adenocarcinoma"
+format: 
+  docx:
+    number-sections: true
+    number-depth: 2
+  html: default
+  pdf: default
+editor: visual
+from: markdown+emoji
+---
+
+## Intro L *1*
+
+I'm Dr Jonathan Salo, a GI Cancer Surgeon at the in Charlotte, North Carolina If you’re seeing this video, changes are you or someone close to you has had an encounter with esophageal cancer. These videos are designed to educate you about cancer and its treatment and help you and you cancer care team make the right decisions for you.
+
+Of course, there is no substitute for the expert opinions of your cancer care team.
+
+## Locally-advanced Esophageal Cancer *L* *4*. (2)
+
+The topic of this video is locally-advanced adenocarcinoma of the esophagus and gastroephageal junction.
+
+## Esophagus or Gastroesophageal junction *2*. (3)
+
+We will consider cancers of the esophagus and gastro-esophageal junction together, as the treatment is similar
+
+## Treatment is guided by the Stage of cancer (4)
+
+The treatment recommended will depend upon the stage of the cancer.  If you haven't already, this may be a good time to view the video on Diagnosis and Staging.
+
+## Staging (5)
+
+A PET or CT scan is used for staging.  If the scans show that the tumor is localized, without signs of spread beyond the nearby lymph nodes, it is considered M0.
+
+On the other hand, if the scans show signs of spread, this is considered M1.
+
+
+## Metastatic DIsease = M1 (6)
+
+Patients with metastatic disease are best treated with chemotherapy and are generally not treated with surgery
+
+## Lcoally Advanced Esophageal Cancer  *4*   (7)
+
+We will focus in this video on Locally-advanced Esophageal cancer
+
+## Locally-advanced Esophageal Cancer  T2/3 or N+.  (8)
+
+Locally advanced esophageal cancer has not spread to other organs in the body. Locally-advanced cancers are not only M0, but they are either T2 or T3 or node-positive.
+
+If this terminology is not familiar to you, please refer to our video on Diagnosis and Staging. There is a link above and in the description below.
+
+## Locally-advanced: M0 (9)
+
+Locally-advanced cancers are M0, which means there is no evidence of metastasis, or spread to other parts of the body. 
+
+## Adenocarcinoma vs Squamous Cell. (10)
+
+To make things a bit more complicated, there are two types of esophageal cancer: Adenocarcinoma and Squamous Cell Carcinoma.  The treatment of there cancers is somewhat similar, but different enough that we have prepared a video to specifically address squamous cell carcinoma.
+
+
+## Types of Esophageal Cancer (11)
+
+This video will focus on locally-advanced *adenocarcinoma*
+
+## Why not just Cut it out? (12)
+
+I am occasionally asked by patients why we don't just remove esophageal cancer with surgery as the first treatment.
+
+The answer is a bit complex.
+
+## <Esophageal cancer graphic> (13)
+
+When a patient is diagnosed with cancer of the esophagus or gastroesophageal junction, it can look like the cancer is confimed to the esophagus.
+
+
+## <esophageal cancer with 'fingers'> (14)
+
+what we see from inside the esophagus is just the tip of the iceberg.
+
+There is frequently spread of cancer cells into the nearby tissue or lymph nodes
+
+
+## <surgery without preop> (15)
+
+If surgery is performed as the only therapy for locally-advanced cancer, 
+
+
+## <postop without preop> (16)
+
+there is a risk that cancer cells can be left behind
+
+## Locally Advanced (17)
+
+Preoperative therapy is administered before surgery And is designed to shrink the tummor 
+
+## Locally Advanced (18)
+
+and kill cancer cells in the surrounding area
+
+This therapy typically involves chemotherapy
+
+## Locally Advanced (19)
+
+and may involve radiation
+
+## Locally Advanced (20)
+
+The overall goal is shrinking the tumor and killing nearby cancer cells, to make the surgery more effective
+
+## Surgery (21)
+
+After preoperative therapy has shrunk the tumor and any other cancer cells, surgery can be performed
+
+## Post Surgery (22)
+
+Preoperative therapy combined with surgery offers the best chance to remove all of the cancer, without leaving any behind
+
+## Post Surgery and Reconstruction (23)
+
+...without leaving any cancer cells behind
+
+
+## Preoperative Therapy (24). *4*
+
+- Shrinks the tumor
+- Make surgery more effective
+- Leads to better cancer control than surgery alone
+
+## Neoadjuvant (25)
+
+You hear preoperative therapy referred to as "neoadjuvant therapy"
+
+## Preop Therapy (26)
+
+For adenocarcinoma of the esophagus, there are two different approaches to preoperative therapy.
+
+
+One uses chemotherapy and radiation together, followed by surgery
+
+## Preop Therapy (27)
+
+The other uses chemotherapy before and after surgery, without radiation therapy
+
+## Chemotherapy + Radiation -\> Surgery (28)
+
+The chemotherapy and radiation strategy uses chemotherapy and radiation together
+
+Chemotherapy is given intraveneously once per week
+
+Radiation is given five days per week
+
+Both are administered together for 5 1/2 weeks
+
+This is also know as the "CROSS" treatment regimen
+
+## Chemotherapy + Radiation -\> Surgery (29)
+
+The chemotherapy is a low dose, designed to make the radiation more effective
+
+The therapy is generally well tolerated
+
+Hair loss is uncommon
+
+Low blood counts are also uncommon, and occur in about 7% of cases
+
+## Esophagitis (30)
+
+The radiation can, however, cause inflammation in the esophagus called esophigitis.
+
+This can make eating more uncomfortable during the last two weeks of radiation
+
+The good news is that this is temporarily and usually resolves within 2 or 3 weeks after the radiation is completed.
+
+## Esophagitis (31)
+
+What this may mean, however, is placement of a temporary feedindg tube may be needed.
+
+## Esophagisits (32)
+
+If a feeding tube is necessary, it can usually be removed by 3 weeks after the end of radiation.
+
+## Chemo + Radiation -> Surgery (33) *2*
+
+To summarize, This approach to preoperative therapy uses six weeks of chemotherapy and radiation together.  
+
+Surgery is typically performed 6-8 weeks after the end of radiation, as soon as patients have recovered.
+
+## (4) Adenocarcinoma Preoperative Therapy (34). *4*
+
+The second and somewhat newer approach to preoperative therapy for esophgeal adenocarcinoma is treatment with chemotherapy, followed by surgery, followed by additional chemotherapy
+
+Chemtherapy is given every other week for 4 doses,
+
+Followed by surgery, 
+
+Followed by chemotherapy every other week for another 4 doses
+
+## Chemo -\> Surgery -\> Chemo (35)
+
+Chemotherapy is administered intravenously every other week for 4 doses over 8 weeks
+
+Surgery is then performed 4-6 weeks later
+
+Chemotherapy is again administered intravenously every other week for 4 more doses over 8 weeks
+
+## Chemotherapy Options (36)
+
+There are two commonly used "recipes" for chemotherapy:
+
+FLOT consists of four drugs
+
+FOLFOX consists of three drugs
+
+## Chemotherapy OPtions (37)
+
+As you might expect, FLOT is more effective against cancer, while FOLFOX has fewer side effects
+
+## Durvalumab Immunotherapy.  (38)
+
+Durvalumab is a drug which activates the immune system to fight cancer
+
+The combination of FLOT and Durvalumab appears to be more effective against FLOT alone
+
+Durvalumab is typically given along with FLOT chemotherapy, followed by monthly doses
+
+## Chemo -> Surgery -> Chemo (39) *2*
+
+To summarize, the chemotherapy strategy calls for 4 doses of chemotherapy before surgery, and an additional 4 doses of chemotherapy afterwards.
+
+## (2) Preoperative Therapy (40). *4*
+
+If we compare Chemotherapy + Radiation (or CROSS) with chemotherapy (FLOT)..
+
+We see that Chemotherapy + Radiation has fewer side effects, but FLOT chemotherapy is more effective
+
+A central venous port is required for FLOT chemotherapy
+
+Due to radiation esophagitis, a feeding tube is a little more likely to be needed with chemotherapy and radiation
+
+##  ChemoRT vs Chemo (41)
+
+Your medical oncologist will guide you in the decision regarding chemotherapy + radiation vs chemotherapy alone. 
+
+In general, FLOT is recommended for younger and healthier patients
+
+While chemotherapy and radiation is recommended for patients who may have difficulty tolerating FLOT
+
+## Preparing for Preoperative Therapy (42)
+
+XXX
+
+## Preparing for Preoperative Therapy-2. (43)
+
+XXX
+
+## Wrap up (44) *1*
+
+We hope you have found this video helpful. Here are some other topics for which videos have been posted or are planned.
+
+Feel free to leave a comment or a question, or if you have suggestions for future videos.
+
+If you or a family member have had an encounter with esophageal cancer, I would love to hear about your experience, so please take a minute to leave a comment below.
+
+We're constantly creating new videos, so please subscribe to be notified of new videos when we post them.
+
+
+
+
+
+The radiation can lead to irritation of the lining of the esophagus called radiation esophagitis. One can think of this as a sunburn on the inside of the esophagus. The result is that the therapy can make eating temporarily worse before it gets better. Usually the last two weeks of radiation therapy are the worst. By two weeks after radiation is completed, the tumor has shrunk enough that eating is usually better than before therapy.
+
+For this reason, a temporary feeding tube is frequently necessary for patients getting chemotherapy and radiation
+
+## Preoperative Therapy (31)
+
+On the other hand, FLOT chemotherapy, administered both before and after surgery, has been shown to be more effective than chemotherapy and radiation.
+
+FLOT chemotherapy, however, has more side effects than chemotherapy and radiation.
+
+As the chemotherapy begins to work, patients who have trouble eating before therapy find gradual improvement in their eating. As a result, a feeding tube might be less likely used with FLOT chemotherapy.
+
+## Preoperative Therapy (32)
+
+So we have two different approaches for therapy prior to surgery, and each has favorable and unfavorable features
+
+## Preoperative Therapy (33)
+
+In general, we think that FLOT may be more effective, but CROSS is better tolerated
+
+## Preoperative Therapy (34)
+
+A medical oncologist, who specializes in chemotherapy treatment, will make a recommnendation for preoperative therapy based upon a patient's age, overall health, and any medical problems such as heart disease or kidney disease.
+
+## Additional Topics (35)
+
+
+
+The effectiveness of this approach was proven scientifically in the CROSS clinical trial
+
+This was a scientific study published in 2010
+
+363 patients with locally-advanced esophageal cancer were divided into two treatment groups:
+
+One group was treated with surgery alone
+
+The other group was treated with chemotherapy and radiation first, followed by surgery
+
+## CROSS Clinical Trial (25)
+
+The results of the trial were quite dramatic: There was better control of the cancer in the group that received chemotherapy and radiation prior to surgery. This group had longer survival than the group treated with surgery alone.
+
+## CROSS Clinical Trial (26)
+
+For the past 15 years, chemotherapy and radiation, followed by surgery, was established as the most effective therapy. This is known as trimodality therapy, beause it uses a combination of three different therapies.
+
+## Matterhorn Trial
+
+The Matterhorn clinical trial compared two types of treatment:
+
+FLOT $\rightarrow$ Surgery $\rightarrow$ FLOT
+
+FLOT + Durvalumab $\rightarrow$ Surgery $\rightarrow$ FLOT + Durvalumab
+
+Better survival with addition of durvalumab to FLOT
+
+**Treatment with durvalumab depends upon approval from insurance company**
+
+## FLOT Chemo ± Durvalumab
+
+::::: columns
+::: {.column width="50%"}
+**FLOT Chemotherapy**
+
+-   FLOT (8 weeks)
+-   Surgery (4-6 weeks later)
+-   FLOT (8 weeks)
+:::
+
+::: {.column width="50%"}
+**FLOT + Durvalumab**
+
+-   FLOT + Durvalumab (8 wks)
+-   Surgery (4-6 weeks later)
+-   FLOT + Durvalumab (8 wks)
+-   Durvalumab monthly x10
+:::
+:::::
