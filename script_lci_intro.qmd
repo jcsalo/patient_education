@@ -1,14 +1,16 @@
 ---
 title: "LCI Introduction"
 format: 
-  docx: default
+  docx:
+    number-sections: true
+    number-depth: 2
   html: default
   pdf: default
 editor: visual
 from: markdown+emoji
 ---
 
-## 1 - Taking Head
+## Taking Head *1*
 
 I'm Dr Jonathan Salo, a GI Cancer Surgeon at the Levine Cancer Institute.
 
@@ -18,7 +20,7 @@ You may have a recent diagnosis of cancer or you may have a friend or family mem
 
 Whatever your situation, we have a great team of people who can help you every step of the way.
 
-## L 4 - Surgeons
+## Surgeons *L* **4**
 
 We have three surgeons in the GI Surgical Oncology Section at the Levine Cancer Institute:
 
@@ -26,53 +28,53 @@ We have three surgeons in the GI Surgical Oncology Section at the Levine Cancer 
 -   Hart Squires
 -   Jonathan Salo
 
-## 3 Location
+## Location. **2** (3)
 
 We’re located at 1310 East Morehead Street in Building 2 of Levine Cancer Institute.
 
-## 4 Location (closeup)
+## Location (closeup)
 
 There is a traffic circle which allows you to pull in for patient drop-off
 
-## 2 Photo of LCI
+## Photo of LCI (5) 
 
 You can either self-park in the garage, or we have free valet parking.
 
-## 4 my.atriumhealth.org
+##  my.atriumhealth.org. **4**
 
 In order to prepare for your visit, please download the MyAtrium Patient Portal if you have not done so already.
 
 In order to sign up, navigate with your desktop computer or cell phone of my.atriumhealth.org
 
-## 2 My Atrium signup
+## My Atrium signup **2**
 
 You can sign up online through a desktop, tablet, or phone
 
-## - My Atrium Apps
+## My Atrium Apps (8)
 
 There are smartphone apps for both iPhone and Android
 
 We have a toll-free number for technical support to help you get started.
 
-## - 4 My Atrium Portal
+## My Atrium Portal **4**    (9)
 
 The My Atrium Portal allows you to
 
 -   Send messages to your care team
 
-## - My Atrium Portal
+## - My Atrium Portal   (10)
 
 -   request medication renewals
 
-## - My Atrium Portal
+## - My Atrium Portal (11)
 
 -   View upcoming appointments
 
-## - After Visit Summary
+## - After Visit Summary (12)
 
 After your visit, a **After Visit Summary** will be sent to your patient portal and will be printed for you, which will provide details of your visit and will outline the next steps in your care. These may include additional procedures or appointments.
 
-## Consultation Notes
+## Consultation Notes (13)
 
 After your consultation, we will send a **consultation note** to you other physicians, so please bring with you the names of other physicians
 
@@ -88,29 +90,29 @@ Gastroenterologist
 
 Other Cancer Providers
 
-## Possible Next Steps
+## Possible Next Steps (14)
 
 After your consultation, there are several possible next steps:
 
 -   PET scan or CT Scan
 
-## - Possible Next Steps
+## - Possible Next Steps (15)
 
 -   Endoscopic Procedure such as EGD
 
-## - Possible Next Steps
+## - Possible Next Steps (16)
 
 -   Placement of a feeding tube
 
-## - Possible Next Steps
+## - Possible Next Steps (17)
 
 -   or a Port for chemotherapy
 
-## - Possible Next Steps
+## - Possible Next Steps (18)
 
 -   Referrals may be made for chemotherapy or radiation therapy
 
-## - Possible Next Steps
+## - Possible Next Steps (19)
 
 -   or Surgery will be scheduled
 
@@ -136,7 +138,7 @@ We recognize that a cancer diagnosis affects not only the patient but the whole 
 
 -   Supportive Oncology department to help with managing symptoms
 
-## - Resources
+## - Resources (25)
 
 -   We have a full-time staff of **dietitians**
 
@@ -144,7 +146,7 @@ We recognize that a cancer diagnosis affects not only the patient but the whole 
 
 -   We have a **senior oncology clinic** which can help with the special needs of our patients over age 75
 
-## - Resources
+## - Resources (27)
 
 -   For patients with colon cancer under age 55, we have an **Empower program** to address the special needs of this group.
 
@@ -152,39 +154,41 @@ We recognize that a cancer diagnosis affects not only the patient but the whole 
 
 -   We have team of **Nurse Navigators** who can help to coordinate your care by the cancer care team
 
-## Please bring
+## Please bring (29)
 
 When you come for a consultation, please bring with you
 
 -   Names of your physicians
 
-## - Please Bring
-
--   A List of your medications
-
-## - Please Bring
+## - Please Bring (30)
 
 -   A copy of your insurance cards
 
-## - Please Bring
+## - Please Bring (31)
 
--   Reports you have have of any procedures or scans
+If you have access to the MyAtrium Health portal, please log in an review your list of medicines
 
-## - Please Bring
+## - Please Bring (32)
+
+Otherwise, please bring a list of your medicines with you
+
+## - Please Bring (33)
+
+- Reports of any procedures you may have had recently
+
+## Please Bring (34)
 
 -   List of any questions you may have
 
-## 1 Please Plan to Arrive
+## 1 Please Plan to Arrive (35)
 
-Please plan to arrive about 15 minutes before your appointment
-
--   to fill out any paperwork needed
--   and to fill out a health summary prior to your visit
 
 We will look forward to meeting you.
 
-## 4 Contact
+And please don't forget to take advantage of our free valet parking. I can make your visit with us that much more pleasant
+
+## 4 Contact (36)
 
 If you have any questions please feel free to contact us at (980) 442-6410
 
-## 2 Outro Slide
+
