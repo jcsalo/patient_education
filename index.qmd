@@ -2,46 +2,38 @@
 title: "Patient Education"
 ---
 
-[Images](images.html)
+|  |  |  |  |  |
+|----|----|----|----|----|
+| Esophagus T3 | [HTML Slides](lci_esot3.htm) | [Handout](lci_esot3.pdf) | [PPTx](lci_esot3.pptx) | [Script](lci_esot3.docx) |
+| Esophagus ACA | [HTML Slides](lci_esot3_aca.htm) | [Handout](lci_esot3_aca.pdf) | [PPTx](lci_esot3_aca.pptx) | [Script](lci_esot3_aca.docx) |
+| Esophagus ACA_AS | [HTML Slides](lci_esot3_aca_as.htm) | [Handout](lci_esot3_aca_as.pdf) | [PPTx](lci_esot3_aca_as.pptx) | [Script](lci_esot3_aca_as.docx) |
+| Esophagus SCCA | [HTML Slides](lci_eso_scca.htm) | [Handout](lci_eso_scca.pdf) | [PPTx](lci_eso_scca.pptx) | [Script](lci_eso_scca.docx) |
+| Esophagus T2 | [HTML Slides](lci_esot2.htm) | [Handout](lci_esot2.pdf) | [PPTx](lci_esot2.pptx) | [Script](lci_esot2.docx) |
+| Esophagus T1 | [HTML Slides](lci_esot1.htm) | [Handout](lci_esot1.pdf) | [PPTx](lci_esot1.pptx) | [Script](lci_esot1.docx) |
+| Esophagus M1 | [HTML Slides](lci_esom1.htm) | [Handout](lci_esom1.pdf) | [PPTx](lci_esom1.pptx) | [Script](lci_esom1.docx) |
+| Esophagectomy | [HTML Slides](lci_esophagectomy.htm) | [Handout](lci_esophagectomy.pdf) | [PPTx](lci_esophagectomy.pptx) | [Script](lci_esophagectomy.docx) |
+|  |  |  |  |  |
+| Gastric T3 | [HTML Slides](lci_gastrict3.htm) | [Handout](lci_gastrict3.pdf) | [PPTx](lci_gastrict3.pptx) | [Script](lci_gastrict3.docx) |
+| CDH1 | [HTML Slides](lci_cdh1.htm) | [Handout](lci_cdh1.pdf) | [PPTx](lci_cdh1.pptx) | [Script](lci_cdh1.docx) |
+| Gastric GIST | [HTML Slides](lci_gist.htm) | [Handout](lci_gist.pdf) | [PPTx](lci_gist.pptx) | [Script](lci_gist.docx) |
+| Gastrectomy | [HTML Slides](lci_gastrectomy.htm) | [Handout](lci_gastrectomy.pdf) | [PPTx](lci_gastrectomy.pptx) | [Script](lci_gastrectomy.docx) |
+|  |  |  |  |  |
+| Nutrition | [HTML Slides](lci_nutrition.htm) | [Handout](lci_nutrition.pdf) | [PPTx](lci_nutrition.pptx) | [Script](lci_nutrition.docx) |
+| CV Port | [HTML Slides](lci_cvport.htm) | [Handout](lci_cvport.pdf) | [PPTx](lci_cvport.pptx) | [Script](lci_cvport.docx) |
+| Laparoscopy | [HTML Slides](lci_laparoscopy.htm) | [Handout](lci_laparoscopy.pdf) | [PPTx](lci_laparoscopy.pptx) | [Script](lci_laparoscopy.docx) |
 
-<br/>
+## Counseling Forms
 
-## Patient education resources for GI cancer patients
+[Esophagus](4_EsophagusCounsel2.pdf)
 
-## [LCI Presentations](LCI.html)
+[Stomach](7_StomachCounsel3.pdf)
 
-[Esophagus T3](lci_esot3.htm)
+[Gastric Carcinoid](7_Stomach_Counsel_Carcinoid.pdf)
 
-[Esophagus T1-T2](lci_esot1.htm)
+[Foregut](9_ForegutCounsel2.pdf)
 
-[Esophagus T2](lci_esot2.htm)
+[Disability/Return to Work](DisabilityForm.pdf)
 
-[Esophagectomy](lci_esophagectomy.htm)
+[Google Review](GoogleReview.pdf)
 
-### Gastroesophageal Cancer
 
-| Topic | Script | HTML | PDF | Video |
-|:--------------|:-------------:|:-------------:|:-------------:|:-------------:|
-| LCI Introduction | [Script](script_lci_intro.docx) | [HTML](lci_intro.html) | [PDF](lci_intro.pdf) | [OLD Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
-| GE Diagnosis & Staging | [Script](ge_dx_staging_slides.html) | [HTML](ge_dx_staging.html) | [PDF](ge_dx_staging.pdf) | [OLD Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
-| Eso Treatment Options | [Script](eso_rx_options_slides.html) | [HTML](eso_tx_options.html) | [PDF](eso_rx_options.pdf) | [OLD Video](https://www.youtube.com/watch?v=Tk8cp3uL-lU) |
-| Esophageal Early Stage | [Script](eso_early_slides.html) | [HTML](eso_early.html) | [PDF](eso_early.pdf) |  |
-| Eso T2N0 | [Script](eso_t2.docx) | [HTML](eso_advanced.html) | [PDF](eso_advanced.pdf) | [Slides](lci_esot2.htm) |
-| Eso T3 | [Script](eso_t3.docx) | [HTML](eso_t3.html) | [PDF](eso_t3.pdf) | [Slides](lci_esot3.htm) |
-| Eso Advanced Disease | [Script](eso_advanced_slides.html) | [HTML](eso_advanced.html) | [PDF](eso_advanced.pdf) |  |
-| Locally-Advanced ACA | [Script](eso_aca_locally_advanced_slides.html) | [HTML](eso_aca_locally_advanced.html) | [PDF](eso_aca_locally_advanced.pdf) |  |
-| Locally-Advanced SCCA | [Script](eso_scca_locally_advanced_slides.html) | [HTML](eso_scca_locally_advanced.html) | [PDF](eso_scca_locally_advanced.pdf) |  |
-| GE Metastatic Disease | [Script](ge_metastatic_slides.html) | [HTML](ge_metastatic.html) | [PDF](ge_metastatic.pdf) |  |
-| Esophagectomy | [Script](eso_surgery_slides.html) | [HTML](eso_surgery.html) | [PDF](eso_surgery.pdf) |  |
-| Your Surgery Team | [Script](surgeon_slides.html) | [HTML](surgeon.html) | [PDF](surgeon.pdf) |  |
-| Nutrition | [Script](nutrition_slides.html) | [HTML](nutrition.html) | [PDF](nutrition.pdf) |  |
-| Jejunostomy | [Script](jejunostomy_slides.html) | [HTML](jejunostomy.html) | [PDF](jejunostomy.pdf) |  |
-| Gastrostomy | [Script](gastrostomy_slides.html) | [HTML](gastrostomy.html) | [PDF](gastrostomy.pdf) |  |
-| Exercise | [Script](exercise_slides.html) | [HTML](exercise.html) | [PDF](exercise.pdf) |  |
-| Central Venous Port | [script](cv_port_slides.html) | [HTML](cv_port.html) | [PDF](cv_port.pdf) |  |
-| GE Care Team | [script](ge_care_team_slides.html) | [HTML](ge_care_team.html) | [PDF](ge_care_team.pdf) |  |
-| **OBSELETE** |  |  |  |  |
-| Eso Diagnosis & Staging | [Script](eso_dx_staging_slides.html) | [HTML](eso_dx_staging.html) | [PDF](eso_dx_staging.pdf) | [OLD Video](https://www.youtube.com/watch?v=aDkgurq17wE) |
-| Barretts Esophagus | [Script](eso_barretts_slides.html) | [HTML](eso_barretts.html) | [PDF](eso_barretts.pdf) |  |
-| Eso ACA Treatment | [Script](eso_aca_rx_slides.html) | [HTML](eso_aca_rx.html) | [PDF](eso_aca_rx.pdf) |  |
-| Symptoms - Esophageal | [Script](eso_symptoms_slides.html) | [THML](eso_symptoms.html) | [PDF](eso_symptoms.pdf) |  |

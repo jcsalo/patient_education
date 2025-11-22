@@ -177,3 +177,5 @@ CT or PET scan will be performed after preoperative therapy
 {{< include lci_jejunostomy_guts.qmd >}}
 
 {{< include lci_esophagectomy_guts.qmd >}}
+
+{{< include lci_staff_guts.qmd >}}

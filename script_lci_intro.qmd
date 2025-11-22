@@ -1,6 +1,9 @@
 ---
 title: "LCI Introduction"
-format: docx
+format: 
+  docx: default
+  html: default
+  pdf: default
 editor: visual
 from: markdown+emoji
 ---
@@ -100,6 +103,7 @@ After your consultation, there are several possible next steps:
 -   Placement of a feeding tube
 
 ## - Possible Next Steps
+
 -   or a Port for chemotherapy
 
 ## - Possible Next Steps
@@ -132,11 +136,11 @@ We recognize that a cancer diagnosis affects not only the patient but the whole 
 
 -   Supportive Oncology department to help with managing symptoms
 
-## - Resources 
+## - Resources
 
 -   We have a full-time staff of **dietitians**
 
-## - Resources 
+## - Resources
 
 -   We have a **senior oncology clinic** which can help with the special needs of our patients over age 75
 
