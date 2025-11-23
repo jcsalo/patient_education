@@ -29,7 +29,33 @@ Select all sides, then choose fill "No fill"
 
 When exporting, check the 'Export as transparent PNG'
 
+File>>Export To>>Images
+Format: PNG
+check box:  Export with transparent backgrounds
+
 **Question: Can we build titles/images in Keynote??**
 
 
 
+Folders of titles/images are stored in 07_Slides
+
+
+
+## Recording
+
+MacBook Air15 on a plastic box
+
+Keyboard within arm's reach
+
+hotkeys:
+
+z: advance slides
+x: previous slides
+1: taking head
+2: Slide only
+3: Slide with head in corner
+4: Overlay Slides
+
+0 Keypad:  Start recording
+. (del) Keypad: Pause and Unpause recording
+O Keypad: May toggle start stop
