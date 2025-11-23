@@ -10,3 +10,26 @@ From here, the .docx script is loaded into the S-Teleprompter app.
 
 The teleprompter remote is then linked to the iPad via Bluetooth
 
+
+
+
+## Titles and Images for Videos
+
+Slideshows are made in PowerPoint which contain titles and images. In order for OBS to use these images, it is necessary to have a folder of PNG images with transparent background.  A image source is then created which points to that folder.
+
+In order to show the images in the correct order it is necessary to import the PNG images them as files (rather than as a directory)
+
+In order for PowerPoint to export with a transparent background (which is required for overlay titles) it is necessary to select all the objects on a slide, then right click and export as a PNG image.
+
+### New workflow November 2025:
+
+Keynote can export PNG images with a transparent background.
+
+Select all sides, then choose fill "No fill"
+
+When exporting, check the 'Export as transparent PNG'
+
+**Question: Can we build titles/images in Keynote??**
+
+
+
