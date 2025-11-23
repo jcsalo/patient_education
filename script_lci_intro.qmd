@@ -5,7 +5,11 @@ format:
     number-sections: true
     number-depth: 2
   html: default
+    number-sections: true
+    number-depth: 2
   pdf: default
+    number-sections: true
+    number-depth: 2
 editor: visual
 from: markdown+emoji
 ---
