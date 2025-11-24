@@ -4,10 +4,10 @@ format:
   docx:
     number-sections: true
     number-depth: 2
-  html: default
+  html:
     number-sections: true
     number-depth: 2
-  pdf: default
+  pdf:
     number-sections: true
     number-depth: 2
 editor: visual
