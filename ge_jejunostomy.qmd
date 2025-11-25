@@ -1,0 +1,115 @@
+---
+title: "Central Venous Port"
+format: 
+  docx:
+    number-sections: true
+    number-depth: 2
+  html:
+    number-sections: true
+    number-depth: 2
+  pdf:
+    number-sections: true
+    number-depth: 2
+editor: visual
+from: markdown+emoji
+---
+
+## Introduction. *1*
+
+I’m Dr Jonathan Salo, I’m a GI Cancer Surgeon in Charlotte, North Carolina.
+
+Because the esophagus and stomach are so important in digestion, cancers of the esophagus or stomach can make it difficult to get the nutrients you need.
+
+A feeding tube can help nutrition in these cases.
+
+In this video you’ll learn about one type of feeding tube, the feeding jejunostomy.
+
+## Types of Feeding Tubes. L *4*
+
+There are two categories of feeding tubes:
+
+- Gastrostomy tubes are placed in the stomach
+
+- Jejunostomy tubes are placed into the jejunum, the first portion of the small bowel
+
+This video focuses on jejunostomy tubes. Gastrostomy tubes are the focus of another video.
+
+## Anatomy
+
+Food travels from the esophagus to the stomach, and then into the duodenum, and then into the first part of the small intestine called the jejunum.
+
+## Anatomy II
+
+The stomach serves as a reservoir for food, and beging the process of digestion.  The stomach then pushes food through the pylorus muscle into the duodenum.  The stomach releases only a small quantity of food at a time becasue the small intestine can become easily overwhelmed by too much food at one time
+
+## Jejunostomy
+
+Because the small bowel can only handle a small amount of food at a time, it is necessary to use a pump to administer jejunostomy feedings over a long period of time, typically 12 to 16 hours.
+
+A jejunostomy tube has a portion on the inside located inside the small bowel, and a portion outside which is connected to a feeding tube pump.
+
+
+## Jejunostomy 5 cartons
+
+An 8oz carton of a "1.5" feeding tube fromula contains 360 calories and 15 grams of protein
+
+An average-sized man who gets all of his nutrition from the feeding tube needs about 5 cartons per day, which would give 75 grams of protein daily.
+
+Five cartons of tube feeds is 1200mL per day.  This can be given over a 16 hour period at a rate of 75mL/hour.
+
+## Jejunostomy 4 cartons
+
+An average-sized woman or smaller man who gets all of their nutrition from the feeding tube needs about 4 cartons per day, which would give 60 grams of protein daily.
+
+Four cartons of tube feeds is 960mL per day.  This can be given over a 16 hour period at a rate of 60mL/hour.
+
+## Water
+
+In addition to tube feed formula 
+
+Feedings are typically 
+
+
+-   Jejunostomy tube feeds for 16 hours (6pm-10am)
+    -   Men: 75mL/hour x 16 hours = 5 cartons
+    -   Women: 60mL/hour x 16 hours = 4 cartons
+-   Water 240ml (8oz) via syringe 4x/day
+
+Hospital nurses will teach use of the feeding tube
+
+## Jejunostomy Feeds with Diabetes
+
+Jejunostomy feedings elevate blood sugars
+
+-   Insulin may be required along with feeds
+
+Typical Pattern for tube feeds
+
+-   Feeds run via pump from 6pm to 10am
+-   Insulin at 6pm (70/30 insulin)
+-   Insulin at Midnight (70/30 insulin)
+-   No insulin if tube feedings are not run
+
+## Jejunostomy Video
+
+::::::: columns
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+A video is available to help become familiar with the feeding jejunostomy
+:::
+::::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](images/nutrition_jejunostomy_qrcode.png)
+:::
+::::
+:::::::
+
+::: {.content-hidden unless-format="docx"}
+:::
+
+
+## Outro *1*
+
+We hope you have found this video helpful.
