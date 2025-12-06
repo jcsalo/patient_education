@@ -24,13 +24,15 @@ A feeding tube can help nutrition in these cases.
 
 In this video you’ll learn about one type of feeding tube, the feeding jejunostomy.
 
+If you haven't already, take a look at our video on nutrition
+
 ## Types of Feeding Tubes. L *4*
 
 There are two categories of feeding tubes:
 
-- Gastrostomy tubes are placed in the stomach
+-   Gastrostomy tubes are placed in the stomach
 
-- Jejunostomy tubes are placed into the jejunum, the first portion of the small bowel
+-   Jejunostomy tubes are placed into the jejunum, the first portion of the small bowel
 
 This video focuses on jejunostomy tubes. Gastrostomy tubes are the focus of another video.
 
@@ -40,7 +42,7 @@ Food travels from the esophagus to the stomach, and then into the duodenum, and 
 
 ## Anatomy II
 
-The stomach serves as a reservoir for food, and beging the process of digestion.  The stomach then pushes food through the pylorus muscle into the duodenum.  The stomach releases only a small quantity of food at a time becasue the small intestine can become easily overwhelmed by too much food at one time
+The stomach serves as a reservoir for food, and beging the process of digestion. The stomach then pushes food through the pylorus muscle into the duodenum. The stomach releases only a small quantity of food at a time becasue the small intestine can become easily overwhelmed by too much food at one time
 
 ## Jejunostomy
 
@@ -48,27 +50,65 @@ Because the small bowel can only handle a small amount of food at a time, it is 
 
 A jejunostomy tube has a portion on the inside located inside the small bowel, and a portion outside which is connected to a feeding tube pump.
 
-
 ## Jejunostomy 5 cartons
 
 An 8oz carton of a "1.5" feeding tube fromula contains 360 calories and 15 grams of protein
 
-An average-sized man who gets all of his nutrition from the feeding tube needs about 5 cartons per day, which would give 75 grams of protein daily.
+Someone weighing over 150 pounds who gets all of their nutrition from the feeding tube needs about 5 cartons per day, which would give 75 grams of protein daily.
 
-Five cartons of tube feeds is 1200mL per day.  This can be given over a 16 hour period at a rate of 75mL/hour.
+Five cartons of tube feeds is 1200mL per day. This can be given over a 16 hour period at a rate of 75mL/hour.
 
 ## Jejunostomy 4 cartons
 
-An average-sized woman or smaller man who gets all of their nutrition from the feeding tube needs about 4 cartons per day, which would give 60 grams of protein daily.
+Someone weighing under 150 pounds who gets all of their nutrition from the feeding tube needs about 4 cartons per day, which would give 60 grams of protein daily.
 
-Four cartons of tube feeds is 960mL per day.  This can be given over a 16 hour period at a rate of 60mL/hour.
+Four cartons of tube feeds is 960mL per day. This can be given over a 16 hour period at a rate of 60mL/hour.
+
+## Dietitian
+
+Your dietitian will calculate exactly the quantity and rate of your tube feeds, which will depend upon factors such as your weight and how much you are able to take by mouth.
+
+## Tube Feed Duration
+
+We mentioned earlier that tube feeds are typically given over 16 hours, so let's unpack that.
+
+For most patients, one of the goals of tube feeding is preserving and rebuilding muscle mass.
+
+In order to acheive this goal, it's important both to take in sufficient nutriients, but also to exercise to send the signals to your body to use that nutrition to build up muscle rather than store that nurtion as fat.
+
+By running the tube feeds for 16 hours, it permits being unplugged from the feeding tube pump for 8 hours per day, which will allow walking and exercise.
+
+In some unusual cases, it is necessary to administer tube feeds over a 24-hour period. If this is the case, check with your care team to ask their recommendations regarding pausing the tube feeds to allow exercise.
+
+## Tube Feed Rate
+
+I am frequently asked whether it is possible to administer tube feeds at a higher rate, in order to minimize the feedings over a shorter period of time.
+
+There is a practical problem here.  If the tube feeds are administered too fast, it can overwhelm the ability of the small bowel to absorb nutrients.  It can also cause diarrhea, which is unpleasant, particularly at night.
+
+## Formulas
+
+Your dietitian will choose a tube feed formula based upon your nutritional needs and whether you have other medical conditions such as diabete. In general, however, there are three basic types of formula based upon the protein used.
+
+Standard formulas used protein that has been chemically broken down so that it is easier for you to digest.
+
+Peptide-based formulas use protein that has been broken down further 
+
+Enteral formulas use proteins that have been broken down to single amino acids
+
+Your dietitian can help choose a formula that meets your neeeds.
 
 ## Water
 
-In addition to tube feed formula 
+In addition to tube feed formula, it is important to take in sufficient water, either by mouth or through the tube.
 
-Feedings are typically 
+Most patients needs 4 or 5 8 oz cups of water per day.  This means 32 to 40 ounces of water per day.
 
+Water can easily be given through the jejunostomy tube 8 oz (1 cup) at at time.
+
+## 
+
+Feedings are typically
 
 -   Jejunostomy tube feeds for 16 hours (6pm-10am)
     -   Men: 75mL/hour x 16 hours = 5 cartons
@@ -109,7 +149,15 @@ A video is available to help become familiar with the feeding jejunostomy
 ::: {.content-hidden unless-format="docx"}
 :::
 
-
 ## Outro *1*
 
 We hope you have found this video helpful.
+
+
+
+## OutTakes
+
+Flush before and after feedings (why?)
+Keep head of bed elevated during feedings???
+
+Meds via feeding tubes
