@@ -19,7 +19,7 @@ title: "Patient Education"
 | Gastrectomy | [HTML Slides](lci_gastrectomy.htm) | [Handout](lci_gastrectomy.pdf) | [PPTx](lci_gastrectomy.pptx) | [Script](lci_gastrectomy.docx) |
 |  |  |  |  |  |
 | Nutrition | [HTML Slides](lci_nutrition.htm) | [Handout](lci_nutrition.pdf) | [PPTx](lci_nutrition.pptx) | [Script](lci_nutrition.docx) |
-| CV Port | [HTML Slides](lci_cvport.htm) | [Handout](lci_cvport.pdf) | [PPTx](lci_cvport.pptx) | [Script](lci_cvport.docx) |
+| CV Port + Laparoscopy | [HTML Slides](lci_cvport.htm) | [Handout](lci_cvport.pdf) | [PPTx](lci_cvport.pptx) | [Script](lci_cvport.docx) |
 | Laparoscopy | [HTML Slides](lci_laparoscopy.htm) | [Handout](lci_laparoscopy.pdf) | [PPTx](lci_laparoscopy.pptx) | [Script](lci_laparoscopy.docx) |
 
 ## Counseling Forms
@@ -35,5 +35,3 @@ title: "Patient Education"
 [Disability/Return to Work](DisabilityForm.pdf)
 
 [Google Review](GoogleReview.pdf)
-
-

@@ -1,233 +1,282 @@
 ---
-title: "Locally-Advanced Adenocarcinoma"
+title: "Locally-Advanced Esophageal Squamous Cell Carcinoma"
 format: 
-  revealjs:
-    slide-number: c/t
-    width: 1280
-    height: 720
-    logo: "atriumlogo.jpg"
-    footer: "[Patient Education](https://jcsalo.github.io/patient _education/)"
-    #css: ["theme/theme.css"]
-    css: ["lci_styles.css"]
-    theme: default
-    echo: false
-    #output-file: eso_advanced_slides.html
+  docx:
+    number-sections: true
+    number-depth: 2
+  html:
+    number-sections: true
+    number-depth: 2
   pdf:
-    documentclass: scrartcl
-  html: default
+    number-sections: true
+    number-depth: 2
 editor: visual
-bibliography: zotero.bib
+from: markdown+emoji
 ---
 
-## 1 Intro
+## Intro L *1*
 
-I'm Dr Jonathan Salo, a GI Cancer Surgeon at the in Charlotte, North Carolina
-If you’re seeing this video, changes are you or someone close to you has had an encounter with esophageal cancer.
-These videos are designed to educate you about cancer and its treatment and help you and you cancer care team make the right decisions for you.
+I'm Dr Jonathan Salo, a GI Cancer Surgeon at the in Charlotte, North Carolina If you’re seeing this video, changes are you or someone close to you has had an encounter with esophageal cancer. These videos are designed to educate you about cancer and its treatment and help you and you cancer care team make the right decisions for you.
 
 Of course, there is no substitute for the expert opinions of your cancer care team.
 
+## Locally-advanced Esophageal Cancer *L* *4*.
 
-## 4 Esophageal Cancer (2)
+The topic of this video is locally-advanced squamous cell carcinoma of the esophagus. (2)
 
-For a refresher, esophageal cancer, as it grows, can tends to make it difficult for patients to swallow.
+## Treatment is guided by the Stage of cancer. 2
 
-So patients with esophageal cancer fit into two main groups:
+The treatment recommended will depend upon the stage of the cancer. If you haven't already, this may be a good time to view the video on Diagnosis and Staging.
 
--   A small group who don't have any difficulty eating that have *early* stage disease
--   Majority of patients who have some difficulty eating or may have weight loss who have *advanced* disease.
+## Staging 
 
-## Esophageal Cancer (3)
+A PET or CT scan is used for staging. If the scans show that the tumor is localized, without signs of spread beyond the nearby lymph nodes, it is considered M0.
 
-This video will focus on Advanced Stage Disease
+On the other hand, if the scans show signs of spread, this is considered Metastatic Disease or M1. (4)
 
-We will post videos about early stage disease, so take a look in the description.
+## Metastatic Disease = M1
 
+Patients with metastatic disease are best treated with chemotherapy and are generally not treated with surgery. (5)
 
-## Advanced Stage Cancer (4)
+## Locally Advanced Esophageal Cancer *4*
 
- *Advanced* esophageal cancer consists of two categories: Locally Advanced and Metastatic.
+We will focus in this video on Locally-advanced cancers
 
--   Locally Advanced -\> T3M0
--   Metastatic -\> M1
+## Locally-advanced Esophageal Cancer T2/3 or N+.
 
-
-## 2 Metastatic Cancer:M1 (5)
-
-Metastatic cancers are those that have signs of spread to other organs such as the lungs, liver, or bones.
-
-These cancers are treated primarily with chemotherapy.
-
-We have other videos that focus on metastatic cancers.
-
-## Locally-advanced: M0 (6)
-
-Locally-advanced cancers are M0, which means there is no evidence of metastasis, or spread to other parts of the body.  In addition, they are T3 or node-positive
-
-## Locally-advanced: T3 or N+ (7)
-
-Locally-advanced cancers are not only M0, but they are T3 or node-positive.
+Locally advanced esophageal cancer has not spread to other organs in the body. Locally-advanced cancers are not only M0, but they are either T2 or T3 or node-positive. (7)
 
 If this terminology is not familiar to you, please refer to our video on Diagnosis and Staging. There is a link above and in the description below.
 
-## 4 Types of Esophageal Cancer (8)
+## Locally-advanced: M0
 
-To make things a bit more complicated, there are two types of esophageal cancer: Adenocarcinoma and Squamous Cell Carcinoma.
+Locally-advanced cancers are M0, which means there is no evidence of metastasis, or spread to other parts of the body. (8)
 
-The treatment is in many ways similar, but there are enough differences that we will have a separate video that focuses on squamous cell carcinoma. 
+## Adenocarcinoma vs Squamous Cell.
 
-## Types of Esophageal Cancer (9)
+To make things a bit more complicated, there are two types of esophageal cancer: Adenocarcinoma and Squamous Cell Carcinoma. The treatment of there cancers is somewhat similar, but different enough that we have prepared a video to specifically address squamous cell carcinoma. (9)
 
-This video will focus on locally-advanced *adenocarcinoma*
+## Types of Esophageal Cancer
 
+This video will focus on locally-advanced squamous cell carcinoma (10)
 
-## (6) Locally Advanced (10)
+## Why not just Cut it out? 
 
-Locally-advanced cancers frequently have localized spread of cancer cells outside of the visible tumor.
+I am occasionally asked by patients why we don't just remove esophageal cancer with surgery as the first treatment. (11)
 
-##  Locally Advanced (11)
+The answer is a bit complex.
 
-Surgery removed the visible tumor and the surrounding tissue, but does not always remove microscopic spread of cancer which can't be seen with the naked eye.
+## <Esophageal cancer graphic> 
 
-##  Locally Advanced (12)
+When a patient is diagnosed with cancer of the esophagus or gastroesophageal junction, it can look like the cancer is confimed to the esophagus. (12)
 
-If surgery is performed as the only therapy for locally-advanced cancer, there is a risk that cancer cells can be left behind
+## \<esophageal cancer with 'fingers'\> 
 
-##  Locally Advanced (13)
+what we see from inside the esophagus is just the tip of the iceberg.
 
-Preoperative therapy is administered before surgery
+There is frequently spread of cancer cells into the nearby tissue or lymph nodes (13)
 
-##  Locally Advanced (14)
+## <surgery without preop> 
 
-And is designed to kill cancer cells in the tumor, nodes, and any cancer cells in the surrounding area
+If surgery is performed as the only therapy for locally-advanced cancer, (14)
 
-##  Locally Advanced (15)
+## <postop without preop> 
 
-This therapy typically involves chemotherapy
+there is a risk that cancer cells can be left behind (15)
 
-##  Locally Advanced (16)
+## Locally Advanced 
 
-Which can circulate all throughout the body
+Preoperative therapy is administered before surgery And is designed to shrink the tumor (16)
 
-##  Locally Advanced (17)
+## Locally Advanced 
 
-Chemotherapy can be combined with radiation in some cases
+and kill cancer cells in the surrounding area
 
-##  Locally Advanced (18)
+This therapy typically involves chemotherapy (17)
 
-The overall goal is shrinking the tumor and killing nearby cancer cells
+## Locally Advanced 
 
+and may involve radiation (18)
 
-##  Locally Advanced (19)
+## Locally Advanced 
+
+The overall goal is shrinking the tumor and killing nearby cancer cells, to make the surgery more effective (19)
+
+## Surgery 
 
 After preoperative therapy has shrunk the tumor and any other cancer cells, surgery can be performed
 
-##  Locally Advanced (20)
+## Post Surgery 
 
-Preoperative therapy combined with surgery offers the best chance to remove all of the cancer, without leaving any behind
+Preoperative therapy combined with surgery offers the best chance to remove all of the cancer, without leaving any behind (21)
 
-## (4) Squamous Cell Preoperative Therapy (21)
+## Post Surgery and Reconstruction
 
-The good news is that squamous cell carcinoma is very sensitive to a combination of radiation and chemotherapy.
+...without leaving any cancer cells behind (22)
 
-##  Chemotherapy + Radiation -> Surgery (22)
+## Preoperative Therapy  *4*
 
-Chemotherapy is given intraveneously once per week for 6 weeks
+-   Shrinks the tumor
+-   Make surgery more effective
+-   Leads to better cancer control than surgery alone (23)
 
-Radiation is given five days per week for 6 weeks
+## Neoadjuvant 
 
-##  Chemotherapy + Radiation -> Surgery (23)
+You may hear preoperative therapy referred to as "neoadjuvant therapy" (24)
+
+## Preop Therapy 
+
+For squamous cell carcinoma, chemotherapy and radiation are delivered at the same time before surgery (25)
+
+## Chemotherapy + Radiation -\> Surgery 
+
+The chemotherapy and radiation strategy uses chemotherapy and radiation together
+
+Chemotherapy is given intraveneously once per week
+
+Radiation is given five days per week
+
+Both are administered together for 5 1/2 weeks
+
+This is also know as the "CROSS" treatment regimen (26)
+
+## Chemotherapy + Radiation -\> Surgery 
 
 The chemotherapy is a low dose, designed to make the radiation more effective
 
 The therapy is generally well tolerated
 
-## (2) CROSS Clinical Trial (24)
+Hair loss is uncommon
 
-The effectiveness of this approach was proven scientifically in the CROSS clinical trial
+Low blood counts are also uncommon, and occur in about 7% of cases
 
-This was a scientific study published in 2010
+## Radiation Esophagitis
 
-363 patients with locally-advanced esophageal cancer were divided into two treatment groups:
+The radiation can, however, cause inflammation in the esophagus called esophigitis.
 
-One group was treated with surgery alone
+This can make eating more uncomfortable during the last two weeks of radiation (28)
 
-The other group was treated with chemotherapy and radiation first, followed by surgery
+## Radiation Esophagitis
 
-##  CROSS Clinical Trial (25)
+The good news is that this is temporarily and usually resolves within 2 or 3 weeks after the radiation is completed. (29)
 
-The results of the trial were quite dramatic: There was better control of the cancer in the group that received chemotherapy and radiation prior to surgery. This group had longer survival than the group treated with surgery alone.
+## Radiation Esophagitis
 
-##  CROSS Clinical Trial (26)
+What this may mean, however, is placement of a temporary feedindg tube may be needed. (30)
 
-For the past 15 years, chemotherapy and radiation, followed by surgery, was established as the most effective therapy. This is known as trimodality therapy, because it uses a combination of three different therapies.
+## Radiation Esophagitis
 
+The feeding tube can usually be removed 2-3 weeks after the end of radiation, as the cancer shrinks and the inflammation subsides (31)
 
-## (2) Preoperative Therapy (27)
+## Chemo + Radiation -\> Surgery *2*
 
-The radiation will work to kill cancer cells, but it can also damage the healthy tissue in your body as well, particularly the lining of the esophagus.
+To summarize, This approach to preoperative therapy uses six weeks of chemotherapy and radiation together.
 
-This irritation to the lining of the esophagus is called *radiation esophagitis* and can be thought of as a "sunburn" on the inside of the esophagus.
+Surgery is typically performed 6-8 weeks after the end of radiation, as soon as patients have recovered. (32)
 
-Radiation esophagitis is usually at it worst during the last two weeks radiation, and can make swallowing worse.
+## Chemo + Radiation -\> Surgery 
 
-Within two weeks after radiation is completed, swallowing is starting to get better as the tumor in the esophagus shrinks.
+After surgery, the pathologist examines the cancer that has been removed.
 
-For this reason, a temporary feeding tube is frequently necessary for patients getting chemotherapy and radiation.  We have a video that discusses nutrition and feeding tubes.
+One of the things the pathologist looks for is how well the preoperative chemotherapy and radiation killed the cancer before the surgery
 
+In some cases, the pathologist doesn't find any cancer that looks alive. (33)
 
-##  Preoperative Therapy (28)
+## Chemo + Radiation -\> Surgery 
 
-Within two weeks after radiation is completed, swallowing is starting to get better as the tumor in the esophagus shrinks.
+After surgery, the pathologist examines the cancer that has been removed.
 
-For this reason, a temporary feeding tube is frequently necessary for patients getting chemotherapy and radiation.  We have a video that discusses nutrition and feeding tubes.
+One of the things the pathologist looks for is how well the preoperative chemotherapy and radiation killed the cancer before the surgery
 
-##  Preoperative Therapy (29)
+In some cases, the pathologist doesn't find any cancer that looks alive. (34)
 
-For this reason, a temporary feeding tube is frequently necessary for patients getting chemotherapy and radiation.  A feeding tube is usually placed before chemotherapy and radiation starts, and can often be removed 2 to 3 weeks after radiation is completed
+## Chemo + Radiation -\> Surgery 
 
-We have a video that discusses nutrition and feeding tubes.
+In about half the cases of patients treated with chemotherapy and radiation, followed by surgery, the pathologist does not find any evidence of live cancer cells in the specimen (35)
 
+## Chemo + Radiation -\> Surgery 
 
-## After Chemotherapy + Radiation (30)
+In these cases, the cancer was probably cured by the chemotherapy + radiation alone (36)
 
-After chemotherapy and radiation are completed, your care team will develop a plan to evaluate the effectiveness of the treatment.  This may include:
+## Chemo + Radiation
 
-- PET scan 4-6 weeks after the end of radiation
+Patients with squamous cell carcinoma of the esophagus are *cured* by chemotherapy and radiation *alone* in about half of cases. (37)
 
-## After Chemotherapy + Radiation (31)
+## Chemo + Radiation
 
-and upper endoscopy or EGD
+It can be hard to know for certain who is cured immediately after the chemotherapy and radiation are finished (38)
 
+## Chemo + Radiation
 
-## Surgergy after Chemotherapy + Radiation (32)
+The decision-making about what to do after chemotherapy and radiation is made more complicated by the fact that it's hard to know for certain who is cured immediately after chemotherapy and radiation is finished. (39)
 
-The decision-making regarding surgery after chemotherapy and radiation for esophageal *squamous cell carcinoma* is complex.  You will have an opportunity to meet with your esophageal cancer care team after the chemotherapy and radiation are completed.
+## Chemo + Radiation -\> Surveillance
 
-## Surgergy after Chemotherapy + Radiation. (33)
+The first step is to repeat the upper endoscopy (or EGD) and the scans after the completion of chemotherapy and radiation to look for evidence of persistent cancer what wasn't killed by the therapy (40)
 
-The good news is that squamous cell carcinoma of the esophagus, unlike the other kind of esophageal cancer called adenocarcinoma, is very sensitive to chemotherapy and radiation.
+## Chemo + Radiation -\> Surveillance
 
-In fact, it is estimated that 40% of patients with squamous cell carcinoma of the esophagus are cured by chemotherapy and radiation alone. 
+These tests will result in one of two answers: Either there is no visible cancer found, or persistent cancer is found by either endoscopy (EGD) or on scans (41)
 
+## Chemo + Radiation -\> Surveillance
 
-## Surgergy after Chemotherapy + Radiation. (33)
+In most cases, about 80%, no visible cancer is found, and in 20%, there is evidence of persistent cancer. (42)
 
-The challenge is that it can be difficult to identify the 40% that are cured vs the 60% who have persistent cancer after chemotherapy and radiation.  
+## Chemo + Radiation -\> Surveillance
 
-## Treatment after Chemotherapy + Radiation (33)
+Patients with persistent disease after chemotherapy and radiation are often candidates for surgery (43)
 
-There are several possible options after the completion of chemotherapy and radiation for squamous cell carcinoma.
+## Chemo + Radiation -\> Surveillance
 
-- Surgery
-- Systemic therapy
-- Active Surveillance
+Among patients with no evidence of cancer after chemotherapy and radiation, some are cured, but some simply have *hidden cancer* which will eventually grow back over time (44)
 
+## Chemo + Radiation -\> Surveillance
 
+Those patients who initially have no visible cancer, in whom the cancer later regrows, are candidates for surgery. (45)
 
+## Active Surveillance
 
-##  Additional Topics (35)
+So how can we figure out which patients without visible cancer have hidden cancer that might regrow in time?
 
+The strategy is call Active Surveillance. (46)
+
+## Chemo + Radiation -\> Surveillance
+
+So how can we figure out which patients without visible cancer have hidden cancer that might regrow in time?
+
+The strategy is call Active Surveillance. (46)
+
+## Active Surveillance
+
+Patients who have no visible cancer after chemotherapy and radiation have an endoscopy every 3 to 4 months for the next 2 years (47)
+
+## Active Surveillance
+
+As long as no evidence of recurrence is found (48)
+
+## Active Surveillance
+
+If recurrent cancer is found, surgery can be done at that point (49)
+
+## Preparing for Preoperative Therapy-2 
+
+I know this all sounds rather complex, but the starting point is to get prepared for chemotherapy and radiation.
+
+There are three important ways:
+
+First is to make sure you take in enough protein in your diet. We have a video on nutrition.
+
+Second is to stay active. We recommend 30minutes each day of vigorous exercise such as brisk walking
+
+Third is to be careful about your dental hygeine. If you need any dental work done, check with your dentist. Keeping your teeth healthy can reduce the risk of infection during therapy. (50)
+
+## Preparing for Preoperative Therapy-2 
+
+In some cases, a feeding tube may be be necessary in order to maintain adequate nutrition.
+
+A central venous port may be needed to help wlith the admnistration of chemotheray. (51)
+
+## Wrap up  *1*
 
 We hope you have found this video helpful. Here are some other topics for which videos have been posted or are planned.
 
@@ -235,4 +284,4 @@ Feel free to leave a comment or a question, or if you have suggestions for futur
 
 If you or a family member have had an encounter with esophageal cancer, I would love to hear about your experience, so please take a minute to leave a comment below.
 
-We're constantly creating new videos, so please subscribe to be notified of new videos when we post them.
+We're constantly creating new videos, so please subscribe to be notified of new videos when we post them. (51)
