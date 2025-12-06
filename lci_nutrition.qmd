@@ -47,3 +47,5 @@ Normally, food passes from the mouth into the esophagus, and then into the stoma
 {{< include lci_gastrostomy_guts.qmd >}}
 
 {{< include lci_jejunostomy_guts.qmd >}}
+
+{{< include lci_staff_guts.qmd >}}

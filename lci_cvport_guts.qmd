@@ -21,7 +21,6 @@ Several options exist to administer chemotherapy:
 
 :::: {.column width="40%"}
 ::: {.content-visible unless-format="docx"}
-
 ![](images/access_peripheral-venous-catheter-427167-7_960_720-pixabay.jpeg)
 :::
 ::::
@@ -35,26 +34,7 @@ A new catheter is placed for each dose of chemotherapy
 FLOT chemotherapy requires a home infusion pump, got which a peripheral IV won't work
 :::
 
-## PICC Lines
 
-:::::: columns
-::: {.column width="65%"}
--   Placed in Radiology
--   Stay in place during all of treatment
--   Needs to be kept clean and dry
--   Suitable for FLOT chemotherapy
-:::
-
-:::: {.column width="35%"}
-::: {.content-visible unless-format="docx"}
-![](images/comm_picc.jpeg)
-:::
-::::
-::::::
-
-::: {.content-hidden unless-format="docx"}
-A PICC line is placed in Radiology and stays in place during the treatment course Special care is needed at home to keep the catheter and it's dressing clean and dry
-:::
 
 ## Central Venous Port
 

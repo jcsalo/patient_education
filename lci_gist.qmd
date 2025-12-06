@@ -22,6 +22,7 @@ format:
 editor: visual
 bibliography: zotero.bib
 ---
+
 ## GI Stromal Tumors
 
 -   Arise from the wall of the stomach
@@ -61,19 +62,19 @@ GIST tumors have a range of behavior:
 
 -   Initial treatment usually surgery
 -   Risk of recurrence determined by pathology
-  - Size of tumor
-  - Mitotic rate = how rapidly tumor is dividing
+-   Size of tumor
+-   Mitotic rate = how rapidly tumor is dividing
 
 ## Imatinib = Gleevec
 
-- Oral drug shrinks GIST tumors
-- Well tolerated
-- Given *after* surgery for high-risk tumors
-  - 1 or 3 years depending upon risk
-- Given *before* surgery for large tumors
-
+-   Oral drug shrinks GIST tumors
+-   Well tolerated
+-   Given *after* surgery for high-risk tumors
+    -   1 or 3 years depending upon risk
+-   Given *before* surgery for large tumors
 
 {{< include lci_gastrectomyt3_guts.qmd >}}
 
-
 {{< include lci_treatment_prep_guts.qmd >}}
+
+{{< include lci_staff_guts.qmd >}}

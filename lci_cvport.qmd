@@ -24,3 +24,7 @@ bibliography: zotero.bib
 ---
 
 {{< include lci_cvport_guts.qmd >}}
+
+{{< include lci_laparoscopy_guts.qmd >}}
+
+{{< include lci_staff_guts.qmd >}}
