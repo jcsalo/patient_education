@@ -59,3 +59,17 @@ x: previous slides
 0 Keypad:  Start recording
 . (del) Keypad: Pause and Unpause recording
 O Keypad: May toggle start stop
+
+
+Green Screen setting
+
+Default color
+388
+127
+207
+
+
+Color 70a056
+15
+100
+217
