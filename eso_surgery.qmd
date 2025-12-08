@@ -1,22 +1,17 @@
 ---
 title: "Esophagectomy"
 format: 
-  revealjs:
-    slide-number: c/t
-    width: 1280
-    height: 720
-    logo: "atriumlogo.jpg"
-    footer: "[Patient Education](https://jcsalo.github.io/patient _education/)"
-    #css: ["theme/theme.css"]
-    css: ["lci_styles.css"]
-    theme: default
-    echo: false
-    output-file: eso_surgery_slides.html
+  docx:
+    number-sections: true
+    number-depth: 2
+  html:
+    number-sections: true
+    number-depth: 2
   pdf:
-    documentclass: scrartcl
-  html: default
+    number-sections: true
+    number-depth: 2
 editor: visual
-bibliography: zotero.bib
+from: markdown+emoji
 ---
 
 ## Introduction
@@ -29,9 +24,8 @@ In this video, you will learn about
 -   Risks of surgery
 -   How you can reduce the risk of surgery
 
-In another video, we'll talk about how to choose a hospital and surgeon for your esophagectomy.
+##
 
-------------------------------------------------------------------------
 
 Surgery for esophageal cancer is generally performed for three different situations:
 
@@ -39,19 +33,23 @@ Surgery for esophageal cancer is generally performed for three different situati
 -   Localized Tumors (T2N0)
 -   Locally Advanced Tumors (T3 or N+) after the completion of preoperative therapy. Preoperative therapy is generally some combination of chemotherapy and radiation.
 
-If you haven't seen it already, this may be a good time to view the Esophageal Cancer Treatment Options video. There's a link above and a link in the description below.
+If you haven't seen it already, this may be a good time to view our video about Esophageal Cancer Staging and Treatment 
+
+There's a link above and in the description below.
 
 [Esophageal Cancer Treatment Options](eso_rx_options.qmd)
 
-------------------------------------------------------------------------
+
 
 ## Goals of Esophagectomy
+
+
 
 ::::: columns
 ::: {.column .fragment width="50%"}
 -   Remove tumor from esophagus
 -   Remove surrounding lymph nodes
--   Create a new esophagus
+-   Create a new esophagus, usually from the stomach
 :::
 
 ::: {.column .fragment width="50%"}
@@ -59,9 +57,9 @@ If you haven't seen it already, this may be a good time to view the Esophageal C
 :::
 :::::
 
-------------------------------------------------------------------------
 
-## Resection
+
+## Ivor Lewis
 
 ::::: columns
 ::: {.column .fragment width="50%"}
@@ -73,7 +71,7 @@ The *Ivor Lewis* esophagectomy, shown here, removes the lower 2/3 of the esophag
 :::
 :::::
 
-------------------------------------------------------------------------
+
 
 ## Reconstruction
 
@@ -87,7 +85,7 @@ A new esophagus is created from the stomach in the abdomen by fashioning it into
 :::
 :::::
 
-------------------------------------------------------------------------
+
 
 ## Ivor Lewis esophagectomy
 
@@ -101,7 +99,7 @@ The new esophagus is now brought up into the chest. A new connection is made bet
 :::
 :::::
 
-------------------------------------------------------------------------
+
 
 ## Open Esophagectomy
 
@@ -115,7 +113,7 @@ Open esophagectomy uses conventional incisions in the abdomen and the right ches
 :::
 :::::
 
-------------------------------------------------------------------------
+
 
 ## Minimally-invasive Ivor Lewis
 
@@ -131,7 +129,7 @@ The smaller incisions mean faster recovery and less discomfort
 :::
 :::::
 
-------------------------------------------------------------------------
+
 
 ## Minimally-invasive Ivor Lewis
 
@@ -145,7 +143,7 @@ We have found this is the best option for most of our patients. In some cases, a
 :::
 :::::
 
-------------------------------------------------------------------------
+
 
 ## Total Esophagectomy
 
@@ -159,7 +157,7 @@ For patients with tumors in the upper esophagus, we need to remove more of the e
 :::
 :::::
 
-------------------------------------------------------------------------
+
 
 ## Total Esophagectomy
 
@@ -173,7 +171,7 @@ For those patients, we need to remove the whole esophagus
 :::
 :::::
 
-------------------------------------------------------------------------
+
 
 ## Minimally-invasive McKeown Esophagectomy
 
@@ -187,13 +185,13 @@ In this case, a connection between the esophagus and the stomach is made in the 
 :::
 :::::
 
-------------------------------------------------------------------------
+
 
 ## Transhiatal Esophagectomy
 
 ::::: columns
 ::: {.column .fragment width="50%"}
-Another option is a transhiatal esohagectomy, which avoids the need to make incisions in the right chest. The operation is performed from the abdomen and the right neck.
+Another option is a transhiatal esophagectomy, which avoids the need to make incisions in the right chest. The operation is performed from the abdomen and the right neck.
 :::
 
 ::: {.column .fragment width="50%"}
@@ -201,11 +199,11 @@ Another option is a transhiatal esohagectomy, which avoids the need to make inci
 :::
 :::::
 
-------------------------------------------------------------------------
+
 
 When you meet with your surgeon, you will have an opportunity to discuss your particular situation and their recommendation for surgery. Your surgeon will recommend a surgical approach based upon you and your tumor and their personal experience.
 
-------------------------------------------------------------------------
+
 
 ## Risks of Surgery
 
@@ -214,7 +212,7 @@ An esophagectomy is a substantial operation, and in some cases there can be post
 -   Anastomotic leak
 -   Pneumonia
 
-------------------------------------------------------------------------
+
 
 ## Anastomotic Leak
 
@@ -228,7 +226,7 @@ The anastomosis is surigcal connection between the esophagus and the stomach.
 :::
 :::::
 
-------------------------------------------------------------------------
+
 
 ## Anastomotic Leak
 
@@ -242,13 +240,13 @@ If anastomosis does not heal properly, this can cause a leakage of fluid from th
 :::
 :::::
 
-------------------------------------------------------------------------
+
 
 ## Anastomotic Leak
 
 In some cases, the leak will heal on its own, but other cases may require additional procedures or even surgery. The risk of leak depends upon the operation performed but also depends upon the experience of the surgeon. At the end of this video we have a link to a video about how to choose a hospital and a surgeon, which talks further about the risks of a leak.
 
-------------------------------------------------------------------------
+
 
 ## Pneumonia
 
@@ -262,7 +260,7 @@ Pneumonia is another complication which can occurs in about 10-15% of patients a
 :::
 :::::
 
-------------------------------------------------------------------------
+
 
 ## Preventing Pneumonia
 
@@ -275,19 +273,19 @@ There are two important ways that pneumonia can be prevented:
 -   Deep breathing
 -   Walking
 
-------------------------------------------------------------------------
+
 
 ## Deep breathing and coughing
 
 After surgery, it's important to breathe deeply to help your lungs recover after surgery. Deep breathing make the cough more effective and helps clear secretions. After surgery, deep breathing and coughing can be uncomfortable, so controlling your discomfort will be an important part of your recovery.
 
-------------------------------------------------------------------------
+
 
 ## Walking
 
 Walking after surgery is also an important way to help your lungs recover as well. When we walk, it's easier for our lungs to function, and again, it makes the cough more frequently.
 
-------------------------------------------------------------------------
+
 
 ## Preventing Pneumonia
 
@@ -301,7 +299,7 @@ In our clinic, we actually measure out patient's strength with a hand-held stren
 
 About half of our patients have good strength, shown in green. A quarter are have low strength, shown in red Another quarter are in the middle, shown in yellow
 
-------------------------------------------------------------------------
+
 
 ```{r pie, echo=F}
 library(ggplot2)
@@ -331,13 +329,13 @@ ggplot(data, aes(x="", y=amount, fill=Group)) +
 
 ```
 
-------------------------------------------------------------------------
+
 
 ## Pneumonia
 
 Overall, the risk of pneumonia is about 10% in our patients who undergo esophagectomy. 90% of patients never experience pneumonia, but 10% will have pneumonia after surgery.
 
-------------------------------------------------------------------------
+
 
 ```{r, echo=F, warning =F, message=F}
 df2<-data.frame(pneumonia=c(0,0,0.10,0.9,0,0),strength=c("  ","  ","Average","Average","    ","    "), Outcome=c("Pneumonia", "No Pneumonia","Pneumonia", "No Pneumonia" ,"Pneumonia","No Pneumonia"),pneumonia_labels=c("","","10%","", "",""),ordering=c(5,5,2,2,1,1))
@@ -357,7 +355,7 @@ p<-ggplot(data=df2, aes(x=reorder(strength,ordering),y=pneumonia, fill=Outcome))
 p
 ```
 
-------------------------------------------------------------------------
+
 
 ```{r, pneumonia_figoverall, echo=F,  fig.height=6,fig.width=8, warning=F, message=F}
 
@@ -374,13 +372,13 @@ p<-ggplot(data=df1, aes(x=strength,y=pneumonia))+
 p
 ```
 
-------------------------------------------------------------------------
+
 
 However the risk of pneumonia is not the same for everyone. Even though the average risk is 10%, the risk is much higher for our patients with low muscle strength and much lower for patients with good muscle strength.
 
 For the half of our patients with good muscle strength, the risk of pneumonia is about 5%. On the other hand, the risk of pneumonia is 20% in the quarter of our patients who have low muscle strength.
 
-------------------------------------------------------------------------
+
 
 ```{r , message=FALSE, warning=FALSE, pneumonia_fig2b, echo=F}
 library(ggplot2)
@@ -397,7 +395,7 @@ p<-ggplot(data=df1, aes(x=strength,y=pneumonia))+
 p
 ```
 
-------------------------------------------------------------------------
+
 
 ## Muscle Strength and Risk after Esophagectomy
 
@@ -423,7 +421,7 @@ Now this doesn't mean that you need to look like this to prevent pneumonia after
 :::
 :::::
 
-------------------------------------------------------------------------
+
 
 The good news is that you can increase your muscle strength before surgery in two very simple ways:
 
@@ -431,7 +429,7 @@ The good news is that you can increase your muscle strength before surgery in tw
 
 -   Exercise
 
-------------------------------------------------------------------------
+
 
 ## Good News
 
@@ -439,13 +437,13 @@ with proper nutrition and exercise, you can increase your muscle strength, and w
 
 When you meet with your surgery team, be sure to ask them about pain control after surgery and how you can increase your muscle strength.
 
-------------------------------------------------------------------------
+
 
 In the next video in our series, you will learn about how to choose a hospital and a surgeon for esophageal surgery:
 
 [Choosing a Hospital and Surgeon for Esophagectomy](32-Surgeon.html)
 
-------------------------------------------------------------------------
+
 
 We hope you have found this video helpful. This videos and others like it are designed to
 
@@ -455,8 +453,8 @@ and equip them for their discussions with their esophageal cancer care team.
 
 As always, these videos are no substitute for expert medical advice.
 
-------------------------------------------------------------------------
+
 
 Feel free to leave a comment or a question, or if you have suggestions for future videos.
 
-------------------------------------------------------------------------
+

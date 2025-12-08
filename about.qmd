@@ -33,11 +33,22 @@ File>>Export To>>Images
 Format: PNG
 check box:  Export with transparent backgrounds
 
-**Question: Can we build titles/images in Keynote??**
+## White Balance
+
+Center camera on gray card
+Press WB key on back of camera
+Set. to WB1
+Click set (tap screen)
 
 
 
 Folders of titles/images are stored in 07_Slides
+
+
+## Lamp setup
+
+Speaker Left - Octagon soft light on stand
+Speaker Right - Octagon soft light on desk stand + Neewer LED light turned against the wall
 
 
 
@@ -69,7 +80,13 @@ Default color
 207
 
 
+Color picked Dec 07
 Color 70a056
 15
 100
 217
+
+
+## Atrium Health
+
+Teal is 00818A
