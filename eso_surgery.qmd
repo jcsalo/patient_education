@@ -16,33 +16,102 @@ from: markdown+emoji
 
 ## Introduction
 
-I’m Dr Jonathan Salo, a GI Cancer Surgeon in Charlotte, North Carolina.
+I’m Dr Jonathan Salo, a GI Cancer Surgeon in Charlotte, North Carolina. (1)
 
-In this video, you will learn about
+In this video, you will learn about (2)
 
 -   Different kinds of surgery for esophageal cancer
 -   Risks of surgery
--   How you can reduce the risk of surgery
+-   How you can reduce the risk of surgery (1)
 
-##
+## Esophagectomy
 
+Surgical removal of the esophagus is referred to as esophagectomy. (3)
 
-Surgery for esophageal cancer is generally performed for three different situations:
+## Esophagectomy
 
--   Superficial Tumors (T1) that can't be completely removed by endoscopy
--   Localized Tumors (T2N0)
--   Locally Advanced Tumors (T3 or N+) after the completion of preoperative therapy. Preoperative therapy is generally some combination of chemotherapy and radiation.
+Esophagectomy is generally performed for three different situations:
 
-If you haven't seen it already, this may be a good time to view our video about Esophageal Cancer Staging and Treatment 
+-   Superficial Tumors (T1) that can't be completely removed by endoscopy (4)
 
-There's a link above and in the description below.
+ you haven't seen it already, this may be a good time to view our video about Esophageal Cancer Staging and Treatment 
 
-[Esophageal Cancer Treatment Options](eso_rx_options.qmd)
+## Esophagectomy
 
+-   Localized Tumors that are T1b or T2 (5)
+
+## Esophagectomy
+
+-   Locally Advanced Tumors, which are T3 or Node-positive (6)
+
+## Esophagectomy
+
+- *after* the completion of preoperative therapy. Preoperative therapy is generally some combination of chemotherapy and radiation. (7)
 
 
 ## Goals of Esophagectomy
 
+The goals of esophagectomy are to remove the tumor (8)
+
+
+## Goals of Esophagectomy
+
+And nearby lymph nodes (9)
+
+## Goals of Esophagectomy
+
+A portion of the esophagus and stomach is removed with the tumor (10)
+
+
+## Reconstruction
+
+The remaining stomach is fashioned into a tube to create a new esophagus (11)
+
+
+## Reconstruction
+
+The esophagus and stomach are now joined together
+
+The new connection between esophagus and stomach is called the anastomosis (12) 
+
+
+
+## Types of Esophagectomy
+
+There are two major types of esophagectomy:
+
+Partial esophagectomy which removed the lower 2/3 of the esophagus
+
+Total esophagectomy removes all of the esophagus (13)
+
+## Partial Esophagectomy
+
+Removes lower 2/3 of esophagus
+
+New connection (or anastomosis) made in the chest  (14)
+
+## Ivor Lewis Esophagectomy
+
+This operation is also referred to as an Ivor Lewis esophagectomy
+
+In honor of the Welsh surgeon who developed the operation (15)
+
+
+## Total Esophagectomy
+
+Removes all of esophagus
+
+New connection (or anastomosis) made in the neck  (16)
+
+## Total Esophagectomy
+
+Two different approaches:
+
+Transhiatal approach or 
+
+McKeown approach in honor of the Irish surgeon who developed the operation.  This is also known as the three-incision esophagectomy (17)
+
+## Nutritional consequences of surgery
 
 
 ::::: columns
