@@ -4,7 +4,7 @@ output: html_document
 ---
 
 |  |  |  |  |
-|---------------|---------------|---------------|---------------|
+|----|----|----|----|
 | Esophagus T3 | [HTML Slides](lci_esot3.htm) | [Handout](lci_esot3.pdf) | [PPTx](lci_esot3.pptx) |
 | Esophagus ACA | [HTML Slides](lci_esot3_aca.htm) | [Handout](lci_esot3_aca.pdf) | [PPTx](lci_esot3_aca.pptx) |
 | Esophagus ACA_AS | [HTML Slides](lci_esot3_aca_as.htm) | [Handout](lci_esot3_aca_as.pdf) | [PPTx](lci_esot3_aca_as.pptx) |
