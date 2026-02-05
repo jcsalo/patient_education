@@ -204,7 +204,7 @@ If you surgeon isn't familiar with their personal outcomes, I would recommend ge
 
 ## Interveiw Your Surgeon
 
-Somethinge else you will want to know is what your surgeons estimates your risk of mortality, meaning death in the first 90 days after surgery. (33)
+Something else you will want to know is what your surgeons estimates your risk of mortality, meaning death in the first 90 days after surgery. (33)
 
 ## Risk of Mortality after Surgery
 
@@ -222,13 +222,61 @@ Risk of mortality also depends upon the hospital (35).  Caring for a patient aft
 
 ## Risk of Mortality after Surgery
 
-Risk of mortality also depends heavily upon the patient (35).  We know that younger patients encounter fewer problems with surgery than do older patients. We know patients with major medical are more likely to have problems.  And we know that patients who are fit and active have encounter fewer problems.
+Risk of mortality also depends heavily upon the patient (36).  We know that younger patients encounter fewer problems with surgery than do older patients. We know patients with major medical are more likely to have problems.  And we know that patients who are fit and active have encounter fewer problems.
+
 
 ## Mortality within 90 Days
 
-Because 
+Because the risk of mortality depends upon a number of factors, by itself it is not an ideal way of choosing a surgical team.  (37)
+
+I would recommend that you ask your surgeon what their personal experience is with mortality after esophagectomy in the first 90 days in patients on whom they personally perform an operation.
+
+The most important thing is that you want a surgeon who is focused on optimizing their outcomes, and they can't do that if they don't have the data
+
+## Mortality within 90 Days
+
+An important follow up question is to ask your surgeon to make an estimate of surgical mortality in your particular case.  In other words, starting with the surgeon's overall experience, can they make an estimate of surgical mortality for your case.
+
+I think this is an important question as it helps you know whether our surgeon has the experience with a variety of patients to understand which patients will do well and which patients won't
+
+## Preoperative Evaluation
+
+So how can your surgeon give you a personalized risk estimate?
+
+There are several tools your surgeon can use: (39)
 
 
+## Cardiology Evaluation
 
-I would recommend that you ask your surgeon what their personal experience is with anastomotic leak (32)
+A cardiology evaluation can help identify issues which would make surgery higher risk. 
+
+You may be referred to a cardiologist for testing such as an echocardiogram or stress test
+
+## Pulmonary Evaluation
+
+Pulmonary function testing can also be helpfull, particularly for patients who are heavy smokers or have emphysema
+
+## Overall Fitness Evaluation
+
+There are a variety of ways to test overall fitness.
+
+A simple method that we use in our clinic is to test muscle strength as shown here.
+
+There are other tests such as a 6-minute walk test or a treadmill test that can also be used
+
+## Discuss with your surgeon
+
+Is summary, you need an honest discussion with your surgeon about the risks of surgery.  
+
+This should not be a discussion that gets delegated to a physician's assistant or nurse practitioner
+
+## Second opinion
+
+If you are interested in a second opinion, the questions are where? and how?
+
+The easiest place to start is asking your primary care provider for a recommendation,
+
+or other members of your cancer care team such as your medical Oncologist or gastroenterologist
+
+## Second Opinion
 
