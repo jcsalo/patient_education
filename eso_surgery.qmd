@@ -30,11 +30,11 @@ In this video, you will learn about (2)
 
 ## Esophagectomy
 
-Surgical removal of the esophagus is referred to as esophagectomy. (3). 
+Surgical removal of the esophagus is referred to as esophagectomy. (3).
 
-## Esophagectomy - 
+## Esophagectomy -
 
-Another terms is esophagogastrectomy (4) 
+Another terms is esophagogastrectomy (4)
 
 ## Esophagectomy
 
@@ -42,13 +42,13 @@ Esophagectomy is generally performed for three different situations:
 
 -   Superficial Tumors (T1) that can't be completely removed by endoscopy (5)
 
-Superficial tumors as T1.  If this terminology is not familiar to you, this may be a good time to view our video about Esophageal Cancer Staging and Treatment 
- 
- We also have a separate video about superficial tumors and how they can be removed through endoscopic therapy without the need for surgery. 
+Superficial tumors as T1. If this terminology is not familiar to you, this may be a good time to view our video about Esophageal Cancer Staging and Treatment
+
+We also have a separate video about superficial tumors and how they can be removed through endoscopic therapy without the need for surgery.
 
 ## Esophagectomy.
 
-Esophagectomy is also performed for 
+Esophagectomy is also performed for
 
 -   Localized Tumors that are T1b or T2 (6)
 
@@ -62,18 +62,15 @@ The most common case in which esophagectomy is performed is for locally advanced
 
 We also have a video on locally-advanced cancers which you may find helpful. (7)
 
-
 ## Esophagectomy
 
 In these cases, surgery is performed
 
-- *after* the completion of preoperative therapy. Preoperative therapy is generally some combination of chemotherapy and radiation. (8)
-
+-   *after* the completion of preoperative therapy. Preoperative therapy is generally some combination of chemotherapy and radiation. (8)
 
 ## Goals of Esophagectomy
 
 The goals of esophagectomy are to remove the tumor (9)
-
 
 ## Goals of Esophagectomy
 
@@ -83,21 +80,17 @@ And nearby lymph nodes (10)
 
 A portion of the esophagus and stomach is also removed with the tumor to reduce the risk of recurrence (12)
 
-
 ## Reconstruction
 
-In moset cases, 
+In moset cases,
 
 The remaining stomach is fashioned into a tube to create a new esophagus (13)
-
 
 ## Reconstruction
 
 The esophagus and stomach are now joined together
 
-The new connection between esophagus and stomach is called the anastomosis (14) 
-
-
+The new connection between esophagus and stomach is called the anastomosis (14)
 
 ## Types of Esophagectomy. **4**
 
@@ -111,7 +104,7 @@ Total esophagectomy removes all of the esophagus (15)
 
 Removes lower 2/3 of esophagus
 
-New connection (or anastomosis) made in the chest  (16)
+New connection (or anastomosis) made in the chest (16)
 
 ## Ivor Lewis Esophagectomy
 
@@ -119,20 +112,19 @@ This operation is also referred to as an Ivor Lewis esophagectomy
 
 In honor of the Welsh surgeon who developed the operation (17)
 
-
 ## Total Esophagectomy
 
 Removes all of esophagus
 
-New connection (or anastomosis) made in the neck  (18)
+New connection (or anastomosis) made in the neck (18)
 
 ## Total Esophagectomy
 
 Two different approaches:
 
-Transhiatal approach or 
+Transhiatal approach or
 
-McKeown approach in honor of the Irish surgeon who developed the operation.  This is also known as the three-incision esophagectomy (19)
+McKeown approach in honor of the Irish surgeon who developed the operation. This is also known as the three-incision esophagectomy (19)
 
 ## Which Esophagectomy? **4**
 
@@ -142,8 +134,7 @@ One factor is the location of the tumor (20)
 
 ## Distal - Partial **2**
 
-For tumors located in the lower, or distal part of the esophagus, a Partial esophagectomy will remove all of the cancer with an adequate margin to ensure that the cancer is completely removed (21) 
-
+For tumors located in the lower, or distal part of the esophagus, a Partial esophagectomy will remove all of the cancer with an adequate margin to ensure that the cancer is completely removed (21)
 
 ## Distal - Partial
 
@@ -155,10 +146,9 @@ For tumors located in the upper or proximal part of the esophagus, a total esoph
 
 ## Which Esophagectomy - Suirgeon **4**
 
-Another important factor is surgeon preference and experience. 
+Another important factor is surgeon preference and experience.
 
 You will have an opportunity to discuss the surgical approach with your surgeon and hear their recommendations for surgical approach
-
 
 ## Surgical Techniques **2**
 
@@ -174,103 +164,245 @@ An open esophagectomy uses a laparotomy incision to access the abdomen, and a th
 
 ## Minimally InVasive
 
-Minimally-invasive techniques uses small incisions and specialized instruments.
+Minimally-invasive techniques uses small incisions and specialized instruments.(27)
 
-These techniques can reduce discomfor and length of hospital stay. (27)
+## Minimally InVasive
 
+
+These techniques can reduce discomfor and length of hospital stay. (28)
 
 ## Laparoscoic techniques
 
 Laparoscopic techniques use special instruments to work through small incisions. These are directly controlled by the surgeon. (28)
 
+## Robotic techniques
 
-##  Robotic techniques
-
-In some cases, robotic techniques can be used.  The surgeon controls the robotic instruments  (29)
+In some cases, robotic techniques can be used. The surgeon controls the robotic instruments from a console (29) which allows 3-D vision of a robotic camera in the abdominal cavity
 
 
-##  Robotic techniques
+## Robotic techniques
 
-This can allow for more precision as the surgeon directs the robot (30)
+The surgeon operates the hand controls (30) 
+
+
+
+## Robotic techniques
+
+...and is able to direct the movements of the robotic arms (31) 
+
+
+
+## Robotic techniques
+
+The robot has laparoscopic arms which enter the abdomen through small incisions (32) 
+
+
+## Robotic techniques
+
+The robot precisely mimics the actions of the surgeon (33)
+
+
 
 ## Risks of Surgery **4**
 
 There are three major risks of surgery you will want to discuss with your surgeon
 
-- Leakage from the anastomosis
-- Pneumonia
-- Injury to nerve to the larynx (31)
+-   Leakage from the anastomosis
+-   Pneumonia
+-   Injury to nerve to the larynx (34)
 
-## Leak from Anastomosis
+## Leak from Anastomosis **2**
 
 The anastomosis is the new connection made between the esophagus and the stomach.
 
-If the anastomosis does not heal properly. (32)
-
-
-## Leak from Anastomosis
-
-Fluid from inside the esophagus leaks into the chest cavity. (33)
+If the anastomosis does not heal properly. (34)
 
 ## Leak from Anastomosis
 
-This can lead to infection (34)
+Fluid from inside the esophagus leaks into the chest cavity. (3=5)
 
 ## Leak from Anastomosis
 
-and a prolonged hospital stay (35)
+This can lead to infection (36)
+
+## Leak from Anastomosis
+
+and a prolonged hospital stay (37)
 
 ## Treatment of Leak
 
-In some cases, small leaks will heal as long as there is adequate nutrition (36)
+In some cases, small leaks will heal as long as there is adequate nutrition (38)
 
 ## Stent
 
-IN some cases a stent is placed inside the esophagus to patch the leak from the insisde
+IN some cases a stent is placed inside the esophagus to patch the leak from the insisde (40)
 
 ## Esophageal Stent
 
-The stent is a wire mesh tube covered in plastic, which is placed inside the esophagus by endoscopy. (38)
-
+The stent is a wire mesh tube covered in plastic, which is placed inside the esophagus by endoscopy. (41)
 
 ## Esophageal Stent
 
-Once healing has occured, the stent is removed, typically about 6 weeks later (39)
+Once healing has occured, the stent is removed, typically about 6 weeks later (42)
 
-## Leak -> Surgery
+## Leak -\> Surgery
 
-Less commonly, a leak may require reoperation (40)
+Less commonly, a leak may require reoperation (43)
 
 ## Risk factors for leak. **4**
 
-The location of the anastomosis affects the risk of anastomotic leak
+The location of the anastomosis affects the risk of anastomotic leak (44) 
 
-## Total higher risk **2*
+## Total higher risk **2**
 
 In cases of a total esophagetomy, the risk of leak is higher, because the stomach needs to reach higher to make a connection in the neck.
 
-In cases of a parital esophagectomy, the risk of leak is lower.
-
+In cases of a parital esophagectomy, the risk of leak is lower.  (45)
 
 ## Risk factors for leak **4**
 
-Once the connection is made between the esophagus and the stomach, we depend upon the body's ability to heal and strengthen the connection.  So the overall health of the patient is important.  
+Once the connection is made between the esophagus and the stomach, we depend upon the body's ability to heal and strengthen the connection. So the overall health of the patient is important.
 
-Patients who have had poor nutrition are at higher risk of anastomotic leak. (43)
+Patients who have had poor nutrition are at higher risk of anastomotic leak. (46)
 
+## Risk factors for leak
 
-## Risk factors for leak 
-
-And finally, the experience of the surgical team affects the risk of leak.  Hospitals and surgeons who have more experience with esophageal surgery tend to have lower risk of anastomotic leak. (44)
+And finally, the experience of the surgical team affects the risk of leak. Hospitals and surgeons who have more experience with esophageal surgery tend to have lower risk of anastomotic leak. (47)
 
 ## Pneumonia **2**
 
-Pneumonia
+Pneumonia is an infection in the lungs(48)
+
+
+## Pneumonia 
+
+We think these infections come from bacteria in the mouth (49)
+
+
+## Secretions from the Mouth
+
+The secretions in the mouth contain bacteria (50)
+
+## Secretions from the Mouth
+
+Ordinarily these secretions pass into the esopahogus (51)
+
+## Secretions from the Mouth
+
+Ordinarily these secretions pass into the esopahogus (51)
+
+
+
+## Secretions from the Mouth
+
+And are swallowed (52)
+
+
+## Secretions from the Mouth
+
+Those secretions can occasionally enter the windpipe (53)
+
+## Secretions from the Mouth
+
+But are ordinarily quickly cleared by a cough (54)
+
+## Secretions in the Airway
+
+After surgery, however, it is possible for secretions to enter the airway and pass into the lungs (55)
+
+## Pneumonia Prevention **2**
+
+There are a couple of strategies we can uses to prevent pneumonia  after surgery (56)
+
+The first is to reduce the amount of bacteria in the mouth.
+
+## Pneumonia Prevention 
+
+Research has shown that brushing the teeth five times per day for the week before surgery reduces the risk of pneumonia (57)
+
+
+## Pneumonia Prevention 
+
+It may also be helpful to see your dentist for a checkup to make eliminate any possible sources of infection in the mouth (58)
+
+## Pneumonia Prevention 
+
+You can also help your lungs fight infection  (59)
+
+## Pneumonia Prevention 
+
+By stopping smoking  (60)
+
+
+## Pneumonia Prevention after Surgery
+
+After Surgery, it is important to clear secretions from the lungs by Coughing (61)
+
+
+## Pneumonia Prevention after Surgery
+
+Deep breating (62)
+
+
+## Pneumonia Prevention after Surgery
+
+Walking (63)
+
+## INcentive spirometer
+
+An incentive spirometer is a device which can help coach you to take deep breaths after surgery (64)
+
+
+
+## Pain control
+
+Coughing, deep breating, and walking after surgery can be unconfortable, so another important strategy to prevent pneumonia is to work to minimize discomfort. (67)
+
+
+## Pain control
+
+Minimally-ilnvasive techniques, either laparoscopic or robotic, can help reduce discomfort by the use of small incisions (66)
+
+
+## Pain control
+
+The other strategy is pain control
+
+
+## Epidural Catheter
+
+An epidural catheter can help with postoperative discomfort. This is similar to the epidural used for childbirth. A small tube is placed near the spine (68)
+
+
+## Epidural Catheter
+
+This allows the administration of pain medicines whcih can provide pain relief without sedation 69)
+
+
+
+## Epidural Catheter
+
+The goal, of course is to minimize pain (70)
+
+## Epidural Catheter
+
+And make it easier to cough, deep breathe, and walk after surgery
+
+## **1**
+
+We hope you have found this video helpful. Here are links to some other videos.
+
+Feel free to leave a comment or a question, or if you have suggestions for future videos.
+
+If you or a family member have had an encounter with esophagectomy surgery, I would love to hear about your experience, so please take a minute to leave a comment below.
+
+We're constantly creating new videos, so please subscribe to be notified of new videos when we post them.  (29)
+
+
 
 
 
 ## Nutritional consequences of surgery
-
 
 ::::: columns
 ::: {.column .fragment width="50%"}
@@ -284,8 +416,6 @@ Pneumonia
 :::
 :::::
 
-
-
 ## Ivor Lewis
 
 ::::: columns
@@ -297,8 +427,6 @@ The *Ivor Lewis* esophagectomy, shown here, removes the lower 2/3 of the esophag
 ![](images/Eso_Resection2_ai.png)
 :::
 :::::
-
-
 
 ## Reconstruction
 
@@ -312,8 +440,6 @@ A new esophagus is created from the stomach in the abdomen by fashioning it into
 :::
 :::::
 
-
-
 ## Ivor Lewis esophagectomy
 
 ::::: columns
@@ -326,8 +452,6 @@ The new esophagus is now brought up into the chest. A new connection is made bet
 :::
 :::::
 
-
-
 ## Open Esophagectomy
 
 ::::: columns
@@ -339,8 +463,6 @@ Open esophagectomy uses conventional incisions in the abdomen and the right ches
 ![](images/eso_IvorLewis_ai.png)
 :::
 :::::
-
-
 
 ## Minimally-invasive Ivor Lewis
 
@@ -356,8 +478,6 @@ The smaller incisions mean faster recovery and less discomfort
 :::
 :::::
 
-
-
 ## Minimally-invasive Ivor Lewis
 
 ::::: columns
@@ -369,8 +489,6 @@ We have found this is the best option for most of our patients. In some cases, a
 ![](images/MIE_IvorLewisArtboard_2.png)
 :::
 :::::
-
-
 
 ## Total Esophagectomy
 
@@ -384,8 +502,6 @@ For patients with tumors in the upper esophagus, we need to remove more of the e
 :::
 :::::
 
-
-
 ## Total Esophagectomy
 
 ::::: columns
@@ -397,8 +513,6 @@ For those patients, we need to remove the whole esophagus
 ![](images/Eso_ResectionTotalArtboard_2.png)
 :::
 :::::
-
-
 
 ## Minimally-invasive McKeown Esophagectomy
 
@@ -412,8 +526,6 @@ In this case, a connection between the esophagus and the stomach is made in the 
 :::
 :::::
 
-
-
 ## Transhiatal Esophagectomy
 
 ::::: columns
@@ -426,11 +538,7 @@ Another option is a transhiatal esophagectomy, which avoids the need to make inc
 :::
 :::::
 
-
-
 When you meet with your surgeon, you will have an opportunity to discuss your particular situation and their recommendation for surgery. Your surgeon will recommend a surgical approach based upon you and your tumor and their personal experience.
-
-
 
 ## Risks of Surgery
 
@@ -438,8 +546,6 @@ An esophagectomy is a substantial operation, and in some cases there can be post
 
 -   Anastomotic leak
 -   Pneumonia
-
-
 
 ## Anastomotic Leak
 
@@ -453,8 +559,6 @@ The anastomosis is surigcal connection between the esophagus and the stomach.
 :::
 :::::
 
-
-
 ## Anastomotic Leak
 
 ::::: columns
@@ -467,13 +571,9 @@ If anastomosis does not heal properly, this can cause a leakage of fluid from th
 :::
 :::::
 
-
-
 ## Anastomotic Leak
 
 In some cases, the leak will heal on its own, but other cases may require additional procedures or even surgery. The risk of leak depends upon the operation performed but also depends upon the experience of the surgeon. At the end of this video we have a link to a video about how to choose a hospital and a surgeon, which talks further about the risks of a leak.
-
-
 
 ## Pneumonia
 
@@ -487,8 +587,6 @@ Pneumonia is another complication which can occurs in about 10-15% of patients a
 :::
 :::::
 
-
-
 ## Preventing Pneumonia
 
 In normal circumstances, secretions from the mouth and throat aren't able to enter the lungs because we clear our throat and if secretions do get into our airway, we tend to cough and keep those secretions out of our lungs. This happens constantly without our thinking about it.
@@ -500,19 +598,13 @@ There are two important ways that pneumonia can be prevented:
 -   Deep breathing
 -   Walking
 
-
-
 ## Deep breathing and coughing
 
 After surgery, it's important to breathe deeply to help your lungs recover after surgery. Deep breathing make the cough more effective and helps clear secretions. After surgery, deep breathing and coughing can be uncomfortable, so controlling your discomfort will be an important part of your recovery.
 
-
-
 ## Walking
 
 Walking after surgery is also an important way to help your lungs recover as well. When we walk, it's easier for our lungs to function, and again, it makes the cough more frequently.
-
-
 
 ## Preventing Pneumonia
 
@@ -525,8 +617,6 @@ In our clinic, we actually measure out patient's strength with a hand-held stren
 ## Patient Strength and Esophagectomy Outcomes
 
 About half of our patients have good strength, shown in green. A quarter are have low strength, shown in red Another quarter are in the middle, shown in yellow
-
-
 
 ```{r pie, echo=F}
 library(ggplot2)
@@ -556,13 +646,9 @@ ggplot(data, aes(x="", y=amount, fill=Group)) +
 
 ```
 
-
-
 ## Pneumonia
 
 Overall, the risk of pneumonia is about 10% in our patients who undergo esophagectomy. 90% of patients never experience pneumonia, but 10% will have pneumonia after surgery.
-
-
 
 ```{r, echo=F, warning =F, message=F}
 df2<-data.frame(pneumonia=c(0,0,0.10,0.9,0,0),strength=c("  ","  ","Average","Average","    ","    "), Outcome=c("Pneumonia", "No Pneumonia","Pneumonia", "No Pneumonia" ,"Pneumonia","No Pneumonia"),pneumonia_labels=c("","","10%","", "",""),ordering=c(5,5,2,2,1,1))
@@ -582,8 +668,6 @@ p<-ggplot(data=df2, aes(x=reorder(strength,ordering),y=pneumonia, fill=Outcome))
 p
 ```
 
-
-
 ```{r, pneumonia_figoverall, echo=F,  fig.height=6,fig.width=8, warning=F, message=F}
 
 df1<-data.frame(pneumonia=c(0,0.10,0),strength=c("","Average",""),pneumonia_labels =c("","10%\nAverage",""))
@@ -599,13 +683,9 @@ p<-ggplot(data=df1, aes(x=strength,y=pneumonia))+
 p
 ```
 
-
-
 However the risk of pneumonia is not the same for everyone. Even though the average risk is 10%, the risk is much higher for our patients with low muscle strength and much lower for patients with good muscle strength.
 
 For the half of our patients with good muscle strength, the risk of pneumonia is about 5%. On the other hand, the risk of pneumonia is 20% in the quarter of our patients who have low muscle strength.
-
-
 
 ```{r , message=FALSE, warning=FALSE, pneumonia_fig2b, echo=F}
 library(ggplot2)
@@ -621,8 +701,6 @@ p<-ggplot(data=df1, aes(x=strength,y=pneumonia))+
   labs(y="Percent With Pneumonia",x="Muscle Strength") 
 p
 ```
-
-
 
 ## Muscle Strength and Risk after Esophagectomy
 
@@ -648,15 +726,11 @@ Now this doesn't mean that you need to look like this to prevent pneumonia after
 :::
 :::::
 
-
-
 The good news is that you can increase your muscle strength before surgery in two very simple ways:
 
 -   Good nutrition with adequate intake of protein
 
 -   Exercise
-
-
 
 ## Good News
 
@@ -664,13 +738,9 @@ with proper nutrition and exercise, you can increase your muscle strength, and w
 
 When you meet with your surgery team, be sure to ask them about pain control after surgery and how you can increase your muscle strength.
 
-
-
 In the next video in our series, you will learn about how to choose a hospital and a surgeon for esophageal surgery:
 
 [Choosing a Hospital and Surgeon for Esophagectomy](32-Surgeon.html)
-
-
 
 We hope you have found this video helpful. This videos and others like it are designed to
 
@@ -680,8 +750,4 @@ and equip them for their discussions with their esophageal cancer care team.
 
 As always, these videos are no substitute for expert medical advice.
 
-
-
 Feel free to leave a comment or a question, or if you have suggestions for future videos.
-
-

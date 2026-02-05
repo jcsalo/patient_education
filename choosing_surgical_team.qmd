@@ -103,11 +103,20 @@ The Leapfrog Group is a non-profit medical watchdog group which has compationed 
 They gathered a group of experts and reviewed the medical research to come up with some guidelines for recommended minimum of operations per year for esophagectomy surgery
 
 
+
+
 ## How Many Cases is Enough?
 
 In 2018 they made their recomendations that hospitals should perform at least 20 esophagectomy operations per year, and surgeons should perform at least 7 operations a year, 
 
 in order to have enough familiarity with the surgery (18)
+
+https://ratings.leapfroggroup.org/sites/default/files/inline-files/2023%20Adult%20and%20Pediatric%20Complex%20Surgery%20Fact%20Sheet.pdf
+
+
+Bibliography:
+
+https://ratings.leapfroggroup.org/sites/default/files/2025-03/2025%20Adult%20and%20Pediatric%20Complex%20Surgery%20Bibliography.pdf
 
 ## How Many Cases is Enough?
 
@@ -124,6 +133,8 @@ In 2019 Leapfrog release their findings and found that only 3% of hospitals met 
 
 However 25% of hospitals have a surgeon who meets the volume guidelines by performing 7 or more esophagectomy operations per year. (20)
 
+
+https://www.leapfroggroup.org/sites/default/files/Files/Leapfrog%20Report%20on%20Safe%20Surgical%20Volumes%202020.pdf
 
 ## Interview your Surgeon
 
@@ -183,6 +194,7 @@ A research study looked at outcomes among high-volume hospitals in New York stat
 
 And they found two-fold variation in mortality outcomes (29)
 
+https://pubmed.ncbi.nlm.nih.gov/34292582/
 
 ## Is Volume the only Measure?
 
