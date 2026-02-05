@@ -14,9 +14,13 @@ editor: visual
 from: markdown+emoji
 ---
 
-## Introduction
+## Introduction. **L** **1**
 
-I’m Dr Jonathan Salo, a GI Cancer Surgeon in Charlotte, North Carolina. (1)
+I’m Dr Jonathan Salo, a GI Cancer Surgeon in Charlotte, North Carolina. These videos are designed to educate you about cancer and its treatment and help you and you cancer care team make the right decisions for you.
+
+Of course, there is no substitute for the expert opinions of your cancer care team.
+
+## Surgery of the Esophagus
 
 In this video, you will learn about (2)
 
@@ -26,19 +30,27 @@ In this video, you will learn about (2)
 
 ## Esophagectomy
 
-Surgical removal of the esophagus is referred to as esophagectomy. (3)
+Surgical removal of the esophagus is referred to as esophagectomy. (3). 
+
+## Esophagectomy - 
+
+Another terms is esophagogastrectomy (4) 
 
 ## Esophagectomy
 
 Esophagectomy is generally performed for three different situations:
 
--   Superficial Tumors (T1) that can't be completely removed by endoscopy (4)
+-   Superficial Tumors (T1) that can't be completely removed by endoscopy (5)
 
- you haven't seen it already, this may be a good time to view our video about Esophageal Cancer Staging and Treatment 
+Superficial tumors as T1.  If this terminology is not familiar to you, this may be a good time to view our video about Esophageal Cancer Staging and Treatment 
+ 
+ We also have a separate video about superficial tumors and how they can be removed through endoscopic therapy without the need for surgery. 
 
-## Esophagectomy
+## Esophagectomy.
 
--   Localized Tumors that are T1b or T2 (5)
+Esophagectomy is also performed for 
+
+-   Localized Tumors that are T1b or T2 (6)
 
 ## Esophagectomy
 
@@ -46,62 +58,73 @@ Esophagectomy is generally performed for three different situations:
 
 ## Esophagectomy
 
-- *after* the completion of preoperative therapy. Preoperative therapy is generally some combination of chemotherapy and radiation. (7)
+The most common case in which esophagectomy is performed is for locally advanced tumors
+
+We also have a video on locally-advanced cancers which you may find helpful. (7)
+
+
+## Esophagectomy
+
+In these cases, surgery is performed
+
+- *after* the completion of preoperative therapy. Preoperative therapy is generally some combination of chemotherapy and radiation. (8)
 
 
 ## Goals of Esophagectomy
 
-The goals of esophagectomy are to remove the tumor (8)
+The goals of esophagectomy are to remove the tumor (9)
 
 
 ## Goals of Esophagectomy
 
-And nearby lymph nodes (9)
+And nearby lymph nodes (10)
 
 ## Goals of Esophagectomy
 
-A portion of the esophagus and stomach is removed with the tumor (10)
+A portion of the esophagus and stomach is also removed with the tumor to reduce the risk of recurrence (12)
 
 
 ## Reconstruction
 
-The remaining stomach is fashioned into a tube to create a new esophagus (11)
+In moset cases, 
+
+The remaining stomach is fashioned into a tube to create a new esophagus (13)
 
 
 ## Reconstruction
 
 The esophagus and stomach are now joined together
 
-The new connection between esophagus and stomach is called the anastomosis (12) 
+The new connection between esophagus and stomach is called the anastomosis (14) 
 
 
 
-## Types of Esophagectomy
+## Types of Esophagectomy. **4**
 
 There are two major types of esophagectomy:
 
 Partial esophagectomy which removed the lower 2/3 of the esophagus
 
-Total esophagectomy removes all of the esophagus (13)
+Total esophagectomy removes all of the esophagus (15)
 
-## Partial Esophagectomy
+## Partial Esophagectomy **2**
 
 Removes lower 2/3 of esophagus
 
-New connection (or anastomosis) made in the chest  (14)
+New connection (or anastomosis) made in the chest  (16)
 
 ## Ivor Lewis Esophagectomy
 
 This operation is also referred to as an Ivor Lewis esophagectomy
 
-In honor of the Welsh surgeon who developed the operation (15)
+In honor of the Welsh surgeon who developed the operation (17)
 
 
 ## Total Esophagectomy
 
 Removes all of esophagus
 
-New connection (or anastomosis) made in the neck  (16)
+New connection (or anastomosis) made in the neck  (18)
 
 ## Total Esophagectomy
 
@@ -109,7 +132,142 @@ Two different approaches:
 
 Transhiatal approach or 
 
-McKeown approach in honor of the Irish surgeon who developed the operation.  This is also known as the three-incision esophagectomy (17)
+McKeown approach in honor of the Irish surgeon who developed the operation.  This is also known as the three-incision esophagectomy (19)
+
+## Which Esophagectomy? **4**
+
+With three different options for surgery, how will you and your surgical team decide which operaiton is best for you?
+
+One factor is the location of the tumor (20)
+
+## Distal - Partial **2**
+
+For tumors located in the lower, or distal part of the esophagus, a Partial esophagectomy will remove all of the cancer with an adequate margin to ensure that the cancer is completely removed (21) 
+
+
+## Distal - Partial
+
+So for distal cancers, an Ivor Lewis Approach is an ideal operation (22)
+
+## Upper = Proximal
+
+For tumors located in the upper or proximal part of the esophagus, a total esophagectomy is required to remove all of the cancer.
+
+## Which Esophagectomy - Suirgeon **4**
+
+Another important factor is surgeon preference and experience. 
+
+You will have an opportunity to discuss the surgical approach with your surgeon and hear their recommendations for surgical approach
+
+
+## Surgical Techniques **2**
+
+Another aspect of surgery are the techniques used.
+
+An esophagectomy can be performed with open techniques
+
+or minimally-invasive techniques (25)
+
+## Open Surgery
+
+An open esophagectomy uses a laparotomy incision to access the abdomen, and a thoracotomy to access the chest (26)
+
+## Minimally InVasive
+
+Minimally-invasive techniques uses small incisions and specialized instruments.
+
+These techniques can reduce discomfor and length of hospital stay. (27)
+
+
+## Laparoscoic techniques
+
+Laparoscopic techniques use special instruments to work through small incisions. These are directly controlled by the surgeon. (28)
+
+
+##  Robotic techniques
+
+In some cases, robotic techniques can be used.  The surgeon controls the robotic instruments  (29)
+
+
+##  Robotic techniques
+
+This can allow for more precision as the surgeon directs the robot (30)
+
+## Risks of Surgery **4**
+
+There are three major risks of surgery you will want to discuss with your surgeon
+
+- Leakage from the anastomosis
+- Pneumonia
+- Injury to nerve to the larynx (31)
+
+## Leak from Anastomosis
+
+The anastomosis is the new connection made between the esophagus and the stomach.
+
+If the anastomosis does not heal properly. (32)
+
+
+## Leak from Anastomosis
+
+Fluid from inside the esophagus leaks into the chest cavity. (33)
+
+## Leak from Anastomosis
+
+This can lead to infection (34)
+
+## Leak from Anastomosis
+
+and a prolonged hospital stay (35)
+
+## Treatment of Leak
+
+In some cases, small leaks will heal as long as there is adequate nutrition (36)
+
+## Stent
+
+IN some cases a stent is placed inside the esophagus to patch the leak from the insisde
+
+## Esophageal Stent
+
+The stent is a wire mesh tube covered in plastic, which is placed inside the esophagus by endoscopy. (38)
+
+
+## Esophageal Stent
+
+Once healing has occured, the stent is removed, typically about 6 weeks later (39)
+
+## Leak -> Surgery
+
+Less commonly, a leak may require reoperation (40)
+
+## Risk factors for leak. **4**
+
+The location of the anastomosis affects the risk of anastomotic leak
+
+## Total higher risk **2*
+
+In cases of a total esophagetomy, the risk of leak is higher, because the stomach needs to reach higher to make a connection in the neck.
+
+In cases of a parital esophagectomy, the risk of leak is lower.
+
+
+## Risk factors for leak **4**
+
+Once the connection is made between the esophagus and the stomach, we depend upon the body's ability to heal and strengthen the connection.  So the overall health of the patient is important.  
+
+Patients who have had poor nutrition are at higher risk of anastomotic leak. (43)
+
+
+## Risk factors for leak 
+
+And finally, the experience of the surgical team affects the risk of leak.  Hospitals and surgeons who have more experience with esophageal surgery tend to have lower risk of anastomotic leak. (44)
+
+## Pneumonia **2**
+
+Pneumonia
+
+
 
 ## Nutritional consequences of surgery
 

@@ -1,0 +1,51 @@
+---
+title: "Esophagectomy"
+format: 
+  docx:
+    number-sections: true
+    number-depth: 2
+  html:
+    number-sections: true
+    number-depth: 2
+  pdf:
+    number-sections: true
+    number-depth: 2
+editor: visual
+from: markdown+emoji
+---
+
+## Introduction. **L** **1**
+
+I’m Dr Jonathan Salo, a GI Cancer Surgeon in Charlotte, North Carolina. These videos are designed to educate you about cancer and its treatment and help you and you cancer care team make the right decisions for you.
+
+Of course, there is no substitute for the expert opinions of your cancer care team.
+
+## Preparation for Surgery
+
+In this video, you will learn about (2)
+
+-   Preoperative Testing
+  - Hear
+  - Lungs
+  - Fitness
+- Nutrition
+- Exercise
+- Smoking Cessation
+
+
+
+## Nutritional consequences of surgery
+
+
+::::: columns
+::: {.column .fragment width="50%"}
+-   Remove tumor from esophagus
+-   Remove surrounding lymph nodes
+-   Create a new esophagus, usually from the stomach
+:::
+
+::: {.column .fragment width="50%"}
+![](images/Eso_Resection1_ai.png)
+:::
+:::::
+

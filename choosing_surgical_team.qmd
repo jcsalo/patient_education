@@ -1,0 +1,234 @@
+---
+title: "Choosing a Surgical Team"
+format: 
+  docx:
+    number-sections: true
+    number-depth: 2
+  html:
+    number-sections: true
+    number-depth: 2
+  pdf:
+    number-sections: true
+    number-depth: 2
+editor: visual
+from: markdown+emoji
+---
+
+## Introduction. **L** **1**
+
+I’m Dr Jonathan Salo, a GI Cancer Surgeon in Charlotte, North Carolina. These videos are designed to educate you about cancer and its treatment and help you and you cancer care team make the right decisions for you.
+
+Of course, there is no substitute for the expert opinions of your cancer care team.
+
+## Your Esophagectomy Team. **L** **4**
+
+An esophagectomy is an operation to remove a cancer in the esophagus.
+
+In this video, you will learn about how to: (2)
+
+## Your Esophagectomy Team.
+
+- Choose a hospital (3)
+
+## Your Esophagectomy Team.
+
+- Choose a surgeon (4)
+
+## Your Esophagectomy Team.
+
+- Get a second opinions (5) 
+
+## Esophagectomy
+
+Esophagectomy is surgical removal of the esophagus (6)
+
+If you haven't viewed it already, we have a video describing the surgery
+
+
+## Esophagectomy
+
+Esophagectomy is a complex operation, (7)
+Diff
+
+## Outcome Variation
+
+Because of it's complexity, the outcomes aren't the same for every hospital and every surgery (8)
+
+There is a lot of variation
+
+## Outcome Variation
+
+Different outcomes in different hospitals (9)
+
+## Outcome Variation
+
+Different outcomes for different surgeons (10)
+
+
+## Outcomes after Esophagectomy
+
+When we compare the results, or outcomes for different hospitals and compare different surgeons, 
+
+we need to have some understanding of what we are measuring.
+
+The first is the rate of complications (11)
+
+## Outcomes after Esophagectomy
+
+particularly the risk of a leak from the anastomosis (12)
+
+Our video on esophagectomy goes into this is more detail
+
+## Outcomes after Esophagectomy
+
+Another important outcome is the risk of death in the first 90 days after surgery (13)
+
+
+## Experience Counts
+
+Because this is a complex operation, it's no surprise that experience counts (14)
+
+## Experience Counts
+
+Outcomes are better at high-volume hospitals (15)
+
+## Experience Counts
+
+and for Experienced surgeons (16) 
+
+## How Many Cases is Enough?
+
+The Leapfrog Group is a non-profit medical watchdog group which has compationed transparency in health care outcomes. (17)
+
+They gathered a group of experts and reviewed the medical research to come up with some guidelines for recommended minimum of operations per year for esophagectomy surgery
+
+
+## How Many Cases is Enough?
+
+In 2018 they made their recomendations that hospitals should perform at least 20 esophagectomy operations per year, and surgeons should perform at least 7 operations a year, 
+
+in order to have enough familiarity with the surgery (18)
+
+## How Many Cases is Enough?
+
+In 2018 they made their recommendations that hospitals should perform at least 20 esophagectomy operations per year, and surgeons should perform at least 7 operations a year, 
+
+in order to have enough familiarity with the surgery (18)
+
+## Leapfrog Survey 2019
+
+In 2019 Leapfrog release their findings and found that only 3% of hospitals met the guidelines for hospital volume and surgical volume, (19) 
+
+
+## Leapfrog Survey 2019
+
+However 25% of hospitals have a surgeon who meets the volume guidelines by performing 7 or more esophagectomy operations per year. (20)
+
+
+## Interview your Surgeon
+
+How does this help you?
+
+I would recommend that you *interview your surgeon*
+
+This may seem a bit awkward at first, but most of us are comfortable about doing some comparison shopping when it comes to buying or house or a car or a flat-screen TV (21)
+
+## Interview your Surgeon
+
+I would recommend that you ask
+
+"How many esophagectomy operations do you personally perform each year?"  (22)
+
+This is a very specific question.  It's not asking whether there is a high-volume surgeon somewhere in the hospital, or what the volume of the *hospital* is, 
+
+But it's designed to find out of *your* surgeon has the experience necessary.
+
+
+## Esophagectomy Surgeon Volume
+
+If the surgeon volume is less than 7 cases per year, I would see that you have two choices. (22)
+
+
+## Esophagectomy Surgeon Volume
+
+One is to get a second opinion, and we'll talk about that at the end of the video (23)
+
+## Esophagectomy Surgeon Volume
+
+The other is to ask whether there is an experienced surgeon who can join your surgeon in the operating room (24) 
+
+## **1**
+
+One of the challenges for surgeons in the beginning stages of their careers is how do you safely acquire experience with complex surgery
+
+One way to address that challenge is to have more senior surgeons working with younger surgeons to allow the patient to have the best outcomes possible while also allowing the training of the next generation of surgeons. (25)
+
+## Esophagectomy Surgeon Volume **4**
+
+To my mind, mentoring is a safe way for low-volume surgeons to gain experience (and become high-volume surgeons) (26)
+
+
+## Is Volume the only Measure
+
+Now that you have located a high-volume surgeon, what else do you need to look for? (27)
+
+
+## Is Volume the only Measure
+
+A research study looked at outcomes among high-volume hospitals in New York state (28)
+
+
+
+## Is Volume the only Measure
+
+And they found two-fold variation in mortality outcomes (29)
+
+
+## Is Volume the only Measure?
+
+*and* complications (30)
+
+In other words, some high-volume hospitals had twice the complication rate of other hospitals.
+
+## Interview your Surgeon
+
+You will want to know something about your surgeon's complication rate (31)
+
+## Interview your Surgeon
+
+I would ask "What is the anastomotic leak rate in operations you personally perform?" (32)
+
+Again, you aren't as interested in what the average is for the hospital, or what the average is in the medical literature, but the personal experience of that surgeon.
+
+If you surgeon isn't familiar with their personal outcomes, I would recommend getting a second opinion.  Whoever your surgeon is, you want someone who is constantly seeking to improve outcomes for their patients, and the only way to do that is to know what your outcomes are.
+
+## Interveiw Your Surgeon
+
+Somethinge else you will want to know is what your surgeons estimates your risk of mortality, meaning death in the first 90 days after surgery. (33)
+
+## Risk of Mortality after Surgery
+
+Now this is a very complex issue, and comparisons between hospitals and between surgeons are *very* difficult
+
+The simple reason is that the risk of death depends upon three different factors.
+
+The first is the experience of the surgical team (34)
+
+
+## Risk of Mortality after Surgery
+
+Risk of mortality also depends upon the hospital (35).  Caring for a patient after esophagectomy requires a large team of people in addition to the surgeon.  Everyone from the nurses to the physicians in the intensive care unit to the dietitians and the other specialists in the hospital such as radiologists and gastroenterologists.
+
+
+## Risk of Mortality after Surgery
+
+Risk of mortality also depends heavily upon the patient (35).  We know that younger patients encounter fewer problems with surgery than do older patients. We know patients with major medical are more likely to have problems.  And we know that patients who are fit and active have encounter fewer problems.
+
+## Mortality within 90 Days
+
+Because 
+
+
+
+I would recommend that you ask your surgeon what their personal experience is with anastomotic leak (32)
+

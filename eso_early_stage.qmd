@@ -16,7 +16,7 @@ from: markdown+emoji
 
 ## Intro L *1*
 
-I'm Dr Jonathan Salo, a GI Cancer Surgeon in Charlotte, North Carolina If you’re seeing this video, changes are you or someone close to you has had an encounter with esophageal cancer. These videos are designed to educate you about cancer and its treatment and help you and you cancer care team make the right decisions for you.
+I'm Dr Jonathan Salo, a GI Cancer Surgeon in Charlotte, North Carolina. If you’re seeing this video, changes are you or someone close to you has had an encounter with esophageal cancer. These videos are designed to educate you about cancer and its treatment and help you and you cancer care team make the right decisions for you.
 
 Of course, there is no substitute for the expert opinions of your cancer care team.
 
@@ -76,21 +76,76 @@ A cancer which invades the muscularis is classified as T2 (14)
 
 A cancer which grows through the muscularis is classified as T3 (15)
 
-## T1a
+## T3 nodes
 
-Endoscopic Mucosal Resection is a procedure in which a superficial cancers can be removed endoscopically. This is typically performed for T1a cancers, that just involve the mucosa.
+T3 tumors are at risk for spread to lymph nodes, so effective treatment will require additional treatments such as chemotherapy or radiation therapy (16)
+
+## EMR
+
+Endoscopic Mucosal Resection is a procedure in which a superficial cancers can be removed endoscopically, without requiring surgery. This is typically performed for T1a cancers, that just involve the mucosa. (17)
+
 
 ## Lift with Saline
 
+The procedure is performed by first injecting fluid underneath the mucosa to lift it off of the underlying layers.  A portion of the mucosa can then be removed, along with the cancer. (18)
 
+## Completed EMR
+
+This is how the procedure looks at the end.  A disk of tissue is sent to the pathologist for examination. (19)
+
+## Favorable
+
+This is an example of the pathology specimen in ideal or "favorable" cases.  The tumor is confined to the middle of the specimen, and it is clear that all of the cancer has been removed.
+
+This is termed a "favorable" outcome from the procedure (20)
+
+
+## Unavorable
+
+This is an example of the pathology specimen in an "unfavorable" situation.  The tumor extends to the edge of the specimen, suggesting that the tumor may have been cut across during the procedure, and there might be additional cancer left benind.
+
+These patients will need careful monitoring to make certain that all cancer has been removed. (21)
+
+## Deep Margin Positive
+
+Another example of an "unfavorable" situation is when there is cancer found on the deep side of the specimen.  In this situation, there is concern that the procedure remove the top portion of the cancer, but that there is a deeper portion of the cancer left behind. (22)
+
+## Surveillance **4**
+
+After any sort of endoscopic removal of cancer, it is extremely important to monitor the area with regular endoscopy to ensure that all of the cancer has been remove and that there is no evidence of regrowth.
+
+Surveillance endoscoy is done between 3 months and one year after the procedure, depending upon the level of concern for residual cancer (23)
+
+## Recurrence **2**
+
+It is possible for cancer to recur after endoscopic removal, particularly in cases with an unfavorable outcocome. (24)
+
+## Lift
+
+Going back to the Endoscoic Mucosal Resection procedure:  An important first step is injection of fluid below the mucosa to life the cancer off of the underlying layers. (25)
+
+## Unable to Lift
+
+Cancers that invade deeper into the layers of the esophagus are not candidates for endoscopic mucosal resection because it is not possible to get underneath the cancer and lift the mucosa off of the underlying layers.
+
+There can be other cases when it is not possible to lift the cancer due to ulceration, for instance (26)
+
+## Summary - Endoscopic Therapy. **4**
+
+In summary, endoscopic therapy can be used to remove cancers limited to the mucosa lauyer. These are considered T1a tumors (27)
+
+## Summary - Endoscopic Therapy
+
+
+After endoscopic therapy, surveillance with endoscopy is important to make certain the cancer has been completely remove and there has been no cancer regrowth. (28)
 
 
 ## Wrap up *1*
 
-We hope you have found this video helpful. Here are some other topics for which videos have been posted or are planned.
+We hope you have found this video helpful. Here are links to some other videos.
 
 Feel free to leave a comment or a question, or if you have suggestions for future videos.
 
 If you or a family member have had an encounter with esophageal cancer, I would love to hear about your experience, so please take a minute to leave a comment below.
 
-We're constantly creating new videos, so please subscribe to be notified of new videos when we post them.
+We're constantly creating new videos, so please subscribe to be notified of new videos when we post them.  (29)
