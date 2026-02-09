@@ -22,15 +22,18 @@ Of course, there is no substitute for the expert opinions of your cancer care te
 
 ## Surgery of the Esophagus
 
+In this viedo we'll discuss *surgery of the esophagus*
+
 In this video, you will learn about (2)
 
--   Different kinds of surgery for esophageal cancer
--   Risks of surgery
--   How you can reduce the risk of surgery (1)
+-   Different Type of esophagectomy
+-   Complications
+
+At the end we will discuss ways that your surgical team can reduce the risk of complications
 
 ## Esophagectomy
 
-Surgical removal of the esophagus is referred to as esophagectomy. (3).
+Esophagectomy is the surgical removal of the esophagus
 
 ## Esophagectomy -
 
@@ -42,9 +45,9 @@ Esophagectomy is generally performed for three different situations:
 
 -   Superficial Tumors (T1) that can't be completely removed by endoscopy (5)
 
-Superficial tumors as T1. If this terminology is not familiar to you, this may be a good time to view our video about Esophageal Cancer Staging and Treatment
+Superficial tumors are T1. If this terminology is not familiar to you, this may be a good time to view our video about Esophageal Cancer Staging and Treatment
 
-We also have a separate video about superficial tumors and how they can be removed through endoscopic therapy without the need for surgery.
+We also have a separate video about superficial or "early stage" tumors and how they can sometimes be removed through endoscopic therapy without the need for surgery.
 
 ## Esophagectomy.
 
@@ -58,15 +61,11 @@ Esophagectomy is also performed for
 
 ## Esophagectomy
 
-The most common case in which esophagectomy is performed is for locally advanced tumors
+Locally-advanced tumors usually treated with some sort of preoperative therapy prior to surgery.  
 
-We also have a video on locally-advanced cancers which you may find helpful. (7)
+Preoperative therapy is usually some combination of chemotherapy, immunotherapy or radiation therapy
 
-## Esophagectomy
-
-In these cases, surgery is performed
-
--   *after* the completion of preoperative therapy. Preoperative therapy is generally some combination of chemotherapy and radiation. (8)
+We have videos which discuss locally-advanced esophageal cancer, which you may find helpful.
 
 ## Goals of Esophagectomy
 
@@ -78,17 +77,14 @@ And nearby lymph nodes (10)
 
 ## Goals of Esophagectomy
 
-A portion of the esophagus and stomach is also removed with the tumor to reduce the risk of recurrence (12)
+An *additional* portion of the esophagus and stomach is also removed with the tumor to reduce the risk of recurrence (12)
 
 ## Reconstruction
 
-In moset cases,
-
-The remaining stomach is fashioned into a tube to create a new esophagus (13)
-
+In most cases, the lower part of the stomach is fashioned into a tube, to create a new esophagus.
 ## Reconstruction
 
-The esophagus and stomach are now joined together
+The esophagus and stomach tube are now joined together
 
 The new connection between esophagus and stomach is called the anastomosis (14)
 
@@ -96,49 +92,44 @@ The new connection between esophagus and stomach is called the anastomosis (14)
 
 There are two major types of esophagectomy:
 
-Partial esophagectomy which removed the lower 2/3 of the esophagus
+
+Partial esophagectomy removes the lower 2/3 of the esophagus
 
 Total esophagectomy removes all of the esophagus (15)
 
 ## Partial Esophagectomy **2**
 
-Removes lower 2/3 of esophagus
-
-New connection (or anastomosis) made in the chest (16)
+During a partial esophectomy, the new connection between esophagus and stomach  (or anastomosis) made in the chest (16)
 
 ## Ivor Lewis Esophagectomy
 
-This operation is also referred to as an Ivor Lewis esophagectomy
-
-In honor of the Welsh surgeon who developed the operation (17)
+A partial esophagectomy is also referred to as an Ivor Lewis esophagectomy
 
 ## Total Esophagectomy
 
-Removes all of esophagus
-
-New connection (or anastomosis) made in the neck (18)
+A total esophagectomy removes all of esophagus, and a new connection (or anastomosis) made in the neck (18)
 
 ## Total Esophagectomy
 
-Two different approaches:
+Two different approaches to total esophagectomy
 
 Transhiatal approach or
 
-McKeown approach in honor of the Irish surgeon who developed the operation. This is also known as the three-incision esophagectomy (19)
+McKeown which is also known as the three-incision esophagectomy (19)
 
 ## Which Esophagectomy? **4**
 
-With three different options for surgery, how will you and your surgical team decide which operaiton is best for you?
+Your surgeon will recommend a surgical approach based upon a number of factors.
 
 One factor is the location of the tumor (20)
 
 ## Distal - Partial **2**
 
-For tumors located in the lower, or distal part of the esophagus, a Partial esophagectomy will remove all of the cancer with an adequate margin to ensure that the cancer is completely removed (21)
+For tumors located in the lower, or distal part of the esophagus, a Partial esophagectomy will remove the cancer and enough additional esophagus to ensure that the cancer is completely removed (21)
 
 ## Distal - Partial
 
-So for distal cancers, an Ivor Lewis Approach is an ideal operation (22)
+So for distal cancers, an Ivor Lewis Approach is a common operation (22)
 
 ## Upper = Proximal
 
@@ -148,7 +139,16 @@ For tumors located in the upper or proximal part of the esophagus, a total esoph
 
 Another important factor is surgeon preference and experience.
 
-You will have an opportunity to discuss the surgical approach with your surgeon and hear their recommendations for surgical approach
+You will have an opportunity to discuss the operation when you meet with your surgeon
+
+
+## Why Remove so much Esophagus?
+
+A question I am commonly asked is "why do you need to remove so much esophagus?="
+
+
+
+
 
 ## Surgical Techniques **2**
 
@@ -177,7 +177,7 @@ Laparoscopic techniques use special instruments to work through small incisions.
 
 ## Robotic techniques
 
-In some cases, robotic techniques can be used. The surgeon controls the robotic instruments from a console (29) which allows 3-D vision of a robotic camera in the abdominal cavity
+In some cases, robotic techniques can be used. The surgeon controls the robotic instruments from a console (29) which allows 3-D view inside the abdominal cavity
 
 
 ## Robotic techniques
