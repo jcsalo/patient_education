@@ -48,13 +48,12 @@ If you haven't viewed it already, we have a video describing the surgery
 ## Esophagectomy
 
 Esophagectomy is a complex operation, (7)
-Diff
+
 
 ## Outcome Variation
 
-Because of it's complexity, the outcomes aren't the same for every hospital and every surgery (8)
+Because of it's complexity, the outcomes aren't the same for every hospital and every surgery, so there is a lot of variation
 
-There is a lot of variation
 
 ## Outcome Variation
 
@@ -67,17 +66,18 @@ Different outcomes for different surgeons (10)
 
 ## Outcomes after Esophagectomy
 
-When we compare the results, or outcomes for different hospitals and compare different surgeons, 
+When we compare the results, or outcomes for different hospitals and surgeons, 
 
 we need to have some understanding of what we are measuring.
 
 The first is the rate of complications (11)
 
+
 ## Outcomes after Esophagectomy
 
-particularly the risk of a leak from the anastomosis (12)
+An important complication is a leak from the anastomosis (12)
 
-Our video on esophagectomy goes into this is more detail
+We have a video about esophagectomy surgery which discusses these complications. 
 
 ## Outcomes after Esophagectomy
 
@@ -90,7 +90,7 @@ Because this is a complex operation, it's no surprise that experience counts (14
 
 ## Experience Counts
 
-Outcomes are better at high-volume hospitals (15)
+*In general*, Outcomes are better at high-volume hospitals (15)
 
 ## Experience Counts
 
@@ -111,6 +111,8 @@ In 2018 they made their recomendations that hospitals should perform at least 20
 
 in order to have enough familiarity with the surgery (18)
 
+We have a link to their recommendations
+
 https://ratings.leapfroggroup.org/sites/default/files/inline-files/2023%20Adult%20and%20Pediatric%20Complex%20Surgery%20Fact%20Sheet.pdf
 
 
@@ -118,15 +120,11 @@ Bibliography:
 
 https://ratings.leapfroggroup.org/sites/default/files/2025-03/2025%20Adult%20and%20Pediatric%20Complex%20Surgery%20Bibliography.pdf
 
-## How Many Cases is Enough?
 
-In 2018 they made their recommendations that hospitals should perform at least 20 esophagectomy operations per year, and surgeons should perform at least 7 operations a year, 
-
-in order to have enough familiarity with the surgery (18)
 
 ## Leapfrog Survey 2019
 
-In 2019 Leapfrog release their findings and found that only 3% of hospitals met the guidelines for hospital volume and surgical volume, (19) 
+In 2019 Leapfrog surveyed hospitals and found that only 3% of hospitals met the guidelines for hospital volume and surgical volume, (19) 
 
 
 ## Leapfrog Survey 2019
@@ -170,9 +168,9 @@ The other is to ask whether there is an experienced surgeon who can join your su
 
 ## **1**
 
-One of the challenges for surgeons in the beginning stages of their careers is how do you safely acquire experience with complex surgery
+One of the challenges for surgeons in the beginning stages of their careers is how to safely acquire experience with complex surgery
 
-One way to address that challenge is to have more senior surgeons working with younger surgeons to allow the patient to have the best outcomes possible while also allowing the training of the next generation of surgeons. (25)
+One way to address that challenge is to have more experienced surgeons working with less experienced surgeons to allow the patient to have the best outcomes possible while also allowing the training of the next generation of surgeons. (25)
 
 ## Esophagectomy Surgeon Volume **4**
 
@@ -249,7 +247,7 @@ The most important thing is that you want a surgeon who is focused on optimizing
 
 An important follow up question is to ask your surgeon to make an estimate of surgical mortality in your particular case.  In other words, starting with the surgeon's overall experience, can they make an estimate of surgical mortality for your case.
 
-I think this is an important question as it helps you know whether our surgeon has the experience with a variety of patients to understand which patients will do well and which patients won't
+I think this is an important question as it helps you know whether our surgeon has the experience with a variety of patients to understand how risky an operation is in a particular patient. 
 
 ## Preoperative Evaluation
 
@@ -280,7 +278,7 @@ There are other tests such as a 6-minute walk test or a treadmill test that can 
 
 Is summary, you need an honest discussion with your surgeon about the risks of surgery.  
 
-This should not be a discussion that gets delegated to a physician's assistant or nurse practitioner
+I would recommend that this not be a discussion that gets delegated to a physician's assistant or nurse practitioner
 
 ## Second opinion
 
@@ -290,5 +288,66 @@ The easiest place to start is asking your primary care provider for a recommenda
 
 or other members of your cancer care team such as your medical Oncologist or gastroenterologist
 
+The important thing is not hesitate out of concerns for offending the first surgeon you may have seen: All of us in healthcare want for our patients to have good outcomes from their cancer treatment.
+
 ## Second Opinion
+
+Your second opinion team will need a variety of materials in order to make a recommendation.  Your cancer care team can help you assemble these records.
+
+THe first is medical records, which will include:
+
+- Notes from all consultations with any specailists
+- Endoscopy reports
+
+
+## Second Opinion
+
+You will also need:
+
+- Pathology reports
+- Radiology reports
+- Cardiology Reports and Records
+
+##
+
+You may need to sign an authorization request to release your records to the second opinion team
+
+## Radiology images
+
+In addition to the radiology reports, the second opinion team will need to see the images themselves.  
+
+This can be done by sending a disk from the radiology department to the second opinion team
+
+In many cases, the two radiology departments can work together to send the images electronically
+
+## Pathology slides
+
+In some cases, in addition to the pathology report, the second opinion team will want to review the pathology slides.  
+
+This means that the glass microscope slides will need to be sent from the first pathology lab to the second one. 
+
+The slides will usually be send via express shipping such as Fed Ex or UPS. 
+
+After the second lab reads the slides, they are returned to the first pathology lab.
+
+There may be a charge by the second pathologist for reading the slides.
+
+This is done routinely but can be the most time-consuming part of the process.  
+
+
+## Second Opinion
+
+This may sound like a lot of work, but your nurse navigator or cancer center clinic staff can help you here.
+
+
+##
+
+
+We hope you have found this video helpful. We have some links to other videos.
+
+Feel free to leave a comment or a question, or if you have suggestions for future videos.
+
+If you or a family member have had an encounter with esophagectomy surgery, or experience choosing a surgical team, I would love to hear about your experience, so please take a minute to leave a comment below.
+
+We're constantly creating new videos, so please subscribe to be notified of new videos when we post them.  (29)
 

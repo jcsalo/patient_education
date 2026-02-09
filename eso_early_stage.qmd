@@ -1,5 +1,5 @@
 ---
-title: "Locally-Advanced Esophageal Adenocarcinoma"
+title: "Early Stage Esophageal Adenocarcinoma"
 format: 
   docx:
     number-sections: true
@@ -16,7 +16,7 @@ from: markdown+emoji
 
 ## Intro L *1*
 
-I'm Dr Jonathan Salo, a GI Cancer Surgeon in Charlotte, North Carolina. If you’re seeing this video, changes are you or someone close to you has had an encounter with esophageal cancer. These videos are designed to educate you about cancer and its treatment and help you and you cancer care team make the right decisions for you.
+I'm Dr Jonathan Salo, a GI Cancer Surgeon in Charlotte, North Carolina.  These videos are designed to educate you about cancer and its treatment and help you and you cancer care team make the right decisions for you.
 
 Of course, there is no substitute for the expert opinions of your cancer care team.
 
@@ -30,11 +30,17 @@ We will consider cancers of the esophagus and gastro-esophageal junction togethe
 
 ## Treatment is guided by the Stage of cancer
 
-The treatment recommended will depend upon the stage of the cancer. If you haven't already, this may be a good time to view the video on Diagnosis and Staging. (4)
+The treatment recommended will depend upon the stage of the cancer. 
+
+If you haven't already, this may be a good time to view the video on Diagnosis and Staging. (4)
+
+## Wall
+
+The wall of the esophagus consists has multiple layers, and is surrounded by fat and lymph node tissue
 
 ## Mucosa
 
-The wall of the esophagus consists of three main layers. On the inside is the mucosa. (5)
+ On the inside is the mucosa. (5)
 
 ## Submucosa
 
@@ -42,11 +48,11 @@ Underneath the mucosa is the submucosa. (6)
 
 ## Muscularis
 
-Outside fo the mucosa are two layers of muscle, called the Muscularis. (7)
+Outside of the mucosa are two layers of muscle, called the Muscularis. (7)
 
 ## T1a
 
-Esophageal cancer starts within the mucosa, and with time can invade deeper into the wall. The depth of invasion into the wall (8)
+Esophageal cancer starts within the mucosa, and with time can invade deeper into the wall.  (8)
 
 ## T1b
 
@@ -82,12 +88,18 @@ T3 tumors are at risk for spread to lymph nodes, so effective treatment will req
 
 ## EMR
 
-Endoscopic Mucosal Resection is a procedure in which a superficial cancers can be removed endoscopically, without requiring surgery. This is typically performed for T1a cancers, that just involve the mucosa. (17)
+Endoscopic Mucosal Resection is a procedure in which a superficial cancers can be removed endoscopically, without requiring surgery. 
+
+This is typically performed for T1a cancers, that just involve the mucosa. (17)
 
 
 ## Lift with Saline
 
-The procedure is performed by first injecting fluid underneath the mucosa to lift it off of the underlying layers.  A portion of the mucosa can then be removed, along with the cancer. (18)
+The procedure is performed by first injecting fluid underneath the mucosa to lift it off of the underlying layers. 
+
+## Snare
+
+A portion of the mucosa can then be removed, along with the cancer. (18)
 
 ## Completed EMR
 
@@ -95,20 +107,39 @@ This is how the procedure looks at the end.  A disk of tissue is sent to the pat
 
 ## Favorable
 
-This is an example of the pathology specimen in ideal or "favorable" cases.  The tumor is confined to the middle of the specimen, and it is clear that all of the cancer has been removed.
+This is an example of the pathology specimen in ideal or "favorable" cases.  
+
+
+The tumor is confined to the middle of the specimen, and it is clear that all of the cancer has been removed.
 
 This is termed a "favorable" outcome from the procedure (20)
+
+## Favorable 2
+
+Patients with favorable features after endoscopic mucosal resection
+
+frequently don't need surgery
+
+but surveillance is important to be certain there isn't recurrence of cancer.
 
 
 ## Unavorable
 
-This is an example of the pathology specimen in an "unfavorable" situation.  The tumor extends to the edge of the specimen, suggesting that the tumor may have been cut across during the procedure, and there might be additional cancer left benind.
+This is an example of the pathology specimen in an "unfavorable" situation.  
 
-These patients will need careful monitoring to make certain that all cancer has been removed. (21)
+The tumor extends to the edge of the specimen, suggesting that the tumor may have been cut across during the procedure, and there might be additional cancer left benind.
 
-## Deep Margin Positive
+## Unfavorable 2
 
-Another example of an "unfavorable" situation is when there is cancer found on the deep side of the specimen.  In this situation, there is concern that the procedure remove the top portion of the cancer, but that there is a deeper portion of the cancer left behind. (22)
+For patients with unfavorable features after endoscopic mucosal resection, some may need surgery 
+
+For these patients, if surgery is not done immediately, surveillance is very important to detect a recurrence early.
+
+
+## Recurrence **2**
+
+It is possible for cancer to recur after endoscopic removal, particularly in cases with an unfavorable outcocome. (24)
+
 
 ## Surveillance **4**
 
@@ -116,9 +147,30 @@ After any sort of endoscopic removal of cancer, it is extremely important to mon
 
 Surveillance endoscoy is done between 3 months and one year after the procedure, depending upon the level of concern for residual cancer (23)
 
-## Recurrence **2**
 
-It is possible for cancer to recur after endoscopic removal, particularly in cases with an unfavorable outcocome. (24)
+## Deep Margin Positive
+
+A special type of an "unfavorable" situation is when there is cancer found on the deep side of the specimen.  
+
+In this situation, there is concern that the procedure remove the top portion of the cancer, but that there is a deeper portion of the cancer left behind. (22)
+
+## Positive Deep Margin
+
+Patients with a positive deep margin are at risk for recurrence on the surface, or mucosa.
+
+
+
+##
+
+But are also at risk of spread to lymph nodes. 
+
+The challenge here is that early detection of spread to the lymphd nodes is difficult
+
+##
+
+In most cases, surgery or additional therapy is recommended to patients with a positive deep margin.
+
+
 
 ## Lift
 
@@ -127,8 +179,6 @@ Going back to the Endoscoic Mucosal Resection procedure:  An important first ste
 ## Unable to Lift
 
 Cancers that invade deeper into the layers of the esophagus are not candidates for endoscopic mucosal resection because it is not possible to get underneath the cancer and lift the mucosa off of the underlying layers.
-
-There can be other cases when it is not possible to lift the cancer due to ulceration, for instance (26)
 
 ## Summary - Endoscopic Therapy. **4**
 

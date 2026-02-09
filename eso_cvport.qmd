@@ -16,7 +16,7 @@ from: markdown+emoji
 
 ## Intro L *1*
 
-I'm Dr Jonathan Salo, a GI Cancer Surgeon at the in Charlotte, North Carolina If you’re seeing this video, changes are you or someone close to you has had an encounter with cancer. These videos are designed to educate you about cancer and its treatment and help you and you cancer care team make the right decisions for you.
+I'm Dr Jonathan Salo, a GI Cancer Surgeon at the in Charlotte, North Carolina. These videos are designed to educate you about cancer and its treatment and help you and you cancer care team make the right decisions for you.
 
 Of course, there is no substitute for the expert opinions of your cancer care team.
 
@@ -30,6 +30,126 @@ There are three different methods which can be used to administer drugs intraven
 
 ## Intravenous Drug Administration 
 
+The first is using a peripheral intravenous line or "IV"
+second is  Peripherally inserted Central Catheter or "PICC"
+Third is a central venous port 
+
+## PIV
+
+A Peripheral intravenous line is placed before each dose or doses of chemotherapy or immunotherapy and removed that same day
+
+A peripheral IV is not suitable for FLOT chemotherapy, which requires a 24-hour infusion
+
+## PICC
+
+A peripherally inserved central venous catheter or PICC is similar to a peripheral IV but contains a long, thin tube.
+
+##
+
+A PiCC line can remain in place for weeks
+
+A dressing is applied which is changed weekly
+
+The dressing needs to be kept dry and clean
+
+A PICC line is suitable for FLOT chemotherapy
+
+## Port
+
+A Central venous port is an implated device for the administration of IV drugs
+
+Surgically placed under the skin
+
+Drugs are injected into the reservoir, and the a tubing is placed into a vein
+
+## 
+
+The port delivers drugs into the main vein near the heart
+
+Suitable for FLOT (which requires a 24-hour infusion)
+
+
+##
+
+When it's time for adminisration of drugs
+
+The skin is numbed with an anesthetic cream
+
+A needle is inserted through the skin into the port reservoir
+
+Needle is then removed after the dose is finished.
+
+
+## Port
+
+It is completely implanted under the skin
+
+It is usually placed below the collar bone
+
+
+## CV Port
+
+Placed by radiologist or surgeon
+
+Can be combined with other surgical procedures 
+
+such as laparoscopy or feeding tube placement
+
+## CV P
+
+Port placemenent is done as ain outpatient under a general anesthetic or sedation
+
+Incisions are made above the collarbone and a small incision in the neck
+
+The skin is closed with sutures that dissolve on their own
+
+Dermabond, or "superglue" is used over the incisions, so no dressing is required.
+
+## CVP
+
+Because of the need for anesthesia or sedation, no driving is allowed the day of surgery.
+
+You can shower the following day
+
+We recommend no lifting for two days to avoid bruising in the area
+
+
+## RIsks
+
+The main serious complication of a port placement is infection.  This is extremely rare
+
+However, if you develop fevers or redress or drainage from the incision, it is important to contact your surgeon immediately.
+
+Infections are treated with antibiotics, but in come cases the port will need to be removed.
+
+## Hematoma
+
+A hematoma is a blood clot under the skin at the surgical site.
+
+In some cases this may require surgery to remove the clotted blood.
+
+##
+
+VEnous thrombosis is clotting of the vein in which the catheter is placed.
+
+This can cause swelling of the neck or arm
+
+Treatment is usually with blood thinners and may require removal of the port
+
+
+## Malfunction
+
+Ordinarily, their is easy flow through the catheter.
+
+If there is poor flow through the catheter, this may require attention
+
+##
+
+IN some cases this is due to a blood clot on the tip of the catheter which can ne treated with drugs to dissolve the clot
+
+##
+
+In other cases the port will need to be replaced in the operating room
 
 
 ## **1**
