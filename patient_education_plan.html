@@ -147,6 +147,8 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="slide-1" class="level2">
+<h2 class="anchored" data-anchor-id="slide-1">Slide 1</h2>
 <div class="cell" data-layout-align="default">
 <div class="cell-output-display">
 <div>
@@ -210,6 +212,9 @@ click exercise "exercise.html"
 </div>
 </div>
 </div>
+</section>
+<section id="slide-2" class="level2">
+<h2 class="anchored" data-anchor-id="slide-2">Slide 2</h2>
 <div class="cell" data-layout-align="default">
 <div class="cell-output-display">
 <div>
@@ -217,13 +222,13 @@ click exercise "exercise.html"
 <div>
 <pre class="mermaid mermaid-js">flowchart LR
 
-A[Preop Therapy] --&gt; B{EGD + PET}
-
+A[Preop Therapy] --&gt; B[EGD PET]
 B--&gt; |Persistent Cancer| C(Surgery)
-B--&gt; |No Cancer Seen| D{EGD every 3 months}
 
-D--&gt; |No Cancer Seen| --&gt; D
-D--&gt; |Recurrent Cancer| 
+B--&gt; |No Cancer Seen| D[EGD every 3 months]
+
+D--&gt; |No Cancer Seen| D[EGD every 3 months]
+D--&gt; |Recurrent Cancer| E(Salvage Surgery) 
 
 
 </pre>
@@ -234,6 +239,7 @@ D--&gt; |Recurrent Cancer|
 </div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
