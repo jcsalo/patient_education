@@ -14,9 +14,7 @@ editor: visual
 from: markdown+emoji
 ---
 
-## Introduction. **L** **1**
-
-I’m Dr Jonathan Salo, a GI Cancer Surgeon in Charlotte, North Carolina. These videos are designed to educate you about cancer and its treatment and help you and you cancer care team make the right decisions for you.
+I’m Dr Jonathan Salo, I'm a GI Cancer Surgeon in Charlotte, North Carolina. These videos are designed to educate you about cancer and its treatment and help you and you cancer care team make the right decisions for you.
 
 Of course, there is no substitute for the expert opinions of your cancer care team.
 
@@ -28,45 +26,48 @@ In this video, you will learn about how to:
 - Choose a surgeon 
 - Get a second opinions 
 
-Esophagectomy is surgical removal of the esophagus, which is a complex operation,  and because of it's complexity, the outcomes aren't the same for every hospital and every surgery, so there is a lot of variation
+Esophagectomy is a complex operation,  and because of it's complexity, the outcomes aren't the same for every hospital and every surgery, so there is a lot of variation in outcomes
 
-There is a lot of variation
+Outcomes are different between:...
 
-Different outcomes at different hospitals (9)
+Different hospitals...
 
-Different outcomes for different surgeons (10)
-
-
-When we compare the results, or outcomes for different hospitals and surgeons, 
-
-we need to have some understanding of what we are measuring.
-
-The first is the rate of complications 
-
-An important complication is a leak from the anastomosis (12)
-
-We have a video about esophagectomy surgery which discusses these complications. 
-
-Another important outcome is the risk of death in the first 90 days after surgery (13)
-
-Because this is a complex operation, it's no surprise that experience counts (14)
+and different surgeons...
 
 
-*In general*, Outcomes are better at high-volume hospitals...
+When we talk about outcomes after esophagectomy, we are going to focus on two areas:
 
-and for Experienced surgeons (16) 
+The first is complications.
 
-## How Many Cases is Enough?
+The most important of these complications is the rate of anastomotic leak.
 
-The Leapfrog Group is a non-profit medical watchdog group which has compationed transparency in health care outcomes. (17)
+If this is not a familiar term to you, please take a minute to watch our video about esophagectomy surgery.
 
-They gathered a group of experts and reviewed the medical research to come up with some guidelines for recommended minimum of operations per year for esophagectomy surgery
+(pause)
 
-## How Many Cases is Enough?
+Another important outcome is the risk of death in the first 90 days after surgery 
 
-In 2018 they made their recomendations that hospitals should perform at least 20 esophagectomy operations per year, and surgeons should perform at least 7 operations a year, 
 
-in order to have enough familiarity with the surgery (18)
+Because esophagectomy is complex, it's no surprise that *experience counts*
+
+
+*In general*, Esophagectomy Outcomes are better at high-volume hospitals...
+
+... and for Experienced surgeons (16) 
+
+The question is How many cases is enough? or How many operations does a hospital or surgeon need to do each year in order to have sufficient experience.
+
+
+The Leapfrog Group has addressed this very question.  Leapfrog group is a non-profit medical watchdog group which has promoted transparency in health care outcomes. (17)
+
+They gathered a group of experts and reviewed the medical research to come up with some proposedd volume guidelines for recommended minimum of operations per year for esophagectomy surgery
+
+
+In 2018 they made their recommendations that hospitals should perform at least 20 esophagectomy operations per year, and surgeons should perform at least 7 operations a year, 
+
+in order to have enough familiarity with the surgery.
+
+(pause)
 
 We have a link to their recommendations
 
@@ -77,19 +78,15 @@ Bibliography:
 https://ratings.leapfroggroup.org/sites/default/files/2025-03/2025%20Adult%20and%20Pediatric%20Complex%20Surgery%20Bibliography.pdf
 
 
-## Leapfrog Survey 2019
+In 2019 The Leapfrog Group surveyed hospitals and found that only 3% of hospitals in the U.S. met the guidelines for hospital volume and surgical volume
 
-In 2019 Leapfrog surveyed hospitals and found that only 3% of hospitals in the U.S. met the guidelines for hospital volume and surgical volume, (19) 
+Which means it some patients may need to travel to find a high-volume hospital with high-volume surgeons.
 
-
-## Leapfrog Survey 2019
 
 However 25% of hospitals had a surgeon meeting the volume guidelines by performing 7 or more esophagectomy operations per year. (20)
 
 
 https://www.leapfroggroup.org/sites/default/files/Files/Leapfrog%20Report%20on%20Safe%20Surgical%20Volumes%202020.pdf
-
-## Interview your Surgeon
 
 How does this help you?   I would recommend that you *interview your surgeon*
 
@@ -101,58 +98,62 @@ This may seem a bit awkward at first, but most of us are comfortable about doing
 
 I would recommend that you ask
 
-"How many esophagectomy operations do you personally perform each year?"  (22)
+"How many esophagectomy operations do you personally perform each year?"  
 
 This is a very specific question.  It's not asking whether there is a high-volume surgeon somewhere in the hospital, or what the volume of the *hospital* is, 
 
 But it's designed to find out of *your* surgeon has the experience necessary.
 
-If the surgeon volume is less than 7 cases per year, I would see that you have two choices. (22)
+If the surgeon volume is less than 7 cases per year, I would see that you have two choices.
 
-One is to get a second opinion, and we'll talk about that at the end of the video (23)
+One is to get a second opinion, and we'll talk about that towards the end of the video 
 
-The other is to ask whether there is an experienced surgeon who can join your surgeon in the operating room (24) 
+The other is to ask whether there is an experienced surgeon who can join your surgeon in the operating room for your surgery.
 
 One of the challenges for surgeons in the beginning stages of their careers is how to safely acquire experience with complex surgery
 
 One way to address that challenge is to have more experienced surgeons working with less experienced surgeons to allow the patient to have the best outcomes possible 
 
-...while also allowing the training of the next generation of surgeons. (25)
+...while also allowing the training of the next generation of surgeons.
 
-To my mind, mentoring is a safe way for low-volume surgeons to gain experience (and become high-volume surgeons) (26)
+To my mind, mentoring is a safe way for lower-volume surgeons to gain experience (and become high-volume surgeons) while they are providing patients with the benefits of the experience of a high-volume surgeon.
 
 
-Now that you have located an surgeon, what else do you need to look for? (27)
+Now that you have located an surgeon, what else do you need to look for? It turns out that you need more than just a high-volume surgeon.
 
 
 A research study looked at outcomes among high-volume hospitals in New York state (28)
 
-## Is Volume the only Measure
 
-And they found two-fold variation in mortality outcomes... and complications
+And they found two-fold variation in mortality outcomes
+
+... and complications
 
 https://pubmed.ncbi.nlm.nih.gov/34292582/
 
 In other words, some high-volume hospitals had twice the complication rate of other hospitals.
 
-You will want to know something about your surgeon's complication rate (31)
+You will want to know something about your surgeon's complication rate 
 
-I would ask "What is the anastomotic leak rate in operations you personally perform?" (32)
+So back to your interview with your surgeon...
+
+I would ask "What is the anastomotic leak rate in operations you personally perform?"
 
 Again, you aren't as interested in what the average is for the hospital, or what the average is in the medical literature, but the personal experience of that surgeon.
 
-If you surgeon isn't familiar with their personal outcomes, I would recommend getting a second opinion.  Whoever your surgeon is, you want someone who is constantly seeking to improve outcomes for their patients, and the only way to do that is to know what your outcomes are.
+If you surgeon isn't familiar with their personal outcomes, I would recommend getting a second opinion.  
 
+Whoever your surgeon is, you want someone who is constantly seeking to improve outcomes for their patients, and the only way to do that is to know what your outcomes are.
 
-Something else you will want to know is what your surgeons estimates your risk of mortality, meaning death in the first 90 days after surgery. (33)
+Something else you will want to ask about is what your surgeons estimates **your** risk of mortality, meaning death in the first 90 days after surgery.
 
 Now this is a very complex issue, and comparisons between hospitals and between surgeons are *very* difficult
 
-The simple reason is that the risk of death depends upon three different factors.
+The simple reason is that the risk of mortality after surgery depends upon three different factors.
 
-The first is the experience of the surgical team (34)
+The first is the experience and skill of the surgeon
 
-The second is the capability of the hospital (35).  
+The second is the hospital's ability to care for patients after surgery
 
 Caring for a patient after esophagectomy requires a large team of people in addition to the surgeon.  
 
@@ -164,12 +165,13 @@ Everyone from the nurses
 - such as radiologists 
 - and gastroenterologists.
 
+(pause)
 
 Risk of mortality also depends heavily upon the patient.
 
 We know that younger patients encounter fewer problems with surgery than do older patients. 
 
-We know patients with major medical are more likely to have problems.  
+We know patients with major medical problems are more likely to have more problems tolerating surgery
 
 And we know that patients who are fit and active have encounter fewer problems.
 
@@ -197,7 +199,7 @@ A cardiology evaluation can help identify issues which would make surgery higher
 You may be referred to a cardiologist for testing such as an echocardiogram or stress test
 
 
-Pulmonary function testing can also be helpfull, particularly for patients who are heavy smokers or have emphysema
+Pulmonary function testing can also be helpful, particularly for patients who are heavy smokers or have emphysema
 
 There are a variety of ways to test overall fitness.
 
@@ -208,11 +210,14 @@ There are other tests such as a 6-minute walk test or a treadmill test that can 
 
 Is summary, you need an honest discussion with your surgeon about the risks of surgery.  
 
-I would recommend that this not be a discussion that gets delegated to a physician's assistant or nurse practitioner
+I would recommend that this not be a discussion that gets delegated to a physician's assistant or nurse practitioner.
+
+What you are looking for is whether your surgeon has a good understanding of who is a good candidate for surgery vs who is a poor candidate for surgery.
+
+(pause)
 
 
-
-If you are interested in a second opinion, the questions are where? and how?
+If you are interested in a second opinion, the primary questions are where? and how?
 
 The easiest place to start is asking your primary care provider for a recommendation,
 
@@ -227,7 +232,7 @@ Your second opinion team will need a variety of materials in order to make a rec
 
 THe first is medical records, which will include:
 
-- Notes from all consultations with any specailists
+- Notes from all consultations with any specialists
 - Endoscopy reports
 
 
@@ -263,7 +268,9 @@ This is done routinely but can be the most time-consuming part of the process.
 
 This may sound like a lot of work, but your nurse navigator or cancer center clinic staff can help you here.
 
+The important bottom line message is this: Please don't hesitate to ask for a second opinion.  You will likely learn a lot from the process, and it can be very valuable even if you return to your original surgical team.
 
+(pause)
 
 We hope you have found this video helpful. We have some links to other videos.
 
@@ -271,5 +278,5 @@ Feel free to leave a comment or a question, or if you have suggestions for futur
 
 If you or a family member have had an encounter with esophagectomy surgery, or experience choosing a surgical team, I would love to hear about your experience, so please take a minute to leave a comment below.
 
-We're constantly creating new videos, so please subscribe to be notified of new videos when we post them.  (29)
+We're working to create new videos, so please subscribe to be notified of new videos when we post them.  (29)
 
