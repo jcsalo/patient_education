@@ -1,5 +1,5 @@
 ---
-title: "Early Stage Esophageal Adenocarcinoma"
+title: "Early Stage Cancer of the Esophagus and Stomach"
 format: 
   docx:
     number-sections: true
@@ -20,182 +20,145 @@ I'm Dr Jonathan Salo, a GI Cancer Surgeon in Charlotte, North Carolina.  These v
 
 Of course, there is no substitute for the expert opinions of your cancer care team.
 
-## Locally-advanced Esophageal Cancer *L* *4*.
 
-The topic of this video is early-stage adenocarcinoma of the esophagus and gastroephageal junction. (2)
+The topic of this video is early-stage cancer of the esophagus and stomach
 
-## Esophagus or Gastroesophageal junction *2*.
+This video applies to tumors of the esophagus...
 
-We will consider cancers of the esophagus and gastro-esophageal junction together, as the treatment is similar (3)
+... and gastroesophageal junction...
 
-## Treatment is guided by the Stage of cancer
+... and stomach
 
-The treatment recommended will depend upon the stage of the cancer. 
 
-If you haven't already, this may be a good time to view the video on Diagnosis and Staging. (4)
 
-## Wall
+The treatment recommended will depend upon early stage tumors...  Which are T1a
+
+If the term T1a is not familiar to you, this may be a good time to view the video on Diagnosis and Staging
 
 The wall of the esophagus consists has multiple layers, and is surrounded by fat and lymph node tissue
 
-## Mucosa
+On the inside is the mucosa. 
 
- On the inside is the mucosa. (5)
+Underneath the mucosa is the submucosa.  
 
-## Submucosa
-
-Underneath the mucosa is the submucosa. (6)
-
-## Muscularis
-
-Outside of the mucosa are two layers of muscle, called the Muscularis. (7)
-
-## T1a
-
-Esophageal cancer starts within the mucosa, and with time can invade deeper into the wall.  (8)
-
-## T1b
-
-With time, the cancer can grow deeper and invade the submucosa (9)
-
-## T2
-
-The cancer can then invade into the muscularis (10)
-
-## T3
-
-If not treated, the cancer will then grow all the way through the muscularis (11)
-
-## T1a (labeled)
-
-A cancer confined to the mucosa is classified as T1a (12)
-
-## T1b
-
-A cancer which invades into the submucosa is classified as T1b (13)
-
-## T2
-
-A cancer which invades the muscularis is classified as T2 (14)
-
-## T3
-
-A cancer which grows through the muscularis is classified as T3 (15)
-
-## T3 nodes
-
-T3 tumors are at risk for spread to lymph nodes, so effective treatment will require additional treatments such as chemotherapy or radiation therapy (16)
-
-## EMR
-
-Endoscopic Mucosal Resection is a procedure in which a superficial cancers can be removed endoscopically, without requiring surgery. 
-
-This is typically performed for T1a cancers, that just involve the mucosa. (17)
+Outside of the mucosa are two layers of muscle, called the Muscularis
 
 
-## Lift with Saline
+Esophageal cancer starts within the mucosa, and with time can invade deeper into the wall
 
-The procedure is performed by first injecting fluid underneath the mucosa to lift it off of the underlying layers. 
+With time, the cancer can grow deeper and invade the submucosa
 
-## Snare
+The cancer can then invade into the muscularis 
 
-A portion of the mucosa can then be removed, along with the cancer. (18)
 
-## Completed EMR
+If not treated, the cancer will then grow all the way through the muscularis 
 
-This is how the procedure looks at the end.  A disk of tissue is sent to the pathologist for examination. (19)
+A tumor confined to the mucosa is classified as T1a 
 
-## Favorable
+A tumor which invades into the submucosa is classified as T1b 
+
+A tumor which invades the muscularis is classified as T2 
+
+A tumor which grows through the muscularis is classified as T3 
+
+T3 tumors are at risk for spread to lymph nodes, so effective therapy of a T3 tumor will require additional treatments such as chemotherapy or radiation therapy 
+
+Endoscopic Resection is a procedure in which a superficial cancers can be removed endoscopically, without requiring surgery. 
+
+This is typically performed for T1a cancers, that just involve the mucosa. 
+
+The procedure is performed by first injecting fluid underneath the mucosa to lift the tumor off of the underlying layers. 
+
+
+A portion of the mucosa is then removed along with the tumor.
+
+Endoscopic mucosal resection is a technique where the mucosa is removed with a snare.
+
+This is also referred to as EMR for Endoscopic Mucosal Resection
+
+Endoscopic submucosal dissection used an endoscopic knife to cut the mucosa to remove the tumor.
+
+This is also referred to as ESD for Endoscopic Submucosal Dissection
+
+In either case, this is how the procedure looks at the end.  A disk of tissue has been removed and is sent to the pathologist for examination.
 
 This is an example of the pathology specimen in ideal or "favorable" cases.  
 
+The tumor is confined to the middle of the specimen,
 
-The tumor is confined to the middle of the specimen, and it is clear that all of the cancer has been removed.
+the outer edges or margins are clear of tumor
 
-This is termed a "favorable" outcome from the procedure (20)
+It is clear that all of the tumor has been removed
 
-## Favorable 2
+This is termed a "favorable" outcome from the procedure 
 
-Patients with favorable features after endoscopic mucosal resection
+Patients with favorable features after endoscopic resection
 
 frequently don't need surgery
 
-but surveillance is important to be certain there isn't recurrence of cancer.
+but surveillance is important to be certain there isn't recurrence of the tumor
 
-
-## Unavorable
 
 This is an example of the pathology specimen in an "unfavorable" situation.  
 
-The tumor extends to the edge of the specimen, suggesting that the tumor may have been cut across during the procedure, and there might be additional cancer left benind.
+The tumor extends to the edge of the specimen, suggesting that the tumor may have been cut across during the procedure, and that some parts of the tumor have been left behind.
 
-## Unfavorable 2
+For patients with unfavorable features after endoscopic resection, some may need surgery 
 
-For patients with unfavorable features after endoscopic mucosal resection, some may need surgery 
-
-For these patients, if surgery is not done immediately, surveillance is very important to detect a recurrence early.
+If surgery is not done immediately, surveillance wiht endoscopy (or EGD) is very important to be certain the tumor has not recurred.
 
 
-## Recurrence **2**
-
-It is possible for cancer to recur after endoscopic removal, particularly in cases with an unfavorable outcocome. (24)
+It is possible for cancer to recur after endoscopic removal, particularly in cases with an unfavorable outcome. 
 
 
 ## Surveillance **4**
 
 After any sort of endoscopic removal of cancer, it is extremely important to monitor the area with regular endoscopy to ensure that all of the cancer has been remove and that there is no evidence of regrowth.
 
-Surveillance endoscoy is done between 3 months and one year after the procedure, depending upon the level of concern for residual cancer (23)
+Surveillance endoscopy is done between 3 months and one year after the procedure, depending upon the level of concern for tumor recurrence
 
 
 ## Deep Margin Positive
 
-A special type of an "unfavorable" situation is when there is cancer found on the deep side of the specimen.  
+A special type of an "unfavorable" situation is when there is tumor found on the deep side of the specimen.  
 
-In this situation, there is concern that the procedure remove the top portion of the cancer, but that there is a deeper portion of the cancer left behind. (22)
+In this situation, there is concern that the procedure has removed the top portion of the tumor but that there is residual cancer left behind. 
 
-## Positive Deep Margin
+Patients with a positive deep margin are at risk for recurrence on the surface, or mucosa....
 
-Patients with a positive deep margin are at risk for recurrence on the surface, or mucosa.
+...but are also at risk for recurrence in the lymph nodes. 
 
+The challenge here is that detecting a recurrence in the lymph nodes is difficult.
 
-
-##
-
-But are also at risk of spread to lymph nodes. 
-
-The challenge here is that early detection of spread to the lymphd nodes is difficult
-
-##
 
 In most cases, surgery or additional therapy is recommended to patients with a positive deep margin.
 
 
-
-## Lift
-
-Going back to the Endoscoic Mucosal Resection procedure:  An important first step is injection of fluid below the mucosa to life the cancer off of the underlying layers. (25)
-
-## Unable to Lift
-
-Cancers that invade deeper into the layers of the esophagus are not candidates for endoscopic mucosal resection because it is not possible to get underneath the cancer and lift the mucosa off of the underlying layers.
-
-## Summary - Endoscopic Therapy. **4**
-
-In summary, endoscopic therapy can be used to remove cancers limited to the mucosa lauyer. These are considered T1a tumors (27)
-
-## Summary - Endoscopic Therapy
+Going back to the Endoscoic Resection procedure:  An important first step is injection of fluid below the mucosa to lift the cancer off of the underlying layers
 
 
-After endoscopic therapy, surveillance with endoscopy is important to make certain the cancer has been completely remove and there has been no cancer regrowth. (28)
+
+Tumors that invade deeper into the layers of the esophagus are not candidates for endoscopic resection because it is not possible to get underneath the cancer and lift the mucosa off of the underlying layers.
 
 
-## Wrap up *1*
+In summary, endoscopic resection can be used to remove tumors limited to the mucosa lauyer. These are considered T1a tumors 
+
+
+After endoscopic resection, surveillance with endoscopy is important to make certain the cancer has been completely removed and to be certain there is no tumor regrowth.
+
+Surgery may be necessary...
+
+For unfavorable features on pathology...
+
+Positive deep margin...
+
+or for recurrence after endoscopic resection
+
 
 We hope you have found this video helpful. Here are links to some other videos.
 
 Feel free to leave a comment or a question, or if you have suggestions for future videos.
 
-If you or a family member have had an encounter with esophageal cancer, I would love to hear about your experience, so please take a minute to leave a comment below.
+If you or a family member have had an encounter with esophageal cancer, or experience with endoscopic resection. I would love to hear about your experience, so please take a minute to leave a comment below.
 
-We're constantly creating new videos, so please subscribe to be notified of new videos when we post them.  (29)
+We're working to create new videos, so please subscribe to be notified of new videos when we post them.  
