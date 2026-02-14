@@ -14,8 +14,6 @@ editor: visual
 from: markdown+emoji
 ---
 
-## Intro L *1*
-
 I'm Dr Jonathan Salo, a GI Cancer Surgeon in Charlotte, North Carolina.  These videos are designed to educate you about cancer and its treatment and help you and you cancer care team make the right decisions for you.
 
 Of course, there is no substitute for the expert opinions of your cancer care team.
@@ -111,14 +109,10 @@ If surgery is not done immediately, surveillance wiht endoscopy (or EGD) is very
 It is possible for cancer to recur after endoscopic removal, particularly in cases with an unfavorable outcome. 
 
 
-## Surveillance **4**
-
 After any sort of endoscopic removal of cancer, it is extremely important to monitor the area with regular endoscopy to ensure that all of the cancer has been remove and that there is no evidence of regrowth.
 
 Surveillance endoscopy is done between 3 months and one year after the procedure, depending upon the level of concern for tumor recurrence
 
-
-## Deep Margin Positive
 
 A special type of an "unfavorable" situation is when there is tumor found on the deep side of the specimen.  
 
