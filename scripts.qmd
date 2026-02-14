@@ -13,7 +13,6 @@ output: html_document
 | Nutrition | [Script](nutrition.docx) | [HTML](nutrition.html) | [PDF](nutrition.pdf) |[Video](https://youtu.be/XsqL41lU29w)  |
 | Locally-Advanced ACA | [Script](eso_la_aca.docx) | [HTML](eso_la_aca.html) | [PDF](eso_la_aca.pdf) | [Video] (https://youtu.be/3dUsrRDgZ_c) |
 | Locally-Advanced SCCA | [Script](eso_la_scca.docx) | [HTML](eso_la_scca.html) | [PDF](eso_la_scca.pdf) | [Video](https://youtu.be/4K5xJXO7F-g) |
-| Nutrition | [Script](nutrition_slides.html) | [HTML](nutrition.html) | [PDF](nutrition.pdf) |  |
 |  |  |  |  |  |
 | Esophageal Early Stage | [Script](eso_early_stage.docx) | [HTML](eso_early_stage.html) | [PDF](eso_early_stage.pdf) |  |
 | Esophagectomy | [Script](eso_surgery.docx) | [HTML](eso_surgery.html) | [Pdocs/eso_surgery.pdf) | |

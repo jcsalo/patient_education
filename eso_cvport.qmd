@@ -30,9 +30,12 @@ second is  Peripherally inserted Central Catheter or "PICC"
 Third is a central venous port 
 
 
-A Peripheral intravenous line is placed before each dose or doses of chemotherapy or immunotherapy and removed that same day
+A Peripheral intravenous line IV is placed through the skin into a vein in the hand or forearm before each dose or doses of chemotherapy or immunotherapy.
 
-A peripheral IV is not suitable for FLOT chemotherapy, which requires a 24-hour infusion
+The catheter is removed the same day and then replaced when it's time for the next dose, which is typically one to three weeks later.
+
+For patients who receive FLOT chemotherapy, a peripheral IV is not suitable because this treatment requires a 24-hour infusion of drug.
+
 
 
 A peripherally inserved central venous catheter or PICC is similar to a peripheral IV but contains a long, thin tube.
@@ -47,7 +50,16 @@ The dressing needs to be kept dry and clean
 A PICC line is suitable for FLOT chemotherapy
 
 
+
 A Central venous port is an implated device for the administration of IV drugs
+
+It contains a small chamber with a flexible rubber top and a tube that goes into the veins near the heart
+
+When it comes time to administer drugs, a needle is passed through the skin into the chamber
+
+This avoids having to find a vein underneath the skin in the arm or hand. The port is ideal for those with small veins which might be difficult to access with a peripheral intravenous line
+
+
 
 Surgically placed under the skin
 
@@ -85,7 +97,7 @@ Port placemenent is done as ain outpatient under a general anesthetic or sedatio
 
 Incisions are made above the collarbone and a small incision in the neck
 
-The skin is closed with sutures that dissolve on their own
+The skin is closed with sutures that dissolve on their own and don't need to be removed.
 
 Dermabond, or "superglue" is used over the incisions, so no dressing is required.
 
@@ -94,7 +106,7 @@ Because of the need for anesthesia or sedation, no driving is allowed the day of
 
 You can shower the following day
 
-We recommend no lifting for two days to avoid bruising in the area
+We recommend no lifting for the first week to avoid bruising in the area
 
 
 The main serious complication of a port placement is infection.  This is extremely rare
