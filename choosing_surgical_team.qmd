@@ -24,7 +24,7 @@ In this video, you will learn about how to:
 
 -   Choose a hospital
 -   Choose a surgeon
--   Get a second opinions
+-   Get a second opinion
 
 Esophagectomy is a complex operation, and because of it's complexity, the outcomes aren't the same for every hospital and every surgeon, so there is a lot of variation in outcomes
 
@@ -34,9 +34,8 @@ Different hospitals...
 
 and different surgeons...
 
-When we talk about outcomes after esophagectomy, we are going to focus on two areas:
 
-The first is complications.
+When we talk about outcomes after esophagectomy, we are talking about complications.
 
 The most important of these complications is the rate of anastomotic leak.
 
@@ -44,13 +43,9 @@ If this is not a familiar term to you, please take a minute to watch our video a
 
 (pause)
 
-Another important outcome is the risk of death in the first 90 days after surgery
-
 Because esophagectomy is complex, it's no surprise that *experience counts*
 
-*In general*, Esophagectomy Outcomes are better at high-volume hospitals...
-
-... and for Experienced surgeons (16)
+*In general*, Esophagectomy Outcomes are better at high-volume hospitals...   ... and for Experienced surgeons (16)
 
 An important question is How many cases is enough? or How many operations per year is required in order to have sufficient experience?
 
@@ -61,7 +56,7 @@ The Leapfrog Group has addressed this very question. The Leapfrog group is a non
 
 They gathered a group of experts and reviewed the medical research to come up with some proposed volume guidelines for recommended minimum of operations per year for esophagectomy surgery
 
-In 2018 they made their recommendations that hospitals should perform at least 20 esophagectomy operations per year, and surgeons should perform at least 7 operations a year, in order to have enough familiarity with esophagectomy surgery.
+In 2018 they made their recommendations that hospitals should perform at least 20 esophagectomy operations per year, and surgeons should perform at least 7 operations per year, in order to have enough familiarity with esophagectomy surgery.
 
 (pause)
 
@@ -73,7 +68,7 @@ Bibliography:
 
 https://ratings.leapfroggroup.org/sites/default/files/2025-03/2025%20Adult%20and%20Pediatric%20Complex%20Surgery%20Bibliography.pdf
 
-In 2019 The Leapfrog Group surveyed hospitals in the U.S. and found that only 3% of hospitals met the guidelines for hospital volume **and** surgical volume
+In 2019 The Leapfrog Group surveyed hospitals in the U.S. and found that only 3% of hospitals met the guidelines for hospital volume **and** surgeon volume
 
 Which means that some patients may need to travel to find a high-volume hospital with high-volume surgeons.
 
@@ -95,7 +90,7 @@ I would recommend that you ask
 
 This is a very specific question. It's not asking whether there is a high-volume surgeon somewhere in the hospital, or what the volume of the *hospital* is,
 
-But it's designed to find out of *your* surgeon has the experience necessary.
+But it's designed to find out if *your* surgeon has the experience necessary.
 
 If the surgeon volume is less than 7 cases per year, I would see that you have two choices.
 
@@ -105,15 +100,15 @@ The other is to ask whether there is an experienced surgeon who can join your su
 
 One of the challenges for surgeons in the beginning stages of their careers is how to safely acquire experience with complex surgery
 
-One way to address that challenge is to have more experienced surgeons working with less experienced surgeons to allow the patient to have the best outcomes possible.   ...while also allowing the training of the next generation of surgeons.
+One way to address that challenge is to have more experienced surgeons working with less experienced surgeons to allow the patient to have the best outcomes possible   ...while also allowing the training of the next generation of surgeons.
 
-To my mind, mentoring is a safe way for lower-volume surgeons to gain experience (and become high-volume surgeons) while they are providing patients with the benefits of the experience of a high-volume surgeon.
+To my mind, mentoring is the best way for lower-volume surgeons to gain experience (and become high-volume surgeons) while they are providing patients with the benefits of a high-volume surgeon.
 
 Now that you have located an surgeon, what else do you need to look for? It turns out that you need more than just a high-volume surgeon.
 
 A research study looked at outcomes among high-volume hospitals in New York state
 
-And they found two-fold variation in mortality outcomes ... and complications
+And they found two-fold variation in complications, and in the risk of death after surgery.
 
 https://pubmed.ncbi.nlm.nih.gov/34292582/
 
