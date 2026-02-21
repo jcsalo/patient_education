@@ -5,7 +5,9 @@ format:
     mermaid: 
       theme: forest
 ---
+
 ## Slide 1
+
 ```{mermaid}
 flowchart LR
 A[LCI Introduction] -->B(GastroEsophageal Dx Staging)
