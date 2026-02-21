@@ -1,0 +1,150 @@
+---
+title: "Central Venous Port"
+format: 
+  docx:
+    number-sections: true
+    number-depth: 2
+  html:
+    number-sections: true
+    number-depth: 2
+  pdf:
+    number-sections: true
+    number-depth: 2
+editor: visual
+from: markdown+emoji
+---
+
+I'm Dr Jonathan Salo, a GI Cancer Surgeon at the in Charlotte, North Carolina. These videos are designed to educate you about cancer and its treatment and help you and you cancer care team make the right decisions for you.
+
+Of course, there is no substitute for the expert opinions of your cancer care team.
+
+
+The topic of this video is methods for the intravenous administration of drugs
+
+Most of the drugs used to treat cancer need to be administered in the veins(2)
+
+There are three different methods which can be used to administer drugs intravenously:
+
+The first is using a peripheral intravenous line or "IV"
+second is  Peripherally inserted Central Catheter or "PICC"
+Third is a central venous port 
+
+
+A Peripheral intravenous line IV is placed through the skin into a vein in the hand or forearm before each dose or doses of chemotherapy or immunotherapy.
+
+The catheter is removed the same day and then replaced when it's time for the next dose, which is typically one to three weeks later.
+
+For patients who receive FLOT chemotherapy, a peripheral IV is not suitable because this treatment requires a 24-hour infusion of drug.
+
+
+
+A peripherally inserved central venous catheter or PICC is similar to a peripheral IV but contains a long, thin tube.
+
+
+A PiCC line can remain in place for weeks
+
+A dressing is applied which is changed weekly
+
+The dressing needs to be kept dry and clean
+
+A PICC line is suitable for FLOT chemotherapy
+
+
+
+A Central venous port is an implated device for the administration of IV drugs
+
+It contains a small chamber with a flexible rubber top and a tube that goes into the veins near the heart
+
+When it comes time to administer drugs, a needle is passed through the skin into the chamber
+
+This avoids having to find a vein underneath the skin in the arm or hand. The port is ideal for those with small veins which might be difficult to access with a peripheral intravenous line
+
+
+
+Surgically placed under the skin
+
+Drugs are injected into the reservoir, and the a tubing is placed into a vein
+
+
+The port delivers drugs into the main vein near the heart
+
+Suitable for FLOT (which requires a 24-hour infusion)
+
+
+When it's time for adminisration of drugs
+
+The skin is numbed with an anesthetic cream
+
+A needle is inserted through the skin into the port reservoir
+
+Needle is then removed after the dose is finished.
+
+
+It is completely implanted under the skin
+
+It is usually placed below the collar bone
+
+
+
+Placed by radiologist or surgeon
+
+Can be combined with other surgical procedures 
+
+such as laparoscopy or feeding tube placement
+
+
+Port placemenent is done as ain outpatient under a general anesthetic or sedation
+
+Incisions are made above the collarbone and a small incision in the neck
+
+The skin is closed with sutures that dissolve on their own and don't need to be removed.
+
+Dermabond, or "superglue" is used over the incisions, so no dressing is required.
+
+
+Because of the need for anesthesia or sedation, no driving is allowed the day of surgery.
+
+You can shower the following day
+
+We recommend no lifting for the first week to avoid bruising in the area
+
+
+The main serious complication of a port placement is infection.  This is extremely rare
+
+However, if you develop fevers or redress or drainage from the incision, it is important to contact your surgeon immediately.
+
+Infections are treated with antibiotics, but in come cases the port will need to be removed.
+
+
+A hematoma is a blood clot under the skin at the surgical site.
+
+In some cases this may require surgery to remove the clotted blood.
+
+
+VEnous thrombosis is clotting of the vein in which the catheter is placed.
+
+This can cause swelling of the neck or arm
+
+Treatment is usually with blood thinners and may require removal of the port
+
+
+## Malfunction
+
+Ordinarily, theire is easy flow through the catheter.
+
+If there is poor flow through the catheter, this may require attention
+
+IN some cases this is due to a blood clot on the tip of the catheter which can ne treated with drugs to dissolve the clot
+
+
+In other cases the port will need to be replaced in the operating room
+
+
+
+We hope you have found this video helpful. Here are links to some other videos.
+
+Feel free to leave a comment or a question, or if you have suggestions for future videos.
+
+If you or a family member have had an encounter with esophagectomy surgery, I would love to hear about your experience, so please take a minute to leave a comment below.
+
+We're constantly creating new videos, so please subscribe to be notified of new videos when we post them.  (29)
