@@ -34,6 +34,44 @@ In this video, you will learn about (2)
 -   Protein: building blocks for muscle
 -   Fat: fuel for storing energy
 
+Thumbnails:
+
+Preparing for Surgery - Muscle
+
+Preparing for Surgery - Heart
+
+Preparing for Surgery - Lungs
+
+
+Fitness: muscle + lungs + heart
+
+=> Should this be One video or 3 videos?
+
+
+Muscle loss/Fitness
+
+ - Nutrition
+ - Exercise
+ 
+ 
+Cardiology
+
+ - Echo (pump function)
+ - Stress test (adequacy of blood supply to the heart)
+ - Holter monitor (irregular rhythm)
+
+ 
+Pulmonary function
+
+ - Pulmonary function tests
+ - Six-minute walk test
+
+Lung health/pneumonia prevention
+
+ - smoking cessation
+ - dental hygiene
+
+
 
  Muscle Loss in Cancer
 
@@ -47,22 +85,20 @@ How do we know this?
 
 Our group has researched what factors predict who will have complications after surgery.  We have found that patients with inadqueate amounts of muscle have a risk of death after esophagectomy of five time that of patients with adequate muscle. 
 
+So we know that patients with weight loss also lose muscle, so how does this happen? and how can we prevent it?
+
+The problem is that when there is an obstruction in the esophagus or stomach, patients start eating less meat, and for most people, meat is our primary source of protein in our diet.
+
+Our muscles are in a constant state of repair and rebuilding muscle, like an around-the-clock road construction team. This process or constant rebuilding is necessary to maintain muscle mass and strength.  Without adequate protein in the diet, the body can't maintain and repair muscle. As a result, the muscles can get weaker and smaller.
+
+There are two strategies to restore muscle mass:
+
+ - Adequate protein intake in the diet
+ - Exercise
 
 
--   Cancer in the esophagus or stomach can make it harder to eat.
 
--   Patients with cancer can lose their appetite, which decreases how much they eat
 
- Nutrition
-
-When your intake of carbohydrates decreases, your body looks for a source of energy. There are two placed your body can find additional fuel for energy:
-
--   Fat in your body
--   Muscle in you body
-
-Many of us are happy with the loss of fat in our body when we lose weight, but what many people don't realize is that when we lose weight, we often lose muscle as well.
-
-## 
 
 ::::: columns
 ::: {.column .fragment width="50%"}
