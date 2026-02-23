@@ -1,0 +1,37 @@
+---
+title: "Central Venous Port"
+format: 
+  docx:
+    number-sections: true
+    number-depth: 2
+  html:
+    number-sections: true
+    number-depth: 2
+  pdf:
+    number-sections: true
+    number-depth: 2
+editor: visual
+from: markdown+emoji
+---
+
+I’m Dr Jonathan Salo, I’m a GI Cancer Surgeon in Charlotte, North Carolina.
+
+Because the esophagus and stomach are so important in digestion, cancers of the esophagus or stomach can make it difficult to get the nutrients you need.
+
+A feeding tube can help nutrition in these cases.
+
+In this video you’ll learn about one type of feeding tube, the feeding jejunostomy.
+
+If you haven't already, take a look at our video on nutrition
+
+There are two categories of feeding tubes:
+
+-   Gastrostomy tubes are placed in the stomach
+
+-   Jejunostomy tubes are placed into the jejunum, the first portion of the small bowel
+
+This video focuses on administration of medicines through the feeding tube
+
+Patients that can't take medicines by mouth will need to have those medicines give through the feeding tube.
+
+Some medicine are available as a liquid and can be administered via feeding tube

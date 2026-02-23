@@ -1,5 +1,5 @@
 ---
-title: "Jejunostomy"
+title: "Central Venous Port"
 format: 
   docx:
     number-sections: true
@@ -14,55 +14,17 @@ editor: visual
 from: markdown+emoji
 ---
 
+## Introduction. *1*
+
 I’m Dr Jonathan Salo, I’m a GI Cancer Surgeon in Charlotte, North Carolina.
 
-Esophageal cancer can cause difficulty with swallowing, which can limit your body’s ability to get the nutrition you need in order to keep your body healthy during cancer treatment.
+Because the esophagus and stomach are so important in digestion, cancers of the esophagus or stomach can make it difficult to get the nutrients you need.
 
-In some cases, a jejunostomy tube is needed to ensure adequate nutrition. 
+A feeding tube can help nutrition in these cases.
 
-A jejunostomy tube can be placed before cancer therapy in patients who have lost weight due to their cancer.
+In this video you’ll learn about one type of feeding tube, the feeding jejunostomy.
 
-In other cases, a jejunostomy can be placed during surgery to assist with adequate nutrition during recovery from surgery. This might be after an operation such as an esophagectomy or total gastrectomy.
-
-
-
-
-
-A jejunostomy tube tube is placed into the small
-
-intestines. Because the small intestine is used to
-
-receiving food in small quantities, a jejunostomy
-
-tube requires the use of a pump to deliver
-
-feedings gradually over a matter of hours.
-
-In general, feedings are done at night in order to
-
-allow you to be active during the day
-
-16
-
-A jejunostomy tube is used in cases where it’s not
-
-possible to place a gastrostomy tube, such as
-
-when there is a tumor in the stomach.
-
-A jejunostomy tube is routinely used after
-
-esophageal surgery, so in patients who need
-
-help with nutrition prior to surgery, it makes
-
-sense to put in a jejunostomy tube before
-
-surgery. The same tube can then be used for
-
-nutrition both before and after surgery.
-
-
+If you haven't already, take a look at our video on nutrition
 
 There are two categories of feeding tubes:
 
@@ -118,9 +80,7 @@ Your dietitian will choose a tube feed formula based upon your nutritional needs
 
 Standard formulas used protein that has been chemically broken down so that it is easier for you to digest.
 
-
 Peptide-based formulas use protein that has been broken down further. These formulas can be easier to digest, but are also more expensive.
-
 
 Elemental formulas use proteins that have been broken down to single amino acids
 
@@ -173,7 +133,6 @@ A video is available to help become familiar with the feeding jejunostomy
 :::::::
 
 We hope you have found this video helpful.
-
 
 Flush before and after feedings (why?) Keep head of bed elevated during feedings???
 

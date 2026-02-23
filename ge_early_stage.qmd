@@ -1,0 +1,187 @@
+---
+title: "Early Stage Esophageal Adenocarcinoma"
+format: 
+  docx:
+    number-sections: true
+    number-depth: 2
+  html:
+    number-sections: true
+    number-depth: 2
+  pdf:
+    number-sections: true
+    number-depth: 2
+editor: visual
+from: markdown+emoji
+---
+
+## Intro L *1*
+
+I'm Dr Jonathan Salo, a GI Cancer Surgeon in Charlotte, North Carolina. These videos are designed to educate you about cancer and its treatment and help you and you cancer care team make the right decisions for you.
+
+Of course, there is no substitute for the expert opinions of your cancer care team.
+
+The topic of this video is early-stage adenocarcinoma of the esophagus and stomach
+
+## Esophagus or Gastroesophageal junction *2*.
+
+We will consider cancers of the esophagus and gastro-esophageal junction together, as the treatment is similar (3)
+
+## Treatment is guided by the Stage of cancer
+
+The treatment recommended will depend upon the stage of the cancer.
+
+If you haven't already, this may be a good time to view the video on Diagnosis and Staging. (4)
+
+## Wall
+
+The wall of the esophagus consists has multiple layers, and is surrounded by fat and lymph node tissue
+
+## Mucosa
+
+On the inside is the mucosa. (5)
+
+## Submucosa
+
+Underneath the mucosa is the submucosa. (6)
+
+## Muscularis
+
+Outside of the mucosa are two layers of muscle, called the Muscularis. (7)
+
+## T1a
+
+Esophageal cancer starts within the mucosa, and with time can invade deeper into the wall. (8)
+
+## T1b
+
+With time, the cancer can grow deeper and invade the submucosa (9)
+
+## T2
+
+The cancer can then invade into the muscularis (10)
+
+## T3
+
+If not treated, the cancer will then grow all the way through the muscularis (11)
+
+## T1a (labeled)
+
+A cancer confined to the mucosa is classified as T1a (12)
+
+## T1b
+
+A cancer which invades into the submucosa is classified as T1b (13)
+
+## T2
+
+A cancer which invades the muscularis is classified as T2 (14)
+
+## T3
+
+A cancer which grows through the muscularis is classified as T3 (15)
+
+## T3 nodes
+
+T3 tumors are at risk for spread to lymph nodes, so effective treatment will require additional treatments such as chemotherapy or radiation therapy (16)
+
+## EMR
+
+Endoscopic Mucosal Resection is a procedure in which a superficial cancers can be removed endoscopically, without requiring surgery.
+
+This is typically performed for T1a cancers, that just involve the mucosa. (17)
+
+## Lift with Saline
+
+The procedure is performed by first injecting fluid underneath the mucosa to lift it off of the underlying layers.
+
+## Snare
+
+A portion of the mucosa can then be removed, along with the cancer. (18)
+
+## Completed EMR
+
+This is how the procedure looks at the end. A disk of tissue is sent to the pathologist for examination. (19)
+
+## Favorable
+
+This is an example of the pathology specimen in ideal or "favorable" cases.
+
+The tumor is confined to the middle of the specimen, and it is clear that all of the cancer has been removed.
+
+This is termed a "favorable" outcome from the procedure (20)
+
+## Favorable 2
+
+Patients with favorable features after endoscopic mucosal resection
+
+frequently don't need surgery
+
+but surveillance is important to be certain there isn't recurrence of cancer.
+
+## Unavorable
+
+This is an example of the pathology specimen in an "unfavorable" situation.
+
+The tumor extends to the edge of the specimen, suggesting that the tumor may have been cut across during the procedure, and there might be additional cancer left benind.
+
+## Unfavorable 2
+
+For patients with unfavorable features after endoscopic mucosal resection, some may need surgery
+
+For these patients, if surgery is not done immediately, surveillance is very important to detect a recurrence early.
+
+## Recurrence **2**
+
+It is possible for cancer to recur after endoscopic removal, particularly in cases with an unfavorable outcocome. (24)
+
+## Surveillance **4**
+
+After any sort of endoscopic removal of cancer, it is extremely important to monitor the area with regular endoscopy to ensure that all of the cancer has been remove and that there is no evidence of regrowth.
+
+Surveillance endoscoy is done between 3 months and one year after the procedure, depending upon the level of concern for residual cancer (23)
+
+## Deep Margin Positive
+
+A special type of an "unfavorable" situation is when there is cancer found on the deep side of the specimen.
+
+In this situation, there is concern that the procedure remove the top portion of the cancer, but that there is a deeper portion of the cancer left behind. (22)
+
+## Positive Deep Margin
+
+Patients with a positive deep margin are at risk for recurrence on the surface, or mucosa.
+
+## 
+
+But are also at risk of spread to lymph nodes.
+
+The challenge here is that early detection of spread to the lymphd nodes is difficult
+
+## 
+
+In most cases, surgery or additional therapy is recommended to patients with a positive deep margin.
+
+## Lift
+
+Going back to the Endoscoic Mucosal Resection procedure: An important first step is injection of fluid below the mucosa to life the cancer off of the underlying layers. (25)
+
+## Unable to Lift
+
+Cancers that invade deeper into the layers of the esophagus are not candidates for endoscopic mucosal resection because it is not possible to get underneath the cancer and lift the mucosa off of the underlying layers.
+
+## Summary - Endoscopic Therapy. **4**
+
+In summary, endoscopic therapy can be used to remove cancers limited to the mucosa lauyer. These are considered T1a tumors (27)
+
+## Summary - Endoscopic Therapy
+
+After endoscopic therapy, surveillance with endoscopy is important to make certain the cancer has been completely remove and there has been no cancer regrowth. (28)
+
+## Wrap up *1*
+
+We hope you have found this video helpful. Here are links to some other videos.
+
+Feel free to leave a comment or a question, or if you have suggestions for future videos.
+
+If you or a family member have had an encounter with esophageal cancer, I would love to hear about your experience, so please take a minute to leave a comment below.
+
+We're constantly creating new videos, so please subscribe to be notified of new videos when we post them. (29)
