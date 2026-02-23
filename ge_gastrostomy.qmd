@@ -1,49 +1,62 @@
 ---
 title: "Gastrostomy"
 format: 
-  revealjs:
-    slide-number: c/t
-    width: 1280
-    height: 720
-    logo: "atriumlogo.jpg"
-    footer: "[Patient Education](https://jcsalo.github.io/patient_education/)"
-    css: "lci_styles.css"
-    theme: default
-    echo: false
-    output-file: gastrostomy_slides.html
+  docx:
+    number-sections: true
+    number-depth: 2
+  html:
+    number-sections: true
+    number-depth: 2
   pdf:
-    documentclass: scrreprt
-  html: default
+    number-sections: true
+    number-depth: 2
 editor: visual
-bibliography: zotero.bib
 from: markdown+emoji
 ---
 
-# Introduction
 
 I’m Dr Jonathan Salo, I’m a GI Cancer Surgeon in Charlotte, North Carolina.
 
-Esophageal cancer can cause difficulty with swallowing, which can limit your body’s ability to get the nutrition you need in order to keep your body healthy during cancer treatment.
+Esophageal cancer can cause difficulty with eating, which can limit your body’s ability to get the nutrition you need in order to keep your body healthy during cancer treatment.
+
+In some cases, a feeding tube is needed in order to maintain adequate nutrition. There are two types of feeding tubes:
+
+- Gastrostomy tubes are placed into the stomach. These are also referred to as "G-Tubes"
+- Jejunostomy tubes are placed into the jejunum, the first portion of the small intestine. These are also referrred to as "J-Tubes"
+
+Your surgeon and cancer care team will recommend one tube or another.  
+
+The topic of this video is gastrostomy, or G-Tubes
 
 
 In this video you’ll learn about
 
--   Essential building blocks for good nutrition
--   Nutritional drinks
--   Feeding tubes
-
-
-
-There are four major nutritional building block:
-
--   Carbohydrates
--   Protein
--   Fats
--   Vitamins and Minerals
-
+-   Gastrostomy tube placement
+-   Feeding with a gastrostomy tube
+-   Feeding tube care
 
 
 Normally, food passes from the mouth into the esophagus, and then into the stomach. The stomach serves as a reservoir for food, to allow you to eat a big Thanksgiving. The stomach starts digestion, and then after the meal slowly allows small portions of food to pass into the small intestines, where most of the digestion occurs.
+
+A gastrostomy tube is placed into the stomach, so it is ideal for patients that have tumor in the esophagus or the top of the stomach. A gastrostomy tube is also ideal for patients with difficulty swallowing due to neurological diseases such as ALS.
+
+There are several methods for tube placement for gastrostomy tubes:
+
+- Under fluoroscopy by a radiologist.  In this technique, a temporary tube is passed through the nose into the esophagus and then the stomach.  Air in then injected through the tube in order to fill the stomach. X-rays are then taken to see the air in the stomach. The skin is cleansed and local anesthetic injected into the skin of the abdominal wall. A needle is passed into the stomach, and a tube is then placed through this area.
+
+The advantages of the fluoroscopic technique is that is does not require surgery. This techinique does require that the stomach lie in the correct position just underneath the skin. A CT scan is commonly performed prior to a fluoroscopic gastrostomy tube to confirm the position of the stomach.
+
+An alternative is a percutaneous endoscopic gastrostomy technique, or PEG.
+
+In this technique, an endoscope is passed through the mouth into the stomach.  An needle is then passed through the skin into the stomach, and a tube brought into place.
+
+For patients with cancer of the esophagus or gastroephageal junction who may eventually need surery, things get a bit complicated.
+
+In most cases, when surgery is performed to remove a cancer of the esophagus or gastroesophageal junction, a new esophagus is fashioned from the stomach.  A gastrostomy tube is *also* placed into the stomach. There is a small but real risk that a gastrostomy tube might cause damage to the stomach that would make it more difficult to construct a new esophagus from the stomach.
+
+for patients that may require surgery in the future, 
+
+d
 
 
 

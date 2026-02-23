@@ -17,13 +17,15 @@ output: html_document
 | Esophageal Early Stage | [Script](eso_early_stage.docx) | [HTML](eso_early_stage.html) | [PDF](eso_early_stage.pdf) |  |
 | Esophagectomy | [Script](eso_surgery.docx) | [HTML](eso_surgery.html) | [Pdocs/eso_surgery.pdf) | |
 | Choosing Surgery Team | [Script](choosing_surgical_team.docx) | [HTML](choosing_surgical_team.html) | [PDF](choosing_surgical_team.pdf) |  |
-| Eso CV Port | [Script](eso_cvport.docx) | [HTML](eso_cvport.html) | [PDF](eso_cvport.pdf) |  |
-| Jejunostomy | [Script](jejunostomy.docx) | [HTML](jejunostomy.html) | [PDF](jejunostomy.pdf) |  |
-| Gastrostomy | [Script](gastrostomy.docx) | [HTML](gastrostomy.html) | [PDF](gastrostomy.pdf) |  |
-| GE Metastatic Disease | [Script](ge_metastatic_slides.html) | [HTML](ge_metastatic.html) | [PDF](ge_metastatic.pdf) |  |
+| Eso CV Port | [Script](ge_cvport.docx) | [HTML](ge_cvport.html) | [PDF](ge_cvport.pdf) |  |
+| Jejunostomy | [Script](ge_jejunostomy.docx) | [HTML](ge_jejunostomy.html) | [PDF](ge_jejunostomy.pdf) |  |
+| Gastrostomy | [Script](ge_gastrostomy.docx) | [HTML](ge_gastrostomy.html) | [PDF](ge_gastrostomy.pdf) |  |
+| GE Metastatic Disease | [Script](ge_metastatic.docx) | [HTML](ge_metastatic.html) | [PDF](ge_metastatic.pdf) |  |
 
 
 | Exercise | [Script](exercise_slides.html) | [HTML](exercise.html) | [PDF](exercise.pdf) |  |
+| CMC Esophagectomy | [Script](cmc_esophagectomy.docx) | [HTML](cmc_esophagectomy.html) | [PDF](cmc_esophagectomy.pdf) |  |
+
 
 
 ## Deprecated
