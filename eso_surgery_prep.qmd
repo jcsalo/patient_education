@@ -28,7 +28,7 @@ In this video, you will learn about (2)
 -   Exercise
 -   Smoking Cessation
 
- The foods we eat provide three things to our bodies:
+The foods we eat provide three things to our bodies:
 
 -   Carbohydrates: fuel for energy
 -   Protein: building blocks for muscle
@@ -42,38 +42,32 @@ Preparing for Surgery - Heart
 
 Preparing for Surgery - Lungs
 
-
 Fitness: muscle + lungs + heart
 
-=> Should this be One video or 3 videos?
-
+=\> Should this be One video or 3 videos?
 
 Muscle loss/Fitness
 
- - Nutrition
- - Exercise
- 
- 
+-   Nutrition
+-   Exercise
+
 Cardiology
 
- - Echo (pump function)
- - Stress test (adequacy of blood supply to the heart)
- - Holter monitor (irregular rhythm)
+-   Echo (pump function)
+-   Stress test (adequacy of blood supply to the heart)
+-   Holter monitor (irregular rhythm)
 
- 
 Pulmonary function
 
- - Pulmonary function tests
- - Six-minute walk test
+-   Pulmonary function tests
+-   Six-minute walk test
 
 Lung health/pneumonia prevention
 
- - smoking cessation
- - dental hygiene
+-   smoking cessation
+-   dental hygiene
 
-
-
- Muscle Loss in Cancer
+Muscle Loss in Cancer
 
 Patients with GI cancers often start to eat less and can lose weight. For some patients this may seem at first like a good thing, becacuse they would like to lose weight.
 
@@ -83,22 +77,18 @@ The reason is that having adequate muscle mass is important in being able to tol
 
 How do we know this?
 
-Our group has researched what factors predict who will have complications after surgery.  We have found that patients with inadqueate amounts of muscle have a risk of death after esophagectomy of five time that of patients with adequate muscle. 
+Our group has researched what factors predict who will have complications after surgery. We have found that patients with inadqueate amounts of muscle have a risk of death after esophagectomy of five time that of patients with adequate muscle.
 
 So we know that patients with weight loss also lose muscle, so how does this happen? and how can we prevent it?
 
 The problem is that when there is an obstruction in the esophagus or stomach, patients start eating less meat, and for most people, meat is our primary source of protein in our diet.
 
-Our muscles are in a constant state of repair and rebuilding muscle, like an around-the-clock road construction team. This process or constant rebuilding is necessary to maintain muscle mass and strength.  Without adequate protein in the diet, the body can't maintain and repair muscle. As a result, the muscles can get weaker and smaller.
+Our muscles are in a constant state of repair and rebuilding muscle, like an around-the-clock road construction team. This process or constant rebuilding is necessary to maintain muscle mass and strength. Without adequate protein in the diet, the body can't maintain and repair muscle. As a result, the muscles can get weaker and smaller.
 
 There are two strategies to restore muscle mass:
 
- - Adequate protein intake in the diet
- - Exercise
-
-
-
-
+-   Adequate protein intake in the diet
+-   Exercise
 
 ::::: columns
 ::: {.column .fragment width="50%"}
