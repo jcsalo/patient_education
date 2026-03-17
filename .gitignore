@@ -1,18 +1,28 @@
 .Rproj.user
 .Rhistory
+.Rapp.history
 .RData
+.RDataTmp
 .Ruserdata
 .Rproj.user/
 .Rproj.user/**
 
 .DS_Store
-
+*_cache/
+/cache/
+*.knit.md
+.Renviron
 
 /_book/
 /.quarto/
 /_site/
+/*_files/
 /docs/
 /site_libs/
 /var/
 
 **/*.quarto_ipynb
+
+cheat_sheet.qmd
+
+
