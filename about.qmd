@@ -10,12 +10,9 @@ From here, the .docx script is loaded into the S-Teleprompter app.
 
 The teleprompter remote is then linked to the iPad via Bluetooth
 
-
-
-
 ## Titles and Images for Videos
 
-Slideshows are made in PowerPoint which contain titles and images. In order for OBS to use these images, it is necessary to have a folder of PNG images with transparent background.  A image source is then created which points to that folder.
+Slideshows are made in PowerPoint which contain titles and images. In order for OBS to use these images, it is necessary to have a folder of PNG images with transparent background. A image source is then created which points to that folder.
 
 In order to show the images in the correct order it is necessary to import the PNG images them as files (rather than as a directory)
 
@@ -29,28 +26,17 @@ Select all sides, then choose fill "No fill"
 
 When exporting, check the 'Export as transparent PNG'
 
-File>>Export To>>Images
-Format: PNG
-check box:  Export with transparent backgrounds
+File\>\>Export To\>\>Images Format: PNG check box: Export with transparent backgrounds
 
 ## White Balance
 
-Center camera on gray card
-Press WB key on back of camera
-Set. to WB1
-Click set (tap screen)
-
-
+Center camera on gray card Press WB key on back of camera Set. to WB1 Click set (tap screen)
 
 Folders of titles/images are stored in 07_Slides
 
-
 ## Lamp setup
 
-Speaker Left - Octagon soft light on stand
-Speaker Right - Octagon soft light on desk stand + Neewer LED light turned against the wall
-
-
+Speaker Left - Octagon soft light on stand Speaker Right - Octagon soft light on desk stand + Neewer LED light turned against the wall
 
 ## Recording
 
@@ -60,33 +46,18 @@ Keyboard within arm's reach
 
 hotkeys:
 
-z: advance slides
-x: previous slides
-1: taking head
-2: Slide only
-3: Slide with head in corner
-4: Overlay Slides
+z: advance slides x: previous slides 1: taking head 2: Slide only 3: Slide with head in corner 4: Overlay Slides
 
-0 Keypad:  Start recording
-. (del) Keypad: Pause and Unpause recording
-O Keypad: May toggle start stop
-
+0 Keypad: Start recording . (del) Keypad: Pause and Unpause recording O Keypad: May toggle start stop
 
 Green Screen setting
 
-Default color
-388
-127
-207
+Default color 388 127 207
 
-
-Color picked Dec 07
-Color 70a056
-15
-100
-217
-
+Color picked Dec 07 Color 70a056 15 100 217
 
 ## Atrium Health
 
 Teal is 00818A
+
+Note 3/19
