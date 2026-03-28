@@ -154,6 +154,29 @@ Tracer shows 'hot spots'
 In some cases, the PET scan is not performed until a CT scans b=has been done.
 :::
 
+## PET scan Preparation
+
+- Nothing to eat or drink for 4 hours prior to exam
+
+- Eat a high-protein low-carbohydrate diet the day prior
+
+- No strenous activity day prior to study
+
+## PET scan Prepration - Diabetic Patients
+
+The PET scan uses a tracer which is a modified sugar molecule. For this reason, you will need to be careful about blood sugar and insulin before the study
+
+- No insulin within 4 hours of the exam
+- OK to take oral diabetes medications the day of the exam
+- PET scans are generally best in the morning for diabetic patients
+- Plan to eat a meal after the PET scan, with half the usual morning dose of insulin
+- If PET is scheduled after 10M, eat a low-carbohydrate breakfast at least 4 hours before the study along with half the usual regular (short-acting insulin)
+- No long-acting insulin after midnight.
+- If you use an insulin pump, turn it off 4 hours before the study (or turn it down to basal/nightime rate)
+
+
+
+
 ## Endoscopic Ultrasound
 
 :::::: columns
