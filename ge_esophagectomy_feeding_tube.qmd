@@ -1,0 +1,134 @@
+---
+title: "Gastrostomy"
+format: 
+  docx:
+    number-sections: true
+    number-depth: 2
+  html:
+    number-sections: true
+    number-depth: 2
+  pdf:
+    number-sections: true
+    number-depth: 2
+editor: visual
+from: markdown+emoji
+---
+
+I’m Dr Jonathan Salo, I’m a GI Cancer Surgeon in Charlotte, North Carolina.
+
+Cancers in the GI tract can cause difficulty with eating, which can limit your body’s ability to get the nutrition you need in order to keep your body healthy during cancer treatment.
+
+Normally, food passes from the mouth into the esophagus, and then into the stomach. The stomach serves as a reservoir for food, to allow you to eat a big Thanksgiving meal. The stomach starts digestion, and then after the meal slowly allows small portions of food to pass into the small intestines, where most of the digestion occurs. Food passes from the stomach into the duodenum, then into the jejunum, which is the first portion of the small bowel.
+
+A feeding tube case be used to administer
+
+-   formula, which is similar to Boost or Ensure.
+
+<!-- -->
+
+-   Water
+
+-   Medicines
+
+There are two types of feeding tubes:
+
+Gastrostomy tubes
+
+-   Placed into the stomach.
+-   Allow feeding with a syringe
+
+Jejunostomy tubes
+
+-   Placed into the small intestine
+
+-   Require a pump for feeding
+
+Gastrostomy is also referred to as a "G-Tube"
+
+A jejunostomy is also referred to as a "J-Tube"
+
+This video will focus on the gastrostomy tube
+
+Our friend Brad has a gastrostomy tube, and we'll demonstrate how to adminster water or formula.
+
+The end of the gastrostomy tube has a special fitting with a cap.
+
+To administer water or formula,
+
+Open the cap
+
+Attach the syringe to the fitting by twisting it on.
+
+Empty the syringe
+
+Remove the syringe
+
+Close the cap.
+
+This technique can be used for either water or formula or medicines
+
+Another approach is to remove the plunger from the syringe, and use it as a funnel
+
+The cap is opened,
+
+The syringe attached to the fitting with a twisting motion
+
+The water is simply poured into the syringe body and gravity will take it into the stomach.
+
+When finished, simply remove the syringe and close the cap.
+
+Formula can also be administered using this method.
+
+Whatever method you use, it is extremely important to flush the gastrostomy tube with water after each use to avoid clogging the tube.
+
+Some patients will need to take their medicines through the feeding tube.
+
+Some medicines are available as a liquid, which makes administration easier.
+
+Please check with your care team to see if any of your prescriptions can be converted from a pill to a liquid form.
+
+In order to administer pills through a feeding tube, a pill crusher is indispensable.
+
+Simply open the pill crusher by unscrewing the cap
+
+Place the pill inside the container
+
+Then screw the crusher cap down tightly against the tablet.
+
+You will want to rotate the cap back and forth to crush the tablet and make a uniform powder.
+
+As the tablet begins to form a powder, you will be able to continue to rotate forward to increase the pressure on the tablet.
+
+You can then remove the cap an you have a uniform power which can be resuspended in water.
+
+There are some medications which should not be crushed and cannot be given through a feeding tube.
+
+Most extended-release or time-release capsules should not be crushed
+
+One common example if tamsulosin, also known as Flomax
+
+It is extremely important to flush the tube with at least 30mL of water (or one ounce) after each medicine to avoid clogging the tube.
+
+Again, ask your care team for help in managing administration of medicines through the feeding tube.
+
+Your dietitian will calculate how much formula you need. Typically this is 4 to 6 cartons of formula per day
+
+You will also need to administer water through your tube, typically 8oz four times per day, or 32 oz per day.
+
+Your dietitian will calculate how many cartons of tube feeds that you need, but typically it will consist of 4 to 6 cartons of formula per day.
+
+You will also need water in addition to the tube feeding formula. Typically this is 8 ounces of water 4 times per day, for a total of 32 ounces of water per day.
+
+The end of the feeding tube has a special spiral fitting called En-Fit which accepts a corresponding EnFit syringe.
+
+One way to administer feedings or water is to remove the plunger from the syringe to form a funnel. The formula or water can then be poured into the open end of the syringe
+
+Another way to administer feedings or water is to simply use the syringe to slowly inject the formula or water.
+
+Medicines can also be administered through the feeding tube if necessary. It is important to flush the tube with 30mL of water both before and after administration of medicines to avoid clogging the tube.
+
+Some medicines are available as a liquid.
+
+Other medicines can be crushed with a pill crusher and then mixed with 30mL of water. The medicines are then injected into the tube with a syringe.
+
+Some medicines can't be given through a feeding tube, such as enteric-coated medicines, sustained-release, or long-acting medicines. Your cancer care team or pharmicist can help find substitute medicines.
