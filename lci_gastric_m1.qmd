@@ -88,7 +88,7 @@ Biomarkers reported in a separate pathology report
 
 Your medical oncologist will review these with you
 
-## Tumor Genetic Analysis 
+## Tumor Genetic Analysis
 
 For patients with Stage IV disease, genetic testing of the cancer can be performed:
 
@@ -108,31 +108,20 @@ CT performed every 3-6 months to guide therapy
 
 - If CT shows growth of tumor $\rightarrow$ switch drugs
 
-
-
-
-
 {{< include lci_nutrition_guts.qmd >}}
 
 {{< include lci_jejunostomy_guts.qmd >}}
-
-
-
-
 
 ## Additional Therapy - Lung Metastasis
 
 :::::: columns
 ::: {.column width="50%"}
-
 If there is a solitary spread of cancer to the lung:
-
 
 \
 Stereotactic radiation can be performed
 
 Treatment will take 2-3 sessions
-
 :::
 
 :::: {.column width="50%"}
@@ -146,9 +135,7 @@ Treatment will take 2-3 sessions
 If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
 :::
 
-
 ## Additional Therapy - Bone Metastasis
-
 
 :::::: columns
 ::: {.column width="50%"}
@@ -158,8 +145,7 @@ Spread of cancer to bone can be painful
 \
 Radiation therapy can be very effective
 
-Treatment can be one in 1 to 10 doses 
-
+Treatment can be one in 1 to 10 doses
 :::
 
 :::: {.column width="50%"}
@@ -182,7 +168,6 @@ Several treatment options for spread of cancer to the liver that does not respon
 - Stereotactic radiation
 - Microwave ablation
 - Radioactive beads
-
 :::
 
 :::: {.column width="50%"}
@@ -196,23 +181,20 @@ Several treatment options for spread of cancer to the liver that does not respon
 If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
 :::
 
-
 ## Additional Therapy - Carcinomatosis
 
 :::::: columns
 ::: {.column width="50%"}
-
 Treatment for spread of cancer within the abdomen:
 
 - Intraperitoneal chemo via catheter (Taxol)
 - Heated intraperitoneal chemotherapy (HIPEC)
 - Cytoreductive surgery (often in combination with HIPEC)
-
 :::
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](images/Eso_M1_carcinomatosis.png)
+![](images/Eso_M1_Carcinomatosis.png)
 :::
 ::::
 ::::::
@@ -221,20 +203,18 @@ Treatment for spread of cancer within the abdomen:
 If the lymph nodes contain enough cancer cells, they can be seen on CT scans or PET scans
 :::
 
-
 ## Additional Therapy - Surgery
-
 
 Surgery can be performed in selected circumstances:
 
-- Perforation 
+- Perforation
+
 - Obstruction
 
   - Removal of cancer and a portion of the stomach
   - Bypass of the cancer
-  
-- Residual disease in the stomach in patients responding to chemotherapy
 
+- Residual disease in the stomach in patients responding to chemotherapy
 
 {{< include lci_treatment_prep_guts.qmd >}}
 
