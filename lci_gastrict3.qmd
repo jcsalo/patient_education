@@ -71,10 +71,10 @@ Metastatic (M1): Chemotherapy
 ::: {.content-hidden unless-format="docx"}
 This table summarizes four different treatment categories:
 
--   Superficial cancers are T1 and can be treated by endoscopic therapy without the need for surgery
--   Localized cancers are T1b or T2 and are frequently treated by surgery alone
--   Locally-advanced cancers are T3 and M0 and are usually treated with chemotherapy prior to surgery
--   Metastatic cancers are M1 and are treated primary by chemotherapy.
+- Superficial cancers are T1 and can be treated by endoscopic therapy without the need for surgery
+- Localized cancers are T1b or T2 and are frequently treated by surgery alone
+- Locally-advanced cancers are T3 and M0 and are usually treated with chemotherapy prior to surgery
+- Metastatic cancers are M1 and are treated primary by chemotherapy.
 :::
 
 {{< include lci_flot_guts.qmd >}}
@@ -83,9 +83,9 @@ This table summarizes four different treatment categories:
 
 Show whether other drugs may be helpful:
 
--   HER-2 $\rightarrow$ Herceptin can be helpful
--   PD-L1 $\rightarrow$ Immunotherapy can be helpful
--   MMR $\rightarrow$ Immunotherapy can be very helpful
+- HER-2 $\rightarrow$ Herceptin can be helpful
+- PD-L1 $\rightarrow$ Immunotherapy can be helpful
+- MMR $\rightarrow$ Immunotherapy can be very helpful
 
 Biomarkers reported in a separate pathology report
 
@@ -99,8 +99,8 @@ CT or PET scan performed after preoperative therapy
 
 \
 
--   Surgery performed after restaging
--   Timing depends upon recovery from therapy
+- Surgery performed after restaging
+- Timing depends upon recovery from therapy
 
 {{< include lci_treatment_prep_guts.qmd >}}
 

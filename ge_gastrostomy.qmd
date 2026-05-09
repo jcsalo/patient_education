@@ -22,22 +22,22 @@ Normally, food passes from the mouth into the esophagus, and then into the stoma
 
 A feeding tube case be used to administer
 
--   formula, which is similar to Boost or Ensure.
--   Water
--   Medicines
+- formula, which is similar to Boost or Ensure.
+- Water
+- Medicines
 
 There are two types of feeding tubes:
 
 Gastrostomy tubes
 
--   Placed into the stomach.
--   Allow feeding with a syringe
+- Placed into the stomach.
+- Allow feeding with a syringe
 
 Jejunostomy tubes
 
--   Placed into the small intestine
+- Placed into the small intestine
 
--   Require a pump for feeding
+- Require a pump for feeding
 
 Gastrostomy is also referred to as a "G-Tube"
 
@@ -112,17 +112,3 @@ You will also need to administer water through your tube, typically 8oz four tim
 Your dietitian will calculate how many cartons of tube feeds that you need, but typically it will consist of 4 to 6 cartons of formula per day.
 
 You will also need water in addition to the tube feeding formula. Typically this is 8 ounces of water 4 times per day, for a total of 32 ounces of water per day.
-
-The end of the feeding tube has a special spiral fitting called En-Fit which accepts a corresponding EnFit syringe.
-
-One way to administer feedings or water is to remove the plunger from the syringe to form a funnel. The formula or water can then be poured into the open end of the syringe
-
-Another way to administer feedings or water is to simply use the syringe to slowly inject the formula or water.
-
-Medicines can also be administered through the feeding tube if necessary. It is important to flush the tube with 30mL of water both before and after administration of medicines to avoid clogging the tube.
-
-Some medicines are available as a liquid.
-
-Other medicines can be crushed with a pill crusher and then mixed with 30mL of water. The medicines are then injected into the tube with a syringe.
-
-Some medicines can't be given through a feeding tube, such as enteric-coated medicines, sustained-release, or long-acting medicines. Your cancer care team or pharmicist can help find substitute medicines.

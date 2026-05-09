@@ -1,20 +1,27 @@
 ---
-title: "Gastric Cancer Dx and Staging"
+title: "Gastric Stage IV"
 format: 
-  docx:
-    number-sections: true
-    number-depth: 2
-  html:
-    number-sections: true
-    number-depth: 2
+  revealjs:
+    slide-number: c/t
+    width: 1280
+    height: 720
+    logo: "atriumlogo.jpg"
+    footer: "[Patient Education](https://jcsalo.github.io/patient _education/)"
+    #css: ["theme/theme.css"]
+    css: ["lci_styles.css"]
+    theme: default
+    echo: false
+    output-file: gastric_stage_iv_slides.html
   pdf:
-    number-sections: true
-    number-depth: 2
+    documentclass: scrartcl
+  html: default
 editor: visual
-from: markdown+emoji
+bibliography: zotero.bib
 ---
 
-If you or someone close to you has recently been diagnosed with gastric cancer, this video is intended for you. I’m Dr Jonathan Salo and I'm a GI Cancer Surgeon :hocho:
+## Introduction
+
+If you or someone close to you has recently been diagnosed with gastric cancer, this video is intended for you. I’m Dr Jonathan Salo and I'm a GI Cancer Surgeon in Charlotte North Carolina :hocho:
 
 ::: notes
 On the left side, you have ... and, on the right side, the first image is ....
@@ -22,43 +29,53 @@ On the left side, you have ... and, on the right side, the first image is ....
 The second image has been ...
 :::
 
-In this video you’ll learn about:
+------------------------------------------------------------------------
+
+## In this video you’ll learn about:
 
 - Definitions of cancer Terms
-- Staging of gastric ancer
+- Staging of gastric and esophageal cancer
 - Diagnostic Tests
 
-Anatomy
+------------------------------------------------------------------------
 
-Food passes from the throat to the esopahgus into the stomach.
+## Anatomy
 
-A one-way musclar valve called the lower esophageal sphincter keeps food and acid from refluxing back up into the esophagus
+The esophagus is a hollow muscular tube which connects the throat to the stomach.
 
-In the stomach, food is mixed with acid and enzymes to begin digestion.
+Food passes from the esophagus into the stomach, and then into the small bowel.
 
-The stomach churn/massages the food to help with breakdown
+The gastroesophageal junction or *GE Junction* is located where the esophagus and stomach meet. Cancers in this region are usually treated similar to esophageal cancers
 
-The food is then released from the stomach in small quantities through anoter musclular valve called the pylorus
+## Symptoms
 
-Cancer Terms
+For many patients, the first symptom they have is difficulty swallowing or pain in swallowing. The difficulty swallowing can be due to a lump, also known as a tumor. For other patients, the symptoms may be chronic heartburn or signs of bleeding.
+
+------------------------------------------------------------------------
+
+## Cancer Terms
 
 Let‘s start with some definitions. A **tumor** is an abnormal growth. Tumors can be either benign or malignant
 
 A **benign** tumor of the esophagus may grow over time and cause obstruction and make it difficult to swallow, but it won’t ever spread anywhere else
 
+------------------------------------------------------------------------
+
 A **malignant** tumor of the esophagus has the potential to spread elsewhere in the body. This could be to the nearby lymph nodes, the lungs, or the liver.
 
-**Cancer** is another term for a malignant tumor
+**Cancer** is another term for a malignant tumor Unfortunately, the majority of tumors found in the esophagus are cancer. We will use the term cancer and tumor interchangeably.
+
+------------------------------------------------------------------------
 
 ## EGD
 
 In most cases, the diagnosis of esophageal cancer is made by endoscopy, also called and EGD for esophago-gastroduodenoscopy
 
-Under sedation, a flexible scope is passed through the mouth into the stomach, which allows viewing the inside of the stomach.
+Under sedation, a flexible scope is passed through the mouth into the esophagus, which allows viewing the inside of the esophagus.
 
 ------------------------------------------------------------------------
 
-If a tumor is found in the stomach, a small portion can be removed, which is called a **biopsy**
+If a tumor is found in the esophagus, a small portion can be removed, which is called a **biopsy**
 
 The biopsy is examined by a pathologist, who will determine whether the tumor is benign or whether it is a cancer
 
@@ -82,19 +99,19 @@ The third is whether there is *metastasis* or spread to other parts of the body
 
 ------------------------------------------------------------------------
 
-Some drawings will help. The wall of the stomach has multiple layers, shown here.
+Some drawings will help. The wall of the esophagus or stomach has multiple layers, shown here.
 
 ![Esophagus Tumors](images/tumor_full.png){fig-align="left"}
 
 ------------------------------------------------------------------------
 
-Surrounding the esophagus are lymph nodes. The purpose of lymph nodes is to filter the blood and help fight infections, but in some cases cancers in the esophagus can spread to the lymph nodes
+Surrounding the esophagus and stomach are lymph nodes. The purpose of lymph nodes is to filter the blood and help fight infections, but in some cases cancers in the esophagus can spread to the lymph nodes
 
 ------------------------------------------------------------------------
 
-In its earliest stages, cancer of the esophagus starts on the inner, or most superficial layer, called with mucosa.
+In its earliest stages, cancer of the esophagus or stomach starts on the inner, or most superficial layer, called with mucosa.
 
-With time, however, the cancer can continue to grow and invade deeper into the wall of the esophagus. The deeper the cancer invades into the wall of the esophagus, the more likely it is that cancer cells can spread elsewhere
+With time, however, the cancer can continue to grow and invade deeper into the wall of the esophagus or stomach. The deeper the cancer invades into the wall, the more likely it is that cancer cells can spread elsewhere
 
 ------------------------------------------------------------------------
 
@@ -184,9 +201,9 @@ The procedure is usually done as an outpatient, so you can go home the same day.
 
 ------------------------------------------------------------------------
 
-The next video in our series discusses your esophageal cancer care team:
+The next video in our series discusses treatment options
 
-[Esophageal Cancer Care Team](03-Eso_Care_Team.html)
+[Esophageal Cancer Treatment Options](eso_rx_options.html)
 
 ------------------------------------------------------------------------
 

@@ -1,5 +1,5 @@
 ---
-title: "Gastrostomy"
+title: "Esophagectomy Feeding Tubes"
 format: 
   docx:
     number-sections: true
@@ -14,12 +14,29 @@ editor: visual
 from: markdown+emoji
 ---
 
+I’m Dr Jonathan Salo, I’m a GI Cancer Surgeon in Charlotte, North Carolina.
+
+Cancers in the esophagus can cause difficulty with eating, which can limit your body’s ability to get the nutrition you need in order to keep your body healthy during cancer treatment.
+
+In many cases, an enteral feeding tube can help make sure your body can get the nutrients it needs.
+
+A feeding tube can be used to adminster
+
+Formula
+
+Water
+
+and Medicines
+
+Importantly, a feeding tube will not interfere with your ability to take food, medicines, and water by mouth.
+
+Patients with esophageal cancer not infrequently have an obstruction of the esophagus and
 
 A gastrostomy tube is placed into the stomach, so it is ideal for patients that have tumor in the esophagus or the top of the stomach. A gastrostomy tube is also ideal for patients with difficulty swallowing due to neurological diseases such as ALS.
 
 There are several methods for tube placement for gastrostomy tubes:
 
--   Under fluoroscopy by a radiologist. In this technique, a temporary tube is passed through the nose into the esophagus and then the stomach. Air in then injected through the tube in order to fill the stomach. X-rays are then taken to see the air in the stomach. The skin is cleansed and local anesthetic injected into the skin of the abdominal wall. A needle is passed into the stomach, and a tube is then placed through this area.
+- Under fluoroscopy by a radiologist. In this technique, a temporary tube is passed through the nose into the esophagus and then the stomach. Air in then injected through the tube in order to fill the stomach. X-rays are then taken to see the air in the stomach. The skin is cleansed and local anesthetic injected into the skin of the abdominal wall. A needle is passed into the stomach, and a tube is then placed through this area.
 
 The advantages of the fluoroscopic technique is that is does not require surgery. This techinique does require that the stomach lie in the correct position just underneath the skin. A CT scan is commonly performed prior to a fluoroscopic gastrostomy tube to confirm the position of the stomach.
 
