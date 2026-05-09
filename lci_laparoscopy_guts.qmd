@@ -2,9 +2,9 @@
 
 :::::: columns
 ::: {.column width="50%"}
--   Some stomach cancers can spread inside the abdomen
--   Areas of spread can be very small (grain of rice)
--   Laparoscopy can detect spread inside the abdomen
+- Some stomach cancers can spread inside the abdomen
+- Areas of spread can be very small (grain of rice)
+- Laparoscopy can detect spread inside the abdomen
 :::
 
 :::: {.column width="50%"}
@@ -22,10 +22,11 @@ Not all patients with gastric cancer need a laparoscopy.
 
 :::::: columns
 ::: {.column width="50%"}
--   General anesthetic
--   Several 1/4" incisions
--   Telescope examines the abdomen
--   Biopsies can be performed.
+- General anesthetic
+- 1/4" incisions
+- Telescope examines the abdomen
+- Biopsies performed
+- Fluid sampled
 :::
 
 :::: {.column width="50%"}

@@ -2,19 +2,19 @@
 
 Staging refers to the tests to determine
 
--   How large is the tumor?
--   Has there been spread to lymph nodes?
--   Has it spread to other parts of the body?
+- How large is the tumor?
+- Has there been spread to lymph nodes?
+- Has it spread to other parts of the body?
 
 **Treatment options depend upon the cancer stage**
 
 ## Cancer Staging {tbl-colwidths="[20,10,70]"}
 
--   **T** = Tumor - Depth of growth into the wall\
-    \
--   **N** = Nodes - Spread to the lymph nodes\
-    \
--   **M** = Metastasis - Spread to liver, lungs, or bone
+- **T** = Tumor - Depth of growth into the wall\
+  \
+- **N** = Nodes - Spread to the lymph nodes\
+  \
+- **M** = Metastasis - Spread to liver, lungs, or bone
 
 ## Early Stage Cancers
 
@@ -102,8 +102,8 @@ T1 tumors are early stage, and T4 tumors more advanced
 ::: {.column width="50%"}
 Cancers are categorized by whether there is spread to the nodes.
 
--   **N0** cancers have not spread to the nodes
--   **N1** cancers have spread to the nodes.
+- **N0** cancers have not spread to the nodes
+- **N1** cancers have spread to the nodes.
 :::
 
 :::: {.column width="50%"}
@@ -119,13 +119,31 @@ Cancers are categorized by whether there is spread to the nodes.
 ::: {.column width="50%"}
 Some cancers spread to other parts of the body
 
--   **M0** cancers have not spread to other parts of the body
--   **M1** cancers have spread lungs, liver, or bone
+- **M0** cancers have not spread
+- **M1** cancers have spread to lungs, liver, bone, or within the abdomen
 :::
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 ![](images/Eso_M_Stage.png)
+:::
+::::
+::::::
+
+## Carcinomatosis (M1)
+
+:::::: columns
+::: {.column width="60%"}
+Spread within the abdomen is **carcinomatosis**
+
+Tumors can be very small (grain of rice)
+
+Fluid can also build up: **ascites**
+:::
+
+:::: {.column width="40%"}
+::: {.content-visible unless-format="docx"}
+![](images/Eso_M1_Carcinomatosis.png)
 :::
 ::::
 ::::::
@@ -138,9 +156,9 @@ Similar to CT scan
 
 Tracer shows 'hot spots'
 
--   Cancer
--   Inflammation or infection
--   Normal organs (heart, kidneys)
+- Cancer
+- Inflammation or infection
+- Normal organs (heart, kidneys)
 :::
 
 :::: {.column width="60%"}
@@ -158,32 +176,35 @@ In some cases, the PET scan is not performed until a CT scans b=has been done.
 
 - Nothing to eat or drink for 4 hours prior to exam
 
-- Eat a high-protein low-carbohydrate diet the day prior
+- High-protein low-carbohydrate diet the day prior
 
 - No strenous activity day prior to study
 
 ## PET scan Prepration - Diabetic Patients
 
-The PET scan uses a tracer which is a modified sugar molecule. For this reason, you will need to be careful about blood sugar and insulin before the study
+PET scan uses a modified sugar as a tracer $\Rightarrow$ you will need to be careful about blood sugar and insulin before the study
 
 - No insulin within 4 hours of the exam
-- OK to take oral diabetes medications the day of the exam
-- PET scans are generally best in the morning for diabetic patients
+- OK to take diabetes pills the day of the exam
+- PET scans are generally best in the morning
 - Plan to eat a meal after the PET scan, with half the usual morning dose of insulin
-- If PET is scheduled after 10M, eat a low-carbohydrate breakfast at least 4 hours before the study along with half the usual regular (short-acting insulin)
+
+
+## PET scan Prepration - Diabetic Patients
+
+- If PET is scheduled after 10AM:
+  - low-carbohydrate breakfast at least 4 hours before
+  - half the usual regular (short-acting) insulin
 - No long-acting insulin after midnight.
-- If you use an insulin pump, turn it off 4 hours before the study (or turn it down to basal/nightime rate)
-
-
-
+- Insulin pump: turn it off 4 hours before the study (or turn it down to basal/night-time rate)
 
 ## Endoscopic Ultrasound
 
 :::::: columns
 ::: {.column width="60%"}
--   Similar to upper endoscopy (EGD)
--   Ultrasound in scope
--   Evaluates T stage
+- Similar to upper endoscopy (EGD)
+- Ultrasound in scope
+- Evaluates T stage
 :::
 
 :::: {.column width="40%"}

@@ -10,18 +10,22 @@ Radiation Oncologist (radiation)
 
 Surgeons
 
--   Jonathan Salo MD
--   Jeffrey Hagen MD
--   Michael Roach MD
+- Jonathan Salo MD
+- Jeffrey Hagen MD
+- Michael Roach MD
 
 ## Team Members - Support Staff
 
-
 Dietitian - Liz Koch
 
-Nurses 
+Nurses
 
 - Matthew Carpenter RN
 - Brandon Galloway LPN
 
-Navigator - Laura Swift
+Navigators 
+
+- Laura Swift
+- Lorna Espinal
+
+Care Coordinator - Karen Julian-Martinez
