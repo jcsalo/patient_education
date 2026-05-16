@@ -31,7 +31,7 @@ Cancers start on the very inside layer called the mucosa
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](images/tumor21_ai.png)
+![](images/gastric_tumor_t1a_nolabel.png)
 :::
 ::::
 ::::::
@@ -47,7 +47,7 @@ Over time, cancers can grow into the muscular wall
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](images/tumor24_ai.png)
+![](images/gastric_tumor_t2_nolabel.png)
 :::
 ::::
 ::::::
@@ -67,7 +67,7 @@ In some cases, cancer cells can break off from the main tumor and spread to lymp
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-![](images/tumor25b_ai.png)
+![](images/gastric_tumor_t3_node_nolabel.png)
 :::
 ::::
 ::::::
@@ -188,7 +188,6 @@ PET scan uses a modified sugar as a tracer $\Rightarrow$ you will need to be car
 - OK to take diabetes pills the day of the exam
 - PET scans are generally best in the morning
 - Plan to eat a meal after the PET scan, with half the usual morning dose of insulin
-
 
 ## PET scan Prepration - Diabetic Patients
 
