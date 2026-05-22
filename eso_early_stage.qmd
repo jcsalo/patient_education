@@ -14,10 +14,9 @@ editor: visual
 from: markdown+emoji
 ---
 
-I'm Dr Jonathan Salo, a GI Cancer Surgeon in Charlotte, North Carolina.  These videos are designed to educate you about cancer and its treatment and help you and you cancer care team make the right decisions for you.
+I'm Dr Jonathan Salo, a GI Cancer Surgeon in Charlotte, North Carolina. These videos are designed to educate you about cancer and its treatment and help you and you cancer care team make the right decisions for you.
 
 Of course, there is no substitute for the expert opinions of your cancer care team.
-
 
 The topic of this video is early-stage cancer of the esophagus and stomach
 
@@ -27,46 +26,41 @@ This video applies to tumors of the esophagus...
 
 ... and stomach
 
-
-
-The treatment recommended will depend upon early stage tumors...  Which are T1a
+The treatment recommended will depend upon early stage tumors... Which are T1a
 
 If the term T1a is not familiar to you, this may be a good time to view the video on Diagnosis and Staging
 
 The wall of the esophagus consists has multiple layers, and is surrounded by fat and lymph node tissue
 
-On the inside is the mucosa. 
+On the inside is the mucosa.
 
-Underneath the mucosa is the submucosa.  
+Underneath the mucosa is the submucosa.
 
 Outside of the mucosa are two layers of muscle, called the Muscularis
-
 
 Esophageal cancer starts within the mucosa, and with time can invade deeper into the wall
 
 With time, the cancer can grow deeper and invade the submucosa
 
-The cancer can then invade into the muscularis 
+The cancer can then invade into the muscularis
 
+If not treated, the cancer will then grow all the way through the muscularis
 
-If not treated, the cancer will then grow all the way through the muscularis 
+A tumor confined to the mucosa is classified as T1a
 
-A tumor confined to the mucosa is classified as T1a 
+A tumor which invades into the submucosa is classified as T1b
 
-A tumor which invades into the submucosa is classified as T1b 
+A tumor which invades the muscularis is classified as T2
 
-A tumor which invades the muscularis is classified as T2 
+A tumor which grows through the muscularis is classified as T3
 
-A tumor which grows through the muscularis is classified as T3 
+T3 tumors are at risk for spread to lymph nodes, so effective therapy of a T3 tumor will require additional treatments such as chemotherapy or radiation therapy
 
-T3 tumors are at risk for spread to lymph nodes, so effective therapy of a T3 tumor will require additional treatments such as chemotherapy or radiation therapy 
+Endoscopic Resection is a procedure in which a superficial cancers can be removed endoscopically, without requiring surgery.
 
-Endoscopic Resection is a procedure in which a superficial cancers can be removed endoscopically, without requiring surgery. 
+This is typically performed for T1a cancers, that just involve the mucosa.
 
-This is typically performed for T1a cancers, that just involve the mucosa. 
-
-The procedure is performed by first injecting fluid underneath the mucosa to lift the tumor off of the underlying layers. 
-
+The procedure is performed by first injecting fluid underneath the mucosa to lift the tumor off of the underlying layers.
 
 A portion of the mucosa is then removed along with the tumor.
 
@@ -78,9 +72,9 @@ Endoscopic submucosal dissection used an endoscopic knife to cut the mucosa to r
 
 This is also referred to as ESD for Endoscopic Submucosal Dissection
 
-In either case, this is how the procedure looks at the end.  A disk of tissue has been removed and is sent to the pathologist for examination.
+In either case, this is how the procedure looks at the end. A disk of tissue has been removed and is sent to the pathologist for examination.
 
-This is an example of the pathology specimen in ideal or "favorable" cases.  
+This is an example of the pathology specimen in ideal or "favorable" cases.
 
 The tumor is confined to the middle of the specimen,
 
@@ -88,7 +82,7 @@ the outer edges or margins are clear of tumor
 
 It is clear that all of the tumor has been removed
 
-This is termed a "favorable" outcome from the procedure 
+This is termed a "favorable" outcome from the procedure
 
 Patients with favorable features after endoscopic resection
 
@@ -96,47 +90,37 @@ frequently don't need surgery
 
 but surveillance is important to be certain there isn't recurrence of the tumor
 
-
-This is an example of the pathology specimen in an "unfavorable" situation.  
+This is an example of the pathology specimen in an "unfavorable" situation.
 
 The tumor extends to the edge of the specimen, suggesting that the tumor may have been cut across during the procedure, and that some parts of the tumor have been left behind.
 
-For patients with unfavorable features after endoscopic resection, some may need surgery 
+For patients with unfavorable features after endoscopic resection, some may need surgery
 
 If surgery is not done immediately, surveillance wiht endoscopy (or EGD) is very important to be certain the tumor has not recurred.
 
-
-It is possible for cancer to recur after endoscopic removal, particularly in cases with an unfavorable outcome. 
-
+It is possible for cancer to recur after endoscopic removal, particularly in cases with an unfavorable outcome.
 
 After any sort of endoscopic removal of cancer, it is extremely important to monitor the area with regular endoscopy to ensure that all of the cancer has been remove and that there is no evidence of regrowth.
 
 Surveillance endoscopy is done between 3 months and one year after the procedure, depending upon the level of concern for tumor recurrence
 
+A special type of an "unfavorable" situation is when there is tumor found on the deep side of the specimen.
 
-A special type of an "unfavorable" situation is when there is tumor found on the deep side of the specimen.  
-
-In this situation, there is concern that the procedure has removed the top portion of the tumor but that there is residual cancer left behind. 
+In this situation, there is concern that the procedure has removed the top portion of the tumor but that there is residual cancer left behind.
 
 Patients with a positive deep margin are at risk for recurrence on the surface, or mucosa....
 
-...but are also at risk for recurrence in the lymph nodes. 
+...but are also at risk for recurrence in the lymph nodes.
 
 The challenge here is that detecting a recurrence in the lymph nodes is difficult.
 
-
 In most cases, surgery or additional therapy is recommended to patients with a positive deep margin.
 
-
-Going back to the Endoscoic Resection procedure:  An important first step is injection of fluid below the mucosa to lift the cancer off of the underlying layers
-
-
+Going back to the Endoscoic Resection procedure: An important first step is injection of fluid below the mucosa to lift the cancer off of the underlying layers
 
 Tumors that invade deeper into the layers of the esophagus are not candidates for endoscopic resection because it is not possible to get underneath the cancer and lift the mucosa off of the underlying layers.
 
-
-In summary, endoscopic resection can be used to remove tumors limited to the mucosa lauyer. These are considered T1a tumors 
-
+In summary, endoscopic resection can be used to remove tumors limited to the mucosa lauyer. These are considered T1a tumors
 
 After endoscopic resection, surveillance with endoscopy is important to make certain the cancer has been completely removed and to be certain there is no tumor regrowth.
 
@@ -148,11 +132,10 @@ Positive deep margin...
 
 or for recurrence after endoscopic resection
 
-
 We hope you have found this video helpful. Here are links to some other videos.
 
 Feel free to leave a comment or a question, or if you have suggestions for future videos.
 
 If you or a family member have had an encounter with esophageal cancer, or experience with endoscopic resection. I would love to hear about your experience, so please take a minute to leave a comment below.
 
-We're working to create new videos, so please subscribe to be notified of new videos when we post them.  
+We're working to create new videos, so please subscribe to be notified of new videos when we post them.
