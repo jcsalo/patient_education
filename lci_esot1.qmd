@@ -53,7 +53,6 @@ In many ways, these to different types of esophageal cancer behave the same.
 
 {{< include lci_staging_guts.qmd >}}
 
-
 ## Gastroesophageal Reflux
 
 :::::: columns
@@ -203,8 +202,6 @@ This table summarizes four different treatment categories:
 
 ## Superficial Cancers = T1a
 
-
-
 Treatment is often with by endoscopic resection without the need for surgery.
 
 ![](images/tumor21_ai.png)
@@ -215,30 +212,21 @@ Becauase the risk of spread to the lymph nodes is very low, there tumors can oft
 
 ## Endoscopic Resection
 
-
 ![](images/EMR_Tumor/t1a_central.png)
 
 ## Tumor Lift
 
-
 ![](images/EMR_Tumor/t1a_lift2.png)
 
-
 ## Tumor Lift
-
 
 ![](images/EMR_Tumor/t1a_lift2.png)
 
 ## Tumor Removal - Resection
 
+![](images/EMR_Tumor/tumor_EMR_snare.png) \## Tumor Removal - Dissection
 
-![](images/EMR_Tumor/tumor_EMR_snare.png)
-## Tumor Removal -  Dissection
-
-
-![](images/EMR_Tumor/ESD_mucosa.png)
-## Tumor Removal -  Dissection
-
+![](images/EMR_Tumor/ESD_mucosa.png) \## Tumor Removal - Dissection
 
 ![](images/EMR_Tumor/ESD_submucosa.png)
 
@@ -283,13 +271,9 @@ Becauase the risk of spread to the lymph nodes is very low, there tumors can oft
 :::
 :::::
 
-
-
 ## Endoscopic Resection - Unfavorable {auto-animate="true"}
 
-
 ![](images/EMR_Tumor/emr_unfavorable.png)
-
 
 ## Endoscopic Resection - Unfavorable {auto-animate="true" auto-animate-restart="true"}
 
@@ -301,10 +285,9 @@ Becauase the risk of spread to the lymph nodes is very low, there tumors can oft
 :::
 
 ::: {.column width="50%"}
-![](images/EMR_Tumor/emr_unfavorable_zoom.png)
+![](images/EMR_Tumor/EMR_unfavorable_zoom.png)
 :::
 :::::
-
 
 ## Endoscopic Resection - Unfavorable {auto-animate="true"}
 
@@ -339,7 +322,6 @@ For patients with superficial cancers that can't be adequately treated with endo
 ::: {.content-hidden unless-format="docx"}
 For patients with superficial cancers that can't be adequately treated with endoscopic therapy, surgery is usually recommended
 :::
-
 
 ## Endoscopic Resection - Positive Deep Margin {auto-animate="true"}
 
@@ -380,4 +362,3 @@ For patients with superficial cancers that can't be adequately treated with endo
 ## Unable to Lift Tumor
 
 ![](images/EMR_Tumor/t1b_nolift.png)
-
