@@ -125,9 +125,9 @@ Preoperative therapy combined with surgery offers the best chance to remove all 
 
 ## Preoperative Therapy (24). *4*
 
--   Shrinks the tumor
--   Make surgery more effective
--   Leads to better cancer control than surgery alone
+- Shrinks the tumor
+- Make surgery more effective
+- Leads to better cancer control than surgery alone
 
 ## Neoadjuvant (25)
 
@@ -327,17 +327,17 @@ Better survival with addition of durvalumab to FLOT
 ::: {.column width="50%"}
 **FLOT Chemotherapy**
 
--   FLOT (8 weeks)
--   Surgery (4-6 weeks later)
--   FLOT (8 weeks)
+- FLOT (8 weeks)
+- Surgery (4-6 weeks later)
+- FLOT (8 weeks)
 :::
 
 ::: {.column width="50%"}
 **FLOT + Durvalumab**
 
--   FLOT + Durvalumab (8 wks)
--   Surgery (4-6 weeks later)
--   FLOT + Durvalumab (8 wks)
--   Durvalumab monthly x10
+- FLOT + Durvalumab (8 wks)
+- Surgery (4-6 weeks later)
+- FLOT + Durvalumab (8 wks)
+- Durvalumab monthly x10
 :::
 :::::
