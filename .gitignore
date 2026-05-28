@@ -23,6 +23,8 @@
 
 **/*.quarto_ipynb
 
+**/*.afphoto
+
 cheat_sheet.qmd
 
 /videos/**
