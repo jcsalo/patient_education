@@ -63,35 +63,35 @@ From the stomach, food moved through a valve called the pylorus into the small i
 ::: fragment
 Superficial (T1)
 
--   Endoscopic Therapy
+- Endoscopic Therapy
 :::
 
 ::: fragment
 Localized (T1b/T2)
 
--   Surgery (esophagectomy)
+- Surgery (esophagectomy)
 :::
 
 ::: fragment
 Locally-advanced (T3M0)
 
--   Chemo$\pm$Radiation $\rightarrow$Surgery
+- Chemo$\pm$Radiation $\rightarrow$Surgery
 :::
 
 ::: fragment
 Metastatic (M1)
 
--   Chemotherapy
+- Chemotherapy
 :::
 :::::::
 
 ::: {.content-hidden unless-format="docx"}
 This table summarizes four different treatment categories:
 
--   Superficial cancers are T1 and can be treated by endoscopic therapy without the need for surgery
--   Localized cancers are T1b or T2 and are frequently treated by surgery alone without the need for chemotherapy or radiation
--   Locally-advanced cancers are T3 or N1 and are usually treated with some combination of chemotherapy and radiation prior to surgery
--   Metastatic cancers are M1 and are treated primary by chemotherapy.
+- Superficial cancers are T1 and can be treated by endoscopic therapy without the need for surgery
+- Localized cancers are T1b or T2 and are frequently treated by surgery alone without the need for chemotherapy or radiation
+- Locally-advanced cancers are T3 or N1 and are usually treated with some combination of chemotherapy and radiation prior to surgery
+- Metastatic cancers are M1 and are treated primary by chemotherapy.
 :::
 
 {{< include lci_la_guts.qmd >}}
@@ -104,9 +104,9 @@ This table summarizes four different treatment categories:
 
 Show whether other drugs may be helpful:
 
--   HER-2 $\rightarrow$ Herceptin can be helpful
--   PD-L1 $\rightarrow$ Immunotherapy can be helpful
--   MMR $\rightarrow$ Immunotherapy can be very helpful
+- HER-2 $\rightarrow$ Herceptin can be helpful
+- PD-L1 $\rightarrow$ Immunotherapy can be helpful
+- MMR $\rightarrow$ Immunotherapy can be very helpful
 
 Biomarkers reported in a separate pathology report
 
@@ -118,16 +118,16 @@ Your medical oncologist will review these with you
 ::: {.column width="45%"}
 **Chemo + Radiation**
 
--   Chemo + Radiation (6wk)
--   Surgery
+- Chemo + Radiation (6wk)
+- Surgery
 :::
 
 ::: {.column width="55%"}
 **Chemotherapy**
 
--   Chemo (8wk)
--   Surgery
--   Chemo (8wk)
+- Chemo (8wk)
+- Surgery
+- Chemo (8wk)
 :::
 :::::
 
@@ -137,21 +137,21 @@ Your medical oncologist will review these with you
 ::: {.column width="50%"}
 **Chemo + Radiation**
 
--   Longer track record
--   Better tolerated
--   Port usually placed
--   Eating worse $\rightarrow$ better
--   May need feeding tube
+- Longer track record
+- Better tolerated
+- Port usually placed
+- Eating worse $\rightarrow$ better
+- May need feeding tube
 :::
 
 ::: {.column width="50%"}
 **Chemotherapy**
 
--   More effective
--   More side effects
--   Port always required
--   Eating slowly improves
--   Less likely to need feeding tube
+- More effective
+- More side effects
+- Port always required
+- Eating slowly improves
+- Less likely to need feeding tube
 :::
 :::::
 
@@ -163,8 +163,8 @@ CT or PET scan will be performed after preoperative therapy
 
 \
 
--   Surgery performed after restaging
--   Timing depends upon recovery from therapy
+- Surgery performed after restaging
+- Timing depends upon recovery from therapy
 
 {{< include lci_treatment_prep_guts.qmd >}}
 
@@ -174,4 +174,4 @@ CT or PET scan will be performed after preoperative therapy
 
 {{< include lci_jejunostomy_guts.qmd >}}
 
-{{< include lci_esophagectomy_guts.qmd >}}
+

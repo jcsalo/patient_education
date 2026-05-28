@@ -46,14 +46,13 @@ $\rightarrow$ small bowel (jejunum)
 
 There are two common types of esophageal cancer
 
--   Adenocarcinoma
--   Squamous Cell Carcinoma
+- Adenocarcinoma
+- Squamous Cell Carcinoma
 
 In many ways, these to different types of esophageal cancer behave the same.
 
 {{< include lci_staging_guts.qmd >}}
 
-{{< include lci_laparoscopy_guts.qmd >}}
 
 ## Gastroesophageal Reflux
 
@@ -171,137 +170,143 @@ Because the risk of spread to the lymph nodes is very low, there tumors can ofte
 ::: fragment
 Superficial (T1)
 
--   Endoscopic Therapy
+- Endoscopic Therapy
 :::
 
 ::: fragment
 Localized (T1b/T2)
 
--   Surgery (esophagectomy)
+- Surgery (esophagectomy)
 :::
 
 ::: fragment
 Locally-advanced (T3M0)
 
--   Chemo$\pm$Radiation $\rightarrow$Surgery
+- Chemo$\pm$Radiation $\rightarrow$Surgery
 :::
 
 ::: fragment
 Metastatic (M1)
 
--   Chemotherapy
+- Chemotherapy
 :::
 :::::::
 
 ::: {.content-hidden unless-format="docx"}
 This table summarizes four different treatment categories:
 
--   Superficial cancers are T1 and can be treated by endoscopic therapy without the need for surgery
--   Localized cancers are T1b or T2 and are frequently treated by surgery alone without the need for chemotherapy or radiation
--   Locally-advanced cancers are T3 or N1 and are usually treated with some combination of chemotherapy and radiation prior to surgery
--   Metastatic cancers are M1 and are treated primary by chemotherapy.
+- Superficial cancers are T1 and can be treated by endoscopic therapy without the need for surgery
+- Localized cancers are T1b or T2 and are frequently treated by surgery alone without the need for chemotherapy or radiation
+- Locally-advanced cancers are T3 or N1 and are usually treated with some combination of chemotherapy and radiation prior to surgery
+- Metastatic cancers are M1 and are treated primary by chemotherapy.
 :::
 
-## Superficial Cancers
+## Superficial Cancers = T1a
 
-:::::: columns
-::: {.column width="50%"}
-Superficial Cancer: T1a N0
 
-Treatment is often with endoscopy without the need for surgery.
-:::
 
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
+Treatment is often with by endoscopic resection without the need for surgery.
+
 ![](images/tumor21_ai.png)
-:::
-::::
-::::::
 
 ::: {.content-hidden unless-format="docx"}
 Becauase the risk of spread to the lymph nodes is very low, there tumors can often be removed with endoscopy without the need for surgery.
 :::
 
-## Endoscopic Mucosal Resection (EMR)
+## Endoscopic Resection
 
-Endoscopic procedure to remove a superficial tumor from the inner layer of the esophagus
 
-![](images/emr_comm.png)
+![](images/EMR_tumor/t1a_central.png)
 
-## Endoscopic Mucosal Resection - Favorable {auto-animate="true"}
+## Tumor Lift
 
-::::: columns
-::: {.column width="50%"}
--   Clear margins at the edge *AND*
--   Clear deep margin *AND*
--   Tumor appears slow-growing under microscope
-:::
 
-::: {.column width="50%"}
-![](images/emr_favorable.png)
-:::
-:::::
+![](images/EMR_tumor/t1a_lift2.png)
 
-## Endoscopic Mucosal Resection - Favorable {auto-animate="true"}
 
-::::: columns
-::: {.column width="50%"}
--   Clear margins at the edge *AND*
--   Clear deep margin *AND*
--   Tumor is slow-growing under microscope
-:::
+## Tumor Lift
 
-::: {.column width="50%"}
-![](images/emr_favorable_16001200.png)
-:::
-:::::
 
-## Endoscopic Mucosal Resection - Favorable {auto-animate="true"}
+![](images/EMR_tumor/t1a_lift2.png)
+
+## Tumor Removal - Resection
+
+
+![](images/EMR_tumor/tumor_EMR_snare.png)
+## Tumor Removal -  Dissection
+
+
+![](images/EMR_tumor/ESD_mucosa.png)
+## Tumor Removal -  Dissection
+
+
+![](images/EMR_tumor/ESD_submucosa.png)
+
+## Endoscopic Resection - Favorable {auto-animate="true"}
 
 ::::: columns
 ::: {.column width="50%"}
--   EMR may be the only treatment required
--   Requires endoscopic surveillance
+- Clear edge margin *AND*
+- Clear deep margin *AND*
+- Tumor slow-growing under microscope
 :::
 
 ::: {.column width="50%"}
-![](images/emr_favorable_16001200.png)
+![](images/EMR_Tumor/emr_favorable.png)
 :::
 :::::
 
-## Endoscopic Mucosal Resection - Unfavorable {auto-animate="true" auto-animate-restart="true"}
+## Endoscopic Resection - Favorable {auto-animate="true"}
 
 ::::: columns
 ::: {.column width="50%"}
--   Tumor at edge margin *OR*
--   Tumor at deep margin *OR*
--   Tumor rapidly-growing under microscope
+- Clear edge margin *AND*
+- Clear deep margin *AND*
+- Tumor slow-growing under microscope
 :::
 
 ::: {.column width="50%"}
-![](images/emr_unfavorable.png)
+![](images/EMR_Tumor/emr_favorable_zoom.png)
 :::
 :::::
 
-## Endoscopic Mucosal Resection - Unfavorable {auto-animate="true"}
+## Endoscopic Resection - Favorable {auto-animate="true"}
 
 ::::: columns
 ::: {.column width="50%"}
--   Tumor at edge margin *OR*
--   Tumor at deep margin *OR*
--   Tumor rapidly-growing under microscope
+- May be the only treatment required
+- Requires endoscopic surveillance
 :::
 
 ::: {.column width="50%"}
-![](images/emr_unfavorable_16001200.png)
+![](images/EMR_Tumor/emr_favorable_zoom.png)
 :::
 :::::
 
-::: {.content-hidden unless-format="docx"}
-For patients with superficial cancers that can't be adequately treated with endoscopic therapy, surgery is usually recommended
+
+
+## Endoscopic Resection - Unfavorable {auto-animate="true"}
+
+
+![](images/EMR_Tumor/emr_unfavorable.png)
+
+
+## Endoscopic Resection - Unfavorable {auto-animate="true" auto-animate-restart="true"}
+
+::::: columns
+::: {.column width="50%"}
+- Tumor at edge margin *OR*
+- Tumor at deep margin *OR*
+- Tumor rapidly-growing under microscope
 :::
 
-## Endoscopic Mucosal Resection - Unfavorable {auto-animate="true"}
+::: {.column width="50%"}
+![](images/EMR_Tumor/emr_unfavorable_zoom.png)
+:::
+:::::
+
+
+## Endoscopic Resection - Unfavorable {auto-animate="true"}
 
 ::::: columns
 ::: {.column width="50%"}
@@ -309,7 +314,7 @@ Esophagectomy (surgery) is standard recommendation
 :::
 
 ::: {.column width="50%"}
-![](images/emr_unfavorable_16001200.png)
+![](images/EMR_Tumor/emr_recurrence.png)
 :::
 :::::
 
@@ -317,4 +322,62 @@ Esophagectomy (surgery) is standard recommendation
 For patients with superficial cancers that can't be adequately treated with endoscopic therapy, surgery is usually recommended
 :::
 
-{{< include lci_esophagectomy_guts.qmd >}}
+## Endoscopic Resection - Positive Deep Margin {auto-animate="true"}
+
+::::: columns
+::: {.column width="50%"}
+- Tumor at edge margin *OR*
+- **Tumor at deep margin** *OR*
+- Tumor rapidly-growing under microscope
+:::
+
+::: {.column width="50%"}
+![](images/EMR_Tumor/EMR_Positive_Deep.png)
+:::
+:::::
+
+::: {.content-hidden unless-format="docx"}
+For patients with superficial cancers that can't be adequately treated with endoscopic therapy, surgery is usually recommended
+:::
+
+
+## Endoscopic Resection - Positive Deep Margin {auto-animate="true"}
+
+::::: columns
+::: {.column width="50%"}
+- Tumor at edge margin *OR*
+- **Tumor at deep margin** *OR*
+- Tumor rapidly-growing under microscope
+:::
+
+::: {.column width="50%"}
+![](images/EMR_Tumor/pos_node_sp_EMR.png)
+:::
+:::::
+
+::: {.content-hidden unless-format="docx"}
+For patients with superficial cancers that can't be adequately treated with endoscopic therapy, surgery is usually recommended
+:::
+
+## Endoscopic Resection - Positive Deep Margin {auto-animate="true"}
+
+::::: columns
+::: {.column width="50%"}
+- Tumor at edge margin *OR*
+- **Tumor at deep margin** *OR*
+- Tumor rapidly-growing under microscope
+:::
+
+::: {.column width="50%"}
+![](images/EMR_Tumor/pos_node_sp_EMR.png)
+:::
+:::::
+
+::: {.content-hidden unless-format="docx"}
+For patients with superficial cancers that can't be adequately treated with endoscopic therapy, surgery is usually recommended
+:::
+
+## Unable to Lift Tumor
+
+![](images/EMR_tumor/t1b_nolift.png)
+
