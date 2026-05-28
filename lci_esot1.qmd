@@ -216,31 +216,31 @@ Becauase the risk of spread to the lymph nodes is very low, there tumors can oft
 ## Endoscopic Resection
 
 
-![](images/EMR_tumor/t1a_central.png)
+![](images/EMR_Tumor/t1a_central.png)
 
 ## Tumor Lift
 
 
-![](images/EMR_tumor/t1a_lift2.png)
+![](images/EMR_Tumor/t1a_lift2.png)
 
 
 ## Tumor Lift
 
 
-![](images/EMR_tumor/t1a_lift2.png)
+![](images/EMR_Tumor/t1a_lift2.png)
 
 ## Tumor Removal - Resection
 
 
-![](images/EMR_tumor/tumor_EMR_snare.png)
+![](images/EMR_Tumor/tumor_EMR_snare.png)
 ## Tumor Removal -  Dissection
 
 
-![](images/EMR_tumor/ESD_mucosa.png)
+![](images/EMR_Tumor/ESD_mucosa.png)
 ## Tumor Removal -  Dissection
 
 
-![](images/EMR_tumor/ESD_submucosa.png)
+![](images/EMR_Tumor/ESD_submucosa.png)
 
 ## Endoscopic Resection - Favorable {auto-animate="true"}
 
@@ -379,5 +379,5 @@ For patients with superficial cancers that can't be adequately treated with endo
 
 ## Unable to Lift Tumor
 
-![](images/EMR_tumor/t1b_nolift.png)
+![](images/EMR_Tumor/t1b_nolift.png)
 
