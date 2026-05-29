@@ -1,84 +1,84 @@
 ## Day Prior to Surgery
 
--   Clear liquids for 24 hours prior to surgery
--   Check with Pre-op nurse regarding medicines day prior to surgery
--   No tube feedings the night before surgery
+- Clear liquids for 24 hours prior to surgery
+- Check with Pre-op nurse regarding medicines day prior to surgery
+- No tube feedings the night before surgery
 
 ## Day of Surgery
 
--   Arrive at 5am – nothing to eat or drink after midnight.
--   Medicines OK w/ a sip of water 
-  - sip of black coffee but **no cream**.
-  - Surgery will be cancelled if you have cream/milk
--   Waiting room for family and friends on 5th floor
+- Arrive at 5am – nothing to eat or drink after midnight.
+- Medicines OK w/ a sip of water
+- sip of black coffee but **no cream**.
+- Surgery will be cancelled if you have cream/milk
+- Waiting room for family and friends on 5th floor
 
 ## Epidural Catheter for Pain Control
 
--   Remains in place for 2-5 days
--   Dosage can be adjusted as needed
--   Can make it more difficult to urinate
--   May require foley catheter in bladder
--   Foley catheter removed after epidural removed
+- Remains in place for 2-5 days
+- Dosage can be adjusted as needed
+- Can make it more difficult to urinate
+- May require foley catheter in bladder
+- Foley catheter removed after epidural removed
 
 ## Intensive Care Unit (ICU) (2-4 days)
 
 - Surgical ICU on 11th floor
--   NG tube in nose to drain stomach and esophagus
--   Catheter in bladder
--   Chest tube right chest
--   Abdominal drains (usually 2)
--   Feeding jejunostomy (usually stays in 8 wks)
+- NG tube in nose to drain stomach and esophagus
+- Catheter in bladder
+- Chest tube right chest
+- Abdominal drains (usually 2)
+- Feeding jejunostomy (usually stays in 8 wks)
 
 ## Intensive Care Unit (ICU)
 
--   Bladder catheter removed → check that bladder empties properly
--   Chest tube removed (day 2-4) → follow-up x-ray
--   Fluid emptied from drains every few hours
--   Start tube feedings by feeding
--   Feeding jejunostomy (stays in 8 weeks)
+- Bladder catheter removed → check that bladder empties properly
+- Chest tube removed (day 2-4) → follow-up x-ray
+- Fluid emptied from drains every few hours
+- Start tube feedings by feeding
+- Feeding jejunostomy (stays in 8 weeks)
 
 ## Ward - 6Tower
 
--   Jejunostomy feeds started
--   Up in a chair most of the day
--   Walking in the halls
-    -   Start with assistance
-    -   Improves lung function
-    -   Prevents loss of muscle strength
+- Jejunostomy feeds started
+- Up in a chair most of the day
+- Walking in the halls
+  - Start with assistance
+  - Improves lung function
+  - Prevents loss of muscle strength
 
 ## Jejunostomy Feeds
 
 Jejunostomy tube feeds
 
--   Start continuous (24 hours)
--   Convert to night-time only (16 hours)
+- Start continuous (24 hours)
+- Convert to night-time only (16 hours)
 
 Water administered through feeding tube
 
--   Usually 8oz 4 times/day
--   Important to prevent dehydration
+- Usually 8oz 4 times/day
+- Important to prevent dehydration
 
 {{< include lci_jejunostomy_guts.qmd >}}
 
 ## Activity after Surgery
 
--   Up in chair most of the day
--   Walking with help from nurse/Physical Therapist
--   Goals:
-    -   Improve lung function
-    -   Prevent muscle loss
+- Up in chair most of the day
+- Walking with help from nurse/Physical Therapist
+- Goals:
+  - Improve lung function
+  - Prevent muscle loss
 
 ## Nasogastric (NG) Tube
 
 Tube passed through nose into stomach
 
--   Drains fluid from stomach
--   Prevents vomiting
+- Drains fluid from stomach
+- Prevents vomiting
 
 Upper GI X-ray on 2nd or 3rd day after surgery
 
--   If stomach empties well $\rightarrow$ NG tube removed
--   Otherwise, X-ray repeated 2-3 days later
+- If stomach empties well $\rightarrow$ NG tube removed
+- Otherwise, X-ray repeated 2-3 days later
 
 ## Swallowing Evaluation
 
@@ -86,9 +86,9 @@ Once NG tube has been removed:
 
 Modified barium swallow in radiology
 
--   Drink a white chalky liquid (barium)
--   Look for proper swallowing function
--   70% of patients $\Rightarrow$ liquids started by mouth
+- Drink a white chalky liquid (barium)
+- Look for proper swallowing function
+- 70% of patients $\Rightarrow$ liquids started by mouth
 
 ## Oral Intake at Home
 
@@ -96,31 +96,31 @@ Most are taking protein shakes when they go home
 
 Protein shakes are started after tolerating water\
 
--   2 oz per hour to start
--   4 oz per hour if 2oz are tolerated well
+- 2 oz per hour to start
+- 4 oz per hour if 2oz are tolerated well
 
 ## Discharge
 
 Goal: ready to leave day #6/7 after surgery
 
--   Night-time tube feedings (6pm to 10am)
--   Nutrition by mouth (70% of patients)
-    -   1 oz of water per hour by mouth OR
-    -   Protein shakes 4oz every 2 hours
--   Water through tube 8oz four times per day
--   Home care nursing (feeding tube teaching)
--   Home infusion (tube feeding supplies)
+- Night-time tube feedings (6pm to 10am)
+- Nutrition by mouth (70% of patients)
+  - 1 oz of water per hour by mouth OR
+  - Protein shakes 4oz every 2 hours
+- Water through tube 8oz four times per day
+- Home care nursing (feeding tube teaching)
+- Home infusion (tube feeding supplies)
 
 ## Nutrition after Surgery
 
 At discharge home:
 
--   Protein shakes 4oz every 2 hrs
--   Tube feeds 4-5 cans at night (6pm-10am)
+- Protein shakes 4oz every 2 hrs
+- Tube feeds 4-5 cans at night (6pm-10am)
 
 10-12 Days: Increase protein shakes
 
--   Tube feeds 3-4 cans at night
+- Tube feeds 3-4 cans at night
 
 Three weeks: Post-esophagectomy Diet
 
@@ -130,25 +130,25 @@ Three weeks: Post-esophagectomy Diet
 
 Dietitian will calculate daily protein goal
 
--   Typically 60-75 grams protein/day
--   Each carton of tube feeding has 15 grams
-    -   75 grams protein = 5 cartons/night
--   More intake by mouth $\rightarrow$ tube feeds reduced
+- Typically 60-75 grams protein/day
+- Each carton of tube feeding has 15 grams
+  - 75 grams protein = 5 cartons/night
+- More intake by mouth $\rightarrow$ tube feeds reduced
 
 Spread out protein during the day (20gm/meal)
 
--   Three meals + 2-3 high-protein snacks
+- Three meals + 2-3 high-protein snacks
 
 ## Post-esophagectomy Diet
 
--   Soft Consistency
--   High Protein
--   Avoid sugary liquids (can cause ‘dumping’)
--   Avoid raw vegetables (and salads)
--   Eating
-    -   Small, frequent meals
-    -   Sit up for 30-45 minutes after eating
-    -   Avoid eating within 2 hours of bedtime
+- Soft Consistency
+- High Protein
+- Avoid sugary liquids (can cause ‘dumping’)
+- Avoid raw vegetables (and salads)
+- Eating
+  - Small, frequent meals
+  - Sit up for 30-45 minutes after eating
+  - Avoid eating within 2 hours of bedtime
 
 ## Medicines at Home - Pain
 
@@ -158,48 +158,48 @@ Gabapentin 300mg 3 times/day
 
 Oxycodone
 
--   As needed in addition to Tylenol/gabapentin
--   Will begin reducing dose at first postop visit
--   Can usually discontinue by 4 weeks
--   NO DRIVING WHILE ON OXYCODONE
+- As needed in addition to Tylenol/gabapentin
+- Will begin reducing dose at first postop visit
+- Can usually discontinue by 4 weeks
+- NO DRIVING WHILE ON OXYCODONE
 
 ## Non-steroidals Anti Inflammatory (NSAID)
 
 Non-steroidal anti-inflammatories (Celebrex)
 
--   200 mg every 12 hours starting at 2 weeks
+- 200 mg every 12 hours starting at 2 weeks
 
 NO GOODY POWDERS OR BCs
 
--   (Can cause permanent scarring at the surgery site)
+- (Can cause permanent scarring at the surgery site)
 
 ## Acid Blockers = Proton Pump Inhibitors
 
 Examples include ompeprazole and pantoprazole
 
--   Will stay on for at 1-2 years to prevent acid reflux
--   Important in preventing scarring at anastomosis (new connection between esophagus and stomach)
--   To administer through feeding tube, open capsule and resuspend beads in 60mL (2oz) of water
+- Will stay on for at 1-2 years to prevent acid reflux
+- Important in preventing scarring at anastomosis (new connection between esophagus and stomach)
+- To administer through feeding tube, open capsule and resuspend beads in 60mL (2oz) of water
 
 ## Medicines at Home
 
 Reglan – Helps stomach empty
 
--   Will plan to stop after six weeks
--   0.1% risk of tardive dyskinesia (nervous tic)
+- Will plan to stop after six weeks
+- 0.1% risk of tardive dyskinesia (nervous tic)
 
 Remeron – Helps improve appetite
 
--   Can cause vivid dreams
--   Used for several weeks after surgery
--   Will stop within first three months of surgery
+- Can cause vivid dreams
+- Used for several weeks after surgery
+- Will stop within first three months of surgery
 
 ## Metoprolol = Beta Blockers
 
--   Slows heart rate and lowers blood pressure\
--   Used to prevent rapid heart rate
--   Patients not taking a beta blocker prior to surgery $\rightarrow$ wean after after surgery
--   Patients taking a beta blockerprior to surgery $\rightarrow$ return to prior dose and drug after surgery
+- Slows heart rate and lowers blood pressure\
+- Used to prevent rapid heart rate
+- Patients not taking a beta blocker prior to surgery $\rightarrow$ wean after after surgery
+- Patients taking a beta blockerprior to surgery $\rightarrow$ return to prior dose and drug after surgery
 
 ## Sleeping at Home
 
@@ -221,12 +221,12 @@ A wedge pillow can be helpful for sleep
 
 Check surgical site
 
--   Remove staples (if needed)
+- Remove staples (if needed)
 
 Adjust medicines as needed
 
--   Insulin (for diabetic patients on insulin)
--   Reduce beta blocker medicines
+- Insulin (for diabetic patients on insulin)
+- Reduce beta blocker medicines
 
 Advance diet
 
@@ -236,9 +236,9 @@ Reduce tube feeds
 
 Wean off medicines added after surgery
 
--   Pain medicines
--   Beta-blockers
--   Reglan and Remeron
+- Pain medicines
+- Beta-blockers
+- Reglan and Remeron
 
 Continue acid blockers for at least 1 year
 
@@ -254,29 +254,29 @@ May take 30 minutes and some local anesthetic to loosen up the tube for removal.
 
 You may have difficulty absorbing some nutrients:
 
--   Iron
--   Vitamin B12
--   Vitamin D
+- Iron
+- Vitamin B12
+- Vitamin D
 
 ## Nutritional Monitoring after Surgery
 
 About 3 months after the jejunostomy tube is removed, we will check blood levels:
 
--   Iron (ferritin)
--   Vitamin B12
--   Vitamin D
+- Iron (ferritin)
+- Vitamin B12
+- Vitamin D
 
 ## Nutritional Replacements after Surgery
 
 Vitamin or iron replacements can be ordered by:
 
--   Primary Care Provider (PCP)
--   Medical Oncologist
--   Surgeon
+- Primary Care Provider (PCP)
+- Medical Oncologist
+- Surgeon
 
 If levels are low
 
--   Replacement
--   Repeat testing in 3-6 months
+- Replacement
+- Repeat testing in 3-6 months
 
 {{< include lci_staff_guts.qmd >}}
