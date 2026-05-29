@@ -15,8 +15,6 @@ format:
     transition: fade
     #output-file: lci_esot3_slides.html
     pdf-separate-fragments: true
-  pdf:
-    documentclass: scrartcl
   html: default
 editor: visual
 bibliography: zotero.bib
@@ -46,8 +44,8 @@ $\rightarrow$ small bowel (jejunum)
 
 There are two common types of esophageal cancer
 
--   Adenocarcinoma
--   Squamous Cell Carcinoma
+- Adenocarcinoma
+- Squamous Cell Carcinoma
 
 In many ways, these to different types of esophageal cancer behave the same.
 
@@ -57,17 +55,17 @@ We will see later in this video, however, that the treatment **can** be differen
 
 Staging refers to the tests to determine
 
--   How large is the tumor?
--   Has there been spread to lymph nodes?
--   Has it spread to other parts of the body?
+- How large is the tumor?
+- Has there been spread to lymph nodes?
+- Has it spread to other parts of the body?
 
 **Treatment options depend upon the cancer stage**
 
 ## Esophageal Cancer Staging {tbl-colwidths="[20,10,70]"}
 
--   **T** = Tumor - How deep has cancer grown into the wall of the esophagus?
--   **N** = Nodes - Has cancer spread to the lymph nodes?
--   **M** = Metastasis - Has the cancer spread to other parts of the body? lungs or liver?
+- **T** = Tumor - How deep has cancer grown into the wall of the esophagus?
+- **N** = Nodes - Has cancer spread to the lymph nodes?
+- **M** = Metastasis - Has the cancer spread to other parts of the body? lungs or liver?
 
 ## Layers of the Wall of the Esophagus
 
@@ -77,9 +75,9 @@ If we look at the walls of the esophagus, we see several layers:
 
 :::::: columns
 ::: {.column width="50%"}
--   Mucosa - Inner layer
--   Muscle Wall (muscularis)
--   Lymph nodes located in fat outside the muscle
+- Mucosa - Inner layer
+- Muscle Wall (muscularis)
+- Lymph nodes located in fat outside the muscle
 :::
 
 :::: {.column width="50%"}
@@ -167,8 +165,8 @@ T1 tumors are early stage, and T4 tumors more advanced
 ::: {.column width="50%"}
 Cancers are categorized by whether there is spread to the lymph nodes.
 
--   **N0** cancers have not spread to the lymph nodes
--   **N1** cancers have spread to the lymph nodes.
+- **N0** cancers have not spread to the lymph nodes
+- **N1** cancers have spread to the lymph nodes.
 :::
 
 :::: {.column width="50%"}
@@ -184,8 +182,8 @@ Cancers are categorized by whether there is spread to the lymph nodes.
 ::: {.column width="50%"}
 Some cancers can also spread from the esophagus to the lungs or liver
 
--   **M0** cancers have not spread to other parts of the body
--   **N1** cancers have spread to other parts of the body such as lungs or liver
+- **M0** cancers have not spread to other parts of the body
+- **N1** cancers have spread to other parts of the body such as lungs or liver
 :::
 
 :::: {.column width="50%"}
@@ -259,9 +257,9 @@ In general, laparoscopy is considered for cancers that invade from the esophagus
 ::: {.column width="50%"}
 A laparoscopy is performed under a general anesthetic.
 
--   Several incisions 1/4" long
--   A telescope is inserted to look inside the abdominal cavity.
--   Biopsies can be performed.
+- Several incisions 1/4" long
+- A telescope is inserted to look inside the abdominal cavity.
+- Biopsies can be performed.
 :::
 
 :::: {.column width="50%"}
@@ -273,18 +271,18 @@ A laparoscopy is performed under a general anesthetic.
 
 ## Treatment Plans
 
--   Superficial (T1) $\Rightarrow$ Endoscopic Therapy
--   Localized (T1b/T2) $\Rightarrow$ Surgery
--   Locally-advanced (T3/N1) $\Rightarrow$ Chemo $\pm$ Radiation $\rightarrow$Surgery
--   Metastatic (M1) $\Rightarrow$ Chemotherapy
+- Superficial (T1) $\Rightarrow$ Endoscopic Therapy
+- Localized (T1b/T2) $\Rightarrow$ Surgery
+- Locally-advanced (T3/N1) $\Rightarrow$ Chemo $\pm$ Radiation $\rightarrow$Surgery
+- Metastatic (M1) $\Rightarrow$ Chemotherapy
 
 ::: {.content-hidden unless-format="docx"}
 This table summarizes four different treatment categories:
 
--   Superficial cancers are T1 and can be treated by endoscopic therapy without the need for surgery
--   Localized cancers are T1b or T2 and are frequently treated by surgery alone without the need for chemotherapy or radiation
--   Locally-advanced cancers are T3 or N1 and are usually treated with some combination of chemotherapy and radiation prior to surgery
--   Metastatic cancers are M1 and are treated primary by chemotherapy.
+- Superficial cancers are T1 and can be treated by endoscopic therapy without the need for surgery
+- Localized cancers are T1b or T2 and are frequently treated by surgery alone without the need for chemotherapy or radiation
+- Locally-advanced cancers are T3 or N1 and are usually treated with some combination of chemotherapy and radiation prior to surgery
+- Metastatic cancers are M1 and are treated primary by chemotherapy.
 :::
 
 ## Localized Cancers
@@ -337,8 +335,8 @@ Localized cancers are not very common, because most people don't know that they 
 ::: {.column width="50%"}
 Localized cancers are generally diagnosed with a combination of endoscopic ultrasound and PET scan.
 
--   Endoscopic ultrasound can determine the T stage
--   PET scan can look at the nearby lymph nodes
+- Endoscopic ultrasound can determine the T stage
+- PET scan can look at the nearby lymph nodes
 :::
 
 :::: {.column width="50%"}
@@ -402,11 +400,11 @@ Chemotherapy and radiation were given together over six weeks
 
 A typical schedule for chemotherapy + radiation:
 
--   Chemotherapy once per week for six weeks
--   Radiation five days per week for six weeks (28 treatments)
--   PET scan 4 weeks after the end of radiation
--   EGD every 3-6 months for 2 years
--   CT scan every 6-12 months
+- Chemotherapy once per week for six weeks
+- Radiation five days per week for six weeks (28 treatments)
+- PET scan 4 weeks after the end of radiation
+- EGD every 3-6 months for 2 years
+- CT scan every 6-12 months
 
 ## Chemotherapy + Radiation - Side Effects
 
@@ -422,9 +420,9 @@ Chemotherapy drugs are administered intravenously.
 
 There are several options for intravenous access:
 
--   Peripheral IVs in the hand
--   PICC line (Peripheral Inserted Central Catheter)
--   Central Venous Port
+- Peripheral IVs in the hand
+- PICC line (Peripheral Inserted Central Catheter)
+- Central Venous Port
 
 ## Peripheral IVs
 
