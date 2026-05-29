@@ -11,8 +11,6 @@ format:
     theme: default
     echo: false
     output-file: nutrition_slides.html
-  pdf:
-    documentclass: scrartcl
   html: default
 editor: visual
 bibliography: zotero.bib
