@@ -20,19 +20,19 @@ Of course, there is no substitute for the expert opinions of your cancer care te
 
 In this video, you will learn about (2)
 
--   Preoperative Testing
--   Heart
--   Lungs
--   Fitness
--   Nutrition
--   Exercise
--   Smoking Cessation
+- Preoperative Testing
+- Heart
+- Lungs
+- Fitness
+- Nutrition
+- Exercise
+- Smoking Cessation
 
 The foods we eat provide three things to our bodies:
 
--   Carbohydrates: fuel for energy
--   Protein: building blocks for muscle
--   Fat: fuel for storing energy
+- Carbohydrates: fuel for energy
+- Protein: building blocks for muscle
+- Fat: fuel for storing energy
 
 Thumbnails:
 
@@ -48,24 +48,24 @@ Fitness: muscle + lungs + heart
 
 Muscle loss/Fitness
 
--   Nutrition
--   Exercise
+- Nutrition
+- Exercise
 
 Cardiology
 
--   Echo (pump function)
--   Stress test (adequacy of blood supply to the heart)
--   Holter monitor (irregular rhythm)
+- Echo (pump function)
+- Stress test (adequacy of blood supply to the heart)
+- Holter monitor (irregular rhythm)
 
 Pulmonary function
 
--   Pulmonary function tests
--   Six-minute walk test
+- Pulmonary function tests
+- Six-minute walk test
 
 Lung health/pneumonia prevention
 
--   smoking cessation
--   dental hygiene
+- smoking cessation
+- dental hygiene
 
 Muscle Loss in Cancer
 
@@ -87,8 +87,8 @@ Our muscles are in a constant state of repair and rebuilding muscle, like an aro
 
 There are two strategies to restore muscle mass:
 
--   Adequate protein intake in the diet
--   Exercise
+- Adequate protein intake in the diet
+- Exercise
 
 ::::: columns
 ::: {.column .fragment width="50%"}
@@ -227,9 +227,9 @@ Now this doesn't mean that you need to look like this to be able to get through 
 
 The good news is that you can increase your muscle mass before surgery in two very simple ways:
 
--   Good nutrition with lots of protein
+- Good nutrition with lots of protein
 
--   Exercise
+- Exercise
 
 ------------------------------------------------------------------------
 

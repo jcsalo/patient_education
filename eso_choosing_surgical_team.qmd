@@ -22,9 +22,9 @@ An esophagectomy is an operation to remove a cancer in the esophagus. If need of
 
 In this video, you will learn about how to:
 
--   Choose a hospital
--   Choose a surgeon
--   Get a second opinion
+- Choose a hospital
+- Choose a surgeon
+- Get a second opinion
 
 Esophagectomy is a complex operation, and because of it's complexity, the outcomes aren't the same for every hospital and every surgeon, so there is a lot of variation in outcomes
 
@@ -33,7 +33,6 @@ Outcomes are different between:...
 Different hospitals...
 
 and different surgeons...
-
 
 When we talk about outcomes after esophagectomy, we are talking about complications.
 
@@ -45,12 +44,11 @@ If this is not a familiar term to you, please take a minute to watch our video a
 
 Because esophagectomy is complex, it's no surprise that *experience counts*
 
-*In general*, Esophagectomy Outcomes are better at high-volume hospitals...   ... and for Experienced surgeons (16)
+*In general*, Esophagectomy Outcomes are better at high-volume hospitals... ... and for Experienced surgeons (16)
 
 An important question is How many cases is enough? or How many operations per year is required in order to have sufficient experience?
 
-... how many cases for the hospital
-... and how many cases for the surgeon
+... how many cases for the hospital ... and how many cases for the surgeon
 
 The Leapfrog Group has addressed this very question. The Leapfrog group is a non-profit organization which has promoted transparency in health care outcomes.
 
@@ -74,14 +72,13 @@ Which means that some patients may need to travel to find a high-volume hospital
 
 However 25% of hospitals had a surgeon meeting the volume guidelines by performing 7 or more esophagectomy operations per year. (20)
 
-x
-How does this help you? I would recommend that you *interview your surgeon*
+x How does this help you? I would recommend that you *interview your surgeon*
 
 This may seem a bit awkward at first, but most of us are comfortable with doing some comparison shopping when it comes to:
 
--   buying a house
--   or a car
--   or a flat-screen TV
+- buying a house
+- or a car
+- or a flat-screen TV
 
 I would recommend that you ask
 
@@ -99,7 +96,7 @@ The other is to ask whether there is an experienced surgeon who can join your su
 
 One of the challenges for surgeons in the beginning stages of their careers is how to safely acquire experience with complex surgery
 
-One way to address that challenge is to have more experienced surgeons working with less experienced surgeons to allow the patient to have the best outcomes possible   ...while also allowing the training of the next generation of surgeons.
+One way to address that challenge is to have more experienced surgeons working with less experienced surgeons to allow the patient to have the best outcomes possible ...while also allowing the training of the next generation of surgeons.
 
 To my mind, mentoring is the best way for lower-volume surgeons to gain experience (and become high-volume surgeons) while they are providing patients with the benefits of a high-volume surgeon.
 
@@ -125,8 +122,6 @@ If you surgeon isn't familiar with their personal outcomes, I would recommend ge
 
 Whoever your surgeon is, you want someone who is constantly seeking to improve outcomes for their patients, and the only way to do that is to know what your outcomes are.
 
-
-
 If you are interested in a second opinion, the primary questions are where? and how?
 
 The easiest place to start is asking your primary care provider for a recommendation,
@@ -141,14 +136,14 @@ Your second opinion team will need a variety of materials in order to make a rec
 
 THe first is medical records, which will include:
 
--   Notes from all consultations with any specialists
--   Endoscopy reports
+- Notes from all consultations with any specialists
+- Endoscopy reports
 
 You will also need:
 
--   Pathology reports
--   Radiology reports
--   Cardiology Reports and Records
+- Pathology reports
+- Radiology reports
+- Cardiology Reports and Records
 
 You may need to sign an authorization request to release your records to the second opinion team
 

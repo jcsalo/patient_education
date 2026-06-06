@@ -14,39 +14,33 @@ editor: visual
 from: markdown+emoji
 ---
 
-If you or someone close to you has recently been diagnosed with gastric cancer, this video is intended for you. I’m Dr Jonathan Salo and I'm a GI Cancer Surgeon :hocho:
+I’m Dr Jonathan Salo, I'm a GI Cancer Surgeon in Charlotte, North Carolina. These videos are designed to educate you about cancer and its treatment and help you and you cancer care team make the right decisions for you. :hocho:. If you or someone close to you has recently been diagnosed with gastric cancer, this video is intended for you. 
 
-::: notes
-On the left side, you have ... and, on the right side, the first image is ....
 
-The second image has been ...
-:::
+To start, gastric cancer is cancer of the stomach. The terms can be used interchangeably
 
-In this video you’ll learn about:
 
-- Definitions of cancer Terms
-- Staging of gastric ancer
-- Diagnostic Tests
+Food passes from the throat to the esophagus into the stomach. After leaving the stomach, it passes into the duodenum and finally into the jejunum, the first part of the small intestines.
 
-Anatomy
+The focus in this video is on cancers of the stomach.
 
-Food passes from the throat to the esopahgus into the stomach.
+As it turns out, cancers can also form in the esophagus.
 
-A one-way musclar valve called the lower esophageal sphincter keeps food and acid from refluxing back up into the esophagus
+To make things more complicated, cancers can also form in the area where the esophagus and stomach meet, called the gastroesophageal junction.
 
-In the stomach, food is mixed with acid and enzymes to begin digestion.
+The cancers of the gastroesophageal junction behave similar to cancers of the esophagus, so they are often grouped together. 
 
-The stomach churn/massages the food to help with breakdown
+We have other videos that focus on cancer of the esophagus and gastroesophageal junction
 
-The food is then released from the stomach in small quantities through anoter musclular valve called the pylorus
+This video focuses on cancers of the stomach, or gastric cancers.
 
-Cancer Terms
+Let‘s review some cancer terms. A **tumor** is an abnormal growth. 
 
-Let‘s start with some definitions. A **tumor** is an abnormal growth. Tumors can be either benign or malignant
+Tumors can be either benign or malignant
 
-A **benign** tumor of the esophagus may grow over time and cause obstruction and make it difficult to swallow, but it won’t ever spread anywhere else
+A **benign** tumor of the stomach may grow over time, but it won’t ever spread anywhere else
 
-A **malignant** tumor of the esophagus has the potential to spread elsewhere in the body. This could be to the nearby lymph nodes, the lungs, or the liver.
+A **malignant** tumor of the stomach has the *potential* to spread elsewhere in the body. This could be to the lymph nodes, the lungs, the liver, so the bone *or* spread inside the abdominal cavity..
 
 **Cancer** is another term for a malignant tumor
 
@@ -56,65 +50,96 @@ In most cases, the diagnosis of esophageal cancer is made by endoscopy, also cal
 
 Under sedation, a flexible scope is passed through the mouth into the stomach, which allows viewing the inside of the stomach.
 
-------------------------------------------------------------------------
-
 If a tumor is found in the stomach, a small portion can be removed, which is called a **biopsy**
+
+--------
 
 The biopsy is examined by a pathologist, who will determine whether the tumor is benign or whether it is a cancer
 
-------------------------------------------------------------------------
+If the biopsy shows cancer, the next step is staging. Staging is the process of finding out the *size* of the tumor and whether or not there has been spread to the lymph nodes or other places in the body.
 
-## Staging
+The cancer treatment is determined by the stage
 
-If the biopsy shows cancer, the next step is staging. Staging is the process of finding out the size of the tumor and whether or not there has been spread to the lymph nodes or other places in the body.
+
 
 Once the stage has been determined, it will be possible to determine the best therapy
 
-------------------------------------------------------------------------
-
-In order to determine the stage, we will focus on three different areas:
+Staging is going to focus on three areas:
 
 The first is the *tumor*. How large is the tumor? And more importantly, how deeply has it grown into the wall of the esophagus?
 
 The second is whether there is spread to the *lymph nodes*.
 
-The third is whether there is *metastasis* or spread to other parts of the body
+The third is whether there is spread to other parts of the body 
+
+---
+
+spread to other parts of the body is called *metastasis* 
+
+---
+
+We will start by looking at the wall of the stomach. The wall of the stomach has multiple layers, shown here.
+
+(pause for "video")
+
+
+The inner layer is the mucosa, (32)
+
+followed by the submucosa, 
+
+followed by the muscularis
+
+Outside of the muscularis is the serosa.
+
+
+Surrounding the stomach are lymph nodes. The purpose of lymph nodes is to filter the blood and help fight infections, but in some cases cancers from the stomach can spread to the lymph nodes
 
 ------------------------------------------------------------------------
 
-Some drawings will help. The wall of the stomach has multiple layers, shown here.
+In its earliest stages, cancer of the stomach start in the inner, or most superficial layer, called with mucosa. (33)
 
-![Esophagus Tumors](images/tumor_full.png){fig-align="left"}
+With time, however, the cancer can continue to grow and invade deeper into the wall of the esophagus. (34)
 
-------------------------------------------------------------------------
+(pause) - (35)
 
-Surrounding the esophagus are lymph nodes. The purpose of lymph nodes is to filter the blood and help fight infections, but in some cases cancers in the esophagus can spread to the lymph nodes
+(pause (36)
 
-------------------------------------------------------------------------
+The deeper the cancer invades into the wall of the esophagus, the more likely it is that cancer cells can spread to lymph nodes (37)
 
-In its earliest stages, cancer of the esophagus starts on the inner, or most superficial layer, called with mucosa.
 
-With time, however, the cancer can continue to grow and invade deeper into the wall of the esophagus. The deeper the cancer invades into the wall of the esophagus, the more likely it is that cancer cells can spread elsewhere
-
-------------------------------------------------------------------------
-
-If cancer cells spread to the lymph nodes, there is a chance that some cells will break off and spread to the liver or lungs.
-
-Metastasis is spread to other parts of the body such as liver, lungs, or bone.
-
-------------------------------------------------------------------------
-
-To review, the stage consists of 3 parts:
+To review, the stage consists of 3 parts: (38)
 
 - T for Tumor
 
 - N for Nodes
 
-- M for Metastasis
+- M for Metastasis or spread to other organs
 
-------------------------------------------------------------------------
+We will first consider the tumor (39)
 
-## Tumor
+T1a tumors invade just the top layer, or mucosa (40)
+
+T1b tumors invade into the submucosa (41)
+
+T2 tumors invade into the muscularis (42)
+
+T3 tumors go all the way throough the muscularis (43)
+
+It can be difficult to tell how deep a tumor has invaded just by looking from the surface.
+
+For small tumors, *endoscopic ultrasound* can be helpful. This is an endoscopic procedure done under sedation much like a EGD and it can help determine the T stage of a stomach tumor. (44)
+
+The EGD scope has an ultrasound probe on the end, which can be used to examine the tumor (45)
+
+Evaluation of the *lymph nodes* is the second part of staging (45)
+
+
+
+
+
+to determine how thick the tumor is and assign it a T stage.
+
+
 
 - T1 tumor involves the top layers of the esophagus
 - T2 tumor invades into the muscular layer
