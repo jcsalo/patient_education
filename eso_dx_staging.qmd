@@ -33,9 +33,9 @@ The second image has been ...
 
 ## In this video you’ll learn about:
 
--   Definitions of cancer Terms
--   Staging of esophageal cancer
--   Diagnostic Tests
+- Definitions of cancer Terms
+- Staging of esophageal cancer
+- Diagnostic Tests
 
 ------------------------------------------------------------------------
 
@@ -117,20 +117,20 @@ Metastasis is spread to other parts of the body such as liver, lungs, or bone.
 
 To review, the stage consists of 3 parts:
 
--   T for Tumor
+- T for Tumor
 
--   N for Nodes
+- N for Nodes
 
--   M for Metastasis
+- M for Metastasis
 
 ------------------------------------------------------------------------
 
 ## Tumor
 
--   T1 tumor involves the top layers of the esophagus
--   T2 tumor invades into the muscular layer
--   T3 tumor invades all the way through the muscular layer
--   T4 tumor invades into nearby structures such as the aorta or the airway
+- T1 tumor involves the top layers of the esophagus
+- T2 tumor invades into the muscular layer
+- T3 tumor invades all the way through the muscular layer
+- T4 tumor invades into nearby structures such as the aorta or the airway
 
 ------------------------------------------------------------------------
 
@@ -142,8 +142,8 @@ There are of course exceptions, but this is a general guideline
 
 ## Nodes
 
--   N0 – No lymph nodes involved
--   N+ - Lymph nodes involved with cancer
+- N0 – No lymph nodes involved
+- N+ - Lymph nodes involved with cancer
 
 ------------------------------------------------------------------------
 
@@ -151,9 +151,9 @@ There are of course exceptions, but this is a general guideline
 
 The M classification refers to metastasis Metastasis = spread of cancer to other organs such as the lungs, liver, or bone
 
--   M0 – No signs of spread to other organs
+- M0 – No signs of spread to other organs
 
--   M1 – Spread to other organs
+- M1 – Spread to other organs
 
 ------------------------------------------------------------------------
 

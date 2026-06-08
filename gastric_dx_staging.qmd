@@ -14,87 +14,80 @@ editor: visual
 from: markdown+emoji
 ---
 
-I’m Dr Jonathan Salo, I'm a GI Cancer Surgeon in Charlotte, North Carolina. These videos are designed to educate you about cancer and its treatment and help you and you cancer care team make the right decisions for you. :hocho:. If you or someone close to you has recently been diagnosed with gastric cancer, this video is intended for you. 
+**7** I’m Dr Jonathan Salo, I'm a GI Cancer Surgeon in Charlotte, North Carolina. These videos are designed to educate you about cancer and its treatment and help you and you cancer care team make the right decisions for you. :hocho:.
 
 
-To start, gastric cancer is cancer of the stomach. The terms can be used interchangeably
+Our topic for this video is gastric cancer (2) **Slides**
 
+To start, gastric cancer is cancer of the stomach. (3) The terms can be used interchangeably
 
-Food passes from the throat to the esophagus into the stomach. After leaving the stomach, it passes into the duodenum and finally into the jejunum, the first part of the small intestines.
+**2** (4) When we think about digestion, food passes from the throat into the esophagus (4)
 
-The focus in this video is on cancers of the stomach.
+From the esophagus it passes into the stomach. After leaving the stomach, it passes into the duodenum and finally into the jejunum, the first part of the small intestines. (5)
 
-As it turns out, cancers can also form in the esophagus.
+(6) The focus in this video is on cancers of the stomach.
 
-To make things more complicated, cancers can also form in the area where the esophagus and stomach meet, called the gastroesophageal junction.
+As it turns out, cancers can also form in the esophagus. (7)
 
-The cancers of the gastroesophageal junction behave similar to cancers of the esophagus, so they are often grouped together. 
+(8) To make things more complicated, cancers can also form in the area where the esophagus and stomach meet, called the gastroesophageal junction.
+
+The cancers of the gastroesophageal junction behave similar to cancers of the esophagus, so they are often grouped together.
 
 We have other videos that focus on cancer of the esophagus and gastroesophageal junction
 
-This video focuses on cancers of the stomach, or gastric cancers.
+(10) This video focuses on cancers of the stomach, or gastric cancers. 
 
-Let‘s review some cancer terms. A **tumor** is an abnormal growth. 
+**7** (11) Let‘s review some cancer terms. A **tumor** is an abnormal growth.
 
 Tumors can be either benign or malignant
 
-A **benign** tumor of the stomach may grow over time, but it won’t ever spread anywhere else
+(12) A **benign** tumor of the stomach may grow over time, but it won’t ever spread anywhere else
 
-A **malignant** tumor of the stomach has the *potential* to spread elsewhere in the body. This could be to the lymph nodes, the lungs, the liver, so the bone *or* spread inside the abdominal cavity..
+(13) A **malignant** tumor of the stomach has the *potential* to spread elsewhere in the body. This could be to the lymph nodes, the lungs, the liver, so the bone *or* spread inside the abdominal cavity..
 
-**Cancer** is another term for a malignant tumor
+(14) **Cancer** is another term for a malignant tumor
 
-## EGD
 
-In most cases, the diagnosis of esophageal cancer is made by endoscopy, also called and EGD for esophago-gastroduodenoscopy
+**2** (15) In most cases, the diagnosis of esophageal cancer is made by endoscopy, also called and EGD for esophago-gastroduodenoscopy
 
 Under sedation, a flexible scope is passed through the mouth into the stomach, which allows viewing the inside of the stomach.
 
 If a tumor is found in the stomach, a small portion can be removed, which is called a **biopsy**
 
---------
 
-The biopsy is examined by a pathologist, who will determine whether the tumor is benign or whether it is a cancer
+(16) The biopsy is examined by a pathologist, who will determine whether the tumor is benign or whether it is malignant, meaning a cancer
 
-If the biopsy shows cancer, the next step is staging. Staging is the process of finding out the *size* of the tumor and whether or not there has been spread to the lymph nodes or other places in the body.
+**7** (17) If the biopsy shows cancer, the next step is staging. Staging is the process of finding out the *size* of the tumor and whether or not there has been spread to the lymph nodes or other places in the body.
 
-The cancer treatment is determined by the stage
-
-
+(18) The cancer treatment is determined by the stage
 
 Once the stage has been determined, it will be possible to determine the best therapy
 
-Staging is going to focus on three areas:
+(19) Staging is going to focus on three areas:
 
 The first is the *tumor*. How large is the tumor? And more importantly, how deeply has it grown into the wall of the esophagus?
 
 The second is whether there is spread to the *lymph nodes*.
 
-The third is whether there is spread to other parts of the body 
-
----
-
-spread to other parts of the body is called *metastasis* 
-
----
-
-We will start by looking at the wall of the stomach. The wall of the stomach has multiple layers, shown here.
-
-(pause for "video")
+The third is whether there is spread to other parts of the body
 
 
-The inner layer is the mucosa, (32)
+(20)...spread to other parts of the body is called *metastasis*
 
-followed by the submucosa, 
 
-followed by the muscularis
+(21) We will start by looking at the wall of the stomach. The wall of the stomach has multiple layers, shown here.
+
+(pause for "video") 22-23-24-25-26-27-28-29-30-31
+
+**2** The inner layer is the mucosa, (32)
+
+followed by the submucosa,
+
+followed by the muscularis, or muscle layer
 
 Outside of the muscularis is the serosa.
 
-
 Surrounding the stomach are lymph nodes. The purpose of lymph nodes is to filter the blood and help fight infections, but in some cases cancers from the stomach can spread to the lymph nodes
-
-------------------------------------------------------------------------
 
 In its earliest stages, cancer of the stomach start in the inner, or most superficial layer, called with mucosa. (33)
 
@@ -106,8 +99,7 @@ With time, however, the cancer can continue to grow and invade deeper into the w
 
 The deeper the cancer invades into the wall of the esophagus, the more likely it is that cancer cells can spread to lymph nodes (37)
 
-
-To review, the stage consists of 3 parts: (38)
+**7** To review, the stage consists of 3 parts: (38)
 
 - T for Tumor
 
@@ -131,100 +123,76 @@ For small tumors, *endoscopic ultrasound* can be helpful. This is an endoscopic 
 
 The EGD scope has an ultrasound probe on the end, which can be used to examine the tumor (45)
 
-Evaluation of the *lymph nodes* is the second part of staging (45)
+Evaluation of the *lymph nodes* is the second part of staging (46)
 
+Cancers with no signs of spread to the lymph nodes are considered "N-zero" (47)
 
+...while cancers with signs of spread to the lymph nodes are considered "N-positive"
 
+A CT scan is usually the first test to look for enlarged lymph nodes. (48)
 
+A PET scan is similar to a CT scan. It differs because of a tracer which is injected intravenously which lights up areas of cancer (50)
 
-to determine how thick the tumor is and assign it a T stage.
+In this example of a PET scan, you can see how the area of the cancer lights up in yellow (51 - PET image)
 
+The third part of staging is the M stage, for metastasis. (52)
 
+Cancers that had not spread to other organs are considered M-zero (53)
 
-- T1 tumor involves the top layers of the esophagus
-- T2 tumor invades into the muscular layer
-- T3 tumor invades all the way through the muscular layer
-- T4 tumor invades into nearby structures such as the aorta or the airway
+Cancers that have spread to other organs are considered M1 (54)
 
-------------------------------------------------------------------------
+There are several common sites to which gastric cancer can spread, such as the liver (55)
 
-This may sound confusing, but as a general rule, if someone with esophageal cancer has difficulty swallowing, the tumor is usually a T3.
+... lungs (56)
 
-There are of course exceptions, but this is a general guideline
+... or bones (57). The CT scan and PET scans are used to make sure there are no signs of spread.
 
-------------------------------------------------------------------------
+An additional pattern of potential spread is *carcinomatosis* (58). This is spread inside the abdominal cavity.
 
-## Nodes
+A laparoscopy procedure is performed
 
-- N0 – No lymph nodes involved
-- N+ - Lymph nodes involved with cancer
+Cancer can grow in small nodules no larger than a grain of rice, and frequently can't be seen on CT or PET scans. (59)
 
-------------------------------------------------------------------------
+Detection of carcinomatosis requires looking inside the abdodminal cavity with a small surgical procedure called *laparoscopy* (60)
 
-# Metastasis
+A laparoscope is a telescope the diameter of a pencil (63)
 
-The M classification refers to metastasis Metastasis = spread of cancer to other organs such as the lungs, liver, or bone
+A laparoscope can be used to inspect the inside of the abdomen through a small incision (64)
 
-- M0 – No signs of spread to other organs
+To review, staging consists of three parts: T for Tumor N for Nodes and M for Metastasis (65)
 
-- M1 – Spread to other organs
+We will briefly summarize treatments:
 
-------------------------------------------------------------------------
+*Superficial* cancers are T1 and limited to the mucosa. These can usually be treated with endoscopic therapy alone. Surgery can be avoided in many of these cases. (66)
 
-# Diagnostic Tests
+*Localized* cancers are T2 tumors that invade the muscle and are treated with surgery, also termed esophagectomy (67)
 
-Next we will talk about some of the diagnostic tests that are used for staging.
+*Locally-advanced* cancers are T3 or Node-positive and are usually treated with chemotherapy first, followed by surgery (68)
 
-When you meet with your doctors, one the first things they will do is to come up with a plan for testing that is tailored to you and your particular tumor. So we will talk about these tests in general terms, but not all tests are needed for all patients
+*Metastatic* cancers are treated initially with intravenous chemotherapy. (69)
 
-------------------------------------------------------------------------
+This allows cancer-killing drugs to circulate through the bloodstream (70)
 
-# Scans
+After initial treatment with chemotherapy, some patients are candidates for additional therapy (71)
 
-A CT scan is usually the first test for staging. This will show whether there is any signs of metastasis or spread to other organs such as the lung, liver, or bone
+Surgery is used in some patients with metastatic disease after initial chemotherapy. (72)
 
-------------------------------------------------------------------------
+Gastrectomy can be used to remove the tumor in the stomach (73)
 
-# PET Scan
+Cytoreductive surgery can be used to remove areas of spread of cancer within the abdomen (74)
 
-A PET scan is a specialized scan which combines a CT scan with an injection of a small amount of tracer which lights up areas of cancer.
+In some patients, chemotherapy can be administered into the abdominal cavity, also known as *intraperitoneal* chemotherapy (75)
 
-------------------------------------------------------------------------
+Intraperitoneal chemotherapy can be administered as a surgical procedure called *HIPEC* (76)
 
-# EUS
+Intraperitoneal chemotherapy can also be administered as an outpatient after surgical placement of a intraperitoneal catheter
 
-In cases where it is important to know about the exact size of the tumor, an endoscopic ultrasound exam can be done. This procedure is similar to an EGD, but the endoscope has an ultrasound sensor on the end of the scope which produces an image of the tumor
+78: Talking head
 
-------------------------------------------------------------------------
-
-In some cases, particularly for cancers in the stomach, it is important to look for signs of spread in the abdominal cavity. In some situations, cancers can spread in the abdominal cavity but the areas are so small they don’t show up on a CT scan. In these cases, a laparoscopy is helpful.
-
-------------------------------------------------------------------------
-
-## Laparoscopy
-
-Laparoscopy is a surgical procedure done under a general anesthetic. Several incisions ¼” long are made, and a telescope is inserted into the abdominal cavity. This allows an examination of the abdominal cavity to look for signs of spread.
-
-The procedure is usually done as an outpatient, so you can go home the same day.
-
-------------------------------------------------------------------------
-
-The next video in our series discusses your esophageal cancer care team:
-
-[Esophageal Cancer Care Team](03-Eso_Care_Team.html)
-
-------------------------------------------------------------------------
+We are working on preparing videos to address each of these different treatments.
 
 We hope you have found this video helpful. This videos and others like it are designed to
 
 educate patients and families about esophageal cancer
 
-and equip them for their discussions with their esophageal cancer care team.
-
-As always, these videos are no substitute for expert medical advice.
-
-------------------------------------------------------------------------
-
-Feel free to leave a comment or a question, or if you have suggestions for future videos.
-
-------------------------------------------------------------------------
+We are working to prepare additional videos, so please subscribe to be notified when we post new videos. Feel free to leave a comment about your experience with gastric cancer or if you have suggestions for new videos.
