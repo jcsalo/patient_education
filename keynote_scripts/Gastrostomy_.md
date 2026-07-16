@@ -16,7 +16,7 @@ While I am a surgeon, I’m not *your* surgeon. There is of course no substitute
 
 ## Gastrostomy Tube
 
-The topic for this video is a feeding jejunostomy
+The topic for this video is a feeding gastrostomy
 
 ## Feeding Tube
 
@@ -41,6 +41,8 @@ There are two different type of feeding tubes:
 A Gastrostomy tube is placed into the stomach. Feeding can be done with a syringe
 
 A Jejunostomy tube is placed into the small intestine called the jejunum. Feeding require a pump
+
+We have a companion video about feeding jejunostomy tubes
 
 ## 
 
@@ -78,15 +80,15 @@ The feedings can be simply administered slowly with a syringe.
 
 ## Administer Formula + Water
 
-Another technique is to use the “Funnel” technique without the plunger
+Another technique is to use the remove the plunger from the syringe to create a “funnel”
 
 ## 
 
-The plunger is removed from the syringe
+The plunger is removed from the syringe, leaving just the syringe barrel…
 
 ## 
 
-and connected to the feeding tube
+… which is connected to the feeding tube
 
 ## 
 
@@ -94,7 +96,7 @@ Water or formula can then be poured into the barrel of the syringe like a funnel
 
 ## How Much Formula Do I Need?
 
-An important question is “How much formula do I need?”
+A common question is “How much formula do I need?”
 
 ## 
 
@@ -102,35 +104,77 @@ Your dietitian will calculate your needs, but this can be between 4 and 6 carton
 
 ## Administer Medicines
 
+A few medicines are available in liquid form
+
+## 
+
+An example is the pain reliever Acetaminophen, also known by the brand name of Tylenol
+
 ## Administer Medicines
 
-## Medicines which can’t be crushed
+Some pills can be crushed and resuspended in water
 
 ## Medicines which can’t be crushed
 
+A word of caution, however, as some pills can’t be crushed:
+
+Extended release, Sustained release, or Controlled release
+
+## Medicines which can’t be crushed
+
+In addition, Flomax, or tamsulosin, can’t be given via a tube.
+
+The same with liquid-filled capsules and soft-gel capsules.
+
+Your pharmacist can help here
+
 ## Medicine Administration
+
+Many medicines, however, can be crushed and resuspended in water.
 
 ## 
 
-## 
+You place a pill inside the chamber of a pill crusher
 
 ## 
 
-## Medicine Administration
+Screw the cap on and twist the cap back and forth to crush the tablet inside the chamber
 
 ## 
 
+You now have a fine powder
+
+## Medicine Administration
+
+…and you can dissolve the power in water, typically 60mL
+
 ## 
 
-## Medicine Administration
+The water is introduced into the chamber, and once the powder is dissolved,
+
+## 
+
+the liquid is drawn up into the syringe.
 
 ## Medicine Administration
 
-## Medicine Administration
+The medicine can then be injected into the feeding tube
 
 ## Medicine Administration
 
+It is important to flush the tube with additional water after administering the medicine
+
 ## Medicine Administration
+
+It’s important to administer the medicines separately, and not mix them together
+
+## Medicine Administration
+
+It is also important to flush the tube between medicines
+
+## Medicine Administration
+
+Your pharmacist can help by making certain that the medicines you are taking are suitable to be crushed and given through a feeding tube.
 
 ## 
 

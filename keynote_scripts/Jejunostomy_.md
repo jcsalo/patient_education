@@ -200,7 +200,7 @@ You now have a fine powder
 
 ## Medicine Administration
 
-An you can dissolve the power in water, typically 60Ml
+…and you can dissolve the power in water, typically 60mL
 
 ## 
 
@@ -224,7 +224,7 @@ It’s important to administer the medicines separately, and not mix them togeth
 
 ## Medicine Administration
 
-It is important to flush the tube between medicines
+It is also important to flush the tube between medicines
 
 ## Medicine Administration
 

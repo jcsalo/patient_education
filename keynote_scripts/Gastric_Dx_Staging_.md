@@ -1,5 +1,5 @@
 ---
-title: "Gastrid_Dx_Staging"
+title: "Gastric_Dx_Staging"
 format:
   docx:
     number-sections: true
@@ -304,31 +304,31 @@ Metastatic cancers are treated initially with intravenous chemotherapy. (69)
 
 This allows cancer-killing drugs to circulate through the bloodstream (70)
 
-## Metastatic Disease
+## Peritoneal Metastasis (M1)
 
 After initial treatment with chemotherapy, some patients are candidates for additional therapy (71)
 
-## Metastatic Disease
+## Peritoneal Metastasis (M1)
 
 Surgery is used in some patients with metastatic disease after initial chemotherapy. (72)
 
-## Metastatic Disease
+## Peritoneal Metastasis (M1)
 
 Gastrectomy can be used to remove the tumor in the stomach (73)
 
-## Metastatic Disease
+## Peritoneal Metastasis (M1)
 
 Cytoreductive surgery can be used to remove areas of spread of cancer within the abdomen (74)
 
-## Metastatic Disease
+## Peritoneal Metastasis (M1)
 
 In some patients, chemotherapy can be administered into the abdominal cavity, also known as intraperitoneal chemotherapy (75)
 
-## Metastatic Disease
+## Peritoneal Metastasis (M1)
 
 Intraperitoneal chemotherapy can be administered as a surgical procedure called HIPEC (76)
 
-## Metastatic Disease
+## Peritoneal Metastasis (M1)
 
 Intraperitoneal chemotherapy can also be administered as an outpatient after surgical placement of a intraperitoneal catheter (77)
 

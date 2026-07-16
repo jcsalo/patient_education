@@ -20,7 +20,7 @@ output: html_document
 | Eso CV Port | [Script](ge_cvport.docx) | [HTML](ge_cvport.html) | [PDF](ge_cvport.pdf) |  |
 | Jejunostomy | [Script](keynote_scripts/Jejunostomy_.docx) | [HTML](ge_jejunostomy.html) | [PDF](ge_jejunostomy.pdf) |  |
 | Gastrostomy | [Script](keynote_scripts/Gastrostomy_.docx) | [HTML](ge_gastrostomy.html) | [PDF](ge_gastrostomy.pdf) |  |
-| Gastric DX/Stage | [Script](keynote_scripts/Gastrid_Dx_Staging_.docx) |  |  |  |
+| Gastric DX/Stage | [Script](keynote_scripts/Gastric_Dx_Staging_.docx) |  |  |  |
 | GE Metastatic Disease | [Script](ge_metastatic.docx) | [HTML](ge_metastatic.html) | [PDF](ge_metastatic.pdf) |  |
 
 | Exercise \| [Script](exercise_slides.html) \| [HTML](exercise.html) \| [PDF](exercise.pdf) \| \|
