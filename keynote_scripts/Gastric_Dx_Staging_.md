@@ -250,33 +250,41 @@ There are several common sites to which gastric cancer can spread, such as the l
 
 ... or bones (57). The CT scan and PET scans are used to make sure there are no signs of spread.
 
-## Carcinomatosis
+## Peritoneum
 
 An additional pattern of potential spread is carcinomatosis (58). This is spread inside the abdominal cavity.
 
-## Carcinomatosis
+## Peritoneum
 
-Cancer can grow in small nodules no larger than a grain of rice, and frequently can't be seen on CT or PET scans. (59)
+The peritoneum is the lining of the abdominal cavity.
 
-## Carcinomatosis
+Gastric cancer cells can break off from the stomach and attach to the peritoneum and grow.
 
-Detection of carcinomatosis requires looking inside the abdodminal cavity with a small surgical procedure called laparoscopy (60)
+This is known as peritoneal metastasis or carcinomatosis.
+
+## Peritoneal Metastasis
+
+Peritoneal metastasis can be very difficult to detect, because the disease often consists of multiple small nodules No larger than a grain of rice, and frequently can't be seen on CT or PET scans. (59)
+
+## Peritoneal Metastasis
+
+Detection of peritoneal metastasis requires looking inside the abdodminal cavity with a minor surgical procedure called laparoscopy (60)
 
 ## Laparoscopy
 
-Laparoscopy is a minor surgical procedure performed under a general anesthetic as an outpatient
+Laparoscopy is a minor surgical procedure performed under a general anesthetic and it’s usually done as an outpatient
 
 ## Laparoscopy
 
-Several small incisions are made, and a scope is inserted to examine the inside of the abdomen
+Several small incisions are made, and a instrument the diameter of a pencil is inserted to examine the inside of the abdomen
 
 ## 
 
-A laparoscope is an instrument the diameter of a pencil (63)
+A laparoscope is an instrument used to look inside the abdominal cavity (63)
 
 ## 
 
-A laparoscope can be used to inspect the inside of the abdomen through a small incision (64)
+Laparoscopy allows the detection of peritoneal metastasis within the abdomen (64)
 
 ## Staging
 
@@ -303,6 +311,10 @@ Metastatic cancers are treated initially with intravenous chemotherapy. (69)
 ## Treatment
 
 This allows cancer-killing drugs to circulate through the bloodstream (70)
+
+## Metastastic Disease (M1)
+
+As we discussed earlier, there are a number of different sites where gastric cancer can spread: Liver Lungs Bone Or inside the abdominal cavity. This is referred to as the peritoneum
 
 ## Peritoneal Metastasis (M1)
 
