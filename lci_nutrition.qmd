@@ -24,9 +24,9 @@ bibliography: zotero.bib
 
 :::::: columns
 ::: {.column width="50%"}
--   Esophagus delivers food to the stomach
--   Stomach stores food and delivers it in small quantities to the jejunum
--   Jejunum begins digestion in the small intestines
+- Esophagus delivers food to the stomach
+- Stomach stores food and delivers it in small quantities to the jejunum
+- Jejunum begins digestion in the small intestines
 :::
 
 :::: {.column width="50%"}

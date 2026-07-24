@@ -72,7 +72,7 @@ A **malignant** tumor of the stomach has the *potential* to spread elsewhere in 
 
 ## Tumor
 
- **Cancer** is another term for a malignant tumor (14)
+**Cancer** is another term for a malignant tumor (14)
 
 ## Upper Endoscopy = EGD. **2**
 
@@ -80,10 +80,9 @@ In most cases, the diagnosis of esophageal cancer is made by endoscopy, also cal
 
 Under sedation, a flexible scope is passed through the mouth into the stomach, which allows viewing the inside of the stomach.
 
-
 If a tumor is found in the stomach, a small portion can be removed, which is called a **biopsy**
 
-## (Microscope) 
+## (Microscope)
 
 The biopsy is examined by a pathologist, who will determine whether the tumor is benign or whether it is malignant, meaning a cancer (16)
 
@@ -109,8 +108,7 @@ The third is whether there is spread to other parts of the body
 
 ## Staging TNM
 
-T for Tumor
-N for Lymph Nodes
+T for Tumor N for Lymph Nodes
 
 ...spread to other parts of the body is called *metastasis* (20)
 
@@ -172,7 +170,7 @@ With time, however, the cancer can continue to grow and invade deeper into the w
 
 The deeper the cancer invades into the wall of the esophagus, the more likely it is that cancer cells can spread to lymph nodes (37)
 
-## Staging  **7** 
+## Staging **7**
 
 To review, the stage consists of 3 parts: (38)
 
@@ -238,7 +236,7 @@ A PET scan is similar to a CT scan. It differs because of a tracer which is inje
 
 In this example of a PET scan, you can see how the area of the cancer lights up in yellow (51 - PET image)
 
-## Staging M **7* Overlay
+## Staging M \*\*7\* Overlay
 
 The third part of staging is the M stage, for metastasis. (52)
 
@@ -250,7 +248,7 @@ Cancers that had not spread to other organs are considered M-zero (53)
 
 Cancers that have spread to other organs are considered M1 (54)
 
-## Liver **2**  Slides
+## Liver **2** Slides
 
 There are several common sites to which gastric cancer can spread, such as the liver (55)
 
@@ -270,11 +268,11 @@ An additional pattern of potential spread is *carcinomatosis* (58). This is spre
 
 Cancer can grow in small nodules no larger than a grain of rice, and frequently can't be seen on CT or PET scans. (59)
 
-## Carcinomatosis - Laparoscopy 
+## Carcinomatosis - Laparoscopy
 
 Detection of carcinomatosis requires looking inside the abdodminal cavity with a small surgical procedure called *laparoscopy* (60)
 
-## Laparoscopy 
+## Laparoscopy
 
 Laparoscopy is a minor surgical procedure performed under a general anesthetic as an outpatient
 
@@ -282,7 +280,7 @@ Laparoscopy is a minor surgical procedure performed under a general anesthetic a
 
 Several small incisions are made, and a scope is inserted to examine the inside of the abdomen
 
-## Laparoscoy image **2** 
+## Laparoscoy image **2**
 
 A laparoscope is a telescope the diameter of a pencil (63)
 
@@ -311,7 +309,6 @@ We will briefly summarize treatments:
 ## Metastatic
 
 *Metastatic* cancers are treated initially with intravenous chemotherapy. (69)
-
 
 ## Metastatic
 
@@ -345,9 +342,9 @@ Intraperitoneal chemotherapy can be administered as a surgical procedure called 
 
 Intraperitoneal chemotherapy can also be administered as an outpatient after surgical placement of a intraperitoneal catheter (77)
 
-## Talking Head **1** Talking Head 
+## Talking Head **1** Talking Head
 
-We are working on preparing videos to address each of these different treatments, so please subscribe to be notified when we post new videos. 
+We are working on preparing videos to address each of these different treatments, so please subscribe to be notified when we post new videos.
 
 (pause)
 
