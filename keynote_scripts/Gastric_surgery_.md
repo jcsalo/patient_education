@@ -8,22 +8,12 @@ format:
 
 ## 1 Talking Head
 
-#### Slide content
-
-I'm Dr Jonathan Salo, a GI Cancer Surgeon at the in Charlotte, North Carolina If you’re seeing this video, changes are you or someone close to you has had an encounter with esophageal cancer. These videos are designed to educate you about cancer and its treatment and help you and you cancer care team make the right decisions for you.
-Of course, there is no substitute for the expert opinions of your cancer care team.
-
 I’m Dr Jonathan Salo, a GI Cancer Surgeon in Charlotte, North Carolina. These videos are designed to educate you about cancer and its treatment and help you and you cancer care team make the right decisions for you.
 
 Of course, there is no substitute for the expert opinions of your cancer care team.
 
 
 ## Surgery of the Stomach
-
-#### Slide content
-
-
-Different type of operations
 
 
 
@@ -36,30 +26,13 @@ Different Types of Operations
 
 ## Gastrectomy
 
-#### Slide content
-
-
-Surgical removal of some or all of the stomach
-
 Gastrectomy is the surgical removal some or all of the stomach (3)
 
 ## Gastrectomy
 
-#### Slide content
-
-
-Surgical removal of some or all of the stomach
-…and sometimes removal of lymph nodes 
-
 ... and for some tumors this means removal of lymph nodes as well (4)
 
 ## How much Stomach?
-
-#### Slide content
-
-Depends upon:
-Tumor Type
-Tumor Location
 
 The differences between operations on the stomach is how much stomach is removed and how much remains.
 
@@ -71,28 +44,13 @@ The tumor location
 
 ## Types of Stomach Tumors
 
-#### Slide content
-
-Adenocarcinoma = “Stomach Cancer”
-
 When we talk about “stomach cancer” we generally refer to adenocarcinoma. 
 
 ## Types of Stomach Tumors
 
-#### Slide content
-
-Adenocarcinoma = “Stomach Cancer”
-GIST = GI Stromal Tumor
-
 Another tumor that can be found in the stomach is a GIST, or GI Stromal Tumor
 
 ## Types of Stomach Tumors
-
-#### Slide content
-
-Adenocarcinoma = “Stomach Cancer”
-GIST = GI Stromal Tumor
-Neuroendocrine tumor = Carcinoid
 
 And a third tumor is a neuroendocrine tumor otherwise known as a “carcinoid”
 
@@ -100,23 +58,11 @@ The type of surgery required will depend upon type of stomach tumor.
 
 ## Types of Stomach Tumors
 
-#### Slide content
-
-Adenocarcinoma → Can spread to nodes
-GIST 
-Neuroendocrine tumor
-
 Adenocarcinoma can spread to the lymph nodes, and can spread along the wall of the stomach.
 
 As a result, surgery for adenocarcinoma will remove a margin of normal stomach around the tumor, and will remove draining lymph nodes
 
 ## Types of Stomach Tumors
-
-#### Slide content
-
-Adenocarcinoma → Can spread to nodes
-GIST → Doesn’t spread to nodes
-Neuroendocrine tumor
 
 A GI Stromal Tumor does not tend to spread to lymph nodes and doesn’t spread along the wall of the stomach.
 
@@ -124,40 +70,21 @@ As a result, surgery for a GI Stromal Tumor does not require removal of as much 
 
 ## Types of Stomach Tumors
 
-#### Slide content
-
-Adenocarcinoma → Can spread to nodes
-GIST → Doesn’t spread to nodes
-Neuroendocrine tumor → ?
-
 Neuroendocrine tumors are a bit more complicated. Small tumors don’t tend to spread to lymph nodes, but larger tumors do have the potential to spread to lymph nodes. 
 
 Your surgeon will plan on operation based upon the risk of spread to lymph nodes.
 
 ## Partial Gastrectomy
 
-#### Slide content
-
-Removal of a portion of stomach without removal of nearby lymph nodes
-
 A Partial gastrectomy removes the tumor and a small amount of surrounding stomach but does not remove lymph nodes.
 
 
 ## Partial Gastrectomy
 
-#### Slide content
-
-Removal of a portion of stomach without removal of nearby lymph nodes (“wedge”)
-
 This is also know as a “wedge” resection
 
 
 ## Partial Gastrectomy
-
-#### Slide content
-
-Removal of a portion of stomach without removal of nearby lymph nodes
-GIST or small neuroendocrine tumors
 
 
 This operation is ideal for a GI Stromal Tumor or a small neuroendocrine tumor
@@ -172,12 +99,6 @@ For instance, for a tumor located in this area of the stomach, the tumor is remo
 The complexity of the surgery depends upon the location of the tumor relative to the nerves, blood vessels, and how close the tumor is to the esophagus.
 
 ## Distal Gastrectomy
-
-#### Slide content
-
-
-Removal of bottom half of stomach
-Suitable for small tumors in the lower part of stomach
 
 A distal gastrectomy remove the bottom half of the stomach
 
@@ -200,31 +121,13 @@ The bottom half of the stomach is removed…
 
 ## Adenocarcinoma
 
-#### Slide content
-
-
-Can spread to lymph nodes
-Can spread along the wall of the stomach
-
 Adenocarcinoma of the stomach can spread to lymph nodes AND can spread along the wall of the stomach.
 
 ## Surgery for Adenocarcinoma
 
-#### Slide content
-
-
-Remove lymph nodes
-Remove an extra margin of stomach
-
 Therefore surgery for adenocarcinoma of the stomach aims to remove the surrounding lymph nodes and remove an extra margin of stomach.
 
 ## Subtotal Gastrectomy
-
-#### Slide content
-
-
-Remove lymph nodes
-Remove an extra margin of stomach
 
 A subtotal gastrectomy is designed to remove lymph nodes and an extra margin of stomach
 
@@ -248,12 +151,6 @@ Here is an example of the location of a proximal tumor
 
 ## Proximal Tumors
 
-#### Slide content
-
-
-
-Total Gastrectomy - Removes all of stomach
-
 The conventional approach for cancers in the upper or proximal part of the stomach is a total gastrectomy
 
 ## Slide 30
@@ -265,12 +162,6 @@ In this operation, the whole stomach is removed…
 An the esophagus connected to the small intestines.
 
 ## Proximal Tumors
-
-#### Slide content
-
-
-
-Alternative to Total Gastrectomy
 
 In some special cases, there are alternatives to a total gastrectomy. 
 
@@ -308,11 +199,6 @@ The stomach is then fashioned into a tube…
 Which is then brought up into the chest to connect to the esophagus.
 
 ## Surgical Techniques
-
-#### Slide content
-
-Open Surgery
-Minimally-invasive Techniques
 
 Surgery on the stomach can be done using either open techniques using conventional incisions, or with minimally-invasive techniques using small incisions. 
 

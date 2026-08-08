@@ -42,11 +42,6 @@ While it won’t work to administer a syringe full of *formula* into a jejunosto
 
 ## Administer Medicines
 
-#### Slide content
-
-Liquid Medicines
-
-
 A few medicines are available in liquid form
 
 ## Slide 7
@@ -55,19 +50,9 @@ An example is the pain reliever Acetaminophen, also known by the brand name of T
 
 ## Administer Medicines
 
-#### Slide content
-
-Liquid Medicines
-Crush pills and Resuspend in water
-
 Some pills can be crushed and resuspended in water
 
 ## Medicines which can’t be crushed
-
-#### Slide content
-
-Extended Release
-Sustained Release Controlled Release
 
 A word of caution, however, as some pills can’t be crushed: 
 Extended release,
@@ -76,11 +61,6 @@ Controlled release
 
 ## Medicines which can’t be crushed
 
-#### Slide content
-
-Extended Release
-Sustained Release Controlled Release
-
 In addition, Flomax, or tamsulosin, can’t be given via a tube.
 
 The same with liquid-filled capsules and soft-gel capsules.
@@ -88,11 +68,6 @@ The same with liquid-filled capsules and soft-gel capsules.
 Your pharmacist can help here
 
 ## Medicine Administration
-
-#### Slide content
-
-Crush pills to powder→ Dissolve in 60ml water
-
 
 Many medicines, however, can be crushed and resuspended in water.
 
@@ -110,11 +85,6 @@ You now have a fine powder
 
 ## Medicine Administration
 
-#### Slide content
-
-Crush pills to powder→ Dissolve in 60ml water
-
-
 …and you can dissolve the power in water, typically 60mL
 
 ## Slide 16
@@ -127,46 +97,21 @@ the liquid is drawn up into the syringe.
 
 ## Medicine Administration
 
-#### Slide content
-
-Crush pills to powder→ Dissolve in 60ml water
-Inject medicine into feeding tube 
-
 The medicine can then be injected into the feeding tube
 
 ## Medicine Administration
-
-#### Slide content
-
-Crush pills to powder→ Dissolve in water
-Inject medicine into feeding tube Flush tube with additional water
 
 It is important to flush the tube with additional water after administering the medicine
 
 ## Medicine Administration
 
-#### Slide content
-
-Don’t mix medicines together
-
-
 It’s important to administer the medicines separately, and not mix them together
 
 ## Medicine Administration
 
-#### Slide content
-
-Don’t mix medicines together
-Flush tube between medicines 
-
 It is also important to flush the tube between medicines
 
 ## Medicine Administration
-
-#### Slide content
-
-Don’t mix medicines together
-Flush tube between medicines Check with your pharmacist
 
 Your pharmacist can help by making certain that the medicines you are taking are suitable to be crushed and given through a feeding tube.
 

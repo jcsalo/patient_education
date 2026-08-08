@@ -8,11 +8,6 @@ format:
 
 ##   L 1 Talking Head
 
-#### Slide content
-
-I'm Dr Jonathan Salo, a GI Cancer Surgeon at the in Charlotte, North Carolina If you’re seeing this video, changes are you or someone close to you has had an encounter with esophageal cancer. These videos are designed to educate you about cancer and its treatment and help you and you cancer care team make the right decisions for you.
-Of course, there is no substitute for the expert opinions of your cancer care team.
-
 I'm Dr Jonathan Salo, a GI Cancer Surgeon in Charlotte, North Carolina.
 
 These videos are designed to help you and your family make the right decisions about your cancer care. 
@@ -26,47 +21,23 @@ The topic for this video is a feeding jejunostomy
 
 ## Feeding Tube
 
-#### Slide content
-
-Formula
-
 A gastrostomy tube can be used to administer formula
 
 ## Feeding Tube
 
-#### Slide content
-
-Formula
-Water
-
 Water
 
 ## Feeding Tube
-
-#### Slide content
-
-Formula
-Water
-Medicines
 
 And medicines
 
 ## Feeding Tube
-
-#### Slide content
-
-Does not interfere with eating and drinking
 
 In most cases, a feeding tube will not interfere with eating or drinking by mouth
 
 
 
 ## Feeding Tube
-
-#### Slide content
-
-Does not interfere with eating and drinking
-Continue regular activities (exercise, showering)
 
 And you can continue with regular activities such as exercise and showering.
 
@@ -87,12 +58,6 @@ The topic of this video is a gastrostomy tube, which is placed into the stomach
 Here’s what a tube may look like
 
 ## Gastrostomy Tube
-
-#### Slide content
-
-Formula
-Water
-Medicines
 
 A gastrostomy tube can be used to administer
 
@@ -119,20 +84,10 @@ Your dietitian will also recommend how much water you will need each day.
 
 ## Bolus Feeding
 
-#### Slide content
-
-8-12 ounces of formula at each feeding
-Typically 3 or 4 feedings per day
-
 To use a gastrostomy tube, you will administer a volume or “bolus” of formula into the stomach several times per day.  Each feeding is typically 8 to 12 ounces of formula, which usually translates to 1 or 1 1/2 cartons.  Typically 3 or 4 feedings are done per day.
 Again, your dietitian will work with you to determine the best schedule for feeding
 
 ## Administer Formula + Water
-
-#### Slide content
-
-
-Gravity Technique
 
 The easiest way to administer formula or water is through the gravity technique.
 
@@ -156,22 +111,12 @@ It’s best to avoid cold formula or water, to avoid cramping.
 
 ## Unused Formula
 
-#### Slide content
-
-If you do not use an entire carton of formula:
-OK to store in the refrigerator for 24 hours
-
 If you don’t use up an entire carton of formula during a feeding session, you can store the remainder in the refrigerator for no more than 24 hours.  If you don’t use formula within 24 hours, it should be discarded.
 If you do use formula from the refrigerator, make sure to warm it up by letting it set at room temperature for 30minutes before using.
 
 
 
 ## Administer Formula + Water
-
-#### Slide content
-
-Syringe with Plunger
-
 
 If the flow of formula or water is too slow with the gravity method, it is possible to administer formula or water with a syringe and plunger
 
@@ -186,11 +131,6 @@ A syringe with plunger is connected to the gastrostomy tube, and slowly injected
 Again, it’s important to avoid cold formula or water and it’s important to inject slowly
 
 ## Administer Medicines
-
-#### Slide content
-
-
-
 
 Medicines can be administered through a gastrostomy tube if they can’t be taken by mouth.  We have a separate video which describes giving medicines through a feeding tube.
 
