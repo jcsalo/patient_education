@@ -18,15 +18,17 @@ output: html_document
 | Esophagectomy | [Script](eso_surgery.docx) | [HTML](eso_surgery.html) | [PDF](docs/eso_surgery.pdf) |  |
 | Choosing Surgery Team | [Script](choosing_surgical_team.docx) | [HTML](choosing_surgical_team.html) | [PDF](choosing_surgical_team.pdf) |  |
 | Eso CV Port | [Script](ge_cvport.docx) | [HTML](ge_cvport.html) | [PDF](ge_cvport.pdf) |  |
-| Jejunostomy | [Script](keynote_scripts/Jejunostomy_.docx) | [HTML](ge_jejunostomy.html) | [PDF](pdfs/Jejunostomy.pdf) |  |
+|  |  |  |  |  |
+| Jejunostomy | [Script](keynote_scripts/Jejunostomy_.docx) |  | [PDF](pdfs/Jejunostomy.pdf) |  |
 | Jejunostomy_DM | [Script](keynote_scripts/Jejunostomy_DM_.docx) | [HTML](ge_jejunostomy.html) | [PDF](pdfs/Jejunostomy_DM_.pdf) |  |
 | Gastrostomy | [Script](keynote_scripts/Gastrostomy_.docx) | [HTML](ge_gastrostomy.html) | [PDF](pdfs/Gastrostomy.pdf) |  |
-| Gastric DX/Stage | [Script](keynote_scripts/Gastric_Dx_Staging_.docx) |  | [PDF](pdfs/Gastric_Dx_Staging.pdf) |  |
+| Gastric DX/Stage | [Script](keynote_scripts/Gastric_Dx_Staging_.docx) | [HTML](ge_gastrostomy.html) | [PDF](pdfs/Gastric_Dx_Staging.pdf) |  |
 | Gastric Treatment Options | [Script](keynote_scripts/Gastric_Treatment_Options_.docx) |  | [PDF](pdfs/Gastric_Treatment_Options.pdf) |  |
 | Gastric Surgery | [Script](keynote_scripts/Gastric_surgery_.docx) |  | [PDF](pdfs/Gastric_surgery.pdf) |  |
 | Meds_Feeding_Tube | [Script](keynote_scripts/Med_Feeding_Tube_.docx) || [PDF](pdfs/Med_Feeding_Tube_.docx) ||
-| GE Metastatic Disease | [Script](ge_metastatic.docx) | [HTML](ge_metastatic.html) | [PDF](ge_metastatic.pdf) |  |
+|  |  |  |  |  |
 
+| GE Metastatic Disease | [Script](ge_metastatic.docx) | [HTML](ge_metastatic.html) | [PDF](ge_metastatic.pdf) |  |
 | Exercise | [Script](exercise_slides.html) | [HTML](exercise.html) | [PDF](exercise.pdf) | |
 | CMC Esophagectomy | [Script](keynote_scripts/cmc_esophagectomy_.docx) | [HTML](cmc_esophagectomy.html) | [PDF](cmc_esophagectomy.pdf) |
 | CMC Gastrectomy | [Script](keynote_scripts/cmc_gastrectomy_.docx) | [HTML](cmc_esophagectomy.html) | [PDF](cmc_esophagectomy.pdf) |
