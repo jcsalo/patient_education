@@ -23,19 +23,19 @@ The topic for this video is a the administration of medicines through feeding tu
 
 There are two basic kinds of feeding tubes:
 
-A gastrostomy tube is placed through the skin into the stomach
+A gastrostomy tube is placed through the abdominal wall into the stomach
 
-A jejunostomy tube is placed through the skin into the small intestine
+A jejunostomy tube is placed through the abdominal wall into the small intestine
 
 When necessary, medicines can be administered through either a gastrostomy or jejunostomy tube
 
 ## Slide 4
 
-Most tubes have a special spiral fitting at the end. Administration of medicines requires a syringe with the same spiral fitting called an EnFit fitting.
+Administration of medicines requires a EnFit syringe with a special spiral fitting at the end
 
 ## Slide 5
 
-Medicines in a syringe can be flushed into the jejunostomy tube slowly.
+Medicines in a syringe can be flushed into the feeding tube tube slowly.
 
 
 While it won’t work to administer a syringe full of *formula* into a jejunostomy tube, it is usually fine to inject a syringe full of water.
@@ -63,7 +63,7 @@ Controlled release
 
 In addition, Flomax, or tamsulosin, can’t be given via a tube.
 
-The same with liquid-filled capsules and soft-gel capsules.
+The same is true with liquid-filled capsules and soft-gel capsules.
 
 Your pharmacist can help here
 
@@ -73,19 +73,19 @@ Many medicines, however, can be crushed and resuspended in water.
 
 ## Slide 12
 
-You place a pill inside the chamber of a pill crusher
+A pill is placed inside the chamber of a pill crusher
 
 ## Slide 13
 
-Screw the cap on and twist the cap back and forth to crush the tablet inside the chamber
+The cap is screwed on and twisted  back and forth to crush the tablet inside the chamber
 
 ## Slide 14
 
-You now have a fine powder
+The pill has been crushed into a fine powder
 
 ## Medicine Administration
 
-…and you can dissolve the power in water, typically 60mL
+…which can be dissolved in water, typically 60mL
 
 ## Slide 16
 
@@ -105,7 +105,7 @@ It is important to flush the tube with additional water after administering the 
 
 ## Medicine Administration
 
-It’s important to administer the medicines separately, and not mix them together
+It’s important to administer the medicines separately, and not to mix them together
 
 ## Medicine Administration
 

@@ -17,9 +17,7 @@ Of course, there is no substitute for the expert opinions of your cancer care te
 
 
 
-In this video we'll discuss surgery of the stomach and we will focus on
-
-Different Types of Operations
+In this video we'll discuss surgery of the stomach and we will focus on the different Types of Operations
 
 
 
@@ -91,7 +89,7 @@ This operation is ideal for a GI Stromal Tumor or a small neuroendocrine tumor
 
 ## Slide 15
 
-For instance, for a tumor located in this area of the stomach, the tumor is removed
+For instance, for a tumor located in this area of the stomach, the tumor is removed…
 
 ## Slide 16
 
@@ -133,13 +131,15 @@ A subtotal gastrectomy is designed to remove lymph nodes and an extra margin of 
 
 ## Slide 24
 
+For a tumor located in the middle or lower part of the stomach…
+
 ## Slide 25
 
-In many cases, adenocarcinoma of the stomach is treated with subtotal gastrectomy, which removes the bottom 2/3 of the stomach
+A subtotal gastrectomy removes the bottom 2/3 of the stomach
 
 ## Slide 26
 
-Reconstruction is then performed by joining the stomach to the small intestines.
+Reconstruction is then performed by joining the remaining stomach to the small intestines.
 
 ## Proximal Tumors
 
@@ -147,37 +147,24 @@ Treatment of tumors in the upper stomach, called “proximal tumors” represent
 
 ## Slide 28
 
-Here is an example of the location of a proximal tumor
-
-## Proximal Tumors
-
-The conventional approach for cancers in the upper or proximal part of the stomach is a total gastrectomy
-
-## Slide 30
-
+The conventional approach for cancers in the upper or proximal part of the stomach is a total gastrectomy.
 In this operation, the whole stomach is removed…
 
-## Slide 31
+## Slide 29
 
 An the esophagus connected to the small intestines.
 
 ## Proximal Tumors
 
-In some special cases, there are alternatives to a total gastrectomy. 
+In some special cases, there are alternatives to a total gastrectomy for proximal tumors.
 
-## Slide 33
+## Slide 31
 
-Here is an example of the location of a proximal tumor
-
-## Proximal Gastrectomy
-
-, a proximal gastrectomy can be performed, which removes just the top part of the stomach
-
-## Slide 35
+A proximal gastrectomy can be performed, which removes just the top part of the stomach
 
 In this operation, the top of the stomach is removed
 
-## Slide 36
+## Slide 32
 
 The reconstruction from this operation is a bit more complex.
 One option is a double-tract reconstruction which can help prevent reflux
@@ -186,15 +173,15 @@ One option is a double-tract reconstruction which can help prevent reflux
 
 Cancers located near the junction between the esophagus and stomach are a particular challenge, because these cancers can spread upward along the esophagus.
 
-## Slide 38
+## Slide 34
 
 These cancers are frequently treated with an esophagogastrectomy, which removes the upper portion of the stomach and the bottom portion of the esophagus.
 
-## Slide 39
+## Slide 35
 
 The stomach is then fashioned into a tube…
 
-## Slide 40
+## Slide 36
 
 Which is then brought up into the chest to connect to the esophagus.
 
@@ -222,19 +209,21 @@ Which are connected to the robotic arms
 
 ## Robotic Techniques
 
-Which control fine surgical instruments.
+Which control the surgical instruments.
 
 ## Robotic Techniques
 
-## Slide 48
+In this way the surgeon can precisely control the surgical instruments
+
+## Slide 44
 
 You may have seen a video on social media showing how a surgical robot, under the control of the surgeon, can peel a grape and sew the skin back together.  This illustrates the precision of the surgical robots.
 
 Your surgeon will discuss with you your particular tumor and the operation and techniques to be used.
 
-Not all operations are suitable for use of surgical robots, but they are playing an increasing role in surgery of the stomach.
+Not all operations are suitable for use of robotic techniques, but they are playing an increasing role in surgery of the stomach.
 
-## Slide 49
+## Slide 45
 
 We are working on preparing videos to address each of these different treatments, so please subscribe to be notified when we post new videos.
 

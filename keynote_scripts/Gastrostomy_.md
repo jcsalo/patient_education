@@ -17,19 +17,27 @@ While I am a surgeon, I’m not *your* surgeon.  There is of course no substitut
 
 ## Gastrostomy Tube
 
-The topic for this video is a feeding jejunostomy
+The topic for this video is a feeding gastrostomy
+
+## Slide 3
+
+We will start with a review of anatomy.  Food travels from the esophagus to the stomach, and finally into the jejunum, the first part of the small intestine.
+
+## Slide 4
+
+Cancers in the esophagus can in some cases cause difficulty with eating and even weight loss
+
+In these cases, a feeding tube can help with nutrition
 
 ## Feeding Tube
 
-A gastrostomy tube can be used to administer formula
+A feeding tube can be used to administer
 
-## Feeding Tube
+Formula
 
 Water
 
-## Feeding Tube
-
-And medicines
+And Medicines
 
 ## Feeding Tube
 
@@ -53,21 +61,13 @@ A Jejunostomy tube is placed into the small intestine called the jejunum.  Feedi
 
 The topic of this video is a gastrostomy tube, which is placed into the stomach
 
+We have a separate video that describes a jejunostomy tube
+
 ## Slide 10
 
 Here’s what a tube may look like
 
-## Gastrostomy Tube
-
-A gastrostomy tube can be used to administer
-
-Formula
-
-Water
-
-And Medicines
-
-## Slide 12
+##           
 
 Here are some examples of the formula which might be used with your feeding tube.
 It is specially designed to provide protein, carbohydrates, fats, and vitamins and minerals
@@ -76,9 +76,9 @@ It is specially designed to provide protein, carbohydrates, fats, and vitamins a
 
 An important question is “How much formula do I need?”
 
-## Slide 14
+## Slide 13
 
-Your dietitian will calculate your needs, but this can be between 4 and 6 cartons per day.
+Your dietitian will calculate your needs, which can be between 3 and 6 cartons per day.
 
 Your dietitian will also recommend how much water you will need each day.
 
@@ -91,19 +91,19 @@ Again, your dietitian will work with you to determine the best schedule for feed
 
 The easiest way to administer formula or water is through the gravity technique.
 
+## Slide 16
+
+This is an EnFit feeding syringe with a special spiral fitting at the end
+
 ## Slide 17
-
-This is an EnFit feeding tube syringe with a special spiral fitting at the end
-
-## Slide 18
 
 The plunger is removed from the syringe, leaving the barrel of the syringe which can be used a a funnel for gravity feeding.
 
-## Slide 19
+## Slide 18
 
 The syringe barrel is connected to the feeding tube
 
-## Slide 20
+## Slide 19
 
 Water or formula can then be poured into the barrel of the syringe like a funnel. The liquid enters through stomach through gravity.
 
@@ -122,11 +122,11 @@ If the flow of formula or water is too slow with the gravity method, it is possi
 
 
 
-## Slide 23
+## Slide 22
 
 A syringe with plunger is connected to the gastrostomy tube, and slowly injected
 
-## Slide 24
+## Slide 23
 
 Again, it’s important to avoid cold formula or water and it’s important to inject slowly
 
@@ -134,7 +134,7 @@ Again, it’s important to avoid cold formula or water and it’s important to i
 
 Medicines can be administered through a gastrostomy tube if they can’t be taken by mouth.  We have a separate video which describes giving medicines through a feeding tube.
 
-## Slide 26
+## Slide 25
 
 We hope you have found this video helpful.  We have a companion video which describes a feeding jejunostomy.
 
@@ -142,7 +142,7 @@ Please leave a comment if you have topics you would like covered in videos.
 
 Feel free to subscribe to be notified of new videos as we make them.
 
-## Slide 27
+## Slide 26
 
 Our friend Brad has a gastrostomy tube, and we will demonstrate how to administer water or formula
 
@@ -156,7 +156,7 @@ Remove the syringe by twisting
 
 Close the cap
 
-## Slide 28
+## Slide 27
 
 To use the funnel method, first remove the plunger from the barrel of the syringe
 

@@ -28,7 +28,7 @@ The terms gastric cancer and stomach cancer are used interchangeably (3)
 
 ## Text
 
-**2**
+
 When we think about digestion, food passes from the throat into the esophagus (4)
 
 
@@ -58,10 +58,6 @@ To make things more complicated, cancers can also form in the area where the eso
 The cancers of the esophagus and the gastroesophageal junction behave and are treated in a similar fashion, so they are often grouped together.
 
 We have other videos that focus on cancer of the esophagus and gastroesophageal junction
-
-## Slide 11
-
-This video focuses on cancers of the stomach, or gastric cancers.
 
 ## Tumor
 
@@ -114,9 +110,11 @@ The second is whether there is spread to the lymph nodes.
 
 The third is whether there is spread to other parts of the body
 
-## Slide 21
+## Slide 20
 
 We will start by looking at the wall of the stomach. The wall has multiple layers, as shown here
+
+## Slide 21
 
 ## Slide 22
 
@@ -136,13 +134,11 @@ We will start by looking at the wall of the stomach. The wall has multiple layer
 
 ## Slide 30
 
-## Slide 31
-
 ## Feeding Tube
 
-The inner layer is the mucosa, (32)
+The inner layer of the stomach is the mucosa, (32)
 
-followed by the submucosa,
+Outside of the mucosa is the submucosa,
 
 followed by the muscularis, or muscle layer
 
@@ -150,23 +146,23 @@ Outside of the muscularis is the serosa.
 
 Surrounding the stomach are lymph nodes. In some cases cancers from the stomach can spread to the lymph nodes
 
+## Slide 32
+
+Cancer of the stomach start in the inner, or most superficial layer, called with mucosa. (33)
+
 ## Slide 33
-
-In its earliest stages, cancer of the stomach start in the inner, or most superficial layer, called with mucosa. (33)
-
-## Slide 34
 
 With time, however, the cancer can continue to grow and invade deeper into the wall of the stomach. (34)
 
-## Slide 35
+## Slide 34
 
 It can continue to silently grow deeper into the wall of the stomach
 
-## Slide 36
+## Slide 35
 
 And can even grow all the way through to the outer layer of the stomach. (36)
 
-## Slide 37
+## Slide 36
 
 The deeper the cancer invades into the wall of the stomach, the more likely it is that cancer cells can spread to lymph nodes (37)
 
@@ -184,21 +180,21 @@ M for Metastasis or spread to other organs
 
 We will first consider the tumor (39)
 
-## Slide 40
+## Slide 39
 
 T1a tumors invade just the top layer, or mucosa 
 
-## Slide 41
+## Slide 40
 
 T1b tumors invade into the submucosa 
 
-## Slide 42
+## Slide 41
 
 T2 tumors invade into the muscularis (42)
 
 
 
-## Slide 43
+## Slide 42
 
 T3 tumors go all the way throough the muscularis (43)
 
@@ -208,7 +204,7 @@ It can be difficult to tell how deep a tumor has invaded just by looking from th
 
 For small tumors, endoscopic ultrasound can be helpful. This is an endoscopic procedure done under sedation much like a EGD and it can help determine the T stage of a stomach tumor. (44)
 
-## Slide 45
+## Slide 44
 
 The EUS scope has an ultrasound probe on the end, which can be used to examine the tumor (45)
 
@@ -222,11 +218,9 @@ Cancers with no signs of spread to the lymph nodes are considered "N-zero" (47)
 
 ...while cancers with signs of spread to the lymph nodes are considered "N-positive"
 
-## CT Scan
+## Slide 47
 
 A CT scan is usually the first test to look for enlarged lymph nodes. (48)
-
-## Slide 49
 
 ## PET Scan
 
@@ -234,7 +228,7 @@ A PET scan is similar to a CT scan. It differs because of a tracer which is inje
 
 
 
-## Slide 51
+## Slide 49
 
 In this example of a PET scan, you can see how the area of the cancer lights up in yellow (51 - PET image)
 
@@ -298,11 +292,11 @@ Laparoscopy is a minor surgical procedure performed under a general anesthetic a
 
 Several small incisions are made, and a laparoscope is inserted to examine the inside of the abdomen
 
-## Slide 64
+## Slide 62
 
 A laparoscope is an instrument used to look inside the abdominal cavity and its the diameter of a pencil. (63)
 
-## Slide 65
+## Slide 63
 
 Laparoscopy allows the detection of peritoneal metastasis within the abdomen (64)
 
@@ -312,7 +306,7 @@ To review, staging consists of three parts: T for Tumor N for Nodes and M for Me
 
 Based upon the Stage, your cancer care team will make a recommendation for treatment.
 
-## Slide 67
+## Slide 65
 
 We are working on preparing videos to address each of these different treatments, so please subscribe to be notified when we post new videos.
 

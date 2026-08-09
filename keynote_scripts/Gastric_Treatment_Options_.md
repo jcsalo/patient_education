@@ -22,7 +22,7 @@ The topic for this video is treatment options for gastric cancer, also know as s
 
 ## Gastric Cancer Treatment
 
-When we talk about gastric cancer treatment, it is critical to recognize that the appropriate depends upon the stage.
+When we talk about gastric cancer treatment, it is critical to recognize that the appropriate treatment depends upon the stage.
 
 Your cancer care team will make a recommendation for treatment after they have determined the stage of the cancer.
 
@@ -65,7 +65,7 @@ We will review the categories briefly, then discuss each of them in detail in tu
 
 ## Gastric Cancer Categories
 
-Superficial tumors and small and limited to the mucosa and can be treated without surgery
+Superficial tumors and small and limited to the mucosa and can often be treated without surgery
 
 
 
@@ -92,7 +92,7 @@ Superficial gastric cancers are T1 and only involve the mucosa or the most inner
 
 Superficial gastric cancers are T1 and only involve the mucosa or the most inner layer of the stomach.
 
-They can frequently be treated with endoscopic therapy, and my not every need surgery
+They are treated with endoscopic therapy, and may not ever need surgery
 
 ## Slide 16
 
@@ -110,15 +110,8 @@ In the next step, the mucosa is cut around the tumor to remove it
 
 ## Slide 19
 
-The tumor and surrounding mucosa is then cut out and removed
-
-## Slide 20
-
-There are a variety of different techniques, but the end result is the same
-
-## Slide 21
-
-A disk of tissue is removed and sent to the pathologist for examination.
+A disk of tissue is removed and sent to the pathologist for examination. If the tumor has been completely removed, no further therapy may be required, although follow up endoscopy is important.
+If the tumor has not been completely removed, surgery may be required.
 
 ## Localized Gastric Cancer
 
@@ -132,11 +125,11 @@ Endoscopic removal is not possible because of how deep they have invaded into th
 
 These tumors are treated with surgery, known as gastrectomy.
 
-We have video which reviews the different types of operations that can be done
+We have a video which reviews the different types of operations that can be done
 
 ## Locally-advanced Gastric Cancer
 
-Locally-advanced gastric cancers are those in which there are concerns about the risk of spread to lymph nodes
+Locally-advanced gastric cancers are those for which there are concerns about the risk of spread to lymph nodes
 
 ## Locally-advanced Gastric Cancer
 
@@ -186,14 +179,7 @@ Cytoreductive surgery can be used to remove areas of spread of cancer within the
 
 ## Intraperitoneal Chemoterapy 
 
-In some patients, chemotherapy can be administered into the abdominal cavity, also known as intraperitoneal chemotherapy.
-
-The rationale for this approach is that it chemotherapy administered into the abdominal cavity may have a better chance of reaching the cancer cells
-
-## Intraperitoneal Chemoterapy 
-
-In some patients, chemotherapy can be administered into the abdominal cavity, also known as intraperitoneal chemotherapy.
-
+In some patients with peritoneal metastasis, chemotherapy can be administered directly into the abdominal cavity, also known as intraperitoneal chemotherapy.
 
 
 ## Intraperitoneal Chemoterapy 
@@ -207,13 +193,11 @@ One method of administering chemotherapy directly into the abdomen is HIPEC, or 
 
 ## Intraperitoneal Chemotherapy
 
-One method of administering chemotherapy directly into the abdomen is HIPEC, or headed intraperitoneal chemotherapy.
-
 This is a surgical procedure in which heated chemotherapy is used to bather the abdominal organs
 
 ## Intraperitoneal Chemotherapy
 
-Another method is outpatient intraperitoneal chemotherapy.
+Another method is *outpatient* intraperitoneal chemotherapy.
 
 An indwelling tube is placed into the abdomen, and then chemotherapy is administered through tube directly into the abdominal cavity.
 
@@ -221,9 +205,9 @@ An indwelling tube is placed into the abdomen, and then chemotherapy is administ
 
 To summarize, patients with metastatic disease limited to the peritoneum are treated initially with chemotherapy.
 
-In some cases, they may be candidates for additional chemotherapy administered directly into the abdomen or peritoneal cavity
+In some cases, they may be candidates for additional chemotherapy administered directly into the abdomen or peritoneal cavity either during surgery or as an outpatient.
 
-## Slide 41
+## Slide 38
 
 We are working on preparing videos to address each of these different treatments, so please subscribe to be notified when we post new videos.
 

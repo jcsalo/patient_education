@@ -25,17 +25,17 @@ We will start with a review of anatomy.  Food travels from the esophagus to the 
 
 ## Slide 4
 
-Cancers in the esophagus or stomach can in some cases ause difficulty with eating and in extreme cases can cause weight loss
+Cancers in the esophagus or stomach can in some cases cause difficulty with eating and even weight loss
 
-Some patients with cancer of the esophagus or stomach can benefit from a feeding tube to help with nutrition
+In these cases, a feeding tube can help with nutrition
 
 ## Slide 5
 
 There are two basic kinds of feeding tubes:
 
-A gastrostomy tube is placed through the skin into the stomach
+A gastrostomy tube is placed through the abdominal wall into the stomach
 
-A jejunostomy tube is placed through the skin into the jejunum, or small intestine
+A jejunostomy tube is placed through the abdominal wall into the jejunum, or small intestine
 
 ## Slide 6
 
@@ -72,7 +72,7 @@ If we go back to our drawing, we see that the stomach is quite large, which allo
 
 ## Slide 13
 
-This makes it possible to have a large Thanksgiving mean, and spend the next few days digesting it.
+This makes it possible to have a large Thanksgiving meal, and digest it over the next few days
 
 ## Stomach
 
@@ -81,7 +81,7 @@ The stomach acts as a temporary storage area for food, like this grain elevator
 ## Jejunum
 = Small Intestine
 
-The stomach sends a small amount of food at a time into the jejunum, much like this grain elevator sends grain onto this conveyor belt.
+The stomach sends a small amount of food at a time into the jejunum, much like this conveyor belt.
 
 ## Slide 16
 
@@ -89,8 +89,8 @@ Just like a conveyor belt, it’s be easy for the jejunum to get overloaded if i
 
 ## Slide 17
 
-So when you have a jejunostomy, it’s important that the formula goes into the tube as a slow, steady rate in order to avoid overloading the jejunum. 
-This requires a pump to administer the feeding over a several hours.
+In order to avoid overloading the jejunum, the formula is administered at a slow, steady rate with a pump over several hours
+
 
 ## Slide 18
 
@@ -100,7 +100,7 @@ Here’s an example of a typical pump and feeding bag used with a jejunostomy tu
 
 And here’s the bag and a pump connected to the feeding tube. 
 
-You can move around the house with a bag and pump, but its best to run the feedings at night, so that you be more mobile during the day.
+You can move around the house with a bag and pump, but it’s best to run the feedings at night, so that you be more mobile during the day.
 
 ## How Much Formula Do I Need?
 
@@ -108,9 +108,7 @@ An important question is “How much formula do I need?”
 
 ## Slide 21
 
-The short answer is that your dietitian will calculate how much formula you need, but we can give you a rough idea.
-
-Your dietitian will also make recommendations for the rate and duration of tube feeds, and for the administration of additional water.
+Your dietitian will calculate how much formula you need and will also make recommendations for the rate and duration of tube feeds, and for the administration of additional water.
 
 ## Rate and Duration
 
@@ -152,13 +150,11 @@ For many patients, this won’t work, because the small intestine can’t handle
 
 ## 5 cartons Tube feeds
 
-A slower rate of 50mL/hour is inconvenient, as it may require being hooked up to the pump all day.
-
-On the other hand, a faster rate of 100mL/hr  would be more convenient, but carries the risk of diarrhea and cramps.
+For most patients, 100mL/hour will overwhelm the jejunum, causing diarrhea and cramps
 
 ## Slide 29
 
-Too high a rate of tube feeds will overwhelm the jejunum, and the result is cramps and diarrhea. 
+Running the tube feeds too fast is like overloading a conveyor belt.
 
 ## 5 cartons Tube feeds
 
@@ -172,7 +168,7 @@ We typically start at 30mL/hour and run them continuously, meaning 24 hours per 
 
 ## Starting Tube Feeds
 
-The rate of administration of the formula is then increased 10mL/hour every 8 to 12 hours up to the goal rate.
+The rate of administration of the formula is then increased 10mL/hour every 8 hours up to the goal rate.
 
 ## Nocturnal Tube Feeds
 
@@ -236,7 +232,7 @@ It’s also possible to use a syringe to administer water
 Water can be flushed into the jejunostomy tube slowly with a syringe.
 
 
-While it won’t work to administer a syringe full of *formula* into a jejunostomy tube, it is usually fine to inject a syringe full of water.
+It’s important to avoid cold water, which can cause cramps
 
 ## Jejunostomy Tube
 
@@ -248,10 +244,11 @@ A jejunostomy tube can also be used to administer medicines. We have a separate 
 
 If your jejunostomy tube falls out, it is important to take action right away.
 
-Call your care team for instructions
+Call your care team for instructions.
+
 If you can’t reach your care team, go immediately to a local emergency room. 
 
-The skin will start to close over within a matter of hours, which can make it difficult to replace the tube.
+The skin will start to close over within a matter of hours, which can make it difficult to replace the tube if too much time elapses.
 
 
 

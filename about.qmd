@@ -4,9 +4,53 @@ title: "Workflow"
 
 # Current Workflow
 
-Slideshow created in Keynote with script in Notes section
+Slideshow created in Keynote with script in Notes section.
 
-KeyNoteMarkdown script (Script Editor) is used to create a markdown file extracted from
+KeyNoteMarkdown_3 script (Script Editor) is used to create a markdown file extracted from Keynote. The desired Keynote file must be in the active window.
+
+Run KeyNoteMarkdown_3. Choose No to extract context. This creates a file in jcsal/Documents/PatientEducation/patient_education/keynote_scripts
+
+RStudio opens project patient_education. git add –all -\> git add commit -m 'commit message -\> git push origin main
+
+It is now possible to download scripts as .docx files onto ipad by pointing to jcsalo.github.io/patient_education/scripts.htm
+
+Script is opened in Teleprompter application (???) in iPad
+
+Teleprompter remote is used to control teleprompter
+
+To project images/overlays into OBS, will use Macbook Air13.
+
+In Macbook Air13:
+
+- Open presentation in KeyNote
+
+- Open NDI Scan Converter and find the Keynote file
+
+- NDI Scan Converting is now broadcasting Keynote images within network
+
+In Macbook Air15:
+
+- Open OBS
+
+- go to Scene 8-Keynote.
+
+- Reset sources:
+
+  - Reset NDI images by selecting NDI Source 2 and selecting NDI Air a13
+
+  - Reset Lumix via USB after connecting HDMI output from Lumex camert to Acer USB 3.0 capture card to USB-D input on Air15.
+
+  - Reset source for "Yeti Blue"
+
+- on wireless keyboard: hotkey 8 for slides only (- via NDI) and hotkey 9 for overlay
+
+- Hotkey "L" (lowercase) toggles lower third
+
+Connections:
+
+Yeti USB-A plugs into LionWei -\> plugs into USB-C on Airbook 15
+
+HDMI from Lumex to acer USB 3.0 capture -\> plugs into LionWei -\> plugs into USB-C on Airbook 158
 
 # Prior Workflow
 
