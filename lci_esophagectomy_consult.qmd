@@ -1,5 +1,5 @@
 ---
-title: "Preparing for your Esophagectomy"
+title: "Surgery for Esophageal and GE Junction Cancers"
 format: 
   pptx: 
     reference-doc: template.pptx
