@@ -154,4 +154,4 @@ Among patients with CDH1 mutation without a family history of gastric cancer, 2 
 
 {{< include lci_total_gastrectomy_guts.qmd >}}
 
-{{< include lci_staff_guts.qmd >}}
+{{< include lci_staff_noneso_guts.qmd >}}

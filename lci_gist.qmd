@@ -77,4 +77,4 @@ GIST tumors have a range of behavior:
 
 {{< include lci_treatment_prep_guts.qmd >}}
 
-{{< include lci_staff_guts.qmd >}}
+{{< include lci_staff_noneso_guts.qmd >}}

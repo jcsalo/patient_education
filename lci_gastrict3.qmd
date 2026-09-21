@@ -110,4 +110,4 @@ CT or PET scan performed after preoperative therapy
 
 {{< include lci_gastrectomyt3_guts.qmd >}}
 
-{{< include lci_staff_guts.qmd >}}
+{{< include lci_staff_noneso_guts.qmd >}}

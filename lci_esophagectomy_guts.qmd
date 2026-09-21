@@ -1,15 +1,4 @@
 
-## Esophagectomy for Cancers of the Esophagus or GE Junction
-
-Primary Surgery
-
-- Superficial Tumors (T1) not completely removed by endoscopy
-- Localized Tumors (T2 N0 M0)
-
-Preoperative Therapy $\rightarrow$ Surgery
-
-- Locally Advanced (T3 Nx M0)
-
 ## Preparation for Surgery
 
 Medical evaluation may be needed before surgery:
@@ -19,6 +8,22 @@ Medical evaluation may be needed before surgery:
   - Echocardiogram
   - Stress Test
   - Holter monitor
+
+## Esophagectomy for Cancers of the Esophagus or GE Junction
+
+Primary Surgery
+
+- Superficial Tumors (T1) not completely removed by endoscopy
+- Localized Tumors (T2 N0 M0)
+- Surgery scheduled after medical evaluation
+
+Preoperative Therapy $\rightarrow$ Surgery
+
+- Locally Advanced (T3 Nx M0)
+- Surgery scheduled after
+  - Recovery from preoperative therapy
+  - Restaging scans (CT or PET)
+  - Medical evaluation
 
 ## Preoperative Visits
 
@@ -32,7 +37,6 @@ Surgical Oncology
 - Mid-treatment visits with Dr Salo / Kate Duncan
 - Preop visit with Dr Salo (may be virtual)
 - In-person preop visit with Kate Duncan and Liz Koch
-
 
 ## Surgery for Esophageal Cancer
 

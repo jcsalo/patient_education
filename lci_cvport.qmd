@@ -27,4 +27,4 @@ bibliography: zotero.bib
 
 {{< include lci_laparoscopy_guts.qmd >}}
 
-{{< include lci_staff_guts.qmd >}}
+{{< include lci_staff_noneso_guts.qmd >}}
