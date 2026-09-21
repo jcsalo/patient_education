@@ -1,0 +1,28 @@
+---
+title: "Surgery of the Stomach"
+format: 
+  pptx: 
+    reference-doc: template.pptx
+  revealjs:
+    slide-number: c/t
+    width: 1280
+    height: 720
+    logo: "atriumlogo.jpg"
+    footer: "[LCI GI Oncology](https://jcsalo.github.io/patient_education/LCI.html)"
+    css: "lci_styles.css"
+    theme: [simple, lci.scss]
+    echo: false
+    transition: fade
+    #output-file: lci_esot3_slides.html
+    pdf-separate-fragments: true
+  html: default
+  docx:
+    number-sections: true
+    number-depth: 3
+editor: visual
+bibliography: zotero.bib
+---
+
+{{< include lci_gastrectomyt3_guts.qmd >}}
+
+{{< include lci_treatment_prep_guts.qmd >}}
