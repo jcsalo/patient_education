@@ -1,17 +1,3 @@
-## Day Prior to Surgery
-
-- Clear liquids for 24 hours prior to surgery
-- Check with Pre-op nurse regarding medicines day prior to surgery
-- No tube feedings the night before surgery
-
-## Day of Surgery
-
-- Arrive at 5am – nothing to eat or drink after midnight.
-- Medicines OK w/ a sip of water
-- sip of black coffee but **no cream**.
-- Surgery will be cancelled if you have cream/milk
-- Waiting room for family and friends on 5th floor
-
 ## Epidural Catheter for Pain Control
 
 - Remains in place for 2-5 days
@@ -88,7 +74,27 @@ Modified barium swallow in radiology
 
 - Drink a white chalky liquid (barium)
 - Look for proper swallowing function
-- 70% of patients $\Rightarrow$ liquids started by mouth
+- 80% of patients $\Rightarrow$ liquids started by mouth
+
+## Jejunostomy tube
+
+Jejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)
+
+Pump administers the feedings slowly over hours
+
+## Jejunostomy feeding
+
+- Start with continuous feeds (24 hours/day)
+- Convert to nocturnal (night-time): 6pm to 10pm
+
+The feeding bag holds only 4 cartons of feeds
+- May need to "top off' bag after a few hours
+
+Water through the tube
+- Important to prevent dehydration
+- 250mL (8 oz) 4 times per day
+
+
 
 ## Oral Intake at Home
 
@@ -99,14 +105,22 @@ Protein shakes are started after tolerating water\
 - 2 oz per hour to start
 - 4 oz per hour if 2oz are tolerated well
 
+## Drains and Tubes
+
+Chest Tube (right side): Removed 4-6 days after surgery (depending upon output)
+Abdomiaal drains: Removed 4-7 days after surgery
+  Discharge with 1 abdominal drain in 10% of cases
+Epidural catheter: Removed 4-5 days after surgery
+Bladder catheter: Removed after epicura catheter removed
+
+
 ## Discharge
 
-Goal: ready to leave day #6/7 after surgery
+Goal: ready to leave day #7 after surgery
 
 - Night-time tube feedings (6pm to 10am)
-- Nutrition by mouth (70% of patients)
-  - 1 oz of water per hour by mouth OR
-  - Protein shakes 4oz every 2 hours
+- Nutrition by mouth (90% of patients)
+  - Protein shakes or water 4oz every 2 hours
 - Water through tube 8oz four times per day
 - Home care nursing (feeding tube teaching)
 - Home infusion (tube feeding supplies)
@@ -217,30 +231,33 @@ A wedge pillow can be helpful for sleep
 :::
 :::::
 
-## Postoperative Visit at 7-10 Days
+## Follow Up Clinic Visit 7-10 days after Discharge
 
-Check surgical site
+In-person clinic visit with Dr Salo or Kate Duncan
 
+- Check surgical site
 - Remove staples (if needed)
+- Remove abdominal drains (if needed)
 
-Adjust medicines as needed
+Meet with dietitian:
 
-- Insulin (for diabetic patients on insulin)
-- Reduce beta blocker medicines
+- Reduce tube feeds
+- Advance diet by mouth
 
-Advance diet
+## Adjust Medicines after Surgery
 
-Reduce tube feeds
+Reglan: Discontinue 6 weeks after surgery
+Remeron: Discontinue 12 weeks after surgery
+Pain Medicines:
 
-## After surgery
+- Wean oxycodone within 6 weeks of surgery
+- Discontinue gabapentin and acetaminophen (Tylenol) within 8 weeks
 
-Wean off medicines added after surgery
+Continue acid blockers (PPI) for at least 1 year
 
-- Pain medicines
-- Beta-blockers
-- Reglan and Remeron
+Reduce metoprolol to once/day for 7 dayus $\rightarrow$ discontinue
 
-Continue acid blockers for at least 1 year
+
 
 ## Jejunostomy Removal
 
@@ -248,7 +265,7 @@ Jejunostomy tube is removed in the office once you can take in enough nutrients 
 
 Removal usually around 8 weeks after surgery
 
-May take 30 minutes and some local anesthetic to loosen up the tube for removal.
+May take 5 minutes and some local anesthetic to loosen up the tube for removal.
 
 ## Nutritional Monitoring after Surgery
 

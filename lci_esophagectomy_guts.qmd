@@ -16,6 +16,7 @@ Primary Surgery
 - Superficial Tumors (T1) not completely removed by endoscopy
 - Localized Tumors (T2 N0 M0)
 - Surgery scheduled after medical evaluation
+- Aim for surgery within 6 weeks of consultation
 
 Preoperative Therapy $\rightarrow$ Surgery
 
@@ -24,6 +25,9 @@ Preoperative Therapy $\rightarrow$ Surgery
   - Recovery from preoperative therapy
   - Restaging scans (CT or PET)
   - Medical evaluation
+- Timing between end of preoperative therapy and surgery
+  - Chemotherapy + radiation: 6-8 weeks
+  - Chemotherapy: 4-8 weeks
 
 ## Preoperative Visits
 
@@ -64,7 +68,7 @@ Surgery for esophageal cancer is performed for:
 
 ::::: columns
 ::: {.column width="50%"}
-- Removes tumor and lower 1/3 esophagus
+- Removes tumor and lower 1/2 esophagus
 - Removes surrounding lymph nodes
 - GI tract reconstructed
 :::
@@ -116,9 +120,9 @@ The new esophagus is now brought up into the chest. A connection is made between
 
 ::::: columns
 ::: {.column width="50%"}
-Mininally-invasive approach feasible in 95% of cases
+Mininally-invasive approach feasible in 98% of cases
 
-In some cases, an open approach is still necessary.
+In some cases, an open approach is still necessary (2%)
 :::
 
 ::: {.column width="50%"}
