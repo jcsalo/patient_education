@@ -6,6 +6,39 @@
 - May require foley catheter in bladder
 - Foley catheter removed after epidural removed
 
+## Jejunostomy Feeding Tube
+
+::::: columns
+::: {.column width="50%"}
+
+To ensure adequate nutrition after surgery, a temporary feeding tube is placed to supplement nutrition by mouth.
+
+
+Jejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)
+:::
+
+::: {.column width="50%"}
+![](images/jejunostomy/esophagectomy_jejunostomy.png)
+:::
+:::::
+
+
+## Jejunostomy Feeding Tube
+
+::::: columns
+::: {.column width="50%"}
+
+Feedings are administered through the jejunostomy at night by a pump
+:::
+
+::: {.column width="50%"}
+![](images/jejunostomy/esophagectomy_jtube_pump.png)
+:::
+:::::
+
+
+
+
 ## Intensive Care Unit (ICU) (2-4 days)
 
 - Surgical ICU on 11th floor
@@ -76,25 +109,16 @@ Modified barium swallow in radiology
 - Look for proper swallowing function
 - 80% of patients $\Rightarrow$ liquids started by mouth
 
-## Jejunostomy tube
 
-Jejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)
-
-Pump administers the feedings slowly over hours
 
 ## Jejunostomy feeding
 
 - Start with continuous feeds (24 hours/day)
 - Convert to nocturnal (night-time): 6pm to 10pm
 
-The feeding bag holds only 4 cartons of feeds
-- May need to "top off' bag after a few hours
+The feeding bag holds only 4 cartons of feeds - May need to "top off' bag after a few hours
 
-Water through the tube
-- Important to prevent dehydration
-- 250mL (8 oz) 4 times per day
-
-
+Water through the tube - Important to prevent dehydration - 250mL (8 oz) 4 times per day
 
 ## Oral Intake at Home
 
@@ -107,12 +131,7 @@ Protein shakes are started after tolerating water\
 
 ## Drains and Tubes
 
-Chest Tube (right side): Removed 4-6 days after surgery (depending upon output)
-Abdomiaal drains: Removed 4-7 days after surgery
-  Discharge with 1 abdominal drain in 10% of cases
-Epidural catheter: Removed 4-5 days after surgery
-Bladder catheter: Removed after epicura catheter removed
-
+Chest Tube (right side): Removed 4-6 days after surgery (depending upon output) Abdomiaal drains: Removed 4-7 days after surgery Discharge with 1 abdominal drain in 10% of cases Epidural catheter: Removed 4-5 days after surgery Bladder catheter: Removed after epicura catheter removed
 
 ## Discharge
 
@@ -246,9 +265,7 @@ Meet with dietitian:
 
 ## Adjust Medicines after Surgery
 
-Reglan: Discontinue 6 weeks after surgery
-Remeron: Discontinue 12 weeks after surgery
-Pain Medicines:
+Reglan: Discontinue 6 weeks after surgery Remeron: Discontinue 12 weeks after surgery Pain Medicines:
 
 - Wean oxycodone within 6 weeks of surgery
 - Discontinue gabapentin and acetaminophen (Tylenol) within 8 weeks
@@ -256,7 +273,6 @@ Pain Medicines:
 Continue acid blockers (PPI) for at least 1 year
 
 Reduce metoprolol to once/day for 7 dayus $\rightarrow$ discontinue
-
 
 ## Second Follow Up Visit
 
@@ -267,7 +283,6 @@ Reduce metoprolol to once/day for 7 dayus $\rightarrow$ discontinue
 - Plan for jejunostomy removal
 - Evaluate readiness for chemotherapy after surgery (usually 6 weeks)
 
-
 ## Eating after Surgery
 
 First Postoperative Visit: Start soft foods (Phase I diet)
@@ -275,7 +290,6 @@ First Postoperative Visit: Start soft foods (Phase I diet)
 Weekly virtual visits with dietitian
 
 Jejunostomy removal generally at 8 weeks after surgery
-
 
 ## Jejunostomy Removal
 

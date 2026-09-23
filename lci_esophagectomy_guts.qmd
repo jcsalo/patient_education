@@ -1,4 +1,3 @@
-
 ## Preparation for Surgery
 
 Medical evaluation may be needed before surgery:
@@ -102,7 +101,7 @@ The new esophagus is now brought up into the chest. A connection is made between
 :::
 :::::
 
-## Minimally-invasive Ivor Lewis
+## Minimally-invasive Ivor Lewis Esophagectomy
 
 ::::: columns
 ::: {.column width="50%"}
@@ -115,6 +114,25 @@ The new esophagus is now brought up into the chest. A connection is made between
 ![](images/MIE_IvorLewisArtboard.png)
 :::
 :::::
+
+
+## Minimally-invasive Ivor Lewis Esophagectomy
+
+::::: columns
+::: {.column width="50%"}
+- Small incisions abdomen and chest
+- Surgical telescope and instruments
+- Smaller incisions $\rightarrow$ faster recovery and less discomfort
+:::
+
+::: {.column width="50%"}
+![](images/RaMIE_incisions.png)
+:::
+:::::
+
+
+
+
 
 ## Open Ivor Lewis
 
