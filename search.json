@@ -1281,6 +1281,13 @@
     "text": "Nutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
   },
   {
+    "objectID": "lci_jejunostomy_guts.html#jejunostomy-feeding-pump",
+    "href": "lci_jejunostomy_guts.html#jejunostomy-feeding-pump",
+    "title": "Patient Education",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
+  },
+  {
     "objectID": "lci_jejunostomy_guts.html#jejunostomy-typical-regimen",
     "href": "lci_jejunostomy_guts.html#jejunostomy-typical-regimen",
     "title": "Patient Education",
@@ -1307,6 +1314,13 @@
     "title": "Patient Education",
     "section": "Jejunostomy Tube",
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
+  },
+  {
+    "objectID": "lci_jejunostomy_guts.htm#jejunostomy-feeding-pump",
+    "href": "lci_jejunostomy_guts.htm#jejunostomy-feeding-pump",
+    "title": "Patient Education",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
   },
   {
     "objectID": "lci_jejunostomy_guts.htm#jejunostomy-typical-regimen",
@@ -2779,11 +2793,18 @@
     "text": "Ivor Lewis esophagectomy\n\n\nThe new esophagus is now brought up into the chest. A connection is made between the esophagus and the stomach, called an anastomosis."
   },
   {
-    "objectID": "lci_esot2.htm#minimally-invasive-ivor-lewis",
-    "href": "lci_esot2.htm#minimally-invasive-ivor-lewis",
+    "objectID": "lci_esot2.htm#minimally-invasive-ivor-lewis-esophagectomy",
+    "href": "lci_esot2.htm#minimally-invasive-ivor-lewis-esophagectomy",
     "title": "Early-Stage Cancer of the Esophagus and GE Junction",
-    "section": "Minimally-invasive Ivor Lewis",
-    "text": "Minimally-invasive Ivor Lewis\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+  },
+  {
+    "objectID": "lci_esot2.htm#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "href": "lci_esot2.htm#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "title": "Early-Stage Cancer of the Esophagus and GE Junction",
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
   },
   {
     "objectID": "lci_esot2.htm#open-ivor-lewis",
@@ -2891,6 +2912,20 @@
     "text": "Epidural Catheter for Pain Control\n\nRemains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
   },
   {
+    "objectID": "lci_esot2.htm#jejunostomy-feeding-tube",
+    "href": "lci_esot2.htm#jejunostomy-feeding-tube",
+    "title": "Early-Stage Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nTo ensure adequate nutrition after surgery, a temporary feeding tube is placed to supplement nutrition by mouth.\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)"
+  },
+  {
+    "objectID": "lci_esot2.htm#jejunostomy-feeding-tube-1",
+    "href": "lci_esot2.htm#jejunostomy-feeding-tube-1",
+    "title": "Early-Stage Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nFeedings are administered through the jejunostomy at night by a pump"
+  },
+  {
     "objectID": "lci_esot2.htm#intensive-care-unit-icu-2-4-days",
     "href": "lci_esot2.htm#intensive-care-unit-icu-2-4-days",
     "title": "Early-Stage Cancer of the Esophagus and GE Junction",
@@ -2924,6 +2959,13 @@
     "title": "Early-Stage Cancer of the Esophagus and GE Junction",
     "section": "Jejunostomy Tube",
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
+  },
+  {
+    "objectID": "lci_esot2.htm#jejunostomy-feeding-pump",
+    "href": "lci_esot2.htm#jejunostomy-feeding-pump",
+    "title": "Early-Stage Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
   },
   {
     "objectID": "lci_esot2.htm#jejunostomy-typical-regimen",
@@ -2966,13 +3008,6 @@
     "title": "Early-Stage Cancer of the Esophagus and GE Junction",
     "section": "Swallowing Evaluation",
     "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology\n\nDrink a white chalky liquid (barium)\nLook for proper swallowing function\n80% of patients \\(\\Rightarrow\\) liquids started by mouth"
-  },
-  {
-    "objectID": "lci_esot2.htm#jejunostomy-tube-1",
-    "href": "lci_esot2.htm#jejunostomy-tube-1",
-    "title": "Early-Stage Cancer of the Esophagus and GE Junction",
-    "section": "Jejunostomy tube",
-    "text": "Jejunostomy tube\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)\nPump administers the feedings slowly over hours"
   },
   {
     "objectID": "lci_esot2.htm#jejunostomy-feeding",
@@ -3437,11 +3472,18 @@
     "text": "Ivor Lewis esophagectomy\n\n\nThe new esophagus is now brought up into the chest. A connection is made between the esophagus and the stomach, called an anastomosis."
   },
   {
-    "objectID": "lci_esot2.html#minimally-invasive-ivor-lewis",
-    "href": "lci_esot2.html#minimally-invasive-ivor-lewis",
+    "objectID": "lci_esot2.html#minimally-invasive-ivor-lewis-esophagectomy",
+    "href": "lci_esot2.html#minimally-invasive-ivor-lewis-esophagectomy",
     "title": "Early-Stage Cancer of the Esophagus and GE Junction",
-    "section": "Minimally-invasive Ivor Lewis",
-    "text": "Minimally-invasive Ivor Lewis\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+  },
+  {
+    "objectID": "lci_esot2.html#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "href": "lci_esot2.html#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "title": "Early-Stage Cancer of the Esophagus and GE Junction",
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
   },
   {
     "objectID": "lci_esot2.html#open-ivor-lewis",
@@ -3549,6 +3591,20 @@
     "text": "Epidural Catheter for Pain Control\n\nRemains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
   },
   {
+    "objectID": "lci_esot2.html#jejunostomy-feeding-tube",
+    "href": "lci_esot2.html#jejunostomy-feeding-tube",
+    "title": "Early-Stage Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nTo ensure adequate nutrition after surgery, a temporary feeding tube is placed to supplement nutrition by mouth.\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)"
+  },
+  {
+    "objectID": "lci_esot2.html#jejunostomy-feeding-tube-1",
+    "href": "lci_esot2.html#jejunostomy-feeding-tube-1",
+    "title": "Early-Stage Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nFeedings are administered through the jejunostomy at night by a pump"
+  },
+  {
     "objectID": "lci_esot2.html#intensive-care-unit-icu-2-4-days",
     "href": "lci_esot2.html#intensive-care-unit-icu-2-4-days",
     "title": "Early-Stage Cancer of the Esophagus and GE Junction",
@@ -3582,6 +3638,13 @@
     "title": "Early-Stage Cancer of the Esophagus and GE Junction",
     "section": "Jejunostomy Tube",
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
+  },
+  {
+    "objectID": "lci_esot2.html#jejunostomy-feeding-pump",
+    "href": "lci_esot2.html#jejunostomy-feeding-pump",
+    "title": "Early-Stage Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
   },
   {
     "objectID": "lci_esot2.html#jejunostomy-typical-regimen",
@@ -3624,13 +3687,6 @@
     "title": "Early-Stage Cancer of the Esophagus and GE Junction",
     "section": "Swallowing Evaluation",
     "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology\n\nDrink a white chalky liquid (barium)\nLook for proper swallowing function\n80% of patients \\(\\Rightarrow\\) liquids started by mouth"
-  },
-  {
-    "objectID": "lci_esot2.html#jejunostomy-tube-1",
-    "href": "lci_esot2.html#jejunostomy-tube-1",
-    "title": "Early-Stage Cancer of the Esophagus and GE Junction",
-    "section": "Jejunostomy tube",
-    "text": "Jejunostomy tube\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)\nPump administers the feedings slowly over hours"
   },
   {
     "objectID": "lci_esot2.html#jejunostomy-feeding",
@@ -4051,6 +4107,13 @@
     "title": "T3 Cancer of the Stomach",
     "section": "Jejunostomy Tube",
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
+  },
+  {
+    "objectID": "lci_gastrict3.htm#jejunostomy-feeding-pump",
+    "href": "lci_gastrict3.htm#jejunostomy-feeding-pump",
+    "title": "T3 Cancer of the Stomach",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
   },
   {
     "objectID": "lci_gastrict3.htm#jejunostomy-typical-regimen",
@@ -4492,6 +4555,13 @@
     "title": "T3 Cancer of the Stomach",
     "section": "Jejunostomy Tube",
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
+  },
+  {
+    "objectID": "lci_gastrict3.html#jejunostomy-feeding-pump",
+    "href": "lci_gastrict3.html#jejunostomy-feeding-pump",
+    "title": "T3 Cancer of the Stomach",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
   },
   {
     "objectID": "lci_gastrict3.html#jejunostomy-typical-regimen",
@@ -6783,6 +6853,13 @@
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
   },
   {
+    "objectID": "lci_gastric_m1.htm#jejunostomy-feeding-pump",
+    "href": "lci_gastric_m1.htm#jejunostomy-feeding-pump",
+    "title": "M1 Cancer of the Stomach",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
+  },
+  {
     "objectID": "lci_gastric_m1.htm#jejunostomy-typical-regimen",
     "href": "lci_gastric_m1.htm#jejunostomy-typical-regimen",
     "title": "M1 Cancer of the Stomach",
@@ -7082,6 +7159,13 @@
     "title": "M1 Cancer of the Stomach",
     "section": "Jejunostomy Tube",
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
+  },
+  {
+    "objectID": "lci_gastric_m1.html#jejunostomy-feeding-pump",
+    "href": "lci_gastric_m1.html#jejunostomy-feeding-pump",
+    "title": "M1 Cancer of the Stomach",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
   },
   {
     "objectID": "lci_gastric_m1.html#jejunostomy-typical-regimen",
@@ -7931,11 +8015,18 @@
     "text": "Ivor Lewis esophagectomy\n\n\nThe new esophagus is now brought up into the chest. A connection is made between the esophagus and the stomach, called an anastomosis."
   },
   {
-    "objectID": "lci_eso_scca.htm#minimally-invasive-ivor-lewis",
-    "href": "lci_eso_scca.htm#minimally-invasive-ivor-lewis",
+    "objectID": "lci_eso_scca.htm#minimally-invasive-ivor-lewis-esophagectomy",
+    "href": "lci_eso_scca.htm#minimally-invasive-ivor-lewis-esophagectomy",
     "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "Minimally-invasive Ivor Lewis",
-    "text": "Minimally-invasive Ivor Lewis\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+  },
+  {
+    "objectID": "lci_eso_scca.htm#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "href": "lci_eso_scca.htm#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
   },
   {
     "objectID": "lci_eso_scca.htm#open-ivor-lewis",
@@ -8043,6 +8134,20 @@
     "text": "Epidural Catheter for Pain Control\n\nRemains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
   },
   {
+    "objectID": "lci_eso_scca.htm#jejunostomy-feeding-tube",
+    "href": "lci_eso_scca.htm#jejunostomy-feeding-tube",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nTo ensure adequate nutrition after surgery, a temporary feeding tube is placed to supplement nutrition by mouth.\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)"
+  },
+  {
+    "objectID": "lci_eso_scca.htm#jejunostomy-feeding-tube-1",
+    "href": "lci_eso_scca.htm#jejunostomy-feeding-tube-1",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nFeedings are administered through the jejunostomy at night by a pump"
+  },
+  {
     "objectID": "lci_eso_scca.htm#intensive-care-unit-icu-2-4-days",
     "href": "lci_eso_scca.htm#intensive-care-unit-icu-2-4-days",
     "title": "Squamous Cell Carcinoma of the Esophagus",
@@ -8076,6 +8181,13 @@
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Jejunostomy Tube",
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
+  },
+  {
+    "objectID": "lci_eso_scca.htm#jejunostomy-feeding-pump",
+    "href": "lci_eso_scca.htm#jejunostomy-feeding-pump",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
   },
   {
     "objectID": "lci_eso_scca.htm#jejunostomy-typical-regimen",
@@ -8118,13 +8230,6 @@
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Swallowing Evaluation",
     "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology\n\nDrink a white chalky liquid (barium)\nLook for proper swallowing function\n80% of patients \\(\\Rightarrow\\) liquids started by mouth"
-  },
-  {
-    "objectID": "lci_eso_scca.htm#jejunostomy-tube-1",
-    "href": "lci_eso_scca.htm#jejunostomy-tube-1",
-    "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "Jejunostomy tube",
-    "text": "Jejunostomy tube\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)\nPump administers the feedings slowly over hours"
   },
   {
     "objectID": "lci_eso_scca.htm#jejunostomy-feeding",
@@ -8687,11 +8792,18 @@
     "text": "Ivor Lewis esophagectomy\n\n\nThe new esophagus is now brought up into the chest. A connection is made between the esophagus and the stomach, called an anastomosis."
   },
   {
-    "objectID": "lci_eso_scca.html#minimally-invasive-ivor-lewis",
-    "href": "lci_eso_scca.html#minimally-invasive-ivor-lewis",
+    "objectID": "lci_eso_scca.html#minimally-invasive-ivor-lewis-esophagectomy",
+    "href": "lci_eso_scca.html#minimally-invasive-ivor-lewis-esophagectomy",
     "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "Minimally-invasive Ivor Lewis",
-    "text": "Minimally-invasive Ivor Lewis\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+  },
+  {
+    "objectID": "lci_eso_scca.html#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "href": "lci_eso_scca.html#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
   },
   {
     "objectID": "lci_eso_scca.html#open-ivor-lewis",
@@ -8799,6 +8911,20 @@
     "text": "Epidural Catheter for Pain Control\n\nRemains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
   },
   {
+    "objectID": "lci_eso_scca.html#jejunostomy-feeding-tube",
+    "href": "lci_eso_scca.html#jejunostomy-feeding-tube",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nTo ensure adequate nutrition after surgery, a temporary feeding tube is placed to supplement nutrition by mouth.\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)"
+  },
+  {
+    "objectID": "lci_eso_scca.html#jejunostomy-feeding-tube-1",
+    "href": "lci_eso_scca.html#jejunostomy-feeding-tube-1",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nFeedings are administered through the jejunostomy at night by a pump"
+  },
+  {
     "objectID": "lci_eso_scca.html#intensive-care-unit-icu-2-4-days",
     "href": "lci_eso_scca.html#intensive-care-unit-icu-2-4-days",
     "title": "Squamous Cell Carcinoma of the Esophagus",
@@ -8832,6 +8958,13 @@
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Jejunostomy Tube",
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
+  },
+  {
+    "objectID": "lci_eso_scca.html#jejunostomy-feeding-pump",
+    "href": "lci_eso_scca.html#jejunostomy-feeding-pump",
+    "title": "Squamous Cell Carcinoma of the Esophagus",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
   },
   {
     "objectID": "lci_eso_scca.html#jejunostomy-typical-regimen",
@@ -8874,13 +9007,6 @@
     "title": "Squamous Cell Carcinoma of the Esophagus",
     "section": "Swallowing Evaluation",
     "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology\n\nDrink a white chalky liquid (barium)\nLook for proper swallowing function\n80% of patients \\(\\Rightarrow\\) liquids started by mouth"
-  },
-  {
-    "objectID": "lci_eso_scca.html#jejunostomy-tube-1",
-    "href": "lci_eso_scca.html#jejunostomy-tube-1",
-    "title": "Squamous Cell Carcinoma of the Esophagus",
-    "section": "Jejunostomy tube",
-    "text": "Jejunostomy tube\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)\nPump administers the feedings slowly over hours"
   },
   {
     "objectID": "lci_eso_scca.html#jejunostomy-feeding",
@@ -9569,6 +9695,13 @@
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
   },
   {
+    "objectID": "lci_nutrition.html#jejunostomy-feeding-pump",
+    "href": "lci_nutrition.html#jejunostomy-feeding-pump",
+    "title": "Nutrition",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
+  },
+  {
     "objectID": "lci_nutrition.html#jejunostomy-typical-regimen",
     "href": "lci_nutrition.html#jejunostomy-typical-regimen",
     "title": "Nutrition",
@@ -9651,6 +9784,13 @@
     "title": "Nutrition",
     "section": "Jejunostomy Tube",
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
+  },
+  {
+    "objectID": "lci_nutrition.htm#jejunostomy-feeding-pump",
+    "href": "lci_nutrition.htm#jejunostomy-feeding-pump",
+    "title": "Nutrition",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
   },
   {
     "objectID": "lci_nutrition.htm#jejunostomy-typical-regimen",
@@ -10129,6 +10269,13 @@
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
   },
   {
+    "objectID": "lci_esot3_aca_as.html#jejunostomy-feeding-pump",
+    "href": "lci_esot3_aca_as.html#jejunostomy-feeding-pump",
+    "title": "Adenocarcinoma of the Esophagus and GE Junction",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
+  },
+  {
     "objectID": "lci_esot3_aca_as.html#jejunostomy-typical-regimen",
     "href": "lci_esot3_aca_as.html#jejunostomy-typical-regimen",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
@@ -10598,6 +10745,13 @@
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
   },
   {
+    "objectID": "lci_esot3_aca_as.htm#jejunostomy-feeding-pump",
+    "href": "lci_esot3_aca_as.htm#jejunostomy-feeding-pump",
+    "title": "Adenocarcinoma of the Esophagus and GE Junction",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
+  },
+  {
     "objectID": "lci_esot3_aca_as.htm#jejunostomy-typical-regimen",
     "href": "lci_esot3_aca_as.htm#jejunostomy-typical-regimen",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
@@ -10983,6 +11137,20 @@
     "text": "Epidural Catheter for Pain Control\n\nRemains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
   },
   {
+    "objectID": "lci_mie_guts.htm#jejunostomy-feeding-tube",
+    "href": "lci_mie_guts.htm#jejunostomy-feeding-tube",
+    "title": "Patient Education",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nTo ensure adequate nutrition after surgery, a temporary feeding tube is placed to supplement nutrition by mouth.\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)"
+  },
+  {
+    "objectID": "lci_mie_guts.htm#jejunostomy-feeding-tube-1",
+    "href": "lci_mie_guts.htm#jejunostomy-feeding-tube-1",
+    "title": "Patient Education",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nFeedings are administered through the jejunostomy at night by a pump"
+  },
+  {
     "objectID": "lci_mie_guts.htm#intensive-care-unit-icu-2-4-days",
     "href": "lci_mie_guts.htm#intensive-care-unit-icu-2-4-days",
     "title": "Patient Education",
@@ -11016,6 +11184,13 @@
     "title": "Patient Education",
     "section": "Jejunostomy Tube",
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
+  },
+  {
+    "objectID": "lci_mie_guts.htm#jejunostomy-feeding-pump",
+    "href": "lci_mie_guts.htm#jejunostomy-feeding-pump",
+    "title": "Patient Education",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
   },
   {
     "objectID": "lci_mie_guts.htm#jejunostomy-typical-regimen",
@@ -11058,13 +11233,6 @@
     "title": "Patient Education",
     "section": "Swallowing Evaluation",
     "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology\n\nDrink a white chalky liquid (barium)\nLook for proper swallowing function\n80% of patients \\(\\Rightarrow\\) liquids started by mouth"
-  },
-  {
-    "objectID": "lci_mie_guts.htm#jejunostomy-tube-1",
-    "href": "lci_mie_guts.htm#jejunostomy-tube-1",
-    "title": "Patient Education",
-    "section": "Jejunostomy tube",
-    "text": "Jejunostomy tube\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)\nPump administers the feedings slowly over hours"
   },
   {
     "objectID": "lci_mie_guts.htm#jejunostomy-feeding",
@@ -11242,6 +11410,20 @@
     "text": "Remains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
   },
   {
+    "objectID": "lci_mie_guts.html#jejunostomy-feeding-tube",
+    "href": "lci_mie_guts.html#jejunostomy-feeding-tube",
+    "title": "Patient Education",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nTo ensure adequate nutrition after surgery, a temporary feeding tube is placed to supplement nutrition by mouth.\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)"
+  },
+  {
+    "objectID": "lci_mie_guts.html#jejunostomy-feeding-tube-1",
+    "href": "lci_mie_guts.html#jejunostomy-feeding-tube-1",
+    "title": "Patient Education",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nFeedings are administered through the jejunostomy at night by a pump"
+  },
+  {
     "objectID": "lci_mie_guts.html#intensive-care-unit-icu-2-4-days",
     "href": "lci_mie_guts.html#intensive-care-unit-icu-2-4-days",
     "title": "Patient Education",
@@ -11275,6 +11457,13 @@
     "title": "Patient Education",
     "section": "Jejunostomy Tube",
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
+  },
+  {
+    "objectID": "lci_mie_guts.html#jejunostomy-feeding-pump",
+    "href": "lci_mie_guts.html#jejunostomy-feeding-pump",
+    "title": "Patient Education",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
   },
   {
     "objectID": "lci_mie_guts.html#jejunostomy-typical-regimen",
@@ -11317,13 +11506,6 @@
     "title": "Patient Education",
     "section": "Swallowing Evaluation",
     "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology\n\nDrink a white chalky liquid (barium)\nLook for proper swallowing function\n80% of patients \\(\\Rightarrow\\) liquids started by mouth"
-  },
-  {
-    "objectID": "lci_mie_guts.html#jejunostomy-tube-1",
-    "href": "lci_mie_guts.html#jejunostomy-tube-1",
-    "title": "Patient Education",
-    "section": "Jejunostomy tube",
-    "text": "Jejunostomy tube\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)\nPump administers the feedings slowly over hours"
   },
   {
     "objectID": "lci_mie_guts.html#jejunostomy-feeding",
@@ -11627,11 +11809,18 @@
     "text": "Ivor Lewis esophagectomy\n\n\nThe new esophagus is now brought up into the chest. A connection is made between the esophagus and the stomach, called an anastomosis."
   },
   {
-    "objectID": "lci_esophagectomy_guts.htm#minimally-invasive-ivor-lewis",
-    "href": "lci_esophagectomy_guts.htm#minimally-invasive-ivor-lewis",
+    "objectID": "lci_esophagectomy_guts.htm#minimally-invasive-ivor-lewis-esophagectomy",
+    "href": "lci_esophagectomy_guts.htm#minimally-invasive-ivor-lewis-esophagectomy",
     "title": "Patient Education",
-    "section": "Minimally-invasive Ivor Lewis",
-    "text": "Minimally-invasive Ivor Lewis\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+  },
+  {
+    "objectID": "lci_esophagectomy_guts.htm#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "href": "lci_esophagectomy_guts.htm#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "title": "Patient Education",
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
   },
   {
     "objectID": "lci_esophagectomy_guts.htm#open-ivor-lewis",
@@ -11739,6 +11928,20 @@
     "text": "Epidural Catheter for Pain Control\n\nRemains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
   },
   {
+    "objectID": "lci_esophagectomy_guts.htm#jejunostomy-feeding-tube",
+    "href": "lci_esophagectomy_guts.htm#jejunostomy-feeding-tube",
+    "title": "Patient Education",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nTo ensure adequate nutrition after surgery, a temporary feeding tube is placed to supplement nutrition by mouth.\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)"
+  },
+  {
+    "objectID": "lci_esophagectomy_guts.htm#jejunostomy-feeding-tube-1",
+    "href": "lci_esophagectomy_guts.htm#jejunostomy-feeding-tube-1",
+    "title": "Patient Education",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nFeedings are administered through the jejunostomy at night by a pump"
+  },
+  {
     "objectID": "lci_esophagectomy_guts.htm#intensive-care-unit-icu-2-4-days",
     "href": "lci_esophagectomy_guts.htm#intensive-care-unit-icu-2-4-days",
     "title": "Patient Education",
@@ -11772,6 +11975,13 @@
     "title": "Patient Education",
     "section": "Jejunostomy Tube",
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
+  },
+  {
+    "objectID": "lci_esophagectomy_guts.htm#jejunostomy-feeding-pump",
+    "href": "lci_esophagectomy_guts.htm#jejunostomy-feeding-pump",
+    "title": "Patient Education",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
   },
   {
     "objectID": "lci_esophagectomy_guts.htm#jejunostomy-typical-regimen",
@@ -11814,13 +12024,6 @@
     "title": "Patient Education",
     "section": "Swallowing Evaluation",
     "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology\n\nDrink a white chalky liquid (barium)\nLook for proper swallowing function\n80% of patients \\(\\Rightarrow\\) liquids started by mouth"
-  },
-  {
-    "objectID": "lci_esophagectomy_guts.htm#jejunostomy-tube-1",
-    "href": "lci_esophagectomy_guts.htm#jejunostomy-tube-1",
-    "title": "Patient Education",
-    "section": "Jejunostomy tube",
-    "text": "Jejunostomy tube\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)\nPump administers the feedings slowly over hours"
   },
   {
     "objectID": "lci_esophagectomy_guts.htm#jejunostomy-feeding",
@@ -12047,11 +12250,18 @@
     "text": "Ivor Lewis esophagectomy\n\n\nThe new esophagus is now brought up into the chest. A connection is made between the esophagus and the stomach, called an anastomosis."
   },
   {
-    "objectID": "lci_esophagectomy_guts.html#minimally-invasive-ivor-lewis",
-    "href": "lci_esophagectomy_guts.html#minimally-invasive-ivor-lewis",
+    "objectID": "lci_esophagectomy_guts.html#minimally-invasive-ivor-lewis-esophagectomy",
+    "href": "lci_esophagectomy_guts.html#minimally-invasive-ivor-lewis-esophagectomy",
     "title": "Patient Education",
-    "section": "Minimally-invasive Ivor Lewis",
-    "text": "Minimally-invasive Ivor Lewis\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+  },
+  {
+    "objectID": "lci_esophagectomy_guts.html#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "href": "lci_esophagectomy_guts.html#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "title": "Patient Education",
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
   },
   {
     "objectID": "lci_esophagectomy_guts.html#open-ivor-lewis",
@@ -12159,6 +12369,20 @@
     "text": "Epidural Catheter for Pain Control\n\nRemains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
   },
   {
+    "objectID": "lci_esophagectomy_guts.html#jejunostomy-feeding-tube",
+    "href": "lci_esophagectomy_guts.html#jejunostomy-feeding-tube",
+    "title": "Patient Education",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nTo ensure adequate nutrition after surgery, a temporary feeding tube is placed to supplement nutrition by mouth.\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)"
+  },
+  {
+    "objectID": "lci_esophagectomy_guts.html#jejunostomy-feeding-tube-1",
+    "href": "lci_esophagectomy_guts.html#jejunostomy-feeding-tube-1",
+    "title": "Patient Education",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nFeedings are administered through the jejunostomy at night by a pump"
+  },
+  {
     "objectID": "lci_esophagectomy_guts.html#intensive-care-unit-icu-2-4-days",
     "href": "lci_esophagectomy_guts.html#intensive-care-unit-icu-2-4-days",
     "title": "Patient Education",
@@ -12192,6 +12416,13 @@
     "title": "Patient Education",
     "section": "Jejunostomy Tube",
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
+  },
+  {
+    "objectID": "lci_esophagectomy_guts.html#jejunostomy-feeding-pump",
+    "href": "lci_esophagectomy_guts.html#jejunostomy-feeding-pump",
+    "title": "Patient Education",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
   },
   {
     "objectID": "lci_esophagectomy_guts.html#jejunostomy-typical-regimen",
@@ -12234,13 +12465,6 @@
     "title": "Patient Education",
     "section": "Swallowing Evaluation",
     "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology\n\nDrink a white chalky liquid (barium)\nLook for proper swallowing function\n80% of patients \\(\\Rightarrow\\) liquids started by mouth"
-  },
-  {
-    "objectID": "lci_esophagectomy_guts.html#jejunostomy-tube-1",
-    "href": "lci_esophagectomy_guts.html#jejunostomy-tube-1",
-    "title": "Patient Education",
-    "section": "Jejunostomy tube",
-    "text": "Jejunostomy tube\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)\nPump administers the feedings slowly over hours"
   },
   {
     "objectID": "lci_esophagectomy_guts.html#jejunostomy-feeding",
@@ -12551,11 +12775,18 @@
     "text": "Ivor Lewis esophagectomy\n\n\nThe new esophagus is now brought up into the chest. A connection is made between the esophagus and the stomach, called an anastomosis."
   },
   {
-    "objectID": "lci_esophagectomy_consult.html#minimally-invasive-ivor-lewis",
-    "href": "lci_esophagectomy_consult.html#minimally-invasive-ivor-lewis",
+    "objectID": "lci_esophagectomy_consult.html#minimally-invasive-ivor-lewis-esophagectomy",
+    "href": "lci_esophagectomy_consult.html#minimally-invasive-ivor-lewis-esophagectomy",
     "title": "Surgery for Esophageal and GE Junction Cancers",
-    "section": "Minimally-invasive Ivor Lewis",
-    "text": "Minimally-invasive Ivor Lewis\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+  },
+  {
+    "objectID": "lci_esophagectomy_consult.html#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "href": "lci_esophagectomy_consult.html#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "title": "Surgery for Esophageal and GE Junction Cancers",
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
   },
   {
     "objectID": "lci_esophagectomy_consult.html#open-ivor-lewis",
@@ -12663,6 +12894,20 @@
     "text": "Epidural Catheter for Pain Control\n\nRemains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
   },
   {
+    "objectID": "lci_esophagectomy_consult.html#jejunostomy-feeding-tube",
+    "href": "lci_esophagectomy_consult.html#jejunostomy-feeding-tube",
+    "title": "Surgery for Esophageal and GE Junction Cancers",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nTo ensure adequate nutrition after surgery, a temporary feeding tube is placed to supplement nutrition by mouth.\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)"
+  },
+  {
+    "objectID": "lci_esophagectomy_consult.html#jejunostomy-feeding-tube-1",
+    "href": "lci_esophagectomy_consult.html#jejunostomy-feeding-tube-1",
+    "title": "Surgery for Esophageal and GE Junction Cancers",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nFeedings are administered through the jejunostomy at night by a pump"
+  },
+  {
     "objectID": "lci_esophagectomy_consult.html#intensive-care-unit-icu-2-4-days",
     "href": "lci_esophagectomy_consult.html#intensive-care-unit-icu-2-4-days",
     "title": "Surgery for Esophageal and GE Junction Cancers",
@@ -12696,6 +12941,13 @@
     "title": "Surgery for Esophageal and GE Junction Cancers",
     "section": "Jejunostomy Tube",
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
+  },
+  {
+    "objectID": "lci_esophagectomy_consult.html#jejunostomy-feeding-pump",
+    "href": "lci_esophagectomy_consult.html#jejunostomy-feeding-pump",
+    "title": "Surgery for Esophageal and GE Junction Cancers",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
   },
   {
     "objectID": "lci_esophagectomy_consult.html#jejunostomy-typical-regimen",
@@ -12738,13 +12990,6 @@
     "title": "Surgery for Esophageal and GE Junction Cancers",
     "section": "Swallowing Evaluation",
     "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology\n\nDrink a white chalky liquid (barium)\nLook for proper swallowing function\n80% of patients \\(\\Rightarrow\\) liquids started by mouth"
-  },
-  {
-    "objectID": "lci_esophagectomy_consult.html#jejunostomy-tube-1",
-    "href": "lci_esophagectomy_consult.html#jejunostomy-tube-1",
-    "title": "Surgery for Esophageal and GE Junction Cancers",
-    "section": "Jejunostomy tube",
-    "text": "Jejunostomy tube\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)\nPump administers the feedings slowly over hours"
   },
   {
     "objectID": "lci_esophagectomy_consult.html#jejunostomy-feeding",
@@ -13048,11 +13293,18 @@
     "text": "Ivor Lewis esophagectomy\n\n\nThe new esophagus is now brought up into the chest. A connection is made between the esophagus and the stomach, called an anastomosis."
   },
   {
-    "objectID": "lci_esophagectomy_consult.htm#minimally-invasive-ivor-lewis",
-    "href": "lci_esophagectomy_consult.htm#minimally-invasive-ivor-lewis",
+    "objectID": "lci_esophagectomy_consult.htm#minimally-invasive-ivor-lewis-esophagectomy",
+    "href": "lci_esophagectomy_consult.htm#minimally-invasive-ivor-lewis-esophagectomy",
     "title": "Surgery for Esophageal and GE Junction Cancers",
-    "section": "Minimally-invasive Ivor Lewis",
-    "text": "Minimally-invasive Ivor Lewis\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+  },
+  {
+    "objectID": "lci_esophagectomy_consult.htm#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "href": "lci_esophagectomy_consult.htm#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "title": "Surgery for Esophageal and GE Junction Cancers",
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
   },
   {
     "objectID": "lci_esophagectomy_consult.htm#open-ivor-lewis",
@@ -13160,6 +13412,20 @@
     "text": "Epidural Catheter for Pain Control\n\nRemains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
   },
   {
+    "objectID": "lci_esophagectomy_consult.htm#jejunostomy-feeding-tube",
+    "href": "lci_esophagectomy_consult.htm#jejunostomy-feeding-tube",
+    "title": "Surgery for Esophageal and GE Junction Cancers",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nTo ensure adequate nutrition after surgery, a temporary feeding tube is placed to supplement nutrition by mouth.\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)"
+  },
+  {
+    "objectID": "lci_esophagectomy_consult.htm#jejunostomy-feeding-tube-1",
+    "href": "lci_esophagectomy_consult.htm#jejunostomy-feeding-tube-1",
+    "title": "Surgery for Esophageal and GE Junction Cancers",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nFeedings are administered through the jejunostomy at night by a pump"
+  },
+  {
     "objectID": "lci_esophagectomy_consult.htm#intensive-care-unit-icu-2-4-days",
     "href": "lci_esophagectomy_consult.htm#intensive-care-unit-icu-2-4-days",
     "title": "Surgery for Esophageal and GE Junction Cancers",
@@ -13193,6 +13459,13 @@
     "title": "Surgery for Esophageal and GE Junction Cancers",
     "section": "Jejunostomy Tube",
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
+  },
+  {
+    "objectID": "lci_esophagectomy_consult.htm#jejunostomy-feeding-pump",
+    "href": "lci_esophagectomy_consult.htm#jejunostomy-feeding-pump",
+    "title": "Surgery for Esophageal and GE Junction Cancers",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
   },
   {
     "objectID": "lci_esophagectomy_consult.htm#jejunostomy-typical-regimen",
@@ -13235,13 +13508,6 @@
     "title": "Surgery for Esophageal and GE Junction Cancers",
     "section": "Swallowing Evaluation",
     "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology\n\nDrink a white chalky liquid (barium)\nLook for proper swallowing function\n80% of patients \\(\\Rightarrow\\) liquids started by mouth"
-  },
-  {
-    "objectID": "lci_esophagectomy_consult.htm#jejunostomy-tube-1",
-    "href": "lci_esophagectomy_consult.htm#jejunostomy-tube-1",
-    "title": "Surgery for Esophageal and GE Junction Cancers",
-    "section": "Jejunostomy tube",
-    "text": "Jejunostomy tube\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)\nPump administers the feedings slowly over hours"
   },
   {
     "objectID": "lci_esophagectomy_consult.htm#jejunostomy-feeding",
@@ -13608,11 +13874,18 @@
     "text": "Ivor Lewis esophagectomy\n\n\nThe new esophagus is now brought up into the chest. A connection is made between the esophagus and the stomach, called an anastomosis."
   },
   {
-    "objectID": "lci_esophagectomy_preop.html#minimally-invasive-ivor-lewis",
-    "href": "lci_esophagectomy_preop.html#minimally-invasive-ivor-lewis",
+    "objectID": "lci_esophagectomy_preop.html#minimally-invasive-ivor-lewis-esophagectomy",
+    "href": "lci_esophagectomy_preop.html#minimally-invasive-ivor-lewis-esophagectomy",
     "title": "Preparing for your Esophagectomy",
-    "section": "Minimally-invasive Ivor Lewis",
-    "text": "Minimally-invasive Ivor Lewis\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+  },
+  {
+    "objectID": "lci_esophagectomy_preop.html#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "href": "lci_esophagectomy_preop.html#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "title": "Preparing for your Esophagectomy",
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
   },
   {
     "objectID": "lci_esophagectomy_preop.html#open-ivor-lewis",
@@ -13720,6 +13993,20 @@
     "text": "Epidural Catheter for Pain Control\n\nRemains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
   },
   {
+    "objectID": "lci_esophagectomy_preop.html#jejunostomy-feeding-tube",
+    "href": "lci_esophagectomy_preop.html#jejunostomy-feeding-tube",
+    "title": "Preparing for your Esophagectomy",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nTo ensure adequate nutrition after surgery, a temporary feeding tube is placed to supplement nutrition by mouth.\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)"
+  },
+  {
+    "objectID": "lci_esophagectomy_preop.html#jejunostomy-feeding-tube-1",
+    "href": "lci_esophagectomy_preop.html#jejunostomy-feeding-tube-1",
+    "title": "Preparing for your Esophagectomy",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nFeedings are administered through the jejunostomy at night by a pump"
+  },
+  {
     "objectID": "lci_esophagectomy_preop.html#intensive-care-unit-icu-2-4-days",
     "href": "lci_esophagectomy_preop.html#intensive-care-unit-icu-2-4-days",
     "title": "Preparing for your Esophagectomy",
@@ -13753,6 +14040,13 @@
     "title": "Preparing for your Esophagectomy",
     "section": "Jejunostomy Tube",
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
+  },
+  {
+    "objectID": "lci_esophagectomy_preop.html#jejunostomy-feeding-pump",
+    "href": "lci_esophagectomy_preop.html#jejunostomy-feeding-pump",
+    "title": "Preparing for your Esophagectomy",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
   },
   {
     "objectID": "lci_esophagectomy_preop.html#jejunostomy-typical-regimen",
@@ -13795,13 +14089,6 @@
     "title": "Preparing for your Esophagectomy",
     "section": "Swallowing Evaluation",
     "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology\n\nDrink a white chalky liquid (barium)\nLook for proper swallowing function\n80% of patients \\(\\Rightarrow\\) liquids started by mouth"
-  },
-  {
-    "objectID": "lci_esophagectomy_preop.html#jejunostomy-tube-1",
-    "href": "lci_esophagectomy_preop.html#jejunostomy-tube-1",
-    "title": "Preparing for your Esophagectomy",
-    "section": "Jejunostomy tube",
-    "text": "Jejunostomy tube\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)\nPump administers the feedings slowly over hours"
   },
   {
     "objectID": "lci_esophagectomy_preop.html#jejunostomy-feeding",
@@ -14105,11 +14392,18 @@
     "text": "Ivor Lewis esophagectomy\n\n\nThe new esophagus is now brought up into the chest. A connection is made between the esophagus and the stomach, called an anastomosis."
   },
   {
-    "objectID": "lci_esophagectomy_preop.htm#minimally-invasive-ivor-lewis",
-    "href": "lci_esophagectomy_preop.htm#minimally-invasive-ivor-lewis",
+    "objectID": "lci_esophagectomy_preop.htm#minimally-invasive-ivor-lewis-esophagectomy",
+    "href": "lci_esophagectomy_preop.htm#minimally-invasive-ivor-lewis-esophagectomy",
     "title": "Preparing for your Esophagectomy",
-    "section": "Minimally-invasive Ivor Lewis",
-    "text": "Minimally-invasive Ivor Lewis\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+  },
+  {
+    "objectID": "lci_esophagectomy_preop.htm#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "href": "lci_esophagectomy_preop.htm#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "title": "Preparing for your Esophagectomy",
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
   },
   {
     "objectID": "lci_esophagectomy_preop.htm#open-ivor-lewis",
@@ -14217,6 +14511,20 @@
     "text": "Epidural Catheter for Pain Control\n\nRemains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
   },
   {
+    "objectID": "lci_esophagectomy_preop.htm#jejunostomy-feeding-tube",
+    "href": "lci_esophagectomy_preop.htm#jejunostomy-feeding-tube",
+    "title": "Preparing for your Esophagectomy",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nTo ensure adequate nutrition after surgery, a temporary feeding tube is placed to supplement nutrition by mouth.\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)"
+  },
+  {
+    "objectID": "lci_esophagectomy_preop.htm#jejunostomy-feeding-tube-1",
+    "href": "lci_esophagectomy_preop.htm#jejunostomy-feeding-tube-1",
+    "title": "Preparing for your Esophagectomy",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nFeedings are administered through the jejunostomy at night by a pump"
+  },
+  {
     "objectID": "lci_esophagectomy_preop.htm#intensive-care-unit-icu-2-4-days",
     "href": "lci_esophagectomy_preop.htm#intensive-care-unit-icu-2-4-days",
     "title": "Preparing for your Esophagectomy",
@@ -14250,6 +14558,13 @@
     "title": "Preparing for your Esophagectomy",
     "section": "Jejunostomy Tube",
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
+  },
+  {
+    "objectID": "lci_esophagectomy_preop.htm#jejunostomy-feeding-pump",
+    "href": "lci_esophagectomy_preop.htm#jejunostomy-feeding-pump",
+    "title": "Preparing for your Esophagectomy",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
   },
   {
     "objectID": "lci_esophagectomy_preop.htm#jejunostomy-typical-regimen",
@@ -14292,13 +14607,6 @@
     "title": "Preparing for your Esophagectomy",
     "section": "Swallowing Evaluation",
     "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology\n\nDrink a white chalky liquid (barium)\nLook for proper swallowing function\n80% of patients \\(\\Rightarrow\\) liquids started by mouth"
-  },
-  {
-    "objectID": "lci_esophagectomy_preop.htm#jejunostomy-tube-1",
-    "href": "lci_esophagectomy_preop.htm#jejunostomy-tube-1",
-    "title": "Preparing for your Esophagectomy",
-    "section": "Jejunostomy tube",
-    "text": "Jejunostomy tube\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)\nPump administers the feedings slowly over hours"
   },
   {
     "objectID": "lci_esophagectomy_preop.htm#jejunostomy-feeding",
@@ -14952,11 +15260,18 @@
     "text": "Ivor Lewis esophagectomy\n\n\nThe new esophagus is now brought up into the chest. A connection is made between the esophagus and the stomach, called an anastomosis."
   },
   {
-    "objectID": "lci_esophagectomy.html#minimally-invasive-ivor-lewis",
-    "href": "lci_esophagectomy.html#minimally-invasive-ivor-lewis",
+    "objectID": "lci_esophagectomy.html#minimally-invasive-ivor-lewis-esophagectomy",
+    "href": "lci_esophagectomy.html#minimally-invasive-ivor-lewis-esophagectomy",
     "title": "Surgery of the Esophagus",
-    "section": "Minimally-invasive Ivor Lewis",
-    "text": "Minimally-invasive Ivor Lewis\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+  },
+  {
+    "objectID": "lci_esophagectomy.html#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "href": "lci_esophagectomy.html#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "title": "Surgery of the Esophagus",
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
   },
   {
     "objectID": "lci_esophagectomy.html#open-ivor-lewis",
@@ -15064,6 +15379,20 @@
     "text": "Epidural Catheter for Pain Control\n\nRemains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
   },
   {
+    "objectID": "lci_esophagectomy.html#jejunostomy-feeding-tube",
+    "href": "lci_esophagectomy.html#jejunostomy-feeding-tube",
+    "title": "Surgery of the Esophagus",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nTo ensure adequate nutrition after surgery, a temporary feeding tube is placed to supplement nutrition by mouth.\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)"
+  },
+  {
+    "objectID": "lci_esophagectomy.html#jejunostomy-feeding-tube-1",
+    "href": "lci_esophagectomy.html#jejunostomy-feeding-tube-1",
+    "title": "Surgery of the Esophagus",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nFeedings are administered through the jejunostomy at night by a pump"
+  },
+  {
     "objectID": "lci_esophagectomy.html#intensive-care-unit-icu-2-4-days",
     "href": "lci_esophagectomy.html#intensive-care-unit-icu-2-4-days",
     "title": "Surgery of the Esophagus",
@@ -15097,6 +15426,13 @@
     "title": "Surgery of the Esophagus",
     "section": "Jejunostomy Tube",
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
+  },
+  {
+    "objectID": "lci_esophagectomy.html#jejunostomy-feeding-pump",
+    "href": "lci_esophagectomy.html#jejunostomy-feeding-pump",
+    "title": "Surgery of the Esophagus",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
   },
   {
     "objectID": "lci_esophagectomy.html#jejunostomy-typical-regimen",
@@ -15139,13 +15475,6 @@
     "title": "Surgery of the Esophagus",
     "section": "Swallowing Evaluation",
     "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology\n\nDrink a white chalky liquid (barium)\nLook for proper swallowing function\n80% of patients \\(\\Rightarrow\\) liquids started by mouth"
-  },
-  {
-    "objectID": "lci_esophagectomy.html#jejunostomy-tube-1",
-    "href": "lci_esophagectomy.html#jejunostomy-tube-1",
-    "title": "Surgery of the Esophagus",
-    "section": "Jejunostomy tube",
-    "text": "Jejunostomy tube\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)\nPump administers the feedings slowly over hours"
   },
   {
     "objectID": "lci_esophagectomy.html#jejunostomy-feeding",
@@ -15365,11 +15694,18 @@
     "text": "Ivor Lewis esophagectomy\n\n\nThe new esophagus is now brought up into the chest. A connection is made between the esophagus and the stomach, called an anastomosis."
   },
   {
-    "objectID": "lci_esophagectomy.htm#minimally-invasive-ivor-lewis",
-    "href": "lci_esophagectomy.htm#minimally-invasive-ivor-lewis",
+    "objectID": "lci_esophagectomy.htm#minimally-invasive-ivor-lewis-esophagectomy",
+    "href": "lci_esophagectomy.htm#minimally-invasive-ivor-lewis-esophagectomy",
     "title": "Surgery of the Esophagus",
-    "section": "Minimally-invasive Ivor Lewis",
-    "text": "Minimally-invasive Ivor Lewis\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+  },
+  {
+    "objectID": "lci_esophagectomy.htm#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "href": "lci_esophagectomy.htm#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "title": "Surgery of the Esophagus",
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
   },
   {
     "objectID": "lci_esophagectomy.htm#open-ivor-lewis",
@@ -15477,6 +15813,20 @@
     "text": "Epidural Catheter for Pain Control\n\nRemains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
   },
   {
+    "objectID": "lci_esophagectomy.htm#jejunostomy-feeding-tube",
+    "href": "lci_esophagectomy.htm#jejunostomy-feeding-tube",
+    "title": "Surgery of the Esophagus",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nTo ensure adequate nutrition after surgery, a temporary feeding tube is placed to supplement nutrition by mouth.\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)"
+  },
+  {
+    "objectID": "lci_esophagectomy.htm#jejunostomy-feeding-tube-1",
+    "href": "lci_esophagectomy.htm#jejunostomy-feeding-tube-1",
+    "title": "Surgery of the Esophagus",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nFeedings are administered through the jejunostomy at night by a pump"
+  },
+  {
     "objectID": "lci_esophagectomy.htm#intensive-care-unit-icu-2-4-days",
     "href": "lci_esophagectomy.htm#intensive-care-unit-icu-2-4-days",
     "title": "Surgery of the Esophagus",
@@ -15510,6 +15860,13 @@
     "title": "Surgery of the Esophagus",
     "section": "Jejunostomy Tube",
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
+  },
+  {
+    "objectID": "lci_esophagectomy.htm#jejunostomy-feeding-pump",
+    "href": "lci_esophagectomy.htm#jejunostomy-feeding-pump",
+    "title": "Surgery of the Esophagus",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
   },
   {
     "objectID": "lci_esophagectomy.htm#jejunostomy-typical-regimen",
@@ -15552,13 +15909,6 @@
     "title": "Surgery of the Esophagus",
     "section": "Swallowing Evaluation",
     "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology\n\nDrink a white chalky liquid (barium)\nLook for proper swallowing function\n80% of patients \\(\\Rightarrow\\) liquids started by mouth"
-  },
-  {
-    "objectID": "lci_esophagectomy.htm#jejunostomy-tube-1",
-    "href": "lci_esophagectomy.htm#jejunostomy-tube-1",
-    "title": "Surgery of the Esophagus",
-    "section": "Jejunostomy tube",
-    "text": "Jejunostomy tube\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)\nPump administers the feedings slowly over hours"
   },
   {
     "objectID": "lci_esophagectomy.htm#jejunostomy-feeding",
@@ -17731,6 +18081,13 @@
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
   },
   {
+    "objectID": "lci_esot3_aca.html#jejunostomy-feeding-pump",
+    "href": "lci_esot3_aca.html#jejunostomy-feeding-pump",
+    "title": "Adenocarcinoma of the Esophagus and GE Junction",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
+  },
+  {
     "objectID": "lci_esot3_aca.html#jejunostomy-typical-regimen",
     "href": "lci_esot3_aca.html#jejunostomy-typical-regimen",
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
@@ -18142,6 +18499,13 @@
     "title": "Adenocarcinoma of the Esophagus and GE Junction",
     "section": "Jejunostomy Tube",
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
+  },
+  {
+    "objectID": "lci_esot3_aca.htm#jejunostomy-feeding-pump",
+    "href": "lci_esot3_aca.htm#jejunostomy-feeding-pump",
+    "title": "Adenocarcinoma of the Esophagus and GE Junction",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
   },
   {
     "objectID": "lci_esot3_aca.htm#jejunostomy-typical-regimen",
@@ -19446,6 +19810,13 @@
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
   },
   {
+    "objectID": "lci_esot3.html#jejunostomy-feeding-pump",
+    "href": "lci_esot3.html#jejunostomy-feeding-pump",
+    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
+  },
+  {
     "objectID": "lci_esot3.html#jejunostomy-typical-regimen",
     "href": "lci_esot3.html#jejunostomy-typical-regimen",
     "title": "T3 Cancer of the Esophagus and GE Junction",
@@ -19523,11 +19894,18 @@
     "text": "Ivor Lewis esophagectomy\n\n\nThe new esophagus is now brought up into the chest. A connection is made between the esophagus and the stomach, called an anastomosis."
   },
   {
-    "objectID": "lci_esot3.html#minimally-invasive-ivor-lewis",
-    "href": "lci_esot3.html#minimally-invasive-ivor-lewis",
+    "objectID": "lci_esot3.html#minimally-invasive-ivor-lewis-esophagectomy",
+    "href": "lci_esot3.html#minimally-invasive-ivor-lewis-esophagectomy",
     "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "Minimally-invasive Ivor Lewis",
-    "text": "Minimally-invasive Ivor Lewis\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+  },
+  {
+    "objectID": "lci_esot3.html#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "href": "lci_esot3.html#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
   },
   {
     "objectID": "lci_esot3.html#open-ivor-lewis",
@@ -19635,6 +20013,20 @@
     "text": "Epidural Catheter for Pain Control\n\nRemains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
   },
   {
+    "objectID": "lci_esot3.html#jejunostomy-feeding-tube",
+    "href": "lci_esot3.html#jejunostomy-feeding-tube",
+    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nTo ensure adequate nutrition after surgery, a temporary feeding tube is placed to supplement nutrition by mouth.\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)"
+  },
+  {
+    "objectID": "lci_esot3.html#jejunostomy-feeding-tube-1",
+    "href": "lci_esot3.html#jejunostomy-feeding-tube-1",
+    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nFeedings are administered through the jejunostomy at night by a pump"
+  },
+  {
     "objectID": "lci_esot3.html#intensive-care-unit-icu-2-4-days",
     "href": "lci_esot3.html#intensive-care-unit-icu-2-4-days",
     "title": "T3 Cancer of the Esophagus and GE Junction",
@@ -19668,6 +20060,13 @@
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Jejunostomy Tube",
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
+  },
+  {
+    "objectID": "lci_esot3.html#jejunostomy-feeding-pump-1",
+    "href": "lci_esot3.html#jejunostomy-feeding-pump-1",
+    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
   },
   {
     "objectID": "lci_esot3.html#jejunostomy-typical-regimen-1",
@@ -19710,13 +20109,6 @@
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Swallowing Evaluation",
     "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology\n\nDrink a white chalky liquid (barium)\nLook for proper swallowing function\n80% of patients \\(\\Rightarrow\\) liquids started by mouth"
-  },
-  {
-    "objectID": "lci_esot3.html#jejunostomy-tube-2",
-    "href": "lci_esot3.html#jejunostomy-tube-2",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "Jejunostomy tube",
-    "text": "Jejunostomy tube\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)\nPump administers the feedings slowly over hours"
   },
   {
     "objectID": "lci_esot3.html#jejunostomy-feeding",
@@ -20286,6 +20678,13 @@
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
   },
   {
+    "objectID": "lci_esot3.htm#jejunostomy-feeding-pump",
+    "href": "lci_esot3.htm#jejunostomy-feeding-pump",
+    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
+  },
+  {
     "objectID": "lci_esot3.htm#jejunostomy-typical-regimen",
     "href": "lci_esot3.htm#jejunostomy-typical-regimen",
     "title": "T3 Cancer of the Esophagus and GE Junction",
@@ -20363,11 +20762,18 @@
     "text": "Ivor Lewis esophagectomy\n\n\nThe new esophagus is now brought up into the chest. A connection is made between the esophagus and the stomach, called an anastomosis."
   },
   {
-    "objectID": "lci_esot3.htm#minimally-invasive-ivor-lewis",
-    "href": "lci_esot3.htm#minimally-invasive-ivor-lewis",
+    "objectID": "lci_esot3.htm#minimally-invasive-ivor-lewis-esophagectomy",
+    "href": "lci_esot3.htm#minimally-invasive-ivor-lewis-esophagectomy",
     "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "Minimally-invasive Ivor Lewis",
-    "text": "Minimally-invasive Ivor Lewis\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+  },
+  {
+    "objectID": "lci_esot3.htm#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "href": "lci_esot3.htm#minimally-invasive-ivor-lewis-esophagectomy-1",
+    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "section": "Minimally-invasive Ivor Lewis Esophagectomy",
+    "text": "Minimally-invasive Ivor Lewis Esophagectomy\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
   },
   {
     "objectID": "lci_esot3.htm#open-ivor-lewis",
@@ -20475,6 +20881,20 @@
     "text": "Epidural Catheter for Pain Control\n\nRemains in place for 2-5 days\nDosage can be adjusted as needed\nCan make it more difficult to urinate\nMay require foley catheter in bladder\nFoley catheter removed after epidural removed"
   },
   {
+    "objectID": "lci_esot3.htm#jejunostomy-feeding-tube",
+    "href": "lci_esot3.htm#jejunostomy-feeding-tube",
+    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nTo ensure adequate nutrition after surgery, a temporary feeding tube is placed to supplement nutrition by mouth.\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)"
+  },
+  {
+    "objectID": "lci_esot3.htm#jejunostomy-feeding-tube-1",
+    "href": "lci_esot3.htm#jejunostomy-feeding-tube-1",
+    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Feeding Tube",
+    "text": "Jejunostomy Feeding Tube\n\n\nFeedings are administered through the jejunostomy at night by a pump"
+  },
+  {
     "objectID": "lci_esot3.htm#intensive-care-unit-icu-2-4-days",
     "href": "lci_esot3.htm#intensive-care-unit-icu-2-4-days",
     "title": "T3 Cancer of the Esophagus and GE Junction",
@@ -20508,6 +20928,13 @@
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Jejunostomy Tube",
     "text": "Jejunostomy Tube\n\n\n\nNutrition to bypasses the esophagus and stomach\nPlaced in small intestine\nPump administers feedings slowly\nFeeding done at night"
+  },
+  {
+    "objectID": "lci_esot3.htm#jejunostomy-feeding-pump-1",
+    "href": "lci_esot3.htm#jejunostomy-feeding-pump-1",
+    "title": "T3 Cancer of the Esophagus and GE Junction",
+    "section": "Jejunostomy Feeding Pump",
+    "text": "Jejunostomy Feeding Pump\n\n\n\nPump administers feedings slowly\nRate can be easily adjusted"
   },
   {
     "objectID": "lci_esot3.htm#jejunostomy-typical-regimen-1",
@@ -20550,13 +20977,6 @@
     "title": "T3 Cancer of the Esophagus and GE Junction",
     "section": "Swallowing Evaluation",
     "text": "Swallowing Evaluation\nOnce NG tube has been removed:\nModified barium swallow in radiology\n\nDrink a white chalky liquid (barium)\nLook for proper swallowing function\n80% of patients \\(\\Rightarrow\\) liquids started by mouth"
-  },
-  {
-    "objectID": "lci_esot3.htm#jejunostomy-tube-2",
-    "href": "lci_esot3.htm#jejunostomy-tube-2",
-    "title": "T3 Cancer of the Esophagus and GE Junction",
-    "section": "Jejunostomy tube",
-    "text": "Jejunostomy tube\nJejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)\nPump administers the feedings slowly over hours"
   },
   {
     "objectID": "lci_esot3.htm#jejunostomy-feeding",
