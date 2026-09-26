@@ -12,14 +12,15 @@ Medical evaluation may be needed before surgery:
 
 Primary Surgery
 
-- Superficial Tumors (T1) not completely removed by endoscopy
+- Superficial Tumors (T1) not removed by endoscopy
 - Localized Tumors (T2 N0 M0)
 - Surgery scheduled after medical evaluation
 - Aim for surgery within 6 weeks of consultation
 
-Preoperative Therapy $\rightarrow$ Surgery
+## Esophagectomy for Cancers of the Esophagus or GE Junction
 
-- Locally Advanced (T3 Nx M0)
+Preoperative Therapy $\rightarrow$ Surgery  (T3 Nx M0)
+
 - Surgery scheduled after
   - Recovery from preoperative therapy
   - Restaging scans (CT or PET)
@@ -30,24 +31,17 @@ Preoperative Therapy $\rightarrow$ Surgery
 
 ## Preoperative Visits
 
-Medical Oncology - Monitor chemotherapy and side effects
+Medical Oncology - Monitor chemotherapy 
 
-Radiation Oncology - Monitor radiation and side effects
+Radiation Oncology - Monitor radiation 
 
 Surgical Oncology
 
 - Consult visit with Dr Salo
 - Mid-treatment visits with Dr Salo / Kate Duncan
 - Preop visit with Dr Salo (may be virtual)
-- In-person preop visit with Kate Duncan and Liz Koch
+- Preop visit with Kate Duncan and Liz Koch
 
-## Surgery for Esophageal Cancer
-
-Surgery for esophageal cancer is performed for:
-
-- Superficial Tumors (T1) not removed by endoscopy
-- Localized Tumors (T2 N0 M0)
-- Locally Advanced (T3 M0) after preop therapy
 
 ## Goals of Surgery
 
@@ -101,17 +95,27 @@ The new esophagus is now brought up into the chest. A connection is made between
 :::
 :::::
 
-## Minimally-invasive Ivor Lewis Esophagectomy
+
+## Ivor Lewis esophagectomy
+
 
 ::::: columns
-::: {.column width="50%"}
-- Small incisions abdomen and chest
-- Surgical telescope and instruments
-- Smaller incisions $\rightarrow$ faster recovery and less discomfort
+::: {.column width="25%"}
+![](images/Eso_Resection1_ai.png)
 :::
 
-::: {.column width="50%"}
-![](images/MIE_IvorLewisArtboard.png)
+::: {.column width="25%"}
+![](images/Eso_Resection2_ai.png)
+:::
+:::::
+
+::: {.column width="25%"}
+![](images/Eso_Resection3_ai.png)
+:::
+:::::
+
+::: {.column width="25%"}
+![](images/Eso_IvorLewis_Anastomosis.png)
 :::
 :::::
 
@@ -129,6 +133,15 @@ The new esophagus is now brought up into the chest. A connection is made between
 ![](images/RaMIE_incisions.png)
 :::
 :::::
+
+:::{.hidden}
+![](images/MIE_IvorLewisArtboard.png)
+
+
+![](images/mie_abd.png)
+
+![](images/mie_chest.png)
+:::
 
 
 
@@ -272,17 +285,6 @@ After surgery, this means:
 - Sitting in a chair most of the day
 - Walking in the halls as soon as possible
 
-## Minimally-invasive Esophagectomy
-
-::::: columns
-::: {.column width="50%"}
-![](images/mie_abd.png)
-:::
-
-::: {.column width="50%"}
-![](images/mie_chest.png)
-:::
-:::::
 
 ## Risks of Surgery
 

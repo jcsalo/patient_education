@@ -11,31 +11,16 @@
 ::::: columns
 ::: {.column width="50%"}
 
-To ensure adequate nutrition after surgery, a temporary feeding tube is placed to supplement nutrition by mouth.
+A temporary feeding tube is placed to supplement nutrition by mouth.
 
 
-Jejunostomy tube bypasses the stomach and injects tube feeding formula directly in to the small intestine (jejunum)
+This will stay in place for about 8 weeks after surgery
 :::
 
 ::: {.column width="50%"}
 ![](images/jejunostomy/esophagectomy_jejunostomy.png)
 :::
 :::::
-
-
-## Jejunostomy Feeding Tube
-
-::::: columns
-::: {.column width="50%"}
-
-Feedings are administered through the jejunostomy at night by a pump
-:::
-
-::: {.column width="50%"}
-![](images/jejunostomy/esophagectomy_jtube_pump.png)
-:::
-:::::
-
 
 
 
@@ -57,25 +42,41 @@ Feedings are administered through the jejunostomy at night by a pump
 - Feeding jejunostomy (stays in 8 weeks)
 
 ## Ward - 6Tower
-
-- Jejunostomy feeds started
 - Up in a chair most of the day
 - Walking in the halls
   - Start with assistance
   - Improves lung function
   - Prevents loss of muscle strength
 
-## Jejunostomy Feeds
 
-Jejunostomy tube feeds
+## Jejunostomy Feeding Tube
 
-- Start continuous (24 hours)
-- Convert to night-time only (16 hours)
+::::: columns
+::: {.column width="50%"}
 
-Water administered through feeding tube
+Feedings are administered through the jejunostomy at night by a pump
+:::
 
-- Usually 8oz 4 times/day
-- Important to prevent dehydration
+::: {.column width="50%"}
+![](images/jejunostomy/esophagectomy_jtube_pump.png)
+:::
+:::::
+
+
+
+## Jejunostomy Feeding
+
+- Start with continuous feeds (24 hours/day)
+- Convert to nocturnal (night-time): 6pm to 10pm
+
+The feeding bag holds only 4 cartons of feeds - May need to "top off' bag after a few hours
+
+Water through the tube 
+
+- Important to prevent dehydration 
+- 240mL (8 oz) 4 times per day
+
+
 
 {{< include lci_jejunostomy_guts.qmd >}}
 
@@ -111,14 +112,7 @@ Modified barium swallow in radiology
 
 
 
-## Jejunostomy feeding
 
-- Start with continuous feeds (24 hours/day)
-- Convert to nocturnal (night-time): 6pm to 10pm
-
-The feeding bag holds only 4 cartons of feeds - May need to "top off' bag after a few hours
-
-Water through the tube - Important to prevent dehydration - 250mL (8 oz) 4 times per day
 
 ## Oral Intake at Home
 
@@ -131,7 +125,13 @@ Protein shakes are started after tolerating water\
 
 ## Drains and Tubes
 
-Chest Tube (right side): Removed 4-6 days after surgery (depending upon output) Abdomiaal drains: Removed 4-7 days after surgery Discharge with 1 abdominal drain in 10% of cases Epidural catheter: Removed 4-5 days after surgery Bladder catheter: Removed after epicura catheter removed
+Chest Tube (right side): Removed 4-6 days after surgery (depending upon output) 
+Abdominal drains: Removed 4-7 days after surgery 
+
+- Discharge with 1 abdominal drain in 10% of cases 
+
+Epidural catheter: Removed 4-5 days after surgery 
+Bladder catheter: Removed after epidural catheter removed
 
 ## Discharge
 
@@ -250,7 +250,7 @@ A wedge pillow can be helpful for sleep
 :::
 :::::
 
-## Follow Up Clinic Visit 7-10 days after Discharge
+## Follow Up Visit 7-10 days after Discharge
 
 In-person clinic visit with Dr Salo or Kate Duncan
 
@@ -285,11 +285,11 @@ Reduce metoprolol to once/day for 7 dayus $\rightarrow$ discontinue
 
 ## Eating after Surgery
 
-First Postoperative Visit: Start soft foods (Phase I diet)
+First Postoperative Visit: Start soft foods (Phase I)
 
 Weekly virtual visits with dietitian
 
-Jejunostomy removal generally at 8 weeks after surgery
+Jejunostomy removal ~ 8 weeks after surgery
 
 ## Jejunostomy Removal
 
@@ -328,4 +328,3 @@ If levels are low
 - Replacement
 - Repeat testing in 3-6 months
 
-{{< include lci_staff_eso_guts.qmd >}}

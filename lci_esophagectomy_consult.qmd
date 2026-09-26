@@ -23,7 +23,6 @@ editor: visual
 bibliography: zotero.bib
 ---
 
-{{< include lci_staff_eso_guts.qmd >}}
 
 ```{r}
 # Cancer care team (MDs, PA-C, Dietitian, Schedulers, RNs, Navigators)
@@ -42,3 +41,6 @@ bibliography: zotero.bib
 ```
 
 {{< include lci_esophagectomy_guts.qmd >}}
+
+
+{{< include lci_staff_eso_guts.qmd >}}
